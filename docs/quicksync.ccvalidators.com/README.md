@@ -1,4 +1,4 @@
-# snapshot service
+# quicksync snapshot service
 
 We offer daily-updated snapshots for a selected set of cosmos-sdk based blockchains
 
