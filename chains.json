@@ -26,7 +26,7 @@
     {
       "name": "osmosis",
       "prettyName": "Osmosis",
-      "denom": "ATOM",
+      "denom": "OSMO",
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "restake": {
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
@@ -75,7 +75,9 @@
       "restake": {}
     },
     {
-      "name": "omniflix"
+      "name": "omniflix",
+      "prettyName": "Omniflix Hub",
+      "denom": "FLIX",
       "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "restake": {}
     },
