@@ -1,0 +1,224 @@
+{
+  "name": "✅ CryptoCrew Validators #IBCgang",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "prettyName": "Cosmos Hub",
+      "denom": "ATOM",
+      "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
+      "restake": {
+        "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra",
+      "prettyName": "Terra",
+      "denom": "LUNA",
+      "address": "terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s",
+      "restake": {
+        "address": "terra1305e92ng6a9pdh3ttc3ld459ckxupxt33gqrc8",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "prettyName": "Osmosis",
+      "denom": "ATOM",
+      "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
+      "restake": {
+        "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "prettyName": "Juno",
+      "denom": "JUNO",
+      "address": "junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
+      "restake": {
+        "address": "juno1305e92ng6a9pdh3ttc3ld459ckxupxt3p7ecam",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secret",
+      "prettyName": "Secret Network",
+      "denom": "SCRT",
+      "address": "secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
+      "restake": {
+        "address": "secret1fcc93jz6egcc7vhrmpgdflwlkl3pseewq796lm",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "prettyName": "Stargaze",
+      "denom": "STARS",
+      "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
+      "restake": {
+        "address": "stars1305e92ng6a9pdh3ttc3ld459ckxupxt3rsd73k",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "prettyName": "Chihuahua Chain",
+      "denom": "HUAHUA",
+      "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
+      "restake": {}
+    },
+    {
+      "name": "omniflix"
+      "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
+      "restake": {}
+    },
+    {
+      "name": "comdex",
+      "prettyName": "Comdex",
+      "denom": "CMDX",
+      "address": "comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
+      "restake": {
+        "address": "comdex1305e92ng6a9pdh3ttc3ld459ckxupxt3srcprs",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bandchain",
+      "prettyName": "Band Protocol",
+      "denom": "BAND",
+      "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
+      "restake": {}
+    },
+    {
+      "name": "evmos",
+      "prettyName": "Evmos",
+      "denom": "EVMOS",
+      "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
+      "restake": {
+        "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "prettyName": "Gravity Bridge",
+      "denom": "GRAVITON",
+      "address": "gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
+      "restake": {
+        "address": "gravity1305e92ng6a9pdh3ttc3ld459ckxupxt3nugml0",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "crescent",
+      "prettyName": "Crescent Hub",
+      "denom": "CRE",
+      "address": "crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
+      "restake": {
+        "address": "cre1305e92ng6a9pdh3ttc3ld459ckxupxt3nyfx02",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "emoney",
+      "prettyName": "E-Money",
+      "denom": "NGM",
+      "address": "emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
+      "restake": {}
+    },
+    {
+      "name": "nomic",
+      "prettyName": "Nomic Stakenet",
+      "denom": "NOM",
+      "address": "nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr",
+      "restake": {}
+    },
+    {
+      "name": "bitsong",
+      "prettyName": "Bitsong",
+      "denom": "BTSG",
+      "address": "bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
+      "restake": {
+        "address": "bitsong1305e92ng6a9pdh3ttc3ld459ckxupxt3m9gtcg",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sommelier",
+      "prettyName": "Sommelier",
+      "denom": "SOMM",
+      "address": "sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd",
+      "restake": {
+        "address": "somm1305e92ng6a9pdh3ttc3ld459ckxupxt3ms40td",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cerberus",
+      "prettyName": "Cerberus Chain",
+      "denom": "CRBRUS",
+      "address": "cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
+      "restake": {
+        "address": "cerberus1305e92ng6a9pdh3ttc3ld459ckxupxt3tt620v",
+        "run_time": "every 20 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "prettyName": "Lum Network",
+      "denom": "LUM",
+      "address": "lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
+      "restake": {
+        "address": "lum1305e92ng6a9pdh3ttc3ld459ckxupxt3zx820n",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dig",
+      "prettyName": "Dig Chain",
+      "denom": "DIG",
+      "address": "digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
+      "restake": {
+        "address": "dig1305e92ng6a9pdh3ttc3ld459ckxupxt30cngcu",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "vidulum",
+      "prettyName": "Vidulum",
+      "denom": "VDL",
+      "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
+      "restake": {}
+    },
+    {
+      "name": "odin",
+      "prettyName": "Odin",
+      "denom": "ODIN",
+      "address": "odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
+      "restake": {}
+    },
+    {
+      "name": "radix",
+      "prettyName": "Radix Olympia Mainnet",
+      "denom": "XRD",
+      "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
+      "restake": {}
+    }
+  ]
+}
