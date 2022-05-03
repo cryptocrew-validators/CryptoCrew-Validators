@@ -7,13 +7,14 @@ Telegram public group: https://t.me/cryptocrew_validators
 Website: https://ccvalidators.com
 ---
 
+
 # CryptoCrew-Validators
 public repo of ccvalidators
 
+_Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain._
+
  ![ccv](ccv.png)
 
-# <moniker> 
-Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain.
 
 ## Team & Operations
 
@@ -45,16 +46,18 @@ We offer non-custodial staking solutions for a selected set of dPOS ledgers. As 
 
 IBC (Internet Of Blockchains) is the heart of the Cosmos Ecosystem. As a multichain IBC-relayer & -Integrator we drive the heartbeat of Cosmos-SDK chains.
 
+ 
 ## Contact Us
 
 The best ways to reach us: 
 
- Twitter: [@crypto_crew](https://twitter.com/crypto_crew)  
- Reddit: [r/cryptocrewvalidators](https://www.reddit.com/r/cryptocrewvalidators)  
- Telegram: [CryptoCrew Validators public staker's lounge](https://t.me/cryptocrew_validators) or @clemensg (emergency contact)
- Discord: [CryptoCrew Validators public server](https://discord.gg/ACsTu6kh) or @Claimens#3460 (emergency contact)
- email: info@ccvalidators.com / support@ccvalidators.com
+- Twitter: [@crypto_crew](https://twitter.com/crypto_crew)  
+- Reddit: [r/cryptocrewvalidators](https://www.reddit.com/r/cryptocrewvalidators)  
+- Telegram: [CryptoCrew Validators public staker's lounge](https://t.me/cryptocrew_validators) or @clemensg (emergency contact)
+- Discord: [CryptoCrew Validators public server](https://discord.gg/ACsTu6kh) or @Claimens#3460 (emergency contact)
+- email: info@ccvalidators.com / support@ccvalidators.com
 
+ 
 ### Website
 
 https://ccvalidators.com
