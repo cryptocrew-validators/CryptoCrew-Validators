@@ -9,6 +9,9 @@ Website: https://ccvalidators.com
 
  ![ccv](ccv.png)
 
+# CryptoCrew-Validators
+public repo of ccvalidators
+
 # <moniker> 
 Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain.
 
