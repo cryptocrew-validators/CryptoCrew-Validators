@@ -7,10 +7,10 @@ Telegram public group: https://t.me/cryptocrew_validators
 Website: https://ccvalidators.com
 ---
 
- ![ccv](ccv.png)
-
 # CryptoCrew-Validators
 public repo of ccvalidators
+
+ ![ccv](ccv.png)
 
 # <moniker> 
 Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain.
@@ -39,7 +39,7 @@ Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain.
 | q.prjct         | Support   |
 
 
-## Ecosystem Contributions
+## Service & Contributions
 
 We offer non-custodial staking solutions for a selected set of dPOS ledgers. As a trusted blockchain infrastructure provider we run enterprise-grade nodes in highly accessible and reliable Tier-4 datacenters, powered by 100% renewable energy sources.
 
