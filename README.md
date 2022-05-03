@@ -49,11 +49,11 @@ IBC (Internet Of Blockchains) is the heart of the Cosmos Ecosystem. As a multich
 
 The best ways to reach us: 
 
-Twitter: [@crypto_crew](https://twitter.com/crypto_crew)  
-Reddit: [r/cryptocrewvalidators](https://www.reddit.com/r/cryptocrewvalidators)  
-Telegram: [CryptoCrew Validators public staker's lounge](https://t.me/cryptocrew_validators) or @clemensg (emergency contact)
-Discord: [CryptoCrew Validators public server](https://discord.gg/ACsTu6kh) or @Claimens#3460 (emergency contact)
-email: info@ccvalidators.com / support@ccvalidators.com
+ Twitter: [@crypto_crew](https://twitter.com/crypto_crew)  
+ Reddit: [r/cryptocrewvalidators](https://www.reddit.com/r/cryptocrewvalidators)  
+ Telegram: [CryptoCrew Validators public staker's lounge](https://t.me/cryptocrew_validators) or @clemensg (emergency contact)
+ Discord: [CryptoCrew Validators public server](https://discord.gg/ACsTu6kh) or @Claimens#3460 (emergency contact)
+ email: info@ccvalidators.com / support@ccvalidators.com
 
 ### Website
 
