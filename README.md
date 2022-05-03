@@ -1,6 +1,3 @@
-# CryptoCrew-Validators
-public repo of ccvalidators
-
 ---
 Moniker: ✅ CryptoCrew Validators #IBCgang
 Email: info@ccvalidators.com
