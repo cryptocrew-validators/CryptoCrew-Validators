@@ -64,8 +64,8 @@ https://ccvalidators.com
 
 ## Validators live:
 
-| chain           | Network            | Validator address                                            | Link              |
-| --------------- | ------------------ | ------------------------------------------------------------ | ----------------- |
+| chain             | Network               | Validator address                                            | Link              |
+| ----------------- | --------------------- | ------------------------------------------------------------ | ----------------- |
 | `mainnet`    | Cosmos Hub      | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc`    | [delegate ATOM](https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc) |
 | `mainnet`    | Terra           | `terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s`     | [delegate LUNA](https://station.terra.money/validator/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s) |
 | `mainnet`    | Osmosis         | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6`      | [delegate OSMO](https://wallet.keplr.app/#/osmosis/stake?modal=detail&validator=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6) |
