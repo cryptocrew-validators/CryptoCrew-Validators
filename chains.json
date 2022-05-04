@@ -158,8 +158,13 @@
       "prettyName": "Nomic Stakenet",
       "denom": "NOM",
       "address": "nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr",
+      "hex_address": "945FB46D34BA10D391F33A3184793BB0D2F13340",
       "stake_link": "https://app.nomic.io",
-      "restake": {}
+      "restake": {},
+      "rpc": [
+        "http://138.197.71.46:26657/"
+      ],
+      "api": ""
     },
     {
       "name": "sommelier",
