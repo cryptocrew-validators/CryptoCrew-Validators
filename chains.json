@@ -87,7 +87,13 @@
       "denom": "FLIX",
       "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "stake_link": "https://ping.pub/omniflix/staking/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
-      "restake": {}
+      "restake": {},
+      "rpc": [
+        "http://23.88.81.42:2112"
+      ],
+      "rest": [
+        "http://23.88.81.42:2111"
+      ]
     },
     {
       "name": "comdex",
@@ -162,9 +168,9 @@
       "stake_link": "https://app.nomic.io",
       "restake": {},
       "rpc": [
-        "http://138.197.71.46:26657/"
+        "http://138.197.71.46:26657"
       ],
-      "api": ""
+      "rest": ""
     },
     {
       "name": "sommelier",
@@ -240,7 +246,13 @@
       "denom": "ODIN",
       "address": "odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "stake_link": "https://look.chillvalidation.com/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
-      "restake": {}
+      "restake": {},
+      "rpc": [
+        "http://64.227.124.68:26657"
+      ],
+      "rest": [
+        "http://64.227.124.68:1317"
+      ]
     },
     {
       "name": "radix",
