@@ -259,7 +259,7 @@
       "prettyName": "Radix Olympia Mainnet",
       "denom": "XRD",
       "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
-      "stake_link": "ttps://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
+      "stake_link": "https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
       "restake": {}
     }
   ]
