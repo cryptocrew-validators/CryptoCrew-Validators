@@ -130,7 +130,7 @@
     {
       "name": "gravitybridge",
       "prettyName": "Gravity Bridge",
-      "denom": "GRAVITON",
+      "denom": "GRAV",
       "address": "gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "stake_link": "https://wallet.keplr.app/#/gravity-bridge/stake?modal=detail&validator=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "restake": {
