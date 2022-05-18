@@ -19,7 +19,9 @@
     {
       "name": "terra",
       "prettyName": "Terra",
-      "denom": "LUNA",
+      "symbol": "LUNA",
+      "denom": "uluna",
+      "decimals": "6",
       "address": "terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s",
       "stake_link": "https://station.terra.money/validator/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s",
       "restake": {
@@ -32,7 +34,9 @@
     {
       "name": "osmosis",
       "prettyName": "Osmosis",
-      "denom": "OSMO",
+      "symbol": "OSMO",
+      "denom": "uosmo",
+      "decimals": "6",
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "stake_link": "https://wallet.keplr.app/#/osmosis/stake?modal=detail&chainId=osmosis-1&validator=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "restake": {
@@ -45,7 +49,9 @@
     {
       "name": "juno",
       "prettyName": "Juno",
-      "denom": "JUNO",
+      "symbol": "JUNO",
+      "denom": "ujuno",
+      "decimals": "6",
       "address": "junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
       "stake_link": "https://wallet.keplr.app/#/juno/stake?modal=detail&validator=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
       "restake": {
@@ -58,7 +64,9 @@
     {
       "name": "secretnetwork",
       "prettyName": "Secret Network",
-      "denom": "SCRT",
+      "symbol": "SCRT",
+      "denom": "uscrt",
+      "decimals": "6",
       "address": "secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
       "stake_link": "https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
       "restake": {
@@ -71,7 +79,9 @@
     {
       "name": "stargaze",
       "prettyName": "Stargaze",
-      "denom": "STARS",
+      "symbol": "STARS",
+      "denom": "ustars",
+      "decimals": "6",
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "stake_link": "https://wallet.keplr.app/#/stargaze/stake?modal=detail&validator=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "restake": {
@@ -83,7 +93,9 @@
     {
       "name": "chihuahua",
       "prettyName": "Chihuahua Chain",
-      "denom": "HUAHUA",
+      "symbol": "HUAHUA",
+      "denom": "uhuahua",
+      "decimals": "6",
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "stake_link": "https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {}
@@ -91,7 +103,9 @@
     {
       "name": "omniflix",
       "prettyName": "Omniflix Hub",
-      "denom": "FLIX",
+      "symbol": "FLIX",
+      "denom": "uflix",
+      "decimals": "6",
       "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "stake_link": "https://ping.pub/omniflix/staking/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "restake": {},
@@ -105,7 +119,9 @@
     {
       "name": "comdex",
       "prettyName": "Comdex",
-      "denom": "CMDX",
+      "symbol": "CMDX",
+      "denom": "ucdmx",
+      "decimals": "6",
       "address": "comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "stake_link": "https://ping.pub/comdex/staking/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "restake": {
@@ -117,7 +133,9 @@
     {
       "name": "bandchain",
       "prettyName": "Band Protocol",
-      "denom": "BAND",
+      "symbol": "BAND",
+      "denom": "uband",
+      "decimals": "6",
       "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "stake_link": "https://ping.pub/band-protocol/staking/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "restake": {}
@@ -125,7 +143,9 @@
     {
       "name": "evmos",
       "prettyName": "Evmos",
-      "denom": "EVMOS",
+      "symbol": "EVMOS",
+      "denom": "aevmos",
+      "decimals": "18",
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "stake_link": "https://wallet.keplr.app/#/evmos/stake?modal=detail&validator=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "restake": {
@@ -137,7 +157,9 @@
     {
       "name": "gravitybridge",
       "prettyName": "Gravity Bridge",
-      "denom": "GRAV",
+      "symbol": "GRAV",
+      "denom": "graviton",
+      "decimals": "18",
       "address": "gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "stake_link": "https://wallet.keplr.app/#/gravity-bridge/stake?modal=detail&validator=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "restake": {
@@ -149,7 +171,9 @@
     {
       "name": "crescent",
       "prettyName": "Crescent Hub",
-      "denom": "CRE",
+      "symbol": "CRE",
+      "denom": "ucre",
+      "decimals": "6",
       "address": "crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
       "stake_link": "https://ping.pub/crescent/staking/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
       "restake": {
@@ -161,7 +185,9 @@
     {
       "name": "emoney",
       "prettyName": "E-Money",
-      "denom": "NGM",
+      "symbol": "NGM",
+      "denom": "ungm",
+      "decimals": "6",
       "address": "emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
       "stake_link": "https://wallet.keplr.app/#/emoney/stake?modal=detail&validator=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
       "restake": {}
@@ -169,7 +195,9 @@
     {
       "name": "nomic",
       "prettyName": "Nomic Stakenet",
-      "denom": "NOM",
+      "symbol": "NOM",
+      "denom": "unom",
+      "decimals": "6",
       "address": "nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr",
       "hex_address": "945FB46D34BA10D391F33A3184793BB0D2F13340",
       "stake_link": "https://app.nomic.io",
@@ -182,7 +210,9 @@
     {
       "name": "sommelier",
       "prettyName": "Sommelier",
-      "denom": "SOMM",
+      "symbol": "SOMM",
+      "denom": "usomm",
+      "decimals": "6",
       "address": "sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd",
       "stake_link": "https://wallet.keplr.app/#/sommelier/stake?modal=detail&validator=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd",
       "restake": {
@@ -194,7 +224,9 @@
     {
       "name": "cerberus",
       "prettyName": "Cerberus Chain",
-      "denom": "CRBRUS",
+      "symbol": "CRBRUS",
+      "denom": "ucrbrus",
+      "decimals": "6",
       "address": "cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
       "stake_link": "https://ping.pub/cerberus/staking/cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
       "restake": {
@@ -206,7 +238,9 @@
     {
       "name": "lumnetwork",
       "prettyName": "Lum Network",
-      "denom": "LUM",
+      "symbol": "LUM",
+      "denom": "ulum",
+      "decimals": "6",
       "address": "lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
       "stake_link": "https://ping.pub/lum-network/staking/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
       "restake": {
@@ -218,7 +252,9 @@
     {
       "name": "bitsong",
       "prettyName": "Bitsong",
-      "denom": "BTSG",
+      "symbol": "BTSG",
+      "denom": "ubtsg",
+      "decimals": "6",
       "address": "bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
       "stake_link": "https://look.chillvalidation.com/bitsong/staking/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
       "restake": {
@@ -230,7 +266,9 @@
     {
       "name": "dig",
       "prettyName": "Dig Chain",
-      "denom": "DIG",
+      "symbol": "DIG",
+      "denom": "udig",
+      "decimals": "6",
       "address": "digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
       "stake_link": "https://ping.pub/dig/staking/digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
       "restake": {
@@ -242,7 +280,9 @@
     {
       "name": "vidulum",
       "prettyName": "Vidulum",
-      "denom": "VDL",
+      "symbol": "VDL",
+      "denom": "uvdl",
+      "decimals": "6",
       "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "stake_link": "https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "restake": {}
@@ -250,7 +290,9 @@
     {
       "name": "odin",
       "prettyName": "Odin",
-      "denom": "ODIN",
+      "symbol": "ODIN",
+      "denom": "loki",
+      "decimals": "6",
       "address": "odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "stake_link": "https://look.chillvalidation.com/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "restake": {},
@@ -264,7 +306,9 @@
     {
       "name": "radix",
       "prettyName": "Radix Olympia Mainnet",
-      "denom": "XRD",
+      "symbol": "XRD",
+      "denom": "xrd",
+      "decimals": "18",
       "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
       "stake_link": "https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
       "restake": {},
