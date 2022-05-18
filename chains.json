@@ -11,7 +11,8 @@
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "15-18"
     },
     {
       "name": "terra",
@@ -23,7 +24,8 @@
         "address": "terra1305e92ng6a9pdh3ttc3ld459ckxupxt33gqrc8",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": ""
     },
     {
       "name": "osmosis",
@@ -35,7 +37,8 @@
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
         "run_time": "18:00",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "62-67"
     },
     {
       "name": "juno",
@@ -47,7 +50,8 @@
         "address": "juno1305e92ng6a9pdh3ttc3ld459ckxupxt3p7ecam",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "15-18"
     },
     {
       "name": "secretnetwork",
@@ -265,7 +269,7 @@
         ""
       ],
       "rest": [
-        "https://mainnet.radixdlt.com/validation"
+        "https://mainnet.radixdlt.com/"
       ]
     }
   ]
