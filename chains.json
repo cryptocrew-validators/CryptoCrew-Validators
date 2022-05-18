@@ -6,6 +6,7 @@
       "prettyName": "Cosmos Hub",
       "symbol": "ATOM",
       "denom": "uatom",
+      "decimals": "6",
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "stake_link": "https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {
