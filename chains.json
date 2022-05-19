@@ -42,7 +42,8 @@
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
         "run_time": "18:00",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "60-65"
     },
     {
       "name": "juno",
@@ -84,7 +85,8 @@
         "address": "stars1305e92ng6a9pdh3ttc3ld459ckxupxt3rsd73k",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "155-160"
     },
     {
       "name": "chihuahua",
@@ -124,7 +126,8 @@
         "address": "comdex1305e92ng6a9pdh3ttc3ld459ckxupxt3srcprs",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "40-45"
     },
     {
       "name": "bandchain",
@@ -148,7 +151,8 @@
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "0"
     },
     {
       "name": "gravitybridge",
@@ -162,7 +166,8 @@
         "address": "gravity1305e92ng6a9pdh3ttc3ld459ckxupxt3nugml0",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "35-40"
     },
     {
       "name": "crescent",
@@ -176,7 +181,8 @@
         "address": "cre1305e92ng6a9pdh3ttc3ld459ckxupxt3nyfx02",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "35-40"
     },
     {
       "name": "emoney",
@@ -186,7 +192,8 @@
       "decimals": "6",
       "address": "emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
       "stake_link": "https://wallet.keplr.app/#/emoney/stake?modal=detail&validator=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
-      "restake": {}
+      "restake": {},
+      "apr": "20-25"
     },
     {
       "name": "nomic",
@@ -201,7 +208,8 @@
       "rpc": [
         "http://138.197.71.46:26657"
       ],
-      "rest": ""
+      "rest": "",
+      "apr": "soon"
     },
     {
       "name": "sommelier",
@@ -215,7 +223,8 @@
         "address": "somm1305e92ng6a9pdh3ttc3ld459ckxupxt3ms40td",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "soon"
     },
     {
       "name": "cerberus",
@@ -297,7 +306,8 @@
       ],
       "rest": [
         "http://64.227.124.68:1317"
-      ]
+      ],
+      "apr": "145-150"
     },
     {
       "name": "radix",
