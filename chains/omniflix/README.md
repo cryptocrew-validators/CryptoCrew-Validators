@@ -13,13 +13,13 @@ chain_id: `omniflixhub-1`
 
 | src_chain | dst_chain | IBC port | IBC channel |    
 | --------------- | --------------- | ------------ | -------------- |
-| omniflixhub-1 | osmosis-1 | 'transfer' | 'channel-1' | 
-| omniflixhub-1 | columbus-5 | 'transfer' | 'channel-4' | 
-| omniflixhub-1 | chihuahua-1 | 'transfer' | 'channel-5' | 
-| omniflixhub-1 | stargaze-1 | 'transfer' | 'channel-8' | 
-| omniflixhub-1 | cosmoshub-4 | 'transfer' | 'channel-12' | 
-| omniflixhub-1 | juno-1 | 'transfer' | 'channel-13' | 
-| omniflixhub-1 | gravitybridge-3 | 'transfer' | 'channel-14' | 
+| omniflixhub-1 | osmosis-1 | `transfer` | `channel-1` | 
+| omniflixhub-1 | columbus-5 | `transfer` | `channel-4` | 
+| omniflixhub-1 | chihuahua-1 | `transfer` | `channel-5` | 
+| omniflixhub-1 | stargaze-1 | `transfer` | `channel-8` | 
+| omniflixhub-1 | cosmoshub-4 | `transfer` | `channel-12` | 
+| omniflixhub-1 | juno-1 | `transfer` | `channel-13` | 
+| omniflixhub-1 | gravitybridge-3 | `transfer` | `channel-14` | 
 
 
 ## Omniflix relayer setup guide by CryptoCrew
