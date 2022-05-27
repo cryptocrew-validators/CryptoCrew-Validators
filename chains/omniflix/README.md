@@ -21,3 +21,7 @@ chain_id: `omniflixhub-1`
 | omniflixhub-1 | juno-1 | 'transfer' | 'channel-13' | 
 | omniflixhub-1 | gravitybridge-3 | 'transfer' | 'channel-14' | 
 
+
+## Omniflix relayer setup guide by CryptoCrew
+
+https://github.com/clemensgg/RELAYER-dev-crew/blob/main/HERMES/omniflix/relayer-doc.md
