@@ -4,11 +4,7 @@ chain_id: `omniflixhub-1`
 
 validator_address: `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme`
 
-## Public mainnet seednode
-
-```
-1247d7039b1cc2b336d3aaa769ea9927f48edb65@omniflix-mainnet.tenderseed.ccvalidators.com
-```
+public mainnet seednode: `1247d7039b1cc2b336d3aaa769ea9927f48edb65@omniflix-mainnet.tenderseed.ccvalidators.com`
 
 ## CryptoCrew IBC relayer
 
@@ -21,7 +17,6 @@ validator_address: `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme`
 | omniflixhub-1 | cosmoshub-4 | `transfer` | `channel-12` | 
 | omniflixhub-1 | juno-1 | `transfer` | `channel-13` | 
 | omniflixhub-1 | gravitybridge-3 | `transfer` | `channel-14` | 
-
 
 ## Omniflix relayer setup guide by CryptoCrew
 
