@@ -1,7 +1,8 @@
 # OMNIFLIX services
 
-validator_address: `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme`
 chain_id: `omniflixhub-1`
+
+validator_address: `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme`
 
 ## Public mainnet seednode
 
