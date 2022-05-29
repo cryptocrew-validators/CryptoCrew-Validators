@@ -175,7 +175,13 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       },
-      "apr": "0"
+      "rpc": [
+        "https://rpc.bd.evmos.dev:26657"
+      ],
+      "rest": [
+        "https://tendermint.bd.evmos.org:26657"
+      ],
+      "apr": ""
     },
     {
       "name": "gravitybridge",
