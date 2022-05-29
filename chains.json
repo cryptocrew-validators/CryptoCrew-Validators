@@ -18,8 +18,8 @@
       }
     },
     {
-      "name": "terra",
-      "prettyName": "Terra Classic",
+      "name": "terrav2",
+      "prettyName": "Terra Phoenix",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.png",
       "symbol": "LUNA",
