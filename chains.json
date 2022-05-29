@@ -19,20 +19,21 @@
     },
     {
       "name": "terra",
-      "prettyName": "Terra",
+      "prettyName": "Terra Classic",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.png",
       "symbol": "LUNA",
       "denom": "uluna",
       "decimals": "6",
-      "address": "terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s",
-      "stake_link": "https://station.terra.money/validator/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s",
-      "restake": {
-        "address": "terra1305e92ng6a9pdh3ttc3ld459ckxupxt33gqrc8",
-        "run_time": "every 6 hours",
-        "minimum_reward": 100000
-      },
-      "apr": "400-450"
+      "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "stake_link": "https://station.terra.money/validator/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "rpc": [
+        "https://rpc.terrav2.ccvalidators.com"
+      ],
+      "rest": [
+        "https://fcd.terrav2.ccvalidators.com"
+      ],
+      "apr": ""
     },
     {
       "name": "osmosis",
