@@ -184,7 +184,7 @@
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/gravitybridge/logo_gravitybridge.png",
       "symbol": "GRAV",
       "denom": "graviton",
-      "decimals": "18",
+      "decimals": "6",
       "address": "gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "stake_link": "https://wallet.keplr.app/#/gravity-bridge/stake?modal=detail&validator=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "restake": {
