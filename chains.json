@@ -20,8 +20,8 @@
     {
       "name": "terrav2",
       "prettyName": "Terra Phoenix",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terrav2/logo_terrav2.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terrav2/logo_terrav2.png",
       "symbol": "LUNA",
       "denom": "uluna",
       "decimals": "6",
