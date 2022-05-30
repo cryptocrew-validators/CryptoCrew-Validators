@@ -269,8 +269,8 @@
     {
       "name": "cerberus",
       "prettyName": "Cerberus Chain",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus1.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus1.png",
       "symbol": "CRBRUS",
       "denom": "ucrbrus",
       "decimals": "6",
