@@ -167,7 +167,7 @@
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/evmos/logo_evmos.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/evmos/logo_evmos.png",
       "symbol": "EVMOS",
-      "denom": "aevmos",
+      "denom": "atevmos",
       "decimals": "18",
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "stake_link": "https://wallet.keplr.app/#/evmos/stake?modal=detail&validator=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
