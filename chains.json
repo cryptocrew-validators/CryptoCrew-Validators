@@ -376,7 +376,7 @@
         ""
       ],
       "rest": [
-        "https://mainnet.radixdlt.com/"
+        "https://mainnet-gateway.radixdlt.com/"
       ],
       "apr": "10"
     }
