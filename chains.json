@@ -4,8 +4,8 @@
     {
       "name": "cosmoshub",
       "prettyName": "Cosmos Hub",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/cosmoshub/logo_cosmoshub.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/cosmoshub/logo_cosmoshub.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cosmoshub/logo_cosmoshub.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cosmoshub/logo_cosmoshub.png",
       "symbol": "ATOM",
       "denom": "uatom",
       "decimals": "6",
@@ -20,8 +20,8 @@
     {
       "name": "terrav2",
       "prettyName": "Terra Phoenix",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/terra/logo_terra.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.png",
       "symbol": "LUNA",
       "denom": "uluna",
       "decimals": "6",
@@ -33,14 +33,14 @@
       "rest": [
         "https://fcd.terrav2.ccvalidators.com"
       ],
-      "coingecko_id": "terra",
+      "coingecko_id": "terra-luna-2",
       "apr": ""
     },
     {
       "name": "osmosis",
       "prettyName": "Osmosis",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/osmosis/logo_osmosis.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/osmosis/logo_osmosis.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/osmosis/logo_osmosis.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/osmosis/logo_osmosis.png",
       "symbol": "OSMO",
       "denom": "uosmo",
       "decimals": "6",
@@ -56,8 +56,8 @@
     {
       "name": "juno",
       "prettyName": "Juno",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/juno/logo_juno.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/juno/logo_juno.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/juno/logo_juno.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/juno/logo_juno.png",
       "symbol": "JUNO",
       "denom": "ujuno",
       "decimals": "6",
@@ -72,8 +72,8 @@
     {
       "name": "secretnetwork",
       "prettyName": "Secret Network",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/secretnetwork/logo_secretnetwork.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/secretnetwork/logo_secretnetwork.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/secretnetwork/logo_secretnetwork.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/secretnetwork/logo_secretnetwork.png",
       "symbol": "SCRT",
       "denom": "uscrt",
       "decimals": "6",
@@ -88,8 +88,8 @@
     {
       "name": "stargaze",
       "prettyName": "Stargaze",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/stargaze/logo_stargaze.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/stargaze/logo_stargaze.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.png",
       "symbol": "STARS",
       "denom": "ustars",
       "decimals": "6",
@@ -105,8 +105,8 @@
     {
       "name": "chihuahua",
       "prettyName": "Chihuahua Chain",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/chihuahua/logo_chihuahua.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/chihuahua/logo_chihuahua.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/chihuahua/logo_chihuahua.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/chihuahua/logo_chihuahua.png",
       "symbol": "HUAHUA",
       "denom": "uhuahua",
       "decimals": "6",
@@ -117,8 +117,8 @@
     {
       "name": "omniflix",
       "prettyName": "Omniflix Hub",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/omniflix/logo_omniflix.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/omniflix/logo_omniflix.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflix/logo_omniflix.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflix/logo_omniflix.png",
       "symbol": "FLIX",
       "denom": "uflix",
       "decimals": "6",
@@ -135,8 +135,8 @@
     {
       "name": "comdex",
       "prettyName": "Comdex",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/comdex/logo_comdex.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/comdex/logo_comdex.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/comdex/logo_comdex.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/comdex/logo_comdex.png",
       "symbol": "CMDX",
       "denom": "ucdmx",
       "decimals": "6",
@@ -152,8 +152,8 @@
     {
       "name": "bandchain",
       "prettyName": "Band Protocol",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/bandchain/logo_bandchain.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/bandchain/logo_bandchain.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bandchain/logo_bandchain.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bandchain/logo_bandchain.png",
       "symbol": "BAND",
       "denom": "uband",
       "decimals": "6",
@@ -164,10 +164,10 @@
     {
       "name": "evmos",
       "prettyName": "Evmos",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/evmos/logo_evmos.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/evmos/logo_evmos.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/evmos/logo_evmos.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/evmos/logo_evmos.png",
       "symbol": "EVMOS",
-      "denom": "aevmos",
+      "denom": "atevmos",
       "decimals": "18",
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "stake_link": "https://wallet.keplr.app/#/evmos/stake?modal=detail&validator=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
@@ -187,8 +187,8 @@
     {
       "name": "gravitybridge",
       "prettyName": "Gravity Bridge",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/gravitybridge/logo_gravitybridge.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/gravitybridge/logo_gravitybridge.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.png",
       "symbol": "GRAV",
       "denom": "graviton",
       "decimals": "6",
@@ -204,8 +204,8 @@
     {
       "name": "crescent",
       "prettyName": "Crescent Hub",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/crescent/logo_crescent.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/crescent/logo_crescent.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/crescent/logo_crescent.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/crescent/logo_crescent.png",
       "symbol": "CRE",
       "denom": "ucre",
       "decimals": "6",
@@ -221,8 +221,8 @@
     {
       "name": "emoney",
       "prettyName": "E-Money",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/emoney/logo_emoney.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/emoney/logo_emoney.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/emoney/logo_emoney.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/emoney/logo_emoney.png",
       "symbol": "NGM",
       "denom": "ungm",
       "decimals": "6",
@@ -234,8 +234,8 @@
     {
       "name": "nomic",
       "prettyName": "Nomic Stakenet",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/nomic/logo_nomic.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/nomic/logo_nomic.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nomic/logo_nomic.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nomic/logo_nomic.png",
       "symbol": "NOM",
       "denom": "unom",
       "decimals": "6",
@@ -252,8 +252,8 @@
     {
       "name": "sommelier",
       "prettyName": "Sommelier",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/sommelier/logo_sommelier.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/sommelier/logo_sommelier.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/sommelier/logo_sommelier.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/sommelier/logo_sommelier.png",
       "symbol": "SOMM",
       "denom": "usomm",
       "decimals": "6",
@@ -269,8 +269,8 @@
     {
       "name": "cerberus",
       "prettyName": "Cerberus Chain",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/cerberus/logo_cerberus.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/cerberus/logo_cerberus.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus1.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus1.png",
       "symbol": "CRBRUS",
       "denom": "ucrbrus",
       "decimals": "6",
@@ -285,8 +285,8 @@
     {
       "name": "lumnetwork",
       "prettyName": "Lum Network",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/lumnetwork/logo_lumnetwork.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/lumnetwork/logo_lumnetwork.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/lumnetwork/logo_lumnetwork.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/lumnetwork/logo_lumnetwork.png",
       "symbol": "LUM",
       "denom": "ulum",
       "decimals": "6",
@@ -301,8 +301,8 @@
     {
       "name": "bitsong",
       "prettyName": "Bitsong",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/bitsong/logo_bitsong.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/bitsong/logo_bitsong.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bitsong/logo_bitsong.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bitsong/logo_bitsong.png",
       "symbol": "BTSG",
       "denom": "ubtsg",
       "decimals": "6",
@@ -317,8 +317,8 @@
     {
       "name": "dig",
       "prettyName": "Dig Chain",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/dig/logo_dig.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/dig/logo_dig.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/dig/logo_dig.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/dig/logo_dig.png",
       "symbol": "DIG",
       "denom": "udig",
       "decimals": "6",
@@ -333,8 +333,8 @@
     {
       "name": "vidulum",
       "prettyName": "Vidulum",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/vidulum/logo_vidulum.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/vidulum/logo_vidulum.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/vidulum/logo_vidulum.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/vidulum/logo_vidulum.png",
       "symbol": "VDL",
       "denom": "uvdl",
       "decimals": "6",
@@ -345,8 +345,8 @@
     {
       "name": "odin",
       "prettyName": "Odin",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/odin/logo_odin.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/odin/logo_odin.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/odin/logo_odin.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/odin/logo_odin.png",
       "symbol": "ODIN",
       "denom": "loki",
       "decimals": "6",
@@ -363,9 +363,9 @@
     },
     {
       "name": "radix",
-      "prettyName": "Radix Olympia Mainnet",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/radix/logo_radix.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/bbb0fe6bb71e1a330b70fc22a30972829dc9a803/chains/radix/logo_radix.png",
+      "prettyName": "Radix",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/radix/logo_radix.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/radix/logo_radix.png",
       "symbol": "XRD",
       "denom": "xrd",
       "decimals": "18",
@@ -376,8 +376,9 @@
         ""
       ],
       "rest": [
-        "https://mainnet.radixdlt.com/"
+        "https://mainnet-gateway.radixdlt.com/"
       ],
+      "coingecko_id": "radix",
       "apr": "10"
     }
   ]
