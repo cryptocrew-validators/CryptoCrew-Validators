@@ -363,7 +363,7 @@
     },
     {
       "name": "radix",
-      "prettyName": "Radix Olympia Mainnet",
+      "prettyName": "Radix",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/radix/logo_radix.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/radix/logo_radix.png",
       "symbol": "XRD",
@@ -378,6 +378,7 @@
       "rest": [
         "https://mainnet-gateway.radixdlt.com/"
       ],
+      "coingecko_id": "radix",
       "apr": "10"
     }
   ]
