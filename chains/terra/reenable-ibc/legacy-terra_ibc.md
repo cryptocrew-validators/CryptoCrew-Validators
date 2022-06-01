@@ -2,9 +2,9 @@
 
 Terra legacy v0.5.20 upgrade closed three IBC-channels on columbus-5 to prevent possible attack vectors via liquid staking modules
 
-"channel-1", // Osmosis
-"channel-49", // Crescent
-"channel-20", // Juno
+"channel-1", // Osmosis  
+"channel-49", // Crescent  
+"channel-20", // Juno  
 
 Since at the time of the Terra legacy attack relayers were working behind the backlog due to immense transaction volumes, some IBC packets on these channels were not able to be processed in time before the emergency upgrade. These userfunds are now "stuck" on chain.
 
@@ -14,8 +14,7 @@ Subsequently the IBC-clients on the counterparty chains expired, adding a level 
 
 - re-open previously closed IBC-channels on Terra legacy through chain upgrade 
 
-ref: https://github.com/terra-money/classic-core/issues/766)
-
+ref: https://github.com/terra-money/classic-core/issues/766)  
 diff: https://github.com/terra-money/classic-core/compare/v0.5.19...v0.5.20#diff-0f1d2976054440336a576d47a44a37b80cdf6701dd9113012bce0e3c425819b7L585-R615
 
 - update expired IBC-clients on osmosis and juno through governance proposals
