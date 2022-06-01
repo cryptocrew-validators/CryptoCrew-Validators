@@ -148,7 +148,7 @@ columbus-5 07-tendermint-101
 }
 ```
 
-crescent-5 07-tendermint-0
+crescent-1 07-tendermint-0
 ```
 /ibc/core/client/v1/client_status/07-tendermint-101
 {
