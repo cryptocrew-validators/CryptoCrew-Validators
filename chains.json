@@ -86,6 +86,25 @@
       }
     },
     {
+      "name": "persistence",
+      "prettyName": "Persistence",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/persistence/logo_persistence.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/persistence/logo_persistence.png",
+      "symbol": "XPRT",
+      "denom": "uxprt",
+      "decimals": "6",
+      "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
+      "stake_link": "https://wallet.keplr.app/#/core/stake?modal=detail&chainId=core-1&validator=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
+      "restake": {},
+      "coingecko_id": "persistence",
+      "rpc": [
+        "https://rpc.core.persistence.one"
+      ],
+      "rest": [
+        "https://rest.core.persistence.one"
+      ]
+    },
+    {
       "name": "stargaze",
       "prettyName": "Stargaze",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.svg",
