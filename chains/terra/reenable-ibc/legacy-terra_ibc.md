@@ -18,6 +18,8 @@ https://commonwealth.im/osmosis/discussion/5223-replace-terra-columbus5-ibc-clie
 
 **TODO:**
 
+- get OK to go forward from osmosis and juno chain-devs & communities
+
 - re-open previously closed IBC-channels on Terra legacy through chain upgrade 
 
 ref: https://github.com/terra-money/classic-core/issues/766)  
@@ -51,6 +53,33 @@ columbus-5 channel-1:
   }
 }
 ```
+
+**corresponding osmosis channel is in open state:**
+
+osmosis-1 channel-72:
+```
+{
+  "channel": {
+    "state": "STATE_OPEN",
+    "ordering": "ORDER_UNORDERED",
+    "counterparty": {
+      "port_id": "transfer",
+      "channel_id": "channel-1"
+    },
+    "connection_hops": [
+      "connection-1215"
+    ],
+    "version": "ics20-1"
+  },
+  "proof": null,
+  "proof_height": {
+    "revision_number": "1",
+    "revision_height": "4637897"
+  }
+}
+```
+
+
 
 columbus-5 07-tendermint-12
 ```
@@ -95,6 +124,32 @@ columbus-5 channel-20:
   "proof_height": {
     "revision_number": "5",
     "revision_height": "7869005"
+  }
+}
+```
+
+
+**corresponding juno channel is in open state:**
+
+juno-1 channel-27:
+```
+{
+  "channel": {
+    "state": "STATE_OPEN",
+    "ordering": "ORDER_UNORDERED",
+    "counterparty": {
+      "port_id": "transfer",
+      "channel_id": "channel-20"
+    },
+    "connection_hops": [
+      "connection-43"
+    ],
+    "version": "ics20-1"
+  },
+  "proof": null,
+  "proof_height": {
+    "revision_number": "1",
+    "revision_height": "3355245"
   }
 }
 ```
