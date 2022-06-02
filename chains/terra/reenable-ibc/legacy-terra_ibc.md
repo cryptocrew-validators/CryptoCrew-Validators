@@ -10,6 +10,12 @@ Since at the time of the Terra legacy attack relayers were working behind the ba
 
 Subsequently the IBC-clients on the counterparty chains expired, adding a level of complexity to the issue
 
+## Update (02/06/2022)
+
+Working together with Notional Labs on the issue, created commonwealth thread to inform the public & discuss about the strategy going forward
+
+https://commonwealth.im/osmosis/discussion/5223-replace-terra-columbus5-ibc-client
+
 **TODO:**
 
 - re-open previously closed IBC-channels on Terra legacy through chain upgrade 
