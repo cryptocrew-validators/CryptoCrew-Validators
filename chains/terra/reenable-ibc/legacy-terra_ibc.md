@@ -92,11 +92,11 @@ columbus-5 07-tendermint-12
 "allow_update_after_misbehaviour": true
 ```
 
-osmosis-1 07-tendermint-12:
+osmosis-1 07-tendermint-1549:
 ```
-/ibc/core/client/v1/client_status/07-tendermint-12
+/ibc/core/client/v1/client_status/07-tendermint-1549
 {
-  "status": "Expired"
+  "status": "Active"
 }
 
 "allow_update_after_expiry": true,
@@ -169,7 +169,7 @@ juno-1 07-tendermint-63:
 ```
 /ibc/core/client/v1/client_status/07-tendermint-63
 {
-  "status": "Expired"
+  "status": "Active"
 }
 
 "allow_update_after_expiry": true,
