@@ -266,7 +266,8 @@
         "http://138.197.71.46:26657"
       ],
       "rest": "",
-      "apr": "soon"
+      "commission": "0.05",
+      "apr": ""
     },
     {
       "name": "sommelier",
@@ -283,7 +284,7 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       },
-      "apr": "soon"
+      "apr": ""
     },
     {
       "name": "cerberus",
