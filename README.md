@@ -7,6 +7,7 @@ Telegram public group: https://t.me/cryptocrew_validators
 Website: https://ccvalidators.com
 ---
 
+hallo kugi
 
 # CryptoCrew-Validators
 public repo of ccvalidators
