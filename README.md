@@ -7,7 +7,6 @@ Telegram public group: https://t.me/cryptocrew_validators
 Website: https://ccvalidators.com
 ---
 
-
 # CryptoCrew-Validators
 public repo of ccvalidators
 
@@ -20,13 +19,14 @@ _Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain._
 
 - experienced team based in Europe
 - multi-channel IBC-relayer
-- enterprise-grade nodes in Tier-4 datacenters
+- bare metal nodes in Tier-4 datacenters
+- powered by renewable energy sources
 - automated failover procedures
 - dedicated alert-systems & consensus metrics monitoring 
-- high validator availability & uptime-quotes of >99.9% over long term on other networks
+- high validator availability & uptime-quotes of >99% over long term on other networks
 - active in governance
 - community tools & participation
-- constant 5% commission policy
+- constant commission policy
 
 
 | Name            | Role      | 
@@ -64,13 +64,14 @@ https://ccvalidators.com
 
 ## Validators live:
 
-| chain             | Network               | Validator address                                            | Link              |
-| ----------------- | --------------------- | ------------------------------------------------------------ | ----------------- |
+| chain             | Network                    | Validator address                                            | Link                  |
+| ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |
 | `mainnet`    | Cosmos Hub      | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc`    | [delegate ATOM](https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc) |
 | `mainnet`    | Terra           | `terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s`     | [delegate LUNA](https://station.terra.money/validator/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s) |
 | `mainnet`    | Osmosis         | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6`      | [delegate OSMO](https://wallet.keplr.app/#/osmosis/stake?modal=detail&validator=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6) |
 | `mainnet`    | Juno            | `junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k`      | [delegate JUNO](https://wallet.keplr.app/#/juno/stake?modal=detail&validator=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k) |
 | `mainnet`    | Secret Network  | `secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w`    | [delegate SCRT](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w) |
+| `mainnet`    | Persistence     | `persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879`    | [delegate XPRT](https://wallet.keplr.app/#/core/stake?modal=detail&chainId=core-1&validator=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879) |
 | `mainnet`    | Stargaze Zone   | `starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn`     | [delegate STARS](https://wallet.keplr.app/#/stargaze/stake?modal=detail&validator=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn) |
 | `mainnet`    | Chihuahua Chain | `chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8` | [delegate HUAHUA](https://ping.pub/chihuahua/staking/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8) |
 | `mainnet`    | Omniflix Hub    | `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme`  | [delegate FLIX](https://ping.pub/omniflix/staking/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme) |
@@ -89,4 +90,3 @@ https://ccvalidators.com
 | `mainnet`    | Vidulum         | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj`       | [delegate VDL](https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
 | `mainnet`    | Odin            | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z`      | [delegate ODIN](https://look.chillvalidation.com/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
 | `mainnet`    | Radix Olympia   | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
-| `not active` | Umee            | `umeevaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxatp30a`      | [not active](https://wallet.keplr.app/#/umee/stake?tab=inactive-validators&modal=detail&validator=umeevaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxatp30a) |
