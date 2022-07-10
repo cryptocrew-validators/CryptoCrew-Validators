@@ -204,6 +204,29 @@
       "apr": ""
     },
     {
+      "name": "kujira",
+      "prettyName": "Kujira",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kujira/logo_kujira.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kujira/logo_kujira.png",
+      "symbol": "KUJI",
+      "denom": "ukuji",
+      "decimals": "6",
+      "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
+      "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
+      "restake": {
+        "address": "kujira1305e92ng6a9pdh3ttc3ld459ckxupxt3xycmhd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      },
+      "rpc": [
+        "https://rpc.kujira.ccvalidators.com:443"
+      ],
+      "rest": [
+        "https://rest.kujira.ccvalidators.com:443"
+      ],
+      "apr": ""
+    },
+    {
       "name": "gravitybridge",
       "prettyName": "Gravity Bridge",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.svg",
