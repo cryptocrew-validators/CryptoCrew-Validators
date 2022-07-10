@@ -67,7 +67,8 @@ https://ccvalidators.com
 | chain             | Network                    | Validator address                                            | Link                  |
 | ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |
 | `mainnet`    | Cosmos Hub      | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc`    | [delegate ATOM](https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc) |
-| `mainnet`    | Terra           | `terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s`     | [delegate LUNA](https://station.terra.money/validator/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s) |
+| `mainnet`    | Terra Classic   | `terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s`     | [delegate LUNC](https://cosmosrun.info/terra-classic/staking/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s) |
+| `mainnet`    | Terra V2        | `terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x`     | [delegate LUNA](https://station.terra.money/validator/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x) |
 | `mainnet`    | Osmosis         | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6`      | [delegate OSMO](https://wallet.keplr.app/#/osmosis/stake?modal=detail&validator=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6) |
 | `mainnet`    | Juno            | `junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k`      | [delegate JUNO](https://wallet.keplr.app/#/juno/stake?modal=detail&validator=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k) |
 | `mainnet`    | Secret Network  | `secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w`    | [delegate SCRT](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w) |
@@ -78,6 +79,7 @@ https://ccvalidators.com
 | `mainnet`    | Comdex          | `comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6`    | [delegate CMDX](https://ping.pub/comdex/staking/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6) |
 | `mainnet`    | Band Protocol   | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz`      | [delegate BAND](https://ping.pub/band-protocol/staking/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
 | `mainnet`    | Evmos           | `evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0`     | [delegate EVMOS](https://wallet.keplr.app/#/evmos/stake?modal=detail&validator=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0) |
+| `mainnet`    | Kujira           | `kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq`     | [delegate KUJI](https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq) |
 | `mainnet`    | Gravity Bridge  | `gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x`   | [delegate GRAV](https://wallet.keplr.app/#/gravity-bridge/stake?modal=detail&validator=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x) |
 | `mainnet`    | Crescent Hub    | `crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se`       | [delegate CRE](https://ping.pub/crescent/staking/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se) |
 | `mainnet`    | E-Money         | `emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh`    | [delegate NGM](https://wallet.keplr.app/#/emoney/stake?modal=detail&validator=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh) |
