@@ -224,7 +224,8 @@
       "rest": [
         "https://rest.kujira.ccvalidators.com:443"
       ],
-      "apr": ""
+      "apr": "",
+      "coingecko_id": "kujira"
     },
     {
       "name": "gravitybridge",
