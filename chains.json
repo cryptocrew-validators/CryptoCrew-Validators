@@ -15,7 +15,8 @@
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "15-20"
     },
     {
       "name": "terrav2",
@@ -34,7 +35,7 @@
         "https://fcd.terrav2.ccvalidators.com"
       ],
       "coingecko_id": "terra-luna-2",
-      "apr": ""
+      "apr": "12-15"
     },
     {
       "name": "osmosis",
@@ -51,7 +52,7 @@
         "run_time": "18:00",
         "minimum_reward": 100000
       },
-      "apr": "60-65"
+      "apr": "25-30"
     },
     {
       "name": "juno",
@@ -67,7 +68,8 @@
         "address": "juno1305e92ng6a9pdh3ttc3ld459ckxupxt3p7ecam",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "65-70"
     },
     {
       "name": "secretnetwork",
@@ -83,7 +85,8 @@
         "address": "secret1fcc93jz6egcc7vhrmpgdflwlkl3pseewq796lm",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "20-25"
     },
     {
       "name": "persistence",
@@ -102,7 +105,8 @@
       ],
       "rest": [
         "https://rest.core.persistence.one"
-      ]
+      ],
+      "apr": "30-35"
     },
     {
       "name": "stargaze",
@@ -119,7 +123,7 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       },
-      "apr": "155-160"
+      "apr": "80-90"
     },
     {
       "name": "chihuahua",
@@ -131,7 +135,8 @@
       "decimals": "6",
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "stake_link": "https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
-      "restake": {}
+      "restake": {},
+      "apr": "100-110"
     },
     {
       "name": "omniflix",
@@ -149,7 +154,8 @@
       ],
       "rest": [
         "http://23.88.81.42:2111"
-      ]
+      ],
+      "apr": "0"
     },
     {
       "name": "comdex",
@@ -166,7 +172,7 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       },
-      "apr": "40-45"
+      "apr": "35-40"
     },
     {
       "name": "bandchain",
@@ -178,7 +184,8 @@
       "decimals": "6",
       "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "stake_link": "https://ping.pub/band-protocol/staking/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
-      "restake": {}
+      "restake": {},
+      "apr": "10-13"
     },
     {
       "name": "evmos",
@@ -201,7 +208,7 @@
       "rest": [
         "https://tendermint.bd.evmos.org:26657"
       ],
-      "apr": ""
+      "apr": "400-450"
     },
     {
       "name": "kujira",
@@ -224,7 +231,7 @@
       "rest": [
         "https://rest.kujira.ccvalidators.com:443"
       ],
-      "apr": "",
+      "apr": "0",
       "coingecko_id": "kujira"
     },
     {
@@ -259,7 +266,7 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       },
-      "apr": "35-40"
+      "apr": "20-25"
     },
     {
       "name": "emoney",
@@ -291,7 +298,7 @@
       ],
       "rest": "",
       "commission": "0.05",
-      "apr": ""
+      "apr": "150-250"
     },
     {
       "name": "sommelier",
@@ -308,7 +315,7 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       },
-      "apr": ""
+      "apr": "0"
     },
     {
       "name": "cerberus",
@@ -324,7 +331,8 @@
         "address": "cerberus1305e92ng6a9pdh3ttc3ld459ckxupxt3tt620v",
         "run_time": "every 20 minutes",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "130-140"
     },
     {
       "name": "lumnetwork",
@@ -340,7 +348,8 @@
         "address": "lum1305e92ng6a9pdh3ttc3ld459ckxupxt3zx820n",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "40-45"
     },
     {
       "name": "bitsong",
@@ -356,7 +365,8 @@
         "address": "bitsong1305e92ng6a9pdh3ttc3ld459ckxupxt3m9gtcg",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "33-37"
     },
     {
       "name": "dig",
@@ -372,7 +382,8 @@
         "address": "dig1305e92ng6a9pdh3ttc3ld459ckxupxt30cngcu",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
-      }
+      },
+      "apr": "45-55"
     },
     {
       "name": "vidulum",
@@ -384,7 +395,8 @@
       "decimals": "6",
       "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "stake_link": "https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
-      "restake": {}
+      "restake": {},
+      "apr": "15-20"
     },
     {
       "name": "odin",
@@ -403,7 +415,7 @@
       "rest": [
         "http://64.227.124.68:1317"
       ],
-      "apr": "145-150"
+      "apr": "100-130"
     },
     {
       "name": "radix",
