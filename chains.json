@@ -20,26 +20,6 @@
       "apr": "15-20"
     },
     {
-      "name": "terrav2",
-      "prettyName": "Terra Phoenix",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.png",
-      "symbol": "LUNA",
-      "denom": "uluna",
-      "decimals": "6",
-      "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
-      "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
-      "stake_link": "https://station.terra.money/validator/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
-      "rpc": [
-        "https://rpc.terrav2.ccvalidators.com"
-      ],
-      "rest": [
-        "https://fcd.terrav2.ccvalidators.com"
-      ],
-      "coingecko_id": "terra-luna-2",
-      "apr": "12-15"
-    },
-    {
       "name": "osmosis",
       "prettyName": "Osmosis",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/osmosis/logo_osmosis.svg",
@@ -94,6 +74,26 @@
       "apr": "20-25"
     },
     {
+      "name": "terrav2",
+      "prettyName": "Terra Phoenix",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.png",
+      "symbol": "LUNA",
+      "denom": "uluna",
+      "decimals": "6",
+      "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
+      "stake_link": "https://station.terra.money/validator/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "rpc": [
+        "https://rpc.terrav2.ccvalidators.com"
+      ],
+      "rest": [
+        "https://fcd.terrav2.ccvalidators.com"
+      ],
+      "coingecko_id": "terra-luna-2",
+      "apr": "12-15"
+    },
+    {
       "name": "kujira",
       "prettyName": "Kujira",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kujira/logo_kujira.svg",
@@ -140,7 +140,26 @@
       "rest": [
         "https://tendermint.bd.evmos.org:26657"
       ],
-      "apr": "400-450"
+      "apr": "300-350"
+    },
+    {
+      "name": "injective",
+      "prettyName": "Injective",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/injective/logo_injective.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/injective/logo_injective.png",
+      "symbol": "INJ",
+      "denom": "inj",
+      "decimals": "18",
+      "address": "injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
+      "operator_account": "inj1nq37nq79w2j76xj8qhjzcn6vh0wlx0qka9t867",
+      "stake_link": "https://hub.injective.network/validators/injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6/",
+      "rpc": [
+        "https://injective-rpc.quickapi.com:443"
+      ],
+      "rest": [
+        "https://public.lcd.injective.network:443"
+      ],
+      "apr": "13.45"
     },
     {
       "name": "persistence",
