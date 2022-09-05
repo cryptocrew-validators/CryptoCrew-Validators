@@ -67,8 +67,6 @@ https://ccvalidators.com
 | chain             | Network                    | Validator address                                            | Link                  |
 | ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |
 | `mainnet`    | Cosmos Hub      | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc`    | [delegate ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc) |
-| `mainnet`    | Terra Classic   | `terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s`     | [delegate LUNC](https://cosmosrun.info/terra-classic/staking/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s) |
-| `mainnet`    | Terra V2        | `terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x`     | [delegate LUNA](https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x) |
 | `mainnet`    | Osmosis         | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6`      | [delegate OSMO](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6) |
 | `mainnet`    | Juno            | `junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k`      | [delegate JUNO](https://wallet.keplr.app/chains/juno?modal=validator&chain=juno-1&validator_address=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k) |
 | `mainnet`    | Secret Network  | `secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w`    | [delegate SCRT](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w) |
@@ -92,3 +90,5 @@ https://ccvalidators.com
 | `mainnet`    | Vidulum         | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj`       | [delegate VDL](https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
 | `mainnet`    | Odin            | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z`      | [delegate ODIN](https://ping.pub/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
 | `mainnet`    | Radix Olympia   | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
+| `mainnet`    | Terra Classic   | `terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s`     | [delegate LUNC](https://cosmosrun.info/terra-classic/staking/terravaloper13slfa8cc7zvmjt4wkap2lwmlkp4h3azwltlj6s) |
+| `mainnet`    | Terra V2        | `terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x`     | [delegate LUNA](https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x) |
