@@ -1,0 +1,87 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "$schema": {
+        "type": "string"
+      },
+      "chains": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "prettyName": {
+              "type": "string"
+            },
+            "logo_url_svg": {
+              "type": "string"
+            },
+            "logo_url_png": {
+              "type": "string"
+            },
+            "symbol": {
+              "type": "string"
+            },
+            "denom": {
+              "type": "string"
+            },
+            "decimals": {
+              "type": "string"
+            },
+            "address": {
+              "type": "string"
+            },
+            "operator_account": {
+              "type": "string"
+            },
+            "stake_link": {
+              "type": "string"
+            },
+            "restake": {
+              "type": "object",
+              "properties": {
+                "address": {
+                  "type": "string"
+                },
+                "run_time": {
+                  "type": "string"
+                },
+                "minimum_reward": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "address",
+                "run_time",
+                "minimum_reward"
+              ]
+            },
+            "apr": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "name",
+            "prettyName",
+            "symbol",
+            "denom",
+            "decimals",
+            "address",
+            "operator_account",
+            "stake_link"
+          ]
+        }
+      }
+    },
+    "required": [
+      "name",
+      "$schema",
+      "chains"
+    ]
+  }
