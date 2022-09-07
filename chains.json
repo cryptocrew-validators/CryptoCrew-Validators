@@ -1,5 +1,6 @@
 {
   "name": "✅ CryptoCrew Validators #IBCgang",
+  "$schema": "./chains.schema.json",
   "chains": [
     {
       "name": "cosmoshub",
