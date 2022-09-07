@@ -4,7 +4,7 @@
   "chains": [
     {
       "name": "cosmoshub",
-      "pretyName": "Cosmos Hub",
+      "prettyName": "Cosmos Hub",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cosmoshub/logo_cosmoshub.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cosmoshub/logo_cosmoshub.png",
       "symbol": "ATOM",
