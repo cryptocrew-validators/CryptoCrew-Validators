@@ -12,7 +12,7 @@
       "decimals": "6",
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
-      "stake_link": "https://wallet.keplr.app/chains/cosmoshub?tab=staking&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&modalType=select",
+      "stake_link": "https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
         "run_time": "every 6 hours",
@@ -30,7 +30,7 @@
       "decimals": "6",
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
-      "stake_link": "https://wallet.keplr.app/chains/osmosis?tab=staking&validator=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "restake": {
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
         "run_time": "18:00",
@@ -48,7 +48,7 @@
       "decimals": "6",
       "address": "junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
       "operator_account": "juno1ncu32g0lzhk0epzdar7smd3qv9da2n8wcxcuw0",
-      "stake_link": "https://wallet.keplr.app/chains/juno?tab=staking&validator=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/juno?modal=validator&chain=juno-1&validator_address=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
       "restake": {
         "address": "juno1305e92ng6a9pdh3ttc3ld459ckxupxt3p7ecam",
         "run_time": "every 6 hours",
@@ -66,7 +66,7 @@
       "decimals": "6",
       "address": "secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
       "operator_account": "secret1au8mn0yhuv765gapwv87tnjceuzlhapgzu0q4a",
-      "stake_link": "https://wallet.keplr.app/chains/secret?tab=staking&validator=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
       "restake": {
         "address": "secret1fcc93jz6egcc7vhrmpgdflwlkl3pseewq796lm",
         "run_time": "every 6 hours",
@@ -84,7 +84,7 @@
       "decimals": "6",
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
-      "stake_link": "https://station.terra.money/validator/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "rpc": [
         "https://rpc.terrav2.ccvalidators.com"
       ],
@@ -129,7 +129,7 @@
       "decimals": "18",
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
-      "stake_link": "https://wallet.keplr.app/chains/evmos?tab=staking&validator=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "restake": {
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
         "run_time": "every 6 hours",
@@ -172,8 +172,7 @@
       "decimals": "6",
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
-      "stake_link": "https://wallet.keplr.app/chains/persistence?tab=staking&validator=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&modalType=select",
-      "restake": {},
+      "stake_link": "https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "coingecko_id": "persistence",
       "rpc": [
         "https://rpc.core.persistence.one"
@@ -193,7 +192,7 @@
       "decimals": "6",
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
-      "stake_link": "https://wallet.keplr.app/chains/stargaze?tab=staking&validator=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "restake": {
         "address": "stars1305e92ng6a9pdh3ttc3ld459ckxupxt3rsd73k",
         "run_time": "every 6 hours",
@@ -211,8 +210,7 @@
       "decimals": "6",
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
-      "stake_link": "https://wallet.keplr.app/chains/chihuahua?tab=staking&validator=chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8&modalType=select",
-      "restake": {},
+      "stake_link": "https://ping.pub/chihuahua/staking/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "apr": "100-110"
     },
     {
@@ -226,7 +224,6 @@
       "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "operator_account": "omniflix1smuvvnjj6w7x6ytq9kdgvlj6er99y664e9qg63",
       "stake_link": "https://ping.pub/omniflix/staking/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
-      "restake": {},
       "rpc": [
         "http://23.88.81.42:2112"
       ],
@@ -264,7 +261,6 @@
       "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "operator_account": "band1ev4ylm9q6kyzsck3t6sw0h86zev95cfxwqhkaf",
       "stake_link": "https://ping.pub/band-protocol/staking/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
-      "restake": {},
       "apr": "10-13"
     },
     {
@@ -277,7 +273,7 @@
       "decimals": "6",
       "address": "gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "operator_account": "gravity1452twnqn0z4l34c9uxudeaetk6hudpqp2yh0qj",
-      "stake_link": "https://wallet.keplr.app/chains/gravity-bridge?tab=staking&validator=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
       "restake": {
         "address": "gravity1305e92ng6a9pdh3ttc3ld459ckxupxt3nugml0",
         "run_time": "every 6 hours",
@@ -313,8 +309,7 @@
       "decimals": "6",
       "address": "emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
       "operator_account": "emoney1ggpn5jtrgf5hhzw79la6k4h9jgcws3er4z7vz6",
-      "stake_link": "https://wallet.keplr.app/chains/e-money?tab=staking&validator=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh&modalType=select",
-      "restake": {},
+      "stake_link": "https://wallet.keplr.app/chains/e-money?modal=validator&chain=emoney-3&validator_address=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh&referral=true",
       "apr": "20-25"
     },
     {
@@ -328,8 +323,7 @@
       "address": "nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr",
       "hex_address": "945FB46D34BA10D391F33A3184793BB0D2F13340",
       "operator_account": "",
-      "stake_link": "https://app.nomic.io",
-      "restake": {},
+      "stake_link": "https://app.nomic.io/#/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info",
       "rpc": [
         "http://138.197.71.46:26657"
       ],
@@ -347,7 +341,7 @@
       "decimals": "6",
       "address": "sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd",
       "operator_account": "somm1xz0eu8um28a72rl9gufhszkd6tewus8uye3f5z",
-      "stake_link": "https://wallet.keplr.app/chains/sommelier?tab=staking&validator=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd&modalType=select",
+      "stake_link": "https://wallet.keplr.app/chains/sommelier?modal=validator&chain=sommelier-3&validator_address=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd",
       "restake": {
         "address": "somm1305e92ng6a9pdh3ttc3ld459ckxupxt3ms40td",
         "run_time": "every 6 hours",
@@ -401,7 +395,7 @@
       "decimals": "6",
       "address": "bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
       "operator_account": "bitsong1wetqg989uyj3mpk07h8yt3qvu2cdlsv7g9dtaq",
-      "stake_link": "https://look.chillvalidation.com/bitsong/staking/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
+      "stake_link": "https://ping.pub/bitsong/staking/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
       "restake": {
         "address": "bitsong1305e92ng6a9pdh3ttc3ld459ckxupxt3m9gtcg",
         "run_time": "every 6 hours",
@@ -438,7 +432,6 @@
       "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "operator_account": "vdl1z4me3j5s77q2xl4r5d773lahusxfpmgyhcrfsh",
       "stake_link": "https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
-      "restake": {},
       "apr": "15-20"
     },
     {
@@ -451,8 +444,7 @@
       "decimals": "6",
       "address": "odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "operator_account": "odin103yy6yxn7u3tfs25fr4xt4hyfq9h44ydrcndck",
-      "stake_link": "https://look.chillvalidation.com/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
-      "restake": {},
+      "stake_link": "https://ping.pub/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "rpc": [
         "http://64.227.124.68:26657"
       ],
@@ -472,7 +464,6 @@
       "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
       "operator_account": "rdx1qspwqnaur60al24f5yk0xuxjnchrr7zcerfneusxuj3mpyc8wfyrrtgde8tmp",
       "stake_link": "https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
-      "restake": {},
       "rpc": [
         ""
       ],
