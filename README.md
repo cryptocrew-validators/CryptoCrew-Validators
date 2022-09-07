@@ -7,7 +7,7 @@ Telegram public group: https://t.me/cryptocrew_validators
 Website: https://ccvalidators.com
 ---
 
-# CryptoCrew-Validators
+# CryptoCrew-Validators 
 public repo of ccvalidators
 
 _Infrastructure-Provider, Validator, IBC-Relayer - We power the interchain._
