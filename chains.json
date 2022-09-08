@@ -9,10 +9,10 @@
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cosmoshub/logo_cosmoshub.png",
       "symbol": "ATOM",
       "denom": "uatom",
-      "decimals": "6",
+      "decimals": "",
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
-      "stake_link": "https://wallet.keplr.app/#/cosmoshub/stake?modal=detail&validator=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
+      "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
         "run_time": "every 6 hours",
