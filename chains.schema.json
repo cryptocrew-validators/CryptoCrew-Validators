@@ -54,6 +54,9 @@
                 },
                 "minimum_reward": {
                   "type": "integer"
+                },
+                "status_svg_url": {
+                  "type": "string"
                 }
               },
               "required": [

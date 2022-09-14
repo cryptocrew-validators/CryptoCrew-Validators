@@ -16,7 +16,8 @@
       "restake": {
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_svg_url": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/p9RsPpd8-2/ATOM.svg"
       },
       "apr": "15-20"
     },
