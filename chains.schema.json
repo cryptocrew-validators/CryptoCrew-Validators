@@ -55,7 +55,7 @@
                 "minimum_reward": {
                   "type": "integer"
                 },
-                "status_svg_url": {
+                "status_url_svg": {
                   "type": "string"
                 }
               },

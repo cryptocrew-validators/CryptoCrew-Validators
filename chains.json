@@ -17,7 +17,7 @@
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
         "run_time": "every 6 hours",
         "minimum_reward": 100000,
-        "status_svg_url": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/p9RsPpd8-2/ATOM.svg"
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/p9RsPpd8-2/ATOM.svg"
       },
       "apr": "15-20"
     },
@@ -35,7 +35,8 @@
       "restake": {
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
         "run_time": "18:00",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/KV3XP4OM-2/OSMO.svg"
       },
       "apr": "25-30"
     },
@@ -53,7 +54,8 @@
       "restake": {
         "address": "juno1305e92ng6a9pdh3ttc3ld459ckxupxt3p7ecam",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/Wcx0CWMW-2/JUNO.svg"
       },
       "apr": "65-70"
     },
@@ -71,7 +73,8 @@
       "restake": {
         "address": "secret1fcc93jz6egcc7vhrmpgdflwlkl3pseewq796lm",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/Fuz-Xb1D-2/SCRT.svg"
       },
       "apr": "20-25"
     },
@@ -103,7 +106,8 @@
       "restake": {
         "address": "kujira1305e92ng6a9pdh3ttc3ld459ckxupxt3xycmhd",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/NK59kmk9-2/KUJI.svg"
       },
       "rpc": [
         "https://rpc.kujira.ccvalidators.com:443"
@@ -128,7 +132,8 @@
       "restake": {
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/f-9rsLXT-2/EVMOS.svg"
       },
       "rpc": [
         "https://rpc.bd.evmos.dev:26657"
@@ -191,7 +196,8 @@
       "restake": {
         "address": "stars1305e92ng6a9pdh3ttc3ld459ckxupxt3rsd73k",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/v0TCsRo4-2/STARS.svg"
       },
       "apr": "80-90"
     },
@@ -241,7 +247,8 @@
       "restake": {
         "address": "comdex1305e92ng6a9pdh3ttc3ld459ckxupxt3srcprs",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/ZnbJ14Q2-2/CMDX.svg"
       },
       "apr": "35-40"
     },
@@ -272,7 +279,8 @@
       "restake": {
         "address": "gravity1305e92ng6a9pdh3ttc3ld459ckxupxt3nugml0",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/6c0Q9E8C-2/GRAV.svg"
       },
       "apr": "35-40"
     },
@@ -290,7 +298,8 @@
       "restake": {
         "address": "cre1305e92ng6a9pdh3ttc3ld459ckxupxt3nyfx02",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/cbc3e89i-2/CRE.svg"
       },
       "apr": "20-25"
     },
@@ -340,7 +349,8 @@
       "restake": {
         "address": "somm1305e92ng6a9pdh3ttc3ld459ckxupxt3ms40td",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/VlSfmWOp-2/SOMM.svg"
       },
       "apr": "0"
     },
@@ -358,7 +368,8 @@
       "restake": {
         "address": "cerberus1305e92ng6a9pdh3ttc3ld459ckxupxt3tt620v",
         "run_time": "every 20 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/EnAk3GOQ-2/CRBRUS.svg"
       },
       "apr": "130-140"
     },
@@ -376,7 +387,8 @@
       "restake": {
         "address": "lum1305e92ng6a9pdh3ttc3ld459ckxupxt3zx820n",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/OiZKSAmI-2/LUM.svg"
       },
       "apr": "40-45"
     },
@@ -394,7 +406,8 @@
       "restake": {
         "address": "bitsong1305e92ng6a9pdh3ttc3ld459ckxupxt3m9gtcg",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/VR3lMAgs-2/BTSG.svg"
       },
       "apr": "33-37"
     },
@@ -412,7 +425,8 @@
       "restake": {
         "address": "dig1305e92ng6a9pdh3ttc3ld459ckxupxt30cngcu",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/tA44rjZ8-2/DIG.svg"
       },
       "apr": "45-55"
     },
