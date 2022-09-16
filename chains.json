@@ -19,6 +19,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/p9RsPpd8-2/ATOM.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "15-20",
       "coingecko_id": "cosmos"
     },
@@ -39,6 +41,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/KV3XP4OM-2/OSMO.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "25-30",
       "coingecko_id": "osmosis"
     },
@@ -59,6 +63,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/Wcx0CWMW-2/JUNO.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "65-70",
       "coingecko_id": "juno-network"
     },
@@ -79,6 +85,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/Fuz-Xb1D-2/SCRT.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "20-25",
       "coingecko_id": "secret"
     },
@@ -92,7 +100,13 @@
       "decimals": "6",
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
-      "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",  
+      "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "rpc": [
+        "https://rpc.terrav2.ccvalidators.com:443"
+      ],
+      "rest": [
+        "https://rest.terrav2.ccvalidators.com:443"
+      ],  
       "apr": "12-15",
       "coingecko_id": "terra-luna-2"
     },
@@ -139,12 +153,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/f-9rsLXT-2/EVMOS.svg"
       },
-      "rpc": [
-        "https://rpc.bd.evmos.dev:26657"
-      ],
-      "rest": [
-        "https://tendermint.bd.evmos.org:26657"
-      ],
+      "rpc": [],
+      "rest": [],
       "apr": "300-350",
       "coingecko_id": "evmos"
     },
@@ -180,10 +190,10 @@
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "rpc": [
-        "https://rpc.core.persistence.one"
+        "https://rpc.core.persistence.one:443"
       ],
       "rest": [
-        "https://rest.core.persistence.one"
+        "https://rest.core.persistence.one:443"
       ],
       "apr": "30-35",
       "coingecko_id": "persistence"
@@ -205,6 +215,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/v0TCsRo4-2/STARS.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "80-90",
       "coingecko_id": "stargaze"
     },
@@ -219,6 +231,8 @@
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
       "stake_link": "https://ping.pub/chihuahua/staking/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
+      "rpc": [],
+      "rest": [],
       "apr": "100-110",
       "coingecko_id": "chihuahua"
     },
@@ -233,12 +247,8 @@
       "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "operator_account": "omniflix1smuvvnjj6w7x6ytq9kdgvlj6er99y664e9qg63",
       "stake_link": "https://ping.pub/omniflix/staking/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
-      "rpc": [
-        "http://23.88.81.42:2112"
-      ],
-      "rest": [
-        "http://23.88.81.42:2111"
-      ],
+      "rpc": [],
+      "rest": [],
       "apr": "0",
       "coingecko_id": "omniflix-network"
     },
@@ -259,6 +269,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/ZnbJ14Q2-2/CMDX.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "35-40",
       "coingecko_id": "comdex"
     },
@@ -273,6 +285,8 @@
       "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "operator_account": "band1ev4ylm9q6kyzsck3t6sw0h86zev95cfxwqhkaf",
       "stake_link": "https://ping.pub/band-protocol/staking/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
+      "rpc": [],
+      "rest": [],
       "apr": "10-13",
       "coingecko_id": "band-protocol"
     },
@@ -293,6 +307,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/6c0Q9E8C-2/GRAV.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "35-40",
       "coingecko_id": "graviton"
     },
@@ -313,6 +329,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/cbc3e89i-2/CRE.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "20-25",
       "coingecko_id": "crescent-network"
     },
@@ -327,6 +345,8 @@
       "address": "emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
       "operator_account": "emoney1ggpn5jtrgf5hhzw79la6k4h9jgcws3er4z7vz6",
       "stake_link": "https://wallet.keplr.app/chains/e-money?modal=validator&chain=emoney-3&validator_address=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh&referral=true",
+      "rpc": [],
+      "rest": [],
       "apr": "20-25",
       "coingecko_id": "e-money"
     },
@@ -345,9 +365,9 @@
       "rpc": [
         "http://138.197.71.46:26657"
       ],
-      "rest": "",
+      "rest": [],
       "commission": "0.05",
-      "apr": "150-250"
+      "apr": "100-150"
     },
     {
       "name": "sommelier",
@@ -366,6 +386,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/VlSfmWOp-2/SOMM.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "0",
       "coingecko_id": "sommelier"
     },
@@ -386,6 +408,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/EnAk3GOQ-2/CRBRUS.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "130-140",
       "coingecko_id": "cerberus-2"
     },
@@ -406,6 +430,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/OiZKSAmI-2/LUM.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "40-45",
       "coingecko_id": "lum-network"
     },
@@ -426,6 +452,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/VR3lMAgs-2/BTSG.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "33-37",
       "coingecko_id": "bitsong"
     },
@@ -446,6 +474,8 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/tA44rjZ8-2/DIG.svg"
       },
+      "rpc": [],
+      "rest": [],
       "apr": "45-55",
       "coingecko_id": "dig-chain"
     },
@@ -460,6 +490,8 @@
       "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "operator_account": "vdl1z4me3j5s77q2xl4r5d773lahusxfpmgyhcrfsh",
       "stake_link": "https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
+      "rpc": [],
+      "rest": [],
       "apr": "15-20",
       "coingecko_id": "vidulum"
     },
@@ -475,10 +507,10 @@
       "operator_account": "odin103yy6yxn7u3tfs25fr4xt4hyfq9h44ydrcndck",
       "stake_link": "https://ping.pub/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "rpc": [
-        "http://64.227.124.68:26657"
+        "http://34.79.179.216:26657"
       ],
       "rest": [
-        "http://64.227.124.68:1317"
+        "http://34.79.179.216:1317"
       ],
       "apr": "100-130",
       "coingecko_id": "odin-protocol"
@@ -494,11 +526,9 @@
       "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
       "operator_account": "rdx1qspwqnaur60al24f5yk0xuxjnchrr7zcerfneusxuj3mpyc8wfyrrtgde8tmp",
       "stake_link": "https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
-      "rpc": [
-        ""
-      ],
+      "rpc": [],
       "rest": [
-        "https://mainnet-gateway.radixdlt.com/"
+        "https://mainnet-gateway.radixdlt.com:443"
       ],
       "apr": "10",
       "coingecko_id": "radix"
