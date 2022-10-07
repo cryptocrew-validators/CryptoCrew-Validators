@@ -179,6 +179,28 @@
       "coingecko_id": "injective-protocol"
     },
     {
+      "name": "axelar",
+      "prettyName": "Axelar",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.png",
+      "symbol": "AXL",
+      "denom": "uaxl",
+      "decimals": "6",
+      "address": "axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk",
+      "operator_account": "axelar1zg3g70xsxc28jw7ed36nxh7x70s22ufrw52xpe",
+      "stake_link": "https://wallet.keplr.app/chains/axelar?modal=validator&chain=axelar-dojo-1&validator_address=axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk",
+      "restake": {
+        "address": "",
+        "run_time": "",
+        "minimum_reward": 100000,
+        "status_url_svg": ""
+      },
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "axelar"
+    },
+    {
       "name": "persistence",
       "prettyName": "Persistence",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/persistence/logo_persistence.svg",
@@ -219,6 +241,28 @@
       "rest": [],
       "apr": "80-90",
       "coingecko_id": "stargaze"
+    },
+    {
+      "name": "passage",
+      "prettyName": "Passage",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/passage/logo_passage.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/passage/logo_passage.png",
+      "symbol": "PSG",
+      "denom": "upsg",
+      "decimals": "6",
+      "address": "pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
+      "operator_account": "pasg1pjay45yqzpnn6364l2peqej9t2ah5vknjeuw9x",
+      "stake_link": "",
+      "restake": {
+        "address": "",
+        "run_time": "",
+        "minimum_reward": 100000,
+        "status_url_svg": ""
+      },
+      "rpc": [],
+      "rest": [],
+      "apr": "0",
+      "coingecko_id": ""
     },
     {
       "name": "chihuahua",
@@ -390,6 +434,28 @@
       "rest": [],
       "apr": "0",
       "coingecko_id": "sommelier"
+    },
+    {
+      "name": "teritori",
+      "prettyName": "Teritori",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/teritori/logo_teritori.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/teritori/logo_teritori.png",
+      "symbol": "TORI",
+      "denom": "utori",
+      "decimals": "6",
+      "address": "torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct",
+      "operator_account": "tori1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0ckncg2x",
+      "stake_link": "https://explorer.teritori.com/teritori/staking/torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct",
+      "restake": {
+        "address": "tori1305e92ng6a9pdh3ttc3ld459ckxupxt34cd2ph",
+        "run_time": "every hour",
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/o2Sh5Rbh-2/TORI.svg"
+      },
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "teritori"
     },
     {
       "name": "cerberus",
