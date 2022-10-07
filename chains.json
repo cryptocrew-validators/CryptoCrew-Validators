@@ -252,7 +252,7 @@
       "decimals": "6",
       "address": "pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
       "operator_account": "pasg1pjay45yqzpnn6364l2peqej9t2ah5vknjeuw9x",
-      "stake_link": "",
+      "stake_link": "https://ping.pub/passage/staking/pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
       "restake": {
         "address": "",
         "run_time": "",
