@@ -79,6 +79,21 @@
             },
             "coingecko_id": {
               "type": "string"
+            },
+            "services": {
+              "type": "object",
+              "properties": {
+                "user": {
+                  "type": "string"
+                },
+                "operator": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "user",
+                "operator"
+              ]
             }
           },
           "required": [
