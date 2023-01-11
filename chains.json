@@ -252,7 +252,7 @@
       "decimals": "6",
       "address": "pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
       "operator_account": "pasg1pjay45yqzpnn6364l2peqej9t2ah5vknjeuw9x",
-      "stake_link": "https://ping.pub/passage/staking/pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
+      "stake_link": "https://restake.app/passage/pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
       "restake": {
         "address": "",
         "run_time": "",
@@ -274,7 +274,7 @@
       "decimals": "6",
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
-      "stake_link": "https://ping.pub/chihuahua/staking/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
+      "stake_link": "https://restake.app/chihuahua/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "rpc": [],
       "rest": [],
       "apr": "100-110",
@@ -290,7 +290,7 @@
       "decimals": "6",
       "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "operator_account": "omniflix1smuvvnjj6w7x6ytq9kdgvlj6er99y664e9qg63",
-      "stake_link": "https://ping.pub/omniflix/staking/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
+      "stake_link": "https://restake.app/omniflixhub/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "rpc": [],
       "rest": [],
       "apr": "0",
@@ -306,7 +306,7 @@
       "decimals": "6",
       "address": "comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "operator_account": "comdex10d87jx68zygmwagu9ggzxpept07zs7nmtk7qam",
-      "stake_link": "https://ping.pub/comdex/staking/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
+      "stake_link": "https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "restake": {
         "address": "comdex1305e92ng6a9pdh3ttc3ld459ckxupxt3srcprs",
         "run_time": "every 6 hours",
@@ -328,7 +328,7 @@
       "decimals": "6",
       "address": "quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58",
       "operator_account": "quick1qc8gf4qfemx5jahr5j4varpmhhs35q9pkjyr6w",
-      "stake_link": "https://ping.pub/quicksilver/staking/quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58",
+      "stake_link": "https://restake.app/quicksilver/quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58",
       "restake": {
         "address": "quick1305e92ng6a9pdh3ttc3ld459ckxupxt3ug23r4",
         "run_time": "every 10 minutes",
@@ -354,7 +354,7 @@
       "decimals": "6",
       "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "operator_account": "band1ev4ylm9q6kyzsck3t6sw0h86zev95cfxwqhkaf",
-      "stake_link": "https://ping.pub/band-protocol/staking/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
+      "stake_link": "https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "rpc": [],
       "rest": [],
       "apr": "10-13",
@@ -392,7 +392,7 @@
       "decimals": "6",
       "address": "crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
       "operator_account": "cre140cztktnml85tqfyw6qjee506gheg0rdfdhqan",
-      "stake_link": "https://ping.pub/crescent/staking/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
+      "stake_link": "https://restake.app/crescent/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
       "restake": {
         "address": "cre1305e92ng6a9pdh3ttc3ld459ckxupxt3nyfx02",
         "run_time": "every 6 hours",
@@ -493,7 +493,7 @@
       "decimals": "6",
       "address": "cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
       "operator_account": "cerberus1lxz6ucd5qydhpwtpatn9wu83fc002v087guacf",
-      "stake_link": "https://ping.pub/cerberus/staking/cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
+      "stake_link": "https://restake.app/cerberus/cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
       "restake": {
         "address": "cerberus1305e92ng6a9pdh3ttc3ld459ckxupxt3tt620v",
         "run_time": "every 20 minutes",
@@ -515,7 +515,7 @@
       "decimals": "6",
       "address": "lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
       "operator_account": "lum1y69ary732dmngmj2g2e8m2ssedugya4mznxcfs",
-      "stake_link": "https://ping.pub/lum-network/staking/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
+      "stake_link": "https://restake.app/lumnetwork/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
       "restake": {
         "address": "lum1305e92ng6a9pdh3ttc3ld459ckxupxt3zx820n",
         "run_time": "every 6 hours",
@@ -537,7 +537,7 @@
       "decimals": "6",
       "address": "bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
       "operator_account": "bitsong1wetqg989uyj3mpk07h8yt3qvu2cdlsv7g9dtaq",
-      "stake_link": "https://ping.pub/bitsong/staking/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
+      "stake_link": "https://restake.app/bitsong/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
       "restake": {
         "address": "bitsong1305e92ng6a9pdh3ttc3ld459ckxupxt3m9gtcg",
         "run_time": "every 6 hours",
@@ -559,7 +559,7 @@
       "decimals": "6",
       "address": "digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
       "operator_account": "dig184tx500pdv53uua98ezu2vy2zcfp5nfwu7mf2t",
-      "stake_link": "https://ping.pub/dig/staking/digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
+      "stake_link": "https://restake.app/dig/digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
       "restake": {
         "address": "dig1305e92ng6a9pdh3ttc3ld459ckxupxt30cngcu",
         "run_time": "every 6 hours",
@@ -581,7 +581,7 @@
       "decimals": "6",
       "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "operator_account": "vdl1z4me3j5s77q2xl4r5d773lahusxfpmgyhcrfsh",
-      "stake_link": "https://ping.pub/vidulum/staking/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
+      "stake_link": "https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "rpc": [],
       "rest": [],
       "apr": "15-20",
@@ -597,7 +597,7 @@
       "decimals": "6",
       "address": "odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "operator_account": "odin103yy6yxn7u3tfs25fr4xt4hyfq9h44ydrcndck",
-      "stake_link": "https://ping.pub/odin/staking/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
+      "stake_link": "https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
       "rpc": [
         "http://34.79.179.216:26657"
       ],
