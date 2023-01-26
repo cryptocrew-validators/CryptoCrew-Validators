@@ -43,6 +43,9 @@
             "relayer_accounts": {
               "type": "array"
             },
+            "hex_address": {
+              "type": "string"
+            },
             "stake_link": {
               "type": "string"
             },
@@ -68,8 +71,32 @@
                 "minimum_reward"
               ]
             },
+            "rpc": {
+              "type": "array"
+            },
+            "rest": {
+              "type": "array"
+            },
             "apr": {
               "type": "string"
+            },
+            "coingecko_id": {
+              "type": "string"
+            },
+            "services": {
+              "type": "object",
+              "properties": {
+                "user": {
+                  "type": "string"
+                },
+                "operator": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "user",
+                "operator"
+              ]
             }
           },
           "required": [
@@ -80,7 +107,9 @@
             "decimals",
             "address",
             "operator_account",
-            "stake_link"
+            "stake_link",
+            "rpc",
+            "rest"
           ]
         }
       }
