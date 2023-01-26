@@ -21,7 +21,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "15-20",
+      "apr": "",
       "coingecko_id": "cosmos"
     },
     {
@@ -43,7 +43,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "25-30",
+      "apr": "",
       "coingecko_id": "osmosis"
     },
     {
@@ -65,7 +65,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "65-70",
+      "apr": "",
       "coingecko_id": "juno-network"
     },
     {
@@ -87,7 +87,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "20-25",
+      "apr": "",
       "coingecko_id": "secret"
     },
     {
@@ -107,7 +107,7 @@
       "rest": [
         "https://rest.terrav2.ccvalidators.com:443"
       ],  
-      "apr": "12-15",
+      "apr": "",
       "coingecko_id": "terra-luna-2"
     },
     {
@@ -133,7 +133,7 @@
       "rest": [
         "https://rest.kujira.ccvalidators.com:443"
       ],
-      "apr": "0",
+      "apr": "",
       "coingecko_id": "kujira"
     },
     {
@@ -155,7 +155,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "300-350",
+      "apr": "",
       "coingecko_id": "evmos"
     },
     {
@@ -175,7 +175,7 @@
       "rest": [
         "https://public.lcd.injective.network:443"
       ],
-      "apr": "13.45",
+      "apr": "",
       "coingecko_id": "injective-protocol"
     },
     {
@@ -217,7 +217,7 @@
       "rest": [
         "https://rest.core.persistence.one:443"
       ],
-      "apr": "30-35",
+      "apr": "",
       "coingecko_id": "persistence"
     },
     {
@@ -239,7 +239,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "80-90",
+      "apr": "",
       "coingecko_id": "stargaze"
     },
     {
@@ -277,7 +277,7 @@
       "stake_link": "https://restake.app/chihuahua/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "rpc": [],
       "rest": [],
-      "apr": "100-110",
+      "apr": "",
       "coingecko_id": "chihuahua"
     },
     {
@@ -315,7 +315,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "35-40",
+      "apr": "",
       "coingecko_id": "comdex"
     },
     {
@@ -357,7 +357,7 @@
       "stake_link": "https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "rpc": [],
       "rest": [],
-      "apr": "10-13",
+      "apr": "",
       "coingecko_id": "band-protocol"
     },
     {
@@ -379,7 +379,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "35-40",
+      "apr": "",
       "coingecko_id": "graviton"
     },
     {
@@ -401,7 +401,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "20-25",
+      "apr": "",
       "coingecko_id": "crescent-network"
     },
     {
@@ -417,7 +417,7 @@
       "stake_link": "https://wallet.keplr.app/chains/e-money?modal=validator&chain=emoney-3&validator_address=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh&referral=true",
       "rpc": [],
       "rest": [],
-      "apr": "20-25",
+      "apr": "",
       "coingecko_id": "e-money"
     },
     {
@@ -437,7 +437,7 @@
       ],
       "rest": [],
       "commission": "0.05",
-      "apr": "100-150"
+      "apr": ""
     },
     {
       "name": "sommelier",
@@ -458,7 +458,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "0",
+      "apr": "",
       "coingecko_id": "sommelier"
     },
     {
@@ -502,7 +502,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "130-140",
+      "apr": "",
       "coingecko_id": "cerberus-2"
     },
     {
@@ -524,7 +524,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "40-45",
+      "apr": "",
       "coingecko_id": "lum-network"
     },
     {
@@ -546,7 +546,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "33-37",
+      "apr": "",
       "coingecko_id": "bitsong"
     },
     {
@@ -568,7 +568,7 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "45-55",
+      "apr": "",
       "coingecko_id": "dig-chain"
     },
     {
@@ -584,7 +584,7 @@
       "stake_link": "https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
       "rpc": [],
       "rest": [],
-      "apr": "15-20",
+      "apr": "",
       "coingecko_id": "vidulum"
     },
     {
@@ -604,7 +604,7 @@
       "rest": [
         "http://34.79.179.216:1317"
       ],
-      "apr": "100-130",
+      "apr": "",
       "coingecko_id": "odin-protocol"
     },
     {
