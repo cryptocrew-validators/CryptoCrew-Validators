@@ -40,6 +40,9 @@
             "operator_account": {
               "type": "string"
             },
+            "relayer_accounts": {
+              "type": "array"
+            },
             "stake_link": {
               "type": "string"
             },
