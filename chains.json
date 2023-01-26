@@ -12,6 +12,7 @@
       "decimals": "",
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
+      "relayer_accounts": ["cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u", "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl", "cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs"],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {
         "address": "cosmos1305e92ng6a9pdh3ttc3ld459ckxupxt3hv6r68",
@@ -34,6 +35,7 @@
       "decimals": "6",
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
+      "relayer_accounts": [""],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "restake": {
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
