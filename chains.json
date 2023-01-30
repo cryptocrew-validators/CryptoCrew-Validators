@@ -586,6 +586,23 @@
       "coingecko_id": "bitsong"
     },
     {
+      "name": "chain4energy",
+      "prettyName": "Chain 4 Energy",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/chain4energy/logo_chain4energy.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/chain4energy/logo_chain4energy.png",
+      "symbol": "C4E",
+      "denom": "uc4e",
+      "decimals": "6",
+      "address": "c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae",
+      "operator_account": "c4e1u9gslrlvpte9n8r00sder6mh3w8xcadq065xuw",
+      "relayer_accounts": [""],
+      "stake_link": "https://ping.pub/chain4energy/staking/c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": ""
+    },
+    {
       "name": "dig",
       "prettyName": "Dig Chain",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/dig/logo_dig.svg",
