@@ -58,6 +58,9 @@
                 "run_time": {
                   "type": "string"
                 },
+                "runs_daily": {
+                  "type": "integer"
+                },
                 "minimum_reward": {
                   "type": "integer"
                 },
@@ -68,6 +71,7 @@
               "required": [
                 "address",
                 "run_time",
+                "runs_daily",
                 "minimum_reward"
               ]
             },
