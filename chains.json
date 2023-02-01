@@ -193,6 +193,30 @@
       "coingecko_id": "injective-protocol"
     },
     {
+      "name": "mars",
+      "prettyName": "Mars",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.png",
+      "symbol": "MARS",
+      "denom": "umars",
+      "decimals": "6",
+      "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
+      "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
+      "relayer_accounts": [],
+      "stake_link": "https://station.terra.money/validator/marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
+      "restake": {
+        "address": "",
+        "run_time": "",
+        "runs_daily": 0,
+        "minimum_reward": 100000,
+        "status_url_svg": ""
+      },
+      "rpc": [],
+      "rest": [],
+      "apr": "0",
+      "coingecko_id": ""
+    },
+    {
       "name": "axelar",
       "prettyName": "Axelar",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.svg",
@@ -259,23 +283,6 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "stargaze"
-    },
-    {
-      "name": "mars",
-      "prettyName": "Mars",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.png",
-      "symbol": "MARS",
-      "denom": "umars",
-      "decimals": "6",
-      "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
-      "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
-      "relayer_accounts": [],
-      "stake_link": "https://station.terra.money/validator/marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
-      "rpc": [],
-      "rest": [],
-      "apr": "0",
-      "coingecko_id": ""
     },
     {
       "name": "passage",
