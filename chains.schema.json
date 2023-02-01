@@ -46,6 +46,9 @@
             "hex_address": {
               "type": "string"
             },
+            "trade_url": {
+              "type": "string"
+            },
             "stake_link": {
               "type": "string"
             },
