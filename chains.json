@@ -620,7 +620,7 @@
       "address": "c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae",
       "operator_account": "c4e1u9gslrlvpte9n8r00sder6mh3w8xcadq065xuw",
       "relayer_accounts": [""],
-      "stake_link": "https://ping.pub/chain4energy/staking/c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae",
+      "stake_link": "https://restake.app/chain4energy/c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae",
       "rpc": [],
       "rest": [],
       "apr": "",
