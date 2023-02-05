@@ -417,10 +417,10 @@
       "symbol": "GRAV",
       "denom": "graviton",
       "decimals": "6",
-      "address": "gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
-      "operator_account": "gravity1452twnqn0z4l34c9uxudeaetk6hudpqp2yh0qj",
+      "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
+      "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
       "relayer_accounts": ["gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5","gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"],
-      "stake_link": "https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper1452twnqn0z4l34c9uxudeaetk6hudpqpm0w32x",
+      "stake_link": "https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "restake": {
         "address": "gravity1305e92ng6a9pdh3ttc3ld459ckxupxt3nugml0",
         "run_time": "every 6 hours",
