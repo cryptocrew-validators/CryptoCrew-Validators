@@ -415,7 +415,7 @@
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.png",
       "symbol": "GRAV",
-      "denom": "graviton",
+      "denom": "ugraviton",
       "decimals": "6",
       "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
