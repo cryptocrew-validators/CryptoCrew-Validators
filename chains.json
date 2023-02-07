@@ -213,8 +213,8 @@
       },
       "rpc": [],
       "rest": [],
-      "apr": "0",
-      "coingecko_id": ""
+      "apr": "",
+      "coingecko_id": "mars-protocol"
     },
     {
       "name": "axelar",
