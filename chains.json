@@ -538,30 +538,6 @@
       "coingecko_id": "teritori"
     },
     {
-      "name": "cerberus",
-      "prettyName": "Cerberus Chain",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus1.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cerberus/logo_cerberus1.png",
-      "symbol": "CRBRUS",
-      "denom": "ucrbrus",
-      "decimals": "6",
-      "address": "cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
-      "operator_account": "cerberus1lxz6ucd5qydhpwtpatn9wu83fc002v087guacf",
-      "relayer_accounts": ["cerberus1yvejj22t78s2vfk7slty2d7fs5lkc8rn0v3msh"],
-      "stake_link": "https://restake.app/cerberus/cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
-      "restake": {
-        "address": "cerberus1305e92ng6a9pdh3ttc3ld459ckxupxt3tt620v",
-        "run_time": "every 20 minutes",
-        "runs_daily": 72,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/EnAk3GOQ-2/CRBRUS.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "cerberus-2"
-    },
-    {
       "name": "lumnetwork",
       "prettyName": "Lum Network",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/lumnetwork/logo_lumnetwork.svg",
