@@ -101,8 +101,8 @@
     {
       "name": "terra2",
       "prettyName": "Terra Phoenix",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terrav2/logo_terrav2.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terra2/logo_terrav2.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/terra2/logo_terrav2.png",
       "symbol": "LUNA",
       "denom": "uluna",
       "decimals": "6",
@@ -213,6 +213,9 @@
       },
       "rpc": [],
       "rest": [],
+      "services": [
+        "service_snapshot"
+      ]
       "apr": "",
       "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
     },
@@ -327,8 +330,8 @@
     {
       "name": "omniflixhub",
       "prettyName": "Omniflix Hub",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflix/logo_omniflix.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflix/logo_omniflix.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflixhub/logo_omniflix.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflixhub/logo_omniflix.png",
       "symbol": "FLIX",
       "denom": "uflix",
       "decimals": "6",
