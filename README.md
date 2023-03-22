@@ -1,4 +1,4 @@
----
+---yaml
 Moniker: ✅ CryptoCrew Validators #IBCgang
 Email: info@ccvalidators.com
 Telegram emergency contact: https://t.me/clemensg
