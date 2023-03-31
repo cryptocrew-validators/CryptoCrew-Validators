@@ -267,7 +267,6 @@
     {
       "name": "migaloo",
       "prettyName": "White Whale",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/migaloo/logo_migaloo.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/migaloo/logo_migaloo.png",
       "symbol": "WHALE",
       "denom": "uwhale",
