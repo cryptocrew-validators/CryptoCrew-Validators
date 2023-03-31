@@ -220,29 +220,6 @@
       "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
     },
     {
-      "name": "axelar",
-      "prettyName": "Axelar",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.png",
-      "symbol": "AXL",
-      "denom": "uaxl",
-      "decimals": "6",
-      "address": "axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk",
-      "operator_account": "axelar1zg3g70xsxc28jw7ed36nxh7x70s22ufrw52xpe",
-      "stake_link": "https://wallet.keplr.app/chains/axelar?modal=validator&chain=axelar-dojo-1&validator_address=axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk",
-      "restake": {
-        "address": "",
-        "run_time": "",
-        "runs_daily": 0,
-        "minimum_reward": 100000,
-        "status_url_svg": ""
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "axelar"
-    },
-    {
       "name": "persistence",
       "prettyName": "Persistence",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/persistence/logo_persistence.svg",
@@ -286,6 +263,23 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "stargaze"
+    },
+    {
+      "name": "migaloo",
+      "prettyName": "White Whale",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.png",
+      "symbol": "WHALE",
+      "denom": "uwhale",
+      "decimals": "6",
+      "address": "migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj",
+      "operator_account": "migaloo127nprdxstd5t5wt6frxk3fgj74zdp5memt454e",
+      "relayer_accounts": ["migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3"],
+      "stake_link": "https://restake.app/migaloo/migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj",
+      "rpc": ["https://rpc.migaloo.ccvalidators.com:443"],
+      "rest": ["https://rest.migaloo.ccvalidators.com:443"],
+      "apr": "",
+      "coingecko_id": ""
     },
     {
       "name": "passage",
