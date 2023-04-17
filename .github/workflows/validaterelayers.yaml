@@ -1,0 +1,14 @@
+on: [push, pull_request, workflow_dispatch]
+name: Validate JSON schema
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate chains.json schema
+        uses: walbo/validate-json@v1.1.0
+        with:
+          files: ./relayers.json
+          schema: relayers.schema.json
+          schema-version: draft-07
+          fail-on-missing-schema: true
