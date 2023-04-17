@@ -3,6 +3,38 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "TESTNET-RELAYER",
+      "software": "hermes",
+      "software_version": "hermes 1.4.0+daad0284",
+      "chains": [
+        {
+          "chain_id": "osmo-test-4",
+          "channels": [
+            {
+              "channel_id": "channel-1946",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-testnet-lisbon-3"
+            },
+            {
+              "channel_id": "channel-3316",
+              "port_id": "transfer",
+              "dst_chain_id": "uni-6"
+            }
+          ]
+        },
+        {
+          "chain_id": "uni-6",
+          "channels": [
+            {
+              "channel_id": "channel-140",
+              "port_id": "transfer",
+              "dst_chain_id": "osmo-test-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "RELAYER4",
       "software": "hermes",
       "software_version": "hermes 1.3.0+d3ad2eb2",
