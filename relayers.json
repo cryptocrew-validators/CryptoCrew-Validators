@@ -3,6 +3,38 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "RELAYER1-lt",
+      "software": "hermes",
+      "software_version": "hermes 1.2.0+061f14f1",
+      "chains": [
+        {
+          "chain_id": "core-1",
+          "channels": [
+            {
+              "channel_id": "channel-38",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            }
+          ]
+        },
+        {
+          "chain_id": "gravity-bridge-3",
+          "channels": [
+            {
+              "channel_id": "channel-112",
+              "port_id": "transfer",
+              "dst_chain_id": "comdex-1"
+            },
+            {
+              "channel_id": "channel-24",
+              "port_id": "transfer",
+              "dst_chain_id": "core-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "RELAYER1",
       "software": "hermes",
       "software_version": "hermes 1.2.0+061f14f1",
