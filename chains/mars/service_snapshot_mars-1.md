@@ -1,7 +1,7 @@
 | DOWNLOAD | date | chain_id | size | checksum |
 | -------- | ---- | -------- | ---- | -------- |
-| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_854222.tar.lz4) | Thu Mar 30 12:54:59 PM CEST 2023 | mars-1 | 719M | bb08dc032c1e398f7111210306156832ecb4cd211486a81156c30c12fa40256d |
-| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_824372.tar.lz4) | Tue Mar 28 12:54:26 PM CEST 2023 | mars-1 | 763M | eca570d64dada34c3256b95667d6383d7d9878330cfc7a6374ee6dc2b03f6cd4 |
+| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_988454.tar.lz4) | Sat Apr  8 12:55:14 PM UTC 2023 | mars-1 | 842M | a6da58d269a65de70034d91a5e3c8553bda86ae8109b5608d971ee641a88158c |
+| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_1109072.tar.lz4) | Sun Apr 16 02:54:41 PM UTC 2023 | mars-1 | 934M | 99ea62cc0f6d702f439d148bfdec6bed031e5459370e4987160f01f567b420bb |
  
 ---
 ## download instructions
