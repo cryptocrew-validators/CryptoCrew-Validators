@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Validate chains.json schema
+      - name: Validate relayers.json schema
         uses: walbo/validate-json@v1.1.0
         with:
           files: ./relayers.json
