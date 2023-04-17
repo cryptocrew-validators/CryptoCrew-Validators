@@ -3,6 +3,48 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "RELAYER3",
+      "software": "hermes",
+      "software_version": "hermes 1.0.0+ed4dd8c8",
+      "chains": [
+        {
+          "chain_id": "axelar-dojo-1",
+          "channels": [
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "crypto-org-chain-mainnet-1",
+          "channels": [
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "channels": [
+            {
+              "channel_id": "channel-208",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-dojo-1"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "crypto-org-chain-mainnet-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "RELAYER3-injband",
       "software": "hermes",
       "software_version": "hermes 1.0.0+ed4dd8c8",
