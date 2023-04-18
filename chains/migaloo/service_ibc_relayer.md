@@ -7,7 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Wallets:
 
-- migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
+- `migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3`
 
 ### Active IBC channels `migaloo`
 | src_chain | dst_chain | IBC port | IBC channel |

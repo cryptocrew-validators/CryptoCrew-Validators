@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Wallets:
 
-- gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5
-- gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
+- `gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5`
+- `gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh`
 
 ### Active IBC channels `gravitybridge`
 | src_chain | dst_chain | IBC port | IBC channel |

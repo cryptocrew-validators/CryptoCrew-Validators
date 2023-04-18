@@ -7,9 +7,9 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Wallets:
 
-- cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
-- cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
-- cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
+- `cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u`
+- `cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl`
+- `cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs`
 
 ### Active IBC channels `cosmoshub`
 | src_chain | dst_chain | IBC port | IBC channel |

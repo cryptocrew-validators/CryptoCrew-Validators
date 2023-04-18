@@ -7,7 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Wallets:
 
-- lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg
+- `lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg`
 
 ### Active IBC channels `lumnetwork`
 | src_chain | dst_chain | IBC port | IBC channel |
