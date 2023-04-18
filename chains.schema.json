@@ -90,6 +90,9 @@
             "coingecko_id": {
               "type": "string"
             },
+            "chain_id": {
+              "type": "string"
+            },
             "services": {
               "type": "array"
             }
