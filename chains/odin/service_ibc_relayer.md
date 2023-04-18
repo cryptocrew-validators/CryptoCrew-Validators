@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk
 
-
 ### Active IBC channels `odin`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

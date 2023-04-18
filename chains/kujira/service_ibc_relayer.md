@@ -10,7 +10,6 @@ Active Relayer Wallets:
 - kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 - kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 
-
 ### Active IBC channels `kujira`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

@@ -10,7 +10,6 @@ Active Relayer Wallets:
 - osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 - osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 
-
 ### Active IBC channels `osmosis`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
