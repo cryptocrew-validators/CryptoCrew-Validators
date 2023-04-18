@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6
 
-
 ### Active IBC channels `vidulum`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

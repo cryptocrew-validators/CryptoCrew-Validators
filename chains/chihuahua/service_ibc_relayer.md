@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 
-
 ### Active IBC channels `chihuahua`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

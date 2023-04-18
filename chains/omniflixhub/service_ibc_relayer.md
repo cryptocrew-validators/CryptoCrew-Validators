@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp
 
-
 ### Active IBC channels `omniflixhub`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

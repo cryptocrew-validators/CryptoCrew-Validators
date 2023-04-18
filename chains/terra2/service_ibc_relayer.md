@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 
-
 ### Active IBC channels `terra2`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

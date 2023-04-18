@@ -11,7 +11,6 @@ Active Relayer Wallets:
 - band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5
 - band15md2qvgma8lnvqv67w0umu2paqkqkhegq9ewsh
 
-
 ### Active IBC channels `bandchain`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

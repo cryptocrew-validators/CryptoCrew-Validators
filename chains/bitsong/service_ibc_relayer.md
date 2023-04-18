@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n
 
-
 ### Active IBC channels `bitsong`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |

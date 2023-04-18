@@ -9,7 +9,6 @@ Active Relayer Wallets:
 
 - secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 
-
 ### Active IBC channels `secretnetwork`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
