@@ -13,3 +13,14 @@
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | secret-4 | juno-1 | transfer | channel-8 |
+| chihuahua-1 | secret-4 | transfer | channel-16 |
+| cosmoshub-4 | secret-4 | transfer | channel-235 |
+| evmos_9001-2 | secret-4 | transfer | channel-15 |
+| gravity-bridge-3 | secret-4 | transfer | channel-79 |
+| juno-1 | secret-4 | transfer | channel-48 |
+| kaiyo-1 | secret-4 | transfer | channel-10 |
+| kaiyo-1 | secret-4 | transfer | channel-44 |
+| osmosis-1 | secret-4 | transfer | channel-476 |
+| osmosis-1 | secret-4 | transfer | channel-88 |
+| phoenix-1 | secret-4 | transfer | channel-3 |
+| stargaze-1 | secret-4 | transfer | channel-48 |

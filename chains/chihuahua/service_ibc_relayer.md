@@ -6,3 +6,5 @@
 | chihuahua-1 | juno-1 | transfer | channel-11 |
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
+| secret-4 | chihuahua-1 | transfer | channel-11 |
+| osmosis-1 | chihuahua-1 | transfer | channel-113 |
