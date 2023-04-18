@@ -22,19 +22,41 @@ function generateMDTable(relayers, chains) {
   for (const chain of chains.chains) {
     const chainId = chain.chain_id;
     const channels = relayerChains[chainId];
-    if (channels) {
-      const mdContent = generateMDContent(channels, chain);
+    const dstChannels = findDstChannels(relayers, chainId);
+
+    if (channels || dstChannels.length > 0) {
+      const mdContent = generateMDContent(channels, dstChannels, chain);
       const outputPath = path.join('chains', chain.name, 'service_ibc_relayer.md');
       fs.writeFileSync(outputPath, mdContent);
     }
   }
 }
 
-function generateMDContent(channels, chain) {
-  const header = '## CryptoCrew IBC relayer\n\n| src_chain | dst_chain | IBC port | IBC channel |\n| --------------- | --------------- | ------------ | -------------- |\n';
-  const rows = channels.map(channel => `| ${chain.chain_id} | ${channel.dst_chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n');
+function findDstChannels(relayers, dstChainId) {
+  const dstChannels = [];
 
-  return header + rows;
+  for (const relayer of relayers.relayers) {
+    for (const chain of relayer.chains) {
+      for (const channel of chain.channels) {
+        if (channel.dst_chain_id === dstChainId) {
+          dstChannels.push({
+            ...channel,
+            chain_id: chain.chain_id
+          });
+        }
+      }
+    }
+  }
+
+  return dstChannels;
+}
+
+function generateMDContent(srcChannels, dstChannels, chain) {
+  const header = '## CryptoCrew IBC relayer\n\n| src_chain | dst_chain | IBC port | IBC channel |\n| --------------- | --------------- | ------------ | -------------- |\n';
+  const srcRows = srcChannels ? srcChannels.map(channel => `| ${chain.chain_id} | ${channel.dst_chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n') : '';
+  const dstRows = dstChannels.map(channel => `| ${channel.chain_id} | ${chain.chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n');
+
+  return header + srcRows + (srcRows && dstRows ? '\n' : '') + dstRows;
 }
 
 const relayers = readJSONFile('relayers.json');
