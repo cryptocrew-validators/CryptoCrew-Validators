@@ -3,6 +3,57 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "RELAYER3",
+      "software": "hermes",
+      "software_version": "hermes 1.0.0+ed4dd8c8",
+      "chains": [
+        {
+          "chain_id": "axelar-dojo-1",
+          "wallets": [
+            "axelar16m48j88mlw2smhc8nyurznt4jl9nqgyqvv9fu3"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "crypto-org-chain-mainnet-1",
+          "wallets": [
+            "cro16m48j88mlw2smhc8nyurznt4jl9nqgyqsemctp"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-208",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-dojo-1"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "crypto-org-chain-mainnet-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "RELAYER2",
       "software": "hermes",
       "software_version": "hermes 1.2.0+061f14f1",
@@ -1184,48 +1235,6 @@
               "channel_id": "channel-0",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "RELAYER3",
-      "software": "hermes",
-      "software_version": "hermes 1.0.0+ed4dd8c8",
-      "chains": [
-        {
-          "chain_id": "axelar-dojo-1",
-          "channels": [
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "crypto-org-chain-mainnet-1",
-          "channels": [
-            {
-              "channel_id": "channel-10",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "channels": [
-            {
-              "channel_id": "channel-208",
-              "port_id": "transfer",
-              "dst_chain_id": "axelar-dojo-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "crypto-org-chain-mainnet-1"
             }
           ]
         }
