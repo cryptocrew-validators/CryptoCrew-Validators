@@ -52,7 +52,7 @@ function findDstChannels(relayers, dstChainId) {
 }
 
 function generateMDContent(srcChannels, dstChannels, chain) {
-  const wallets = chain.wallets && chain.wallets.length > 0 ? `Active Relayer Wallets: ${chain.wallets.join(', ')}\n\n` : '';
+  const wallets = chain.relayer_accounts && chain.relayer_accounts.length > 0 ? `Active Relayer Wallets: ${chain.relayer_accounts.join(', ')}\n\n` : '';
   const header = `## CryptoCrew IBC relayer
 IBC relayers play a crucial role in the interchain by efficiently managing and transmitting data and assets between different blockchain networks using the Inter-Blockchain Communication (IBC) protocol.
 
