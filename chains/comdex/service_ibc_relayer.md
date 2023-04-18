@@ -2,8 +2,8 @@
 
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
-| undefined | osmosis-1 | transfer | channel-1 |
-| undefined | juno-1 | transfer | channel-18 |
-| undefined | gravity-bridge-3 | transfer | channel-23 |
-| undefined | kaiyo-1 | transfer | channel-31 |
-| undefined | cosmoshub-4 | transfer | channel-37 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
+| comdex-1 | juno-1 | transfer | channel-18 |
+| comdex-1 | gravity-bridge-3 | transfer | channel-23 |
+| comdex-1 | kaiyo-1 | transfer | channel-31 |
+| comdex-1 | cosmoshub-4 | transfer | channel-37 |

@@ -2,9 +2,9 @@
 
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
-| undefined | migaloo-1 | transfer | channel-102 |
-| undefined | cosmoshub-4 | transfer | channel-1 |
-| undefined | osmosis-1 | transfer | channel-8 |
-| undefined | core-1 | transfer | channel-82 |
-| undefined | evmos_9001-2 | transfer | channel-83 |
-| undefined | laozi-mainnet | oracle | channel-3 |
+| injective-1 | migaloo-1 | transfer | channel-102 |
+| injective-1 | cosmoshub-4 | transfer | channel-1 |
+| injective-1 | osmosis-1 | transfer | channel-8 |
+| injective-1 | core-1 | transfer | channel-82 |
+| injective-1 | evmos_9001-2 | transfer | channel-83 |
+| injective-1 | laozi-mainnet | oracle | channel-3 |
