@@ -2,4 +2,4 @@
 
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
-| undefined | osmosis-1 | transfer | channel-3 |
+| lum-network-1 | osmosis-1 | transfer | channel-3 |

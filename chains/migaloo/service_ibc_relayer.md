@@ -2,9 +2,9 @@
 
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
-| undefined | phoenix-1 | transfer | channel-0 |
-| undefined | juno-1 | transfer | channel-1 |
-| undefined | phoenix-1 | transfer | channel-2 |
-| undefined | injective-1 | transfer | channel-3 |
-| undefined | osmosis-1 | transfer | channel-5 |
-| undefined | kaiyo-1 | transfer | channel-8 |
+| migaloo-1 | phoenix-1 | transfer | channel-0 |
+| migaloo-1 | juno-1 | transfer | channel-1 |
+| migaloo-1 | phoenix-1 | transfer | channel-2 |
+| migaloo-1 | injective-1 | transfer | channel-3 |
+| migaloo-1 | osmosis-1 | transfer | channel-5 |
+| migaloo-1 | kaiyo-1 | transfer | channel-8 |

@@ -2,7 +2,7 @@
 
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
-| undefined | secret-4 | transfer | channel-16 |
-| undefined | juno-1 | transfer | channel-11 |
-| undefined | omniflixhub-1 | transfer | channel-17 |
-| undefined | osmosis-1 | transfer | channel-7 |
+| chihuahua-1 | secret-4 | transfer | channel-16 |
+| chihuahua-1 | juno-1 | transfer | channel-11 |
+| chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
+| chihuahua-1 | osmosis-1 | transfer | channel-7 |
