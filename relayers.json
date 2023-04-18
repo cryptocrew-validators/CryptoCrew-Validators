@@ -17,6 +17,24 @@
               "channel_id": "channel-1946",
               "port_id": "transfer",
               "dst_chain_id": "axelar-testnet-lisbon-3"
+            },
+            {
+              "channel_id": "channel-3316",
+              "port_id": "transfer",
+              "dst_chain_id": "uni-6"
+            }
+          ]
+        },
+        {
+          "chain_id": "uni-6",
+          "wallets": [
+            "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-140",
+              "port_id": "transfer",
+              "dst_chain_id": "osmo-test-4"
             }
           ]
         }
