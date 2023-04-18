@@ -2,6 +2,8 @@
 
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | -------------- |
+| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| osmosis-1 | crypto-org-chain-mainnet-1 | transfer | channel-5 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | vidulum-1 | transfer | channel-124 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
@@ -37,8 +39,8 @@
 | osmosis-1 | quicksilver-2 | transfer | channel-522 |
 | osmosis-1 | mars-1 | transfer | channel-557 |
 | osmosis-1 | quasar-1 | transfer | channel-688 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
-| osmosis-1 | crypto-org-chain-mainnet-1 | transfer | channel-5 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
+| crypto-org-chain-mainnet-1 | osmosis-1 | transfer | channel-10 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | lum-network-1 | osmosis-1 | transfer | channel-3 |
@@ -73,5 +75,3 @@
 | stride-1 | osmosis-1 | icacontroller-osmosis-1.REDEMPTION | channel-45 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| crypto-org-chain-mainnet-1 | osmosis-1 | transfer | channel-10 |
