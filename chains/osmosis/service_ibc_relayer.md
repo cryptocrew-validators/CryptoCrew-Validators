@@ -1,0 +1,41 @@
+## CryptoCrew IBC relayer
+
+| src_chain | dst_chain | IBC port | IBC channel |
+| --------------- | --------------- | ------------ | -------------- |
+| undefined | akashnet-2 | transfer | channel-1 |
+| undefined | crescent-1 | transfer | channel-297 |
+| undefined | agoric-3 | transfer | channel-320 |
+| undefined | stride-1 | transfer | channel-326 |
+| undefined | teritori-1 | transfer | channel-362 |
+| undefined | stride-1 | icahost | channel-430 |
+| undefined | stride-1 | icahost | channel-441 |
+| undefined | stride-1 | icahost | channel-451 |
+| undefined | stride-1 | icahost | channel-456 |
+| undefined | quicksilver-2 | transfer | channel-522 |
+| undefined | mars-1 | transfer | channel-557 |
+| undefined | quasar-1 | transfer | channel-688 |
+| undefined | lum-network-1 | transfer | channel-115 |
+| undefined | vidulum-1 | transfer | channel-124 |
+| undefined | gravity-bridge-3 | transfer | channel-144 |
+| undefined | phoenix-1 | transfer | channel-251 |
+| undefined | odin-mainnet-freya | transfer | channel-258 |
+| undefined | secret-4 | transfer | channel-476 |
+| undefined | canto_7700-1 | transfer | channel-550 |
+| undefined | phoenix-1 | transfer | channel-559 |
+| undefined | migaloo-1 | transfer | channel-642 |
+| undefined | bitsong-2b | transfer | channel-73 |
+| undefined | secret-4 | transfer | channel-88 |
+| undefined | chihuahua-1 | transfer | channel-113 |
+| undefined | injective-1 | transfer | channel-122 |
+| undefined | gravity-bridge-3 | transfer | channel-144 |
+| undefined | laozi-mainnet | transfer | channel-148 |
+| undefined | juno-1 | transfer | channel-169 |
+| undefined | omniflixhub-1 | transfer | channel-199 |
+| undefined | evmos_9001-2 | transfer | channel-204 |
+| undefined | kaiyo-1 | transfer | channel-259 |
+| undefined | core-1 | transfer | channel-4 |
+| undefined | juno-1 | transfer | channel-42 |
+| undefined | stargaze-1 | transfer | channel-75 |
+| undefined | comdex-1 | transfer | channel-87 |
+| undefined | axelar-dojo-1 | transfer | channel-208 |
+| undefined | crypto-org-chain-mainnet-1 | transfer | channel-5 |
