@@ -18,3 +18,17 @@
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-91 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
+| bitsong-2b | juno-1 | transfer | channel-5 |
+| migaloo-1 | juno-1 | transfer | channel-1 |
+| phoenix-1 | juno-1 | transfer | channel-2 |
+| secret-4 | juno-1 | transfer | channel-8 |
+| chihuahua-1 | juno-1 | transfer | channel-11 |
+| comdex-1 | juno-1 | transfer | channel-18 |
+| cosmoshub-4 | juno-1 | transfer | channel-207 |
+| evmos_9001-2 | juno-1 | transfer | channel-41 |
+| evmos_9001-2 | juno-1 | transfer | channel-5 |
+| kaiyo-1 | juno-1 | transfer | channel-1 |
+| omniflixhub-1 | juno-1 | transfer | channel-20 |
+| osmosis-1 | juno-1 | transfer | channel-169 |
+| osmosis-1 | juno-1 | transfer | channel-42 |
+| stargaze-1 | juno-1 | transfer | channel-5 |

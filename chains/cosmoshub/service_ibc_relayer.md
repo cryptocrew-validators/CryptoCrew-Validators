@@ -14,3 +14,14 @@
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| bitsong-2b | cosmoshub-4 | transfer | channel-1 |
+| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
+| secret-4 | cosmoshub-4 | transfer | channel-0 |
+| comdex-1 | cosmoshub-4 | transfer | channel-37 |
+| core-1 | cosmoshub-4 | transfer | channel-24 |
+| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
+| injective-1 | cosmoshub-4 | transfer | channel-1 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
+| omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |

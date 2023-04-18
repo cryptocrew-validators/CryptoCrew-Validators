@@ -10,3 +10,11 @@
 | phoenix-1 | osmosis-1 | wasm.terra1d90p5lacfxnqgjxjupu234lxnxyeu8fdeef4d0e0nqy3p30r7gss4myn9x | channel-85 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
 | phoenix-1 | migaloo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-87 |
+| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
+| juno-1 | phoenix-1 | transfer | channel-86 |
+| kaiyo-1 | phoenix-1 | transfer | channel-5 |
+| migaloo-1 | phoenix-1 | transfer | channel-0 |
+| migaloo-1 | phoenix-1 | transfer | channel-2 |
+| osmosis-1 | phoenix-1 | transfer | channel-251 |
+| osmosis-1 | phoenix-1 | transfer | channel-559 |
+| secret-4 | phoenix-1 | transfer | channel-16 |

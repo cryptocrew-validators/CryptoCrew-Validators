@@ -8,3 +8,9 @@
 | injective-1 | core-1 | transfer | channel-82 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | injective-1 | laozi-mainnet | oracle | channel-3 |
+| migaloo-1 | injective-1 | transfer | channel-3 |
+| core-1 | injective-1 | transfer | channel-41 |
+| cosmoshub-4 | injective-1 | transfer | channel-220 |
+| evmos_9001-2 | injective-1 | transfer | channel-10 |
+| osmosis-1 | injective-1 | transfer | channel-122 |
+| laozi-mainnet | injective-1 | oracle | channel-7 |
