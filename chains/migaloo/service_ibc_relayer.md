@@ -5,6 +5,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - `[hermes (ibc-rust)](https://github.com/informalsystems/hermes)` relayer by [Informal Systems](https://github.com/informalsystems)
 - `[rly (ibc-go)](https://github.com/cosmos/relayer)` relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
+Active Relayer Wallets: migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
+
 
 ### Active IBC channels `migaloo`
 | src_chain | dst_chain | IBC port | IBC channel |
