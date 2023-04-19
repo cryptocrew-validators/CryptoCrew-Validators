@@ -12,7 +12,7 @@ const { chains } = chainsData;
 let validatorsTable = '| Chain Name         | Chain ID                 | Validator address                                            | Link                  |\n| ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |\n';
 
 for (const chain of chains) {
-  validatorsTable += `| \`${chain.prettyName}\` | ${chain.chain_id} | \`${chain.address}\` | [delegate ${chain.symbol}](${chain.stake_link}) |\n`;
+  validatorsTable += `| \`${chain.prettyName}\` | \`${chain.chain_id}\` | \`${chain.address}\` | [delegate ${chain.symbol}](${chain.stake_link}) |\n`;
 }
 
 // Read README.md
