@@ -759,7 +759,7 @@
       "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
       "operator_account": "rdx1qspwqnaur60al24f5yk0xuxjnchrr7zcerfneusxuj3mpyc8wfyrrtgde8tmp",
       "stake_link": "https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
-      "rpc": [ ],
+      "rpc": [  ],
       "rest": [
         "https://mainnet-gateway.radixdlt.com:443"
       ],
