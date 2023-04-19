@@ -4,13 +4,23 @@ on:
   push:
     paths:
       - 'chains.json'
+      - 'relayers.json'
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
 
       - name: Update README
         run: node .github/actions/update_readme.js
+
+      - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Update service_ibc_relayer.md files" || true
+        git push
