@@ -11,7 +11,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `terra2`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |

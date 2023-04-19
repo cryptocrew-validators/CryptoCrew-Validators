@@ -13,7 +13,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `cosmoshub`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | cosmoshub-4 | bitsong-2b | transfer | channel-229 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |

@@ -12,7 +12,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `evmos`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | evmos_9001-2 | secret-4 | transfer | channel-15 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |

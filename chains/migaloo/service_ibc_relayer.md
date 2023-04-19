@@ -11,7 +11,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `migaloo`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
 | migaloo-1 | juno-1 | transfer | channel-1 |
 | migaloo-1 | phoenix-1 | transfer | channel-2 |

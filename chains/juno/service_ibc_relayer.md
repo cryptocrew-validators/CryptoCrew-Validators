@@ -12,7 +12,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `juno`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | bitsong-2b | transfer | channel-17 |
 | juno-1 | migaloo-1 | transfer | channel-210 |
 | juno-1 | gravity-bridge-3 | transfer | channel-31 |

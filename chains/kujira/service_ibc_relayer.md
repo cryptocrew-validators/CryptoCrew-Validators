@@ -12,7 +12,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `kujira`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | secret-4 | transfer | channel-44 |
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
