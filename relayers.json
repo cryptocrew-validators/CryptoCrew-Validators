@@ -9,7 +9,7 @@
       "chains": [
         {
           "chain_id": "comdex-1",
-          "wallets": [ ],
+          "wallets": [],
           "channels": [
             {
               "channel_id": "channel-43",
