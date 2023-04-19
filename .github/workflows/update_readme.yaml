@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - 'chains.json'
-      - 'relayers.json'
 
 jobs:
   update_readme:
