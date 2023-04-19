@@ -3,7 +3,7 @@ name: Update service_ibc_relayer.md files
 on:
   push:
     paths:
-      - 'chains.json'
+      - 'relayers.json'
 
 jobs:
   update_service_relayer:
