@@ -7,7 +7,7 @@ on:
       - 'relayers.json'
 
 jobs:
-  update-md:
+  update_service_relayer:
     runs-on: ubuntu-latest
 
     steps:
