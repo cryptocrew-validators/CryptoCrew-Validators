@@ -19,7 +19,7 @@ for (const chain of chains) {
 let readmeContent = fs.readFileSync(readmeFilePath, 'utf8');
 
 // Replace the validators table in README.md
-const tableRegex = /(\| chain)(.|\n)*(\n\|)/;
+const tableRegex = /(\| Network Type)(.|\n)*(\n\|)/;
 readmeContent = readmeContent.replace(tableRegex, `${validatorsTable}|`);
 
 // Write the updated content to README.md
