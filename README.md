@@ -97,4 +97,3 @@ https://ccvalidators.com
 | `Vidulum` | `vidulum-1` | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj` | [delegate VDL](https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
 | `Odin` | `odin-mainnet-freya` | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z` | [delegate ODIN](https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
-| `mainnet`    | Terra V2        | `terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x`     | [delegate LUNA](https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x) |
