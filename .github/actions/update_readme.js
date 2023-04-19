@@ -24,5 +24,5 @@ readmeContent = readmeContent.replace(tableRegex, `${validatorsTable}|`);
 
 // Write the updated content to README.md
 fs.writeFileSync(readmeFilePath, readmeContent);
-
-console.log('README.md has been updated.');
+console.log('Updated README content:');
+console.log(readmeContent);
