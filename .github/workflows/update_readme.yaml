@@ -23,4 +23,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add -A
         git commit -m "Update service_ibc_relayer.md files" || true
+        git pull --rebase
         git push
