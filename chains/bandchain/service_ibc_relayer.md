@@ -13,7 +13,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `bandchain`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | laozi-mainnet | comdex-1 | oracle | channel-96 |
 | laozi-mainnet | injective-1 | oracle | channel-7 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |

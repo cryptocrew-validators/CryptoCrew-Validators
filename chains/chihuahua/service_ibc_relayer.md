@@ -11,7 +11,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `chihuahua`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | chihuahua-1 | juno-1 | transfer | channel-11 |
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |

@@ -12,7 +12,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `injective`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | laozi-mainnet | oracle | channel-3 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |

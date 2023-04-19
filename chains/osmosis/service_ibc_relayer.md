@@ -12,7 +12,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `osmosis`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | crypto-org-chain-mainnet-1 | transfer | channel-5 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |

@@ -12,7 +12,7 @@ Active Relayer Wallets:
 
 ### Active IBC channels `gravitybridge`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |
+| --------------- | --------------- | ------------ | ------------------- |
 | gravity-bridge-3 | secret-4 | transfer | channel-79 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | gravity-bridge-3 | core-1 | transfer | channel-24 |
