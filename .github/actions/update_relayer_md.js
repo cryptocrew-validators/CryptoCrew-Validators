@@ -64,7 +64,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 ${wallets}### Active IBC channels \`` + chain.name + `\`
 | src_chain | dst_chain | IBC port | IBC channel |
-| --------------- | --------------- | ------------ | -------------- |\n`;
+| --------------- | --------------- | ------------ | ------------------- |\n`;
     const srcRows = srcChannels ? srcChannels.map(channel => `| ${chain.chain_id} | ${channel.dst_chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n') : '';
     const dstRows = dstChannels.map(channel => `| ${channel.chain_id} | ${chain.chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n');
 
