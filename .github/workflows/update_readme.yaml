@@ -13,8 +13,10 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
 
-    - name: Update README
+    - name: Update main README
       run: node .github/actions/update_readme.js
 
     - name: Commit changes
@@ -22,6 +24,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "Update service_ibc_relayer.md files" || true
+        git commit -m "Update main README" || echo "No changes to commit"
         git pull --rebase
         git push
