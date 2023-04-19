@@ -9,10 +9,10 @@ const chainsData = JSON.parse(fs.readFileSync(chainsFilePath, 'utf8'));
 const { chains } = chainsData;
 
 // Generate the validators table
-let validatorsTable = '| Network Type         | Chain                    | Validator address                                            | Link                  |\n| ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |\n';
+let validatorsTable = '| Chain Name         | Chain ID                 | Validator address                                            | Link                  |\n| ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |\n';
 
 for (const chain of chains) {
-  validatorsTable += `| \`${chain.name}\` | ${chain.prettyName} | \`${chain.address}\` | [delegate ${chain.symbol}](${chain.stake_link}) |\n`;
+  validatorsTable += `| \`${chain.prettyName}\` | ${chain.chain_id} | \`${chain.address}\` | [delegate ${chain.symbol}](${chain.stake_link}) |\n`;
 }
 
 // Read README.md
