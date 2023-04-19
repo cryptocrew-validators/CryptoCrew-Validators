@@ -387,7 +387,7 @@
       "stake_link": "https://restake.app/omniflixhub/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
       "rpc": [],
       "rest": [],
-      "apr": "0",
+      "apr": "",
       "coingecko_id": "omniflix-network",
       "chain_id": "omniflixhub-1"
     },
