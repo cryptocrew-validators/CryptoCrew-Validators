@@ -420,6 +420,43 @@
       "chain_id": "comdex-1"
     },
     {
+      "name": "nolus",
+      "prettyName": "Nolus",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nolus/logo_nolus.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nolus/logo_nolus.png",
+      "symbol": "NLS",
+      "denom": "unls",
+      "decimals": "6",
+      "address": "nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
+      "operator_account": "nolus1nryk8vpd75d2nvld2hej0nfal64qm3wp2mtatv",
+      "relayer_accounts": [
+      ],
+      "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "",
+      "chain_id": "pirin-1"
+    },
+    {
+      "name": "composable",
+      "prettyName": "Composable Finance",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/composable/logo_composable.png",
+      "symbol": "PICA",
+      "denom": "upica",
+      "decimals": "12",
+      "address": "banksyvaloper1p86dkzgthapcqkgymq70qvjnt4exf09hryt909",
+      "operator_account": "banksy1p86dkzgthapcqkgymq70qvjnt4exf09hamhkza",
+      "relayer_accounts": [
+      ],
+      "stake_link": "https://ping.pub/Composable/staking/banksyvaloper1p86dkzgthapcqkgymq70qvjnt4exf09hryt909",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "",
+      "chain_id": "centauri-1"
+    },
+    {
       "name": "quicksilver",
       "prettyName": "Quicksilver",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/quicksilver/logo_quicksilver.svg",
