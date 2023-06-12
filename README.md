@@ -82,6 +82,8 @@ https://ccvalidators.com
 | `Chihuahua Chain` | `chihuahua-1` | `chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8` | [delegate HUAHUA](https://restake.app/chihuahua/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8) |
 | `Omniflix Hub` | `omniflixhub-1` | `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme` | [delegate FLIX](https://restake.app/omniflixhub/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme) |
 | `Comdex` | `comdex-1` | `comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6` | [delegate CMDX](https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6) |
+| `Nolus` | `pirin-1` | `nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3` | [delegate NLS](https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3) |
+| `Composable Finance` | `centauri-1` | `banksyvaloper1p86dkzgthapcqkgymq70qvjnt4exf09hryt909` | [delegate PICA](https://ping.pub/Composable/staking/banksyvaloper1p86dkzgthapcqkgymq70qvjnt4exf09hryt909) |
 | `Quicksilver` | `quicksilver-2` | `quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58` | [delegate QCK](https://restake.app/quicksilver/quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58) |
 | `Band Protocol` | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
 | `Gravity Bridge` | `gravity-bridge-3` | `gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus` | [delegate GRAV](https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus) |
@@ -96,4 +98,5 @@ https://ccvalidators.com
 | `Dig Chain` | `dig-1` | `digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7` | [delegate DIG](https://restake.app/dig/digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7) |
 | `Vidulum` | `vidulum-1` | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj` | [delegate VDL](https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
 | `Odin` | `odin-mainnet-freya` | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z` | [delegate ODIN](https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
+| `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
