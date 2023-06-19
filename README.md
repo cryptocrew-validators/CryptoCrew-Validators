@@ -83,7 +83,7 @@ https://ccvalidators.com
 | `Omniflix Hub` | `omniflixhub-1` | `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme` | [delegate FLIX](https://restake.app/omniflixhub/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme) |
 | `Comdex` | `comdex-1` | `comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6` | [delegate CMDX](https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6) |
 | `Nolus` | `pirin-1` | `nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3` | [delegate NLS](https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3) |
-| `Composable Finance` | `centauri-1` | `banksyvaloper1p86dkzgthapcqkgymq70qvjnt4exf09hryt909` | [delegate PICA](https://ping.pub/Composable/staking/banksyvaloper1p86dkzgthapcqkgymq70qvjnt4exf09hryt909) |
+| `Composable Finance` | `centauri-1` | `centaurivaloper1p86dkzgthapcqkgymq70qvjnt4exf09hf308pu` | [delegate PICA](https://ping.pub/Composable/staking/centaurivaloper1p86dkzgthapcqkgymq70qvjnt4exf09hf308pu) |
 | `Quicksilver` | `quicksilver-2` | `quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58` | [delegate QCK](https://restake.app/quicksilver/quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58) |
 | `Band Protocol` | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
 | `Gravity Bridge` | `gravity-bridge-3` | `gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus` | [delegate GRAV](https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus) |
