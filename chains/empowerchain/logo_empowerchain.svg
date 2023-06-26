@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-149d452d-09c8-4cf8-8954-b31324e51971" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .uuid-257ecdc9-9979-4db4-9602-4f8e6459d01e {
+        fill: #fff;
+      }
+
+      .uuid-b07f2e79-1b5b-40d9-be1c-cb970c18afd3, .uuid-2deeaf68-f5bc-4b1e-a0bb-4f0c136f736d {
+        fill: none;
+      }
+
+      .uuid-a43ea9f3-1a22-4ec9-ba0d-52463c8e842f {
+        fill: #02e239;
+      }
+
+      .uuid-2deeaf68-f5bc-4b1e-a0bb-4f0c136f736d {
+        clip-path: url(#uuid-de95aa1a-16d3-469e-b461-7514c9c1b31a);
+      }
+    </style>
+    <clipPath id="uuid-de95aa1a-16d3-469e-b461-7514c9c1b31a">
+      <path class="uuid-b07f2e79-1b5b-40d9-be1c-cb970c18afd3" d="m35.61,14.39c-2.83-2.84-6.6-4.4-10.61-4.4-8.27,0-15,6.74-15,15.01s6.73,15.01,15,15.01c4.01,0,7.77-1.56,10.61-4.4,2.83-2.84,4.39-6.61,4.39-10.61,0-4.01-1.56-7.78-4.39-10.61Z"/>
+    </clipPath>
+  </defs>
+  <circle class="uuid-257ecdc9-9979-4db4-9602-4f8e6459d01e" cx="25" cy="25" r="18.6"/>
+  <g class="uuid-2deeaf68-f5bc-4b1e-a0bb-4f0c136f736d">
+    <rect class="uuid-a43ea9f3-1a22-4ec9-ba0d-52463c8e842f" x="4.11" y="5.6" width="41.78" height="38.79"/>
+    <g>
+      <polygon class="uuid-257ecdc9-9979-4db4-9602-4f8e6459d01e" points="15.37 17.28 15.37 18.14 15.37 21.11 15.37 32.72 19.2 32.72 19.2 21.11 34.63 21.11 34.63 17.28 15.37 17.28"/>
+      <rect class="uuid-257ecdc9-9979-4db4-9602-4f8e6459d01e" x="23.11" y="25" width="3.87" height="7.72"/>
+      <rect class="uuid-257ecdc9-9979-4db4-9602-4f8e6459d01e" x="30.76" y="25" width="3.87" height="7.72"/>
+    </g>
+  </g>
+</svg>
