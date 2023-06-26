@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-545cc3a7-45fe-4e3f-9a38-003955e9204e" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .uuid-cddf34da-614d-4313-a2cd-abc9f17be4c8 {
+        fill: #fff;
+      }
+
+      .uuid-1bd1a78a-69f8-4fa2-adec-0b3890c7edf6 {
+        clip-path: url(#uuid-631b922f-33c4-4f32-8500-bd960e0493c5);
+      }
+
+      .uuid-1bd1a78a-69f8-4fa2-adec-0b3890c7edf6, .uuid-0123e75a-a1a0-41af-a536-4a46ce3f6822 {
+        fill: none;
+      }
+
+      .uuid-84e44555-12ed-4939-8041-2112dd0cea34 {
+        fill: #ff4d00;
+      }
+    </style>
+    <clipPath id="uuid-631b922f-33c4-4f32-8500-bd960e0493c5">
+      <path class="uuid-0123e75a-a1a0-41af-a536-4a46ce3f6822" d="m35.61,14.39c-2.83-2.84-6.6-4.4-10.61-4.4-8.27,0-15,6.74-15,15.01s6.73,15.01,15,15.01c4.01,0,7.77-1.56,10.61-4.4,2.83-2.84,4.39-6.61,4.39-10.61,0-4.01-1.56-7.78-4.39-10.61Z"/>
+    </clipPath>
+  </defs>
+  <circle class="uuid-cddf34da-614d-4313-a2cd-abc9f17be4c8" cx="25" cy="25" r="18.6"/>
+  <g class="uuid-1bd1a78a-69f8-4fa2-adec-0b3890c7edf6">
+    <rect class="uuid-84e44555-12ed-4939-8041-2112dd0cea34" x="4.11" y="5.6" width="41.78" height="38.79"/>
+    <path class="uuid-cddf34da-614d-4313-a2cd-abc9f17be4c8" d="m18.5,25.05c0-3.62,2.91-6.55,6.5-6.55s6.5,2.93,6.5,6.55v6.44c0-3.59-2.91-6.49-6.5-6.49s-6.5,2.91-6.5,6.5v-6.45Z"/>
+  </g>
+</svg>
