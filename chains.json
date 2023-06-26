@@ -139,6 +139,31 @@
       "chain_id": "phoenix-1"
     },
     {
+      "name": "kava",
+      "prettyName": "Kava",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kava/logo_kava.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kava/logo_kava.png",
+      "symbol": "KAVA",
+      "denom": "ukava",
+      "decimals": "6",
+      "address": "kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu",
+      "operator_account": "kava1esyc9s7n782hw4xktzvrcf609st6emmleafhyt",
+      "relayer_accounts": [],
+      "stake_link": "https://wallet.keplr.app/chains/kava?modal=validator&chain=kava_2222-10&validator_address=kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu",
+      "restake": {
+        "address": "kava1x57s77trqgujj7ycc0sw33qm2u970genvt3um4",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/7f738614-63ab-4ec6-8a0d-a1003125f0ba/KAVA.svg"
+      },
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "kava",
+      "chain_id": "kava_2222-10"
+    },
+    {
       "name": "kujira",
       "prettyName": "Kujira",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kujira/logo_kujira.svg",
