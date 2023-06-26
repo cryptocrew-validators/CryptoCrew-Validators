@@ -13,6 +13,11 @@ Active Relayer Wallets:
 ### Active IBC channels `osmosis`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | quasar-1 | icqhost | channel-1142 |
+| osmosis-1 | quasar-1 | icqhost | channel-1156 |
+| osmosis-1 | quasar-1 | icqhost | channel-1172 |
+| osmosis-1 | stride-1 | transfer | channel-326 |
+| osmosis-1 | quicksilver-2 | transfer | channel-522 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | crypto-org-chain-mainnet-1 | transfer | channel-5 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
@@ -38,18 +43,9 @@ Active Relayer Wallets:
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | akashnet-2 | transfer | channel-1 |
-| osmosis-1 | crescent-1 | transfer | channel-297 |
-| osmosis-1 | agoric-3 | transfer | channel-320 |
-| osmosis-1 | stride-1 | transfer | channel-326 |
-| osmosis-1 | teritori-1 | transfer | channel-362 |
-| osmosis-1 | stride-1 | icahost | channel-430 |
-| osmosis-1 | stride-1 | icahost | channel-441 |
-| osmosis-1 | stride-1 | icahost | channel-451 |
-| osmosis-1 | stride-1 | icahost | channel-456 |
-| osmosis-1 | quicksilver-2 | transfer | channel-522 |
-| osmosis-1 | mars-1 | transfer | channel-557 |
-| osmosis-1 | quasar-1 | transfer | channel-688 |
+| agoric-3 | osmosis-1 | transfer | channel-1 |
+| quicksilver-2 | osmosis-1 | transfer | channel-2 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | crypto-org-chain-mainnet-1 | osmosis-1 | transfer | channel-10 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
@@ -74,15 +70,3 @@ Active Relayer Wallets:
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| agoric-3 | osmosis-1 | transfer | channel-1 |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
-| crescent-1 | osmosis-1 | transfer | channel-9 |
-| mars-1 | osmosis-1 | transfer | channel-1 |
-| quasar-1 | osmosis-1 | transfer | channel-1 |
-| quicksilver-2 | osmosis-1 | transfer | channel-2 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.DELEGATION | channel-42 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.FEE | channel-43 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.WITHDRAWAL | channel-44 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.REDEMPTION | channel-45 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
-| teritori-1 | osmosis-1 | transfer | channel-0 |
