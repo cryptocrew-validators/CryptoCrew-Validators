@@ -3,6 +3,103 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "RELAYER4",
+      "software": "hermes",
+      "software_version": "hermes 1.5.1+6583d697-dirty",
+      "chains": [
+        {
+          "chain_id": "agoric-3",
+          "wallets": [
+            "agoric12aeyaxq699k3f4d3733dl5pstw0ulplkggt2x6"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "crescent-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "crescent-1",
+          "wallets": [
+            "cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-11",
+              "port_id": "transfer",
+              "dst_chain_id": "agoric-3"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1142",
+              "port_id": "icqhost",
+              "dst_chain_id": "quasar-1"
+            },
+            {
+              "channel_id": "channel-1156",
+              "port_id": "icqhost",
+              "dst_chain_id": "quasar-1"
+            },
+            {
+              "channel_id": "channel-1172",
+              "port_id": "icqhost",
+              "dst_chain_id": "quasar-1"
+            },
+            {
+              "channel_id": "channel-326",
+              "port_id": "transfer",
+              "dst_chain_id": "stride-1"
+            },
+            {
+              "channel_id": "channel-522",
+              "port_id": "transfer",
+              "dst_chain_id": "quicksilver-2"
+            }
+          ]
+        },
+        {
+          "chain_id": "quicksilver-2",
+          "wallets": [
+            "quick12aeyaxq699k3f4d3733dl5pstw0ulplk33e807"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "stride-1",
+          "wallets": [
+            "stride12aeyaxq699k3f4d3733dl5pstw0ulplke7ffzq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "RELAYER3-comdexband",
       "software": "hermes",
       "software_version": "hermes 1.0.0+ed4dd8c8",
@@ -1091,208 +1188,6 @@
               "channel_id": "channel-140",
               "port_id": "transfer",
               "dst_chain_id": "osmo-test-4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "RELAYER4",
-      "software": "hermes",
-      "software_version": "hermes 1.3.0+d3ad2eb2",
-      "chains": [
-        {
-          "chain_id": "agoric-3",
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "crescent-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "akashnet-2",
-          "channels": [
-            {
-              "channel_id": "channel-9",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "crescent-1",
-          "channels": [
-            {
-              "channel_id": "channel-11",
-              "port_id": "transfer",
-              "dst_chain_id": "agoric-3"
-            },
-            {
-              "channel_id": "channel-29",
-              "port_id": "transfer",
-              "dst_chain_id": "stride-1"
-            },
-            {
-              "channel_id": "channel-35",
-              "port_id": "transfer",
-              "dst_chain_id": "mars-1"
-            },
-            {
-              "channel_id": "channel-9",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "mars-1",
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "crescent-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "akashnet-2"
-            },
-            {
-              "channel_id": "channel-297",
-              "port_id": "transfer",
-              "dst_chain_id": "crescent-1"
-            },
-            {
-              "channel_id": "channel-320",
-              "port_id": "transfer",
-              "dst_chain_id": "agoric-3"
-            },
-            {
-              "channel_id": "channel-326",
-              "port_id": "transfer",
-              "dst_chain_id": "stride-1"
-            },
-            {
-              "channel_id": "channel-362",
-              "port_id": "transfer",
-              "dst_chain_id": "teritori-1"
-            },
-            {
-              "channel_id": "channel-430",
-              "port_id": "icahost",
-              "dst_chain_id": "stride-1"
-            },
-            {
-              "channel_id": "channel-441",
-              "port_id": "icahost",
-              "dst_chain_id": "stride-1"
-            },
-            {
-              "channel_id": "channel-451",
-              "port_id": "icahost",
-              "dst_chain_id": "stride-1"
-            },
-            {
-              "channel_id": "channel-456",
-              "port_id": "icahost",
-              "dst_chain_id": "stride-1"
-            },
-            {
-              "channel_id": "channel-522",
-              "port_id": "transfer",
-              "dst_chain_id": "quicksilver-2"
-            },
-            {
-              "channel_id": "channel-557",
-              "port_id": "transfer",
-              "dst_chain_id": "mars-1"
-            },
-            {
-              "channel_id": "channel-688",
-              "port_id": "transfer",
-              "dst_chain_id": "quasar-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "quasar-1",
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "quicksilver-2",
-          "channels": [
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "stride-1",
-          "channels": [
-            {
-              "channel_id": "channel-42",
-              "port_id": "icacontroller-osmosis-1.DELEGATION",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-43",
-              "port_id": "icacontroller-osmosis-1.FEE",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-44",
-              "port_id": "icacontroller-osmosis-1.WITHDRAWAL",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-45",
-              "port_id": "icacontroller-osmosis-1.REDEMPTION",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-51",
-              "port_id": "transfer",
-              "dst_chain_id": "crescent-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "teritori-1",
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
             }
           ]
         }
