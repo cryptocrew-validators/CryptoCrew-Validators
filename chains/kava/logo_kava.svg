@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-40e1ea06-b246-4c92-b0fe-d64f6fabb096" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .uuid-dfc35381-9088-43fb-a159-fc5fa70f138d {
+        fill: #fff;
+      }
+
+      .uuid-41febc56-b701-4fb9-922a-d7502184e75a {
+        clip-path: url(#uuid-66229d4d-df34-49c6-a15e-aa81ecc79fa3);
+      }
+
+      .uuid-41febc56-b701-4fb9-922a-d7502184e75a, .uuid-dd234ea7-87c9-4327-b960-5b5be29bb3c8 {
+        fill: none;
+      }
+
+      .uuid-f544d089-03d7-43d5-9553-14e8f84290cf {
+        fill: #ff433e;
+      }
+    </style>
+    <clipPath id="uuid-66229d4d-df34-49c6-a15e-aa81ecc79fa3">
+      <path class="uuid-dd234ea7-87c9-4327-b960-5b5be29bb3c8" d="m35.61,14.39c-2.83-2.84-6.6-4.4-10.61-4.4-8.27,0-15,6.74-15,15.01s6.73,15.01,15,15.01c4.01,0,7.77-1.56,10.61-4.4,2.83-2.84,4.39-6.61,4.39-10.61,0-4.01-1.56-7.78-4.39-10.61Z"/>
+    </clipPath>
+  </defs>
+  <circle class="uuid-dfc35381-9088-43fb-a159-fc5fa70f138d" cx="25" cy="25" r="18.6"/>
+  <g class="uuid-41febc56-b701-4fb9-922a-d7502184e75a">
+    <rect class="uuid-f544d089-03d7-43d5-9553-14e8f84290cf" x="4.11" y="5.6" width="41.78" height="38.79"/>
+    <g>
+      <rect class="uuid-dfc35381-9088-43fb-a159-fc5fa70f138d" x="18.5" y="16.38" width="3" height="17.23"/>
+      <polygon class="uuid-dfc35381-9088-43fb-a159-fc5fa70f138d" points="29.73 33.62 23.14 25 29.73 16.39 33.5 16.39 27 25 33.5 33.62 29.73 33.62"/>
+    </g>
+  </g>
+</svg>
