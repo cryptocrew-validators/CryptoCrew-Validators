@@ -645,6 +645,23 @@
       "chain_id": "sommelier-3"
     },
     {
+      "name": "empowerchain",
+      "prettyName": "Empowerchain",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/empowerchain/logo_empowerchain.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/empowerchain/logo_empowerchain.png",
+      "symbol": "MPWR",
+      "denom": "umpwr",
+      "decimals": "6",
+      "address": "empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh",
+      "operator_account": "empower1kw09yq42ll0lnrteqcyq5mluvmlp7mvscnqzjz",
+      "stake_link": "https://ping.pub/empower/staking/empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "",
+      "chain_id": "empowerchain-1"
+    },
+    {
       "name": "teritori",
       "prettyName": "Teritori",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/teritori/logo_teritori.svg",
