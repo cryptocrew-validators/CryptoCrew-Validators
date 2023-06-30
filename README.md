@@ -92,6 +92,7 @@ https://ccvalidators.com
 | `E-Money` | `emoney-3` | `emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh` | [delegate NGM](https://wallet.keplr.app/chains/e-money?modal=validator&chain=emoney-3&validator_address=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh&referral=true) |
 | `Nomic Stakenet` | `nomic-stakenet-3` | `nomicvaloper1j30mgmf5hggd8y0n8gccg7fmkrf0zv6q9chl2g` | [delegate NOM](https://app.nomic.io/#/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info) |
 | `Sommelier` | `sommelier-3` | `sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd` | [delegate SOMM](https://wallet.keplr.app/chains/sommelier?modal=validator&chain=sommelier-3&validator_address=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd) |
+| `Empowerchain` | `empowerchain-1` | `empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh` | [delegate MPWR](https://ping.pub/empower/staking/empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh) |
 | `Teritori` | `teritori-1` | `torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct` | [delegate TORI](https://explorer.teritori.com/teritori/staking/torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct) |
 | `Lum Network` | `lum-network-1` | `lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5` | [delegate LUM](https://restake.app/lumnetwork/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5) |
 | `Bitsong` | `bitsong-2b` | `bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda` | [delegate BTSG](https://restake.app/bitsong/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda) |
