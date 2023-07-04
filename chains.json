@@ -237,7 +237,7 @@
         "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm",
         "inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0"
       ],
-      "stake_link": "https://hub.injective.network/validators/injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6/",
+      "stake_link": "https://hub.injective.network/validators/injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
       "rpc": [
         "https://injective-rpc.quickapi.com:443"
       ],
@@ -247,6 +247,25 @@
       "apr": "",
       "coingecko_id": "injective-protocol",
       "chain_id": "injective-1"
+    },
+    {
+      "name": "archway",
+      "prettyName": "Archway",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/archway/logo_archway.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/archway/logo_archway.png",
+      "symbol": "ARCH",
+      "denom": "aarch",
+      "decimals": "18",
+      "address": "archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq",
+      "operator_account": "archway1feuxzwn0d498v38799x06n6hqlc5d04yd93qsf",
+      "relayer_accounts": [
+      ],
+      "stake_link": "https://archway.disperze.network/validators/archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "",
+      "chain_id": "archway-1"
     },
     {
       "name": "mars",
