@@ -29,7 +29,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "cosmos",
-      "chain_id": "cosmoshub-4"
+      "chain_id": "cosmoshub-4",
+      "trade_url": "https://www.coinbase.com/price/cosmos"
     },
     {
       "name": "osmosis",
@@ -57,7 +58,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "osmosis",
-      "chain_id": "osmosis-1"
+      "chain_id": "osmosis-1",
+      "trade_url": "https://www.binance.com/en/trade/OSMO_USDT"
     },
     {
       "name": "juno",
@@ -85,7 +87,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "juno-network",
-      "chain_id": "juno-1"
+      "chain_id": "juno-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "secretnetwork",
@@ -112,7 +115,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "secret",
-      "chain_id": "secret-4"
+      "chain_id": "secret-4",
+      "trade_url": "https://www.binance.com/en/trade/SCRT_USDT"
     },
     {
       "name": "terra2",
@@ -136,7 +140,8 @@
       ],
       "apr": "",
       "coingecko_id": "terra-luna-2",
-      "chain_id": "phoenix-1"
+      "chain_id": "phoenix-1",
+      "trade_url": "https://trade.kraken.com/charts/KRAKEN:LUNA2-USD"
     },
     {
       "name": "kava",
@@ -161,7 +166,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "kava",
-      "chain_id": "kava_2222-10"
+      "chain_id": "kava_2222-10",
+      "trade_url": "https://www.binance.com/en/trade/KAVA_USDT"
     },
     {
       "name": "kujira",
@@ -193,7 +199,8 @@
       ],
       "apr": "",
       "coingecko_id": "kujira",
-      "chain_id": "kaiyo-1"
+      "chain_id": "kaiyo-1",
+      "trade_url": "https://fin.kujira.network/trade/kujira193dzcmy7lwuj4eda3zpwwt9ejal00xva0vawcvhgsyyp5cfh6jyq66wfrf"
     },
     {
       "name": "evmos",
@@ -221,7 +228,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "evmos",
-      "chain_id": "evmos_9001-2"
+      "chain_id": "evmos_9001-2",
+      "trade_url": "https://www.huobi.com/en-us/trade/evmos_usdt?invite_code=d8c53"
     },
     {
       "name": "injective",
@@ -246,7 +254,8 @@
       ],
       "apr": "",
       "coingecko_id": "injective-protocol",
-      "chain_id": "injective-1"
+      "chain_id": "injective-1",
+      "trade_url": "https://www.binance.com/en/trade/INJ_USDT"
     },
     {
       "name": "archway",
@@ -293,7 +302,8 @@
       ],
       "apr": "",
       "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-      "chain_id": "mars-1"
+      "chain_id": "mars-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "axelar",
@@ -316,7 +326,8 @@
       "rpc": [],
       "rest": [],
       "apr": "",
-      "coingecko_id": "axelar"
+      "coingecko_id": "axelar",
+      "trade_url": "https://pro.coinbase.com/trade/WAXL-USD"
     },
     {
       "name": "persistence",
@@ -341,7 +352,8 @@
       ],
       "apr": "",
       "coingecko_id": "persistence",
-      "chain_id": "core-1"
+      "chain_id": "core-1",
+      "trade_url": "https://www.kucoin.com/trade/XPRT-USDT"
     },
     {
       "name": "stargaze",
@@ -369,7 +381,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "stargaze",
-      "chain_id": "stargaze-1"
+      "chain_id": "stargaze-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "migaloo",
@@ -392,7 +405,8 @@
       ],
       "apr": "",
       "coingecko_id": "white-whale",
-      "chain_id": "migaloo-1"
+      "chain_id": "migaloo-1",
+      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "passage",
@@ -436,7 +450,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "chihuahua",
-      "chain_id": "chihuahua-1"
+      "chain_id": "chihuahua-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "omniflixhub",
@@ -456,7 +471,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "omniflix-network",
-      "chain_id": "omniflixhub-1"
+      "chain_id": "omniflixhub-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "comdex",
@@ -484,7 +500,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "comdex",
-      "chain_id": "comdex-1"
+      "chain_id": "comdex-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "nolus",
@@ -503,7 +520,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "",
-      "chain_id": "pirin-1"
+      "chain_id": "pirin-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "composable",
@@ -549,7 +567,8 @@
       ],
       "apr": "",
       "coingecko_id": "quicksilver",
-      "chain_id": "quicksilver-2"
+      "chain_id": "quicksilver-2",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "bandchain",
@@ -571,7 +590,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "band-protocol",
-      "chain_id": "laozi-mainnet"
+      "chain_id": "laozi-mainnet",
+      "trade_url": "https://www.binance.com/en/trade/BAND_USDT"
     },
     {
       "name": "gravitybridge",
@@ -599,7 +619,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "graviton",
-      "chain_id": "gravity-bridge-3"
+      "chain_id": "gravity-bridge-3",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "crescent",
@@ -623,7 +644,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "crescent-network",
-      "chain_id": "crescent-1"
+      "chain_id": "crescent-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "emoney",
@@ -640,7 +662,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "e-money",
-      "chain_id": "emoney-3"
+      "chain_id": "emoney-3",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "nomic",
@@ -684,7 +707,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "sommelier",
-      "chain_id": "sommelier-3"
+      "chain_id": "sommelier-3",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "empowerchain",
@@ -725,7 +749,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "teritori",
-      "chain_id": "teritori-1"
+      "chain_id": "teritori-1",
+      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "lumnetwork",
@@ -752,7 +777,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "lum-network",
-      "chain_id": "lum-network-1"
+      "chain_id": "lum-network-1",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "bitsong",
@@ -779,7 +805,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "bitsong",
-      "chain_id": "bitsong-2b"
+      "chain_id": "bitsong-2b",
+      "trade_url": "https://app.osmosis.zone"
     },
     {
       "name": "chain4energy",
@@ -823,7 +850,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "dig-chain",
-      "chain_id": "dig-1"
+      "chain_id": "dig-1",
+      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "vidulum",
@@ -843,7 +871,8 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "vidulum",
-      "chain_id": "vidulum-1"
+      "chain_id": "vidulum-1",
+      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "odin",
@@ -867,7 +896,8 @@
       ],
       "apr": "",
       "coingecko_id": "odin-protocol",
-      "chain_id": "odin-mainnet-freya"
+      "chain_id": "odin-mainnet-freya",
+      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "radix",
@@ -886,7 +916,8 @@
       ],
       "apr": "9.67",
       "coingecko_id": "radix",
-      "chain_id": "olymipa"
+      "chain_id": "olymipa",
+      "trade_url": "https://trading.bitfinex.com/t/XRD:USD"
     }
   ]
 }
