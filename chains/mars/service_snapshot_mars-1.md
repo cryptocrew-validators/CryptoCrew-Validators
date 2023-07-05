@@ -1,7 +1,7 @@
 | DOWNLOAD | date | chain_id | size | checksum |
 | -------- | ---- | -------- | ---- | -------- |
-| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_988454.tar.lz4) | Sat Apr  8 12:55:14 PM UTC 2023 | mars-1 | 842M | a6da58d269a65de70034d91a5e3c8553bda86ae8109b5608d971ee641a88158c |
-| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_1585928.tar.lz4) | Thu May 18 02:56:02 PM UTC 2023 | mars-1 | 945M | 82123937771eea26e873bc7e36a81b7864c2063708464c1aa3560a154b5a72b0 |
+| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_2299597.tar.lz4) | Wed Jul  5 15:17:40 UTC 2023 | mars-1 | 703M | 3bcf0c0e6c65f20ebbb21864ebc922c1d50e018a40094777570e5d0f79d5553e |
+| [DOWNLOAD](https://quicksync.ccvalidators.com/SNAPSHOTS/mars-1_2299577.tar.lz4) | Wed Jul  5 15:15:44 UTC 2023 | mars-1 | 706M | c1849b04ecbe039adff46e94a49f6480e814f4ed6e94d203f9cd25078016d525 |
  
 ---
 ## download instructions
@@ -9,7 +9,7 @@
 ```sh
 sudo apt install aria2 lz4
 $URL=<paste URL>
-cd $HOME/.mars
+cd /home/mars/.mars
 rm -rf data
 aria2c -x5 $URL
 md5sum `basename $URL`
@@ -18,7 +18,7 @@ sudo systemctl start marsd
 ```
 *or (single-stream: no double disk-space needed, but slower and no possibility to check hash)*
 ```sh
-cd $HOME/.mars
+cd /home/mars/.mars
 rm -rf data
 wget -O - $URL | lz4 -d | tar -xvf -
 sudo systemctl start marsd
