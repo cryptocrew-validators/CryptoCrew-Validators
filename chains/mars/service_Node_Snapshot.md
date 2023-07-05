@@ -1,14 +1,14 @@
 | DOWNLOAD | date | chain_id | size | checksum |
 | -------- | ---- | -------- | ---- | -------- |
+| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2299945.tar.lz4) | Wed Jul  5 15:51:11 UTC 2023 | mars-1 | 791M | d6331903f7aad0ab9c4eacc406605b70ee81dc28c3572dd9ead776ba49f2babb |
 | [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2299933.tar.lz4) | Wed Jul  5 15:49:57 UTC 2023 | mars-1 | 704M | 3ab9d14525045e26a97db7d3d0682ebd8645873b1c6724673314b661dbef4ff8 |
-| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2299914.tar.lz4) | Wed Jul  5 15:48:08 UTC 2023 | mars-1 | 753M | dc09b36fdfab33db3ecf6178427324ddcf4392b2907ac3f9aea1721542e46377 |
  
 ---
 ## download instructions
  
 ```sh
 sudo apt install aria2 lz4
-$URL=<paste URL>
+$URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2299945.tar.lz4
 cd /home/mars/.mars
 rm -rf data
 aria2c -x5 $URL
