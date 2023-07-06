@@ -1,24 +1,38 @@
 | DOWNLOAD | date | chain_id | size | checksum |
 | -------- | ---- | -------- | ---- | -------- |
-| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_121874.tar.lz4) | Thu Jul  6 10:44:05 UTC 2023 | empowerchain-1 | 399M | 260dc4b372d4e9aa9a83f40f885e2b6bfa4597c8728dbfc637d9d07487be4eba  /home/service/SNAPSHOTS/empowerchain/empowerchain-1_121874.tar.lz4 |
+| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_122205.tar.lz4) | Thu Jul  6 11:14:42 UTC 2023 | empowerchain-1 | 384M | 638a110b3845eda34f7a3c4dca03c22bcf83e74c57f62f735bf3bc5de0f9e8b5  /home/service/SNAPSHOTS/empowerchain/empowerchain-1_122205.tar.lz4 |
  
 ---
 ## download instructions
  
 ```sh
-sudo apt install aria2 lz4
-$URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_121874.tar.lz4
+sudo apt install wget lz4
+$URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_122205.tar.lz4
 cd /home/empowerchain/.empowerd
+cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
-aria2c -x5 $URL
-md5sum `basename $URL`
+wget $URL
+wget $URL.sha256
+sha256sum -c `basename $URL`.sha256
 lz4 -d `basename $URL` | tar xf -
+cp ./priv_validator_state.json.tmp data/priv_validator_state.json
 sudo systemctl start empowerd
+rm ./priv_validator_state.json.tmp
 ```
 *or (single-stream: no double disk-space needed, but slower and no possibility to check hash)*
 ```sh
 cd /home/empowerchain/.empowerd
+cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
 wget -O - $URL | lz4 -d | tar -xvf -
+cp ./priv_validator_state.json.tmp data/priv_validator_state.json
 sudo systemctl start empowerd
+rm ./priv_validator_state.json.tmp
+```
+## using the download script
+ 
+The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
+ 
+```sh
+curl -sSL https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/download_snapshot.sh | bash
 ```
