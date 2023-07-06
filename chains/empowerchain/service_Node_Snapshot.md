@@ -1,13 +1,13 @@
 | DOWNLOAD | date | chain_id | size | checksum |
 | -------- | ---- | -------- | ---- | -------- |
-| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_122266.tar.lz4) | Thu Jul  6 11:20:23 UTC 2023 | empowerchain-1 | 393M | a2e5f47ba603056dbc4a6f169ac32b1c9be19dd1fb5db2edf690bc104d50df3d  /home/service/SNAPSHOTS/empowerchain/empowerchain-1_122266.tar.lz4 |
+| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_122292.tar.lz4) | Thu Jul  6 11:22:55 UTC 2023 | empowerchain-1 | 418M | 534791050d200f8d54165c576c91ad79ee9f60a3f2c76bb838ed4e6e8ff40f0c  /home/service/SNAPSHOTS/empowerchain/empowerchain-1_122292.tar.lz4 |
  
 ---
 ## download instructions
  
 ```sh
 sudo apt install wget lz4
-$URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_122266.tar.lz4
+$URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_122292.tar.lz4
 cd /home/empowerchain/.empowerd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
