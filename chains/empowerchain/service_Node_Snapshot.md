@@ -1,14 +1,14 @@
 | DOWNLOAD | date | chain_id | size | checksum |
 | -------- | ---- | -------- | ---- | -------- |
+| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_170620.tar.lz4) | Sun Jul  9 02:35:20 PM UTC 2023 | empowerchain-1 | 466M | 7cbd514903af0e82f175f771c4f1a279257a2e7a86d6720dc94f471d1c3ac973 |
 | [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_139844.tar.lz4) | Fri Jul  7 02:35:20 PM UTC 2023 | empowerchain-1 | 465M | b3f1856c4ec976583afcc6a461a3bd61086bffad48f00d143f9f38669b53b655 |
-| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_124678.tar.lz4) | Thu Jul  6 03:04:10 PM UTC 2023 | empowerchain-1 | 431M | d94abdf4e145944fef7b527fc7ad4191a6642c459d78acdc6edc05dd3ed15e00 |
  
 ---
 ## download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_139844.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_170620.tar.lz4
 cd /home/empowerchain/.empowerd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -22,7 +22,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_139844.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_170620.tar.lz4
 cd /home/empowerchain/.empowerd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
