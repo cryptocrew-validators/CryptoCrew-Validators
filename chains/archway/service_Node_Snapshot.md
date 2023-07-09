@@ -1,13 +1,16 @@
-| DOWNLOAD | date | chain_id | size | checksum |
-| -------- | ---- | -------- | ---- | -------- |
-| [DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_46153.tar.lz4) | Thu Jul  6 03:16:00 PM UTC 2023 | archway-1 | 1.9G | b7af16409bd7e704bc25f8ff8af7184675cd7589a9314f2b8efb40a1cc58297e |
+CryptoCrew provides daily node-snapshots for the chains we validate. You can use these snapshots to quickly sync your own node!  
+Latest snapshot archwayd version: `v1.0.0`
+| DOWNLOAD | date | chain_id | size | height | checksum |
+| -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_89946.tar.lz4)** | Sun Jul 09 2023 15:35:43 UTC | `archway-1` | 3.5G | 89946 | `f133585432f4520307e8a1345c2dafd545b9257ddc9a2e6ca0c3edb4f301b347` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_46153.tar.lz4)** | Thu Jul 06 2023 15:16:00 UTC | `archway-1` | 1.9G | 89946 | `b7af16409bd7e704bc25f8ff8af7184675cd7589a9314f2b8efb40a1cc58297e` |
  
 ---
-## download instructions
+## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_46153.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_89946.tar.lz4
 cd $HOME/.archway
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -18,10 +21,10 @@ lz4 -d `basename $URL` | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
-*or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
+*Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_46153.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_89946.tar.lz4
 cd $HOME/.archway
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -29,7 +32,7 @@ wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
-## using the download script
+## Using the download script
  
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
  
