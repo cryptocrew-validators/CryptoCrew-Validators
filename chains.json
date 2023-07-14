@@ -9,7 +9,7 @@
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/cosmoshub/logo_cosmoshub.png",
       "symbol": "ATOM",
       "denom": "uatom",
-      "decimals": "",
+      "decimals": "6",
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
