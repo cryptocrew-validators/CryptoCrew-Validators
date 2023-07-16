@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot marsd version: `v1.0.1`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_2466060.tar.lz4)** | Sun Jul 16 2023 17:25:14 UTC | `mars-1` | 892M | 2466060 | `cdd0e96b765696c3b94ea14e7ce03727ca17bfcff43ee6e2750a94ae2c024d9e` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_2451033.tar.lz4)** | Sat Jul 15 2023 17:26:31 UTC | `mars-1` | 1.2G | 2451033 | `16a04a930de91622c9b4e46aae48de70c7455a90663a9b4fb4f92214a9d35a91` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_2436045.tar.lz4)** | Fri Jul 14 2023 17:25:18 UTC | `mars-1` | 850M | 2436045 | `c51f3dae717685aa76fc3af75668a305341ab09b12e5f36f213d6c46e1cfddff` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2451033.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2466060.tar.lz4
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2451033.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2466060.tar.lz4
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
