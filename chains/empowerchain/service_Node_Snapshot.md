@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot empowerd version: `v1.0.0`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/empowerchain-1_326203.tar.lz4)** | Wed Jul 19 2023 14:35:27 UTC | `empowerchain-1` | 589M | 326203 | `d2615c468e8ff39497b5a9821510244c6710169e752f0247ea0b74b8bf679020` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/empowerchain-1_310651.tar.lz4)** | Tue Jul 18 2023 14:35:18 UTC | `empowerchain-1` | 557M | 310651 | `57e58e77111d3acb5749c967bd67c179199008f61c14627f220ec885e46c2672` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/empowerchain-1_295098.tar.lz4)** | Mon Jul 17 2023 14:35:30 UTC | `empowerchain-1` | 574M | 295098 | `373201524144af238d864011ba7e2939a9143ba17b43879961723a24f6bd0c64` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_310651.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_326203.tar.lz4
 cd /home/empowerchain/.empowerd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_310651.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_326203.tar.lz4
 cd /home/empowerchain/.empowerd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
