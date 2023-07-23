@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot osmosisd version: `v16.1.0`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/osmosis-1_10665145.tar.lz4)** | Sun Jul 23 2023 15:45:58 UTC | `osmosis-1` | 20G | 10665145 | `004370876315bef856d4c7e0263315a9f1332c5b8863d68863b8d1f6d0f15698` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/osmosis-1_10656094.tar.lz4)** | Sun Jul 23 2023 01:24:25 UTC | `osmosis-1` | 21G | 10656094 | `b355f60cf81f7303972cb02190a18ad6d32b36738cbf6bd6308c2f1d5b53df4d` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/osmosis-1_10635340.tar.lz4)** | Fri Jul 21 2023 15:45:49 UTC | `osmosis-1` | 19G | 10635340 | `7cacaef8485c773375c57775fcd65c2ed609a8cdacb57edbfe179cc27072c5c0` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_10656094.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_10665145.tar.lz4
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_10656094.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_10665145.tar.lz4
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
