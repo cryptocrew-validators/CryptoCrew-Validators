@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot chihuahuad version: `vv4.2.3`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/chihuahua-1_8474531.tar.lz4)** | Tue Jul 25 2023 10:37:46 UTC | `chihuahua-1` | 120G | 8474531 | `4faa642f3653df181f64b22805a0d61de467b4fdfd159947914b5a10bb0d3a58` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/chihuahua-1_8455509.tar.lz4)** | Mon Jul 24 2023 03:13:26 UTC | `chihuahua-1` | 4.7G | 8455509 | `07df815d13981f5c7f4b8cc37c00b867f1b2ed89b2f914882f13ece1609b729c` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/chihuahua-1_8444902.tar.lz4)** | Sun Jul 23 2023 10:37:01 UTC | `chihuahua-1` | 119G | 8444902 | `0ec886a282c85d9fd3207270452cc8fe26b9c98705d72fa133520363ce57817f` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8455509.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8474531.tar.lz4
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8455509.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8474531.tar.lz4
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
