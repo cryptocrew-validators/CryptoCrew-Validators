@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot evmosd version: `v13.0.2`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/evmos_9001-2_14834796.tar.lz4)** | Wed Jul 26 2023 15:25:45 UTC | `evmos_9001-2` | 217G | 14834796 | `a9c2407d812f381e7bfd7ef4274914f4bee3f4d76521966e45d4ec3838a7962c` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/evmos_9001-2_14813138.tar.lz4)** | Tue Jul 25 2023 21:16:42 UTC | `evmos_9001-2` | 1.1T | 14813138 | `2f4e0c2bac6161c920f927df07ac369bc235d297be9471375f3997008c7e2c23` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/evmos_9001-2_14791163.tar.lz4)** | Mon Jul 24 2023 14:16:22 UTC | `evmos_9001-2` | 52G | 14791163 | `` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_14813138.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_14834796.tar.lz4
 cd $HOME/.evmosd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_14813138.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_14834796.tar.lz4
 cd $HOME/.evmosd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
