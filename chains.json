@@ -914,7 +914,7 @@
       "rest": [
         "https://mainnet-gateway.radixdlt.com:443"
       ],
-      "apr": "9.67",
+      "apr": "0.0967",
       "coingecko_id": "radix",
       "chain_id": "olymipa",
       "trade_url": "https://trading.bitfinex.com/t/XRD:USD"
