@@ -2,6 +2,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot gravity version: `vantares`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/gravity-bridge-3_7913254.tar.lz4)** | Thu Aug 03 2023 18:34:50 UTC | `gravity-bridge-3` | 71G | 7913254 | `d88641dfb05df8eb2a4c1e2cb3128fe715e3e709227846f8ddda049dc379a506` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/gravity-bridge-3_7900341.tar.lz4)** | Wed Aug 02 2023 16:20:43 UTC | `gravity-bridge-3` | 70G | 7900341 | `9de9603f48aa170f3ccf9ab35095a9584e9b4e8b72cacc8c8f9eee023fa430ad` |
  
 ---
@@ -9,7 +10,7 @@ Latest snapshot gravity version: `vantares`
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_7900341.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_7913254.tar.lz4
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -23,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_7900341.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_7913254.tar.lz4
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
