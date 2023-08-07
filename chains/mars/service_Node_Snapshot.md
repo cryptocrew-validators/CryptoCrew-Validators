@@ -2,15 +2,16 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 marsd version: `v1.0.2`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_wasm.tar.lz4)** | Mon Aug 07 2023 18:18:53 UTC | `mars-1` | 12K | wasm | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_2797364.tar.lz4)** | Mon Aug 07 2023 18:18:52 UTC | `mars-1` | 341M | 2797364 | `36e8c85c8e69401457b3a7b8d40edd586cab09ce70ff48234623b2ac6501c875` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_2797195.tar.lz4)** | Mon Aug 07 2023 18:01:24 UTC | `mars-1` | 309M | 2797195 | `eea0996cfbd5bbe7c69050b1772b616f85052e0343aad8df7deb3b5e9212e433` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_2722644.tar.lz4)** | Wed Aug 02 2023 19:06:27 UTC | `mars-1` | 256M | 2722644 | `4e087197c0d8aa4af61f8048285a85f48d8b6ca92e4a17e33f6e9b9d9be8d787` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2797195.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2797364.tar.lz4
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -24,13 +25,21 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2797195.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_2797364.tar.lz4
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
+```
+*Optional: Download `wasm` folder only*
+(In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases. Note, on this chain the wasm folder is located within the /data folder.)
+```
+URL=https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_wasm.tar.lz4
+cd $HOME/.mars/data
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 ## Using the download script
  
