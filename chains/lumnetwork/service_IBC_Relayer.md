@@ -13,5 +13,9 @@ lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg
 ### Active IBC channels `lumnetwork`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | lum-network-1 | osmosis-1 | transfer | channel-3 |
+| lum-network-1 | osmosis-1 | transfer | channel-3 |
+| cosmoshub-4 | lum-network-1 | transfer | channel-566 |
+| osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |

@@ -14,6 +14,9 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 ### Active IBC channels `gravitybridge`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
+| gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
+| gravity-bridge-3 | canto_7700-1 | transfer | channel-88 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
@@ -23,6 +26,10 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-21 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-83 |
+| canto_7700-1 | gravity-bridge-3 | transfer | channel-0 |
+| chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
+| injective-1 | gravity-bridge-3 | transfer | channel-100 |
+| osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
