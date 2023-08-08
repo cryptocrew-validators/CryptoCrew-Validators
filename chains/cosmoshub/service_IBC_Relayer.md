@@ -15,6 +15,7 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | core-1 | transfer | channel-190 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -23,7 +24,6 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -44,6 +44,7 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
@@ -52,7 +53,6 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
