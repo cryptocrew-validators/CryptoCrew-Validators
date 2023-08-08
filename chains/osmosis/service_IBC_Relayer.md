@@ -14,6 +14,15 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | akashnet-2 | transfer | channel-1 |
+| osmosis-1 | quasar-1 | icqhost | channel-1142 |
+| osmosis-1 | quasar-1 | icqhost | channel-1156 |
+| osmosis-1 | quasar-1 | icqhost | channel-1172 |
+| osmosis-1 | agoric-3 | transfer | channel-320 |
+| osmosis-1 | stride-1 | transfer | channel-326 |
+| osmosis-1 | quicksilver-2 | transfer | channel-522 |
+| osmosis-1 | mars-1 | transfer | channel-557 |
+| osmosis-1 | pirin-1 | transfer | channel-783 |
 | osmosis-1 | empowerchain-1 | transfer | channel-1411 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
@@ -46,14 +55,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | akashnet-2 | transfer | channel-1 |
-| osmosis-1 | crescent-1 | transfer | channel-297 |
-| osmosis-1 | agoric-3 | transfer | channel-320 |
-| osmosis-1 | stride-1 | transfer | channel-326 |
-| osmosis-1 | mars-1 | transfer | channel-557 |
-| osmosis-1 | quasar-1 | icqhost | channel-705 |
-| osmosis-1 | quasar-1 | icqhost | channel-710 |
-| osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
 | osmosis-1 | quasar-1 | icqhost | channel-1172 |
@@ -84,6 +85,13 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| agoric-3 | osmosis-1 | transfer | channel-1 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
+| mars-1 | osmosis-1 | transfer | channel-1 |
+| pirin-1 | osmosis-1 | transfer | channel-0 |
+| quicksilver-2 | osmosis-1 | transfer | channel-2 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
+| teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
@@ -114,12 +122,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| agoric-3 | osmosis-1 | transfer | channel-1 |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
-| crescent-1 | osmosis-1 | transfer | channel-9 |
-| mars-1 | osmosis-1 | transfer | channel-1 |
-| quasar-1 | osmosis-1 | transfer | channel-1 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |

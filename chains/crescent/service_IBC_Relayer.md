@@ -8,8 +8,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 ### Active IBC channels `crescent`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| crescent-1 | osmosis-1 | transfer | channel-9 |
 | crescent-1 | agoric-3 | transfer | channel-11 |
-| akashnet-2 | crescent-1 | transfer | channel-70 |
-| osmosis-1 | crescent-1 | transfer | channel-297 |
+| crescent-1 | agoric-3 | transfer | channel-11 |
+| agoric-3 | crescent-1 | transfer | channel-2 |
 | agoric-3 | crescent-1 | transfer | channel-2 |
