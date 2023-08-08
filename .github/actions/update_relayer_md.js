@@ -8,14 +8,23 @@ function readJSONFile(filePath) {
 
 function generateMDTable(relayers, chains) {
     const relayerChains = {};
+    const walletsByChain = {};
 
     for (const relayer of relayers.relayers) {
         for (const chain of relayer.chains) {
             const chainId = chain.chain_id;
+
             if (!relayerChains[chainId]) {
                 relayerChains[chainId] = [];
             }
             relayerChains[chainId].push(...chain.channels);
+
+            if (!walletsByChain[chainId]) {
+                walletsByChain[chainId] = new Set();
+            }
+            for (const wallet of chain.wallets) {
+                walletsByChain[chainId].add(wallet);
+            }
         }
     }
 
@@ -24,6 +33,12 @@ function generateMDTable(relayers, chains) {
         const channels = relayerChains[chainId];
         const dstChannels = findDstChannels(relayers, chainId);
 
+        if (!chain.relayer_accounts) {
+            chain.relayer_accounts = [];
+        }
+        chain.relayer_accounts.push(...Array.from(walletsByChain[chainId] || []));
+        chain.relayer_accounts = [...new Set(chain.relayer_accounts)];
+
         if (channels || dstChannels.length > 0) {
             const mdContent = generateMDContent(channels, dstChannels, chain);
             const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
@@ -31,6 +46,7 @@ function generateMDTable(relayers, chains) {
         }
     }
 }
+
 
 function findDstChannels(relayers, dstChainId) {
     const dstChannels = [];
