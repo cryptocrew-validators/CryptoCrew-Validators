@@ -5,12 +5,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Accounts:
-```
-juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
-juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
-```
-
 ### Active IBC channels `juno`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
@@ -42,11 +36,11 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | kaiyo-1 | juno-1 | transfer | channel-31 |
-| osmosis-1 | juno-1 | transfer | channel-169 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | kaiyo-1 | juno-1 | transfer | channel-31 |
+| osmosis-1 | juno-1 | transfer | channel-169 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | bitsong-2b | juno-1 | transfer | channel-5 |
