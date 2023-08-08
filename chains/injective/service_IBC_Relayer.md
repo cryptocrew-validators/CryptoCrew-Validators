@@ -16,10 +16,10 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
+| injective-1 | phoenix-1 | transfer | channel-104 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
-| injective-1 | phoenix-1 | transfer | channel-104 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | injective-1 | laozi-mainnet | oracle | channel-3 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
@@ -29,9 +29,9 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
+| phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | laozi-mainnet | injective-1 | oracle | channel-7 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
 | core-1 | injective-1 | transfer | channel-41 |

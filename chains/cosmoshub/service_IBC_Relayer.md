@@ -15,6 +15,14 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | juno-1 | transfer | channel-207 |
+| cosmoshub-4 | injective-1 | transfer | channel-220 |
+| cosmoshub-4 | secret-4 | transfer | channel-235 |
+| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
+| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
+| cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
+| cosmoshub-4 | canto_7700-1 | transfer | channel-358 |
+| cosmoshub-4 | lum-network-1 | transfer | channel-566 |
 | cosmoshub-4 | core-1 | transfer | channel-190 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -25,13 +33,6 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
-| cosmoshub-4 | juno-1 | transfer | channel-207 |
-| cosmoshub-4 | injective-1 | transfer | channel-220 |
-| cosmoshub-4 | secret-4 | transfer | channel-235 |
-| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
-| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
-| cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
-| cosmoshub-4 | lum-network-1 | transfer | channel-566 |
 | cosmoshub-4 | bitsong-2b | transfer | channel-229 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
@@ -44,6 +45,14 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
+| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
+| injective-1 | cosmoshub-4 | transfer | channel-1 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| lum-network-1 | cosmoshub-4 | transfer | channel-12 |
+| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
+| secret-4 | cosmoshub-4 | transfer | channel-0 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
@@ -53,13 +62,6 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
-| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
-| injective-1 | cosmoshub-4 | transfer | channel-1 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
-| lum-network-1 | cosmoshub-4 | transfer | channel-12 |
-| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
-| secret-4 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
