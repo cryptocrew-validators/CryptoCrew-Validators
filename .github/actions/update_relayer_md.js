@@ -8,25 +8,30 @@ function readJSONFile(filePath) {
 
 function generateMDTable(relayers, chains) {
     const relayerChains = {};
+    const relayerAccounts = {};
 
     for (const relayer of relayers.relayers) {
         for (const chain of relayer.chains) {
             const chainId = chain.chain_id;
             if (!relayerChains[chainId]) {
                 relayerChains[chainId] = [];
+                relayerAccounts[chainId] = [];
             }
             relayerChains[chainId].push(...chain.channels);
-            relayerChains[chainId].push(...chain.relayer_accounts);
+            if (chain.relayer_accounts && chain.relayer_accounts.length > 0) {
+                relayerAccounts[chainId].push(...chain.relayer_accounts);
+            }
         }
     }
 
     for (const chain of chains.chains) {
         const chainId = chain.chain_id;
         const channels = relayerChains[chainId];
+        const accounts = relayerAccounts[chainId] || [];
         const dstChannels = findDstChannels(relayers, chainId);
 
         if (channels || dstChannels.length > 0) {
-            const mdContent = generateMDContent(channels, dstChannels, chain);
+            const mdContent = generateMDContent(channels, dstChannels, chain, accounts);
             const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
             fs.writeFileSync(outputPath, mdContent);
         }
@@ -52,8 +57,8 @@ function findDstChannels(relayers, dstChainId) {
     return dstChannels;
 }
 
-function generateMDContent(srcChannels, dstChannels, chain) {
-    const wallets = chain.relayer_accounts && chain.relayer_accounts.length > 0
+function generateMDContent(srcChannels, dstChannels, chain, accounts) {
+    const wallets = accounts && accounts.length > 0
         ? `Active Relayer Accounts:\n\`\`\`\n${chain.relayer_accounts.map(wallet => `${wallet}`).join('\n')}\n\`\`\`\n\n`
         : '';
     const header = `## CryptoCrew IBC relayer
