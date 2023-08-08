@@ -11,6 +11,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
+| injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | phoenix-1 | transfer | channel-104 |
@@ -22,6 +23,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | injective-1 | core-1 | transfer | channel-82 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
+| kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | osmosis-1 | injective-1 | transfer | channel-122 |

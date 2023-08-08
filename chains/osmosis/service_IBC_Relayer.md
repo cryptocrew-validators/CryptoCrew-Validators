@@ -86,6 +86,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
+| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |

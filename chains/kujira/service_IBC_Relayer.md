@@ -13,6 +13,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | kaiyo-1 | juno-1 | transfer | channel-31 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
+| kaiyo-1 | injective-1 | transfer | channel-54 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
@@ -38,6 +39,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
+| injective-1 | kaiyo-1 | transfer | channel-98 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
