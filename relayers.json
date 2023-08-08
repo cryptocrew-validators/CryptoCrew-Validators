@@ -3,6 +3,67 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-9",
+      "software": "hermes",
+      "software_version": "hermes 1.5.1+6583d697",
+      "chains": [
+        {
+          "chain_id": "osmo-test-5",
+          "wallets": [
+            "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1099",
+              "port_id": "transfer",
+              "dst_chain_id": "theta-testnet-001"
+            },
+            {
+              "channel_id": "channel-12",
+              "port_id": "transfer",
+              "dst_chain_id": "theta-testnet-001"
+            },
+            {
+              "channel_id": "channel-1208",
+              "port_id": "transfer",
+              "dst_chain_id": "sandbox-01"
+            },
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-testnet-lisbon-3"
+            }
+          ]
+        },
+        {
+          "chain_id": "sandbox-01",
+          "wallets": [
+            "akash1yvejj22t78s2vfk7slty2d7fs5lkc8rn7su4ux"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmo-test-5"
+            }
+          ]
+        },
+        {
+          "chain_id": "theta-testnet-001",
+          "wallets": [
+            "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-2971",
+              "port_id": "transfer",
+              "dst_chain_id": "osmo-test-5"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-55",
       "software": "hermes",
       "software_version": "hermes 1.6.0+1c1cf029-dirty",
@@ -1319,67 +1380,6 @@
               "channel_id": "channel-5",
               "port_id": "transfer",
               "dst_chain_id": "juno-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-9",
-      "software": "hermes",
-      "software_version": "hermes 1.4.1",
-      "chains": [
-        {
-          "chain_id": "osmo-test-5",
-          "wallets": [
-            "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-1099",
-              "port_id": "transfer",
-              "dst_chain_id": "theta-testnet-001"
-            },
-            {
-              "channel_id": "channel-12",
-              "port_id": "transfer",
-              "dst_chain_id": "theta-testnet-001"
-            },
-            {
-              "channel_id": "channel-1208",
-              "port_id": "transfer",
-              "dst_chain_id": "sandbox-01"
-            },
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "axelar-testnet-lisbon-3"
-            }
-          ]
-        },
-        {
-          "chain_id": "sandbox-01",
-          "wallets": [
-            "akash1yvejj22t78s2vfk7slty2d7fs5lkc8rn7su4ux"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmo-test-5"
-            }
-          ]
-        },
-        {
-          "chain_id": "theta-testnet-001",
-          "wallets": [
-            "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-2971",
-              "port_id": "transfer",
-              "dst_chain_id": "osmo-test-5"
             }
           ]
         }
