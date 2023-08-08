@@ -5,15 +5,15 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Wallets:
-
-- `cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u`
-- `cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl`
-- `cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs`
+Active Relayer Accounts `cosmoshub-4`:
+```- cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
+- cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
+- cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs```
 
 ### Active IBC channels `cosmoshub`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
 | cosmoshub-4 | bitsong-2b | transfer | channel-229 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
@@ -26,6 +26,7 @@ Active Relayer Wallets:
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |

@@ -5,9 +5,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Wallets:
-
-- `omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp`
+Active Relayer Accounts `omniflixhub-1`:
+```- omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp```
 
 ### Active IBC channels `omniflixhub`
 | src_chain | dst_chain | IBC port | IBC channel |

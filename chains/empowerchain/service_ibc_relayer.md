@@ -5,21 +5,12 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Accounts `laozi-mainnet`:
-```- band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c
-- band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5
-- band15md2qvgma8lnvqv67w0umu2paqkqkhegq9ewsh```
-
-### Active IBC channels `bandchain`
+### Active IBC channels `empowerchain`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| laozi-mainnet | osmosis-1 | transfer | channel-83 |
-| laozi-mainnet | comdex-1 | oracle | channel-96 |
-| laozi-mainnet | comdex-1 | oracle | channel-96 |
-| laozi-mainnet | injective-1 | oracle | channel-7 |
-| laozi-mainnet | osmosis-1 | transfer | channel-83 |
-| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
-| injective-1 | laozi-mainnet | oracle | channel-3 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
+| empowerchain-1 | osmosis-1 | transfer | channel-1 |
+| empowerchain-1 | axelar-dojo-1 | transfer | channel-2 |
+| axelar-dojo-1 | empowerchain-1 | transfer | channel-109 |
+| cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
+| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
