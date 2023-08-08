@@ -37,9 +37,19 @@
           "wallets": [],
           "channels": [
             {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
               "channel_id": "channel-10",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-dojo-1"
             }
           ]
         },
