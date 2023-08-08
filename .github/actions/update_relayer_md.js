@@ -13,15 +13,11 @@ function generateMDTable(relayers, chains) {
         for (const chain of relayer.chains) {
             const chainId = chain.chain_id;
             if (!relayerChains[chainId]) {
-                relayerChains[chainId] = new Set();
+                relayerChains[chainId] = [];
             }
-            chain.channels.forEach(channel => relayerChains[chainId].add(channel));
-            chain.relayer_accounts.forEach(account => relayerChains[chainId].add(account));
+            relayerChains[chainId].push(...chain.channels);
+            relayerChains[chainId].push(...chain.relayer_accounts);
         }
-    }
-
-    for (const chainId in relayerChains) {
-        relayerChains[chainId] = [...relayerChains[chainId]];
     }
 
     for (const chain of chains.chains) {
