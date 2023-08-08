@@ -8,17 +8,6 @@
       "software_version": "hermes 1.6.0+1c1cf029-dirty",
       "chains": [
         {
-          "chain_id": "axelar-dojo-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-78",
-              "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
-            }
-          ]
-        },
-        {
           "chain_id": "cosmoshub-4",
           "wallets": [
             "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
@@ -26,30 +15,9 @@
           ],
           "channels": [
             {
-              "channel_id": "channel-569",
-              "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "neutron-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-10",
+              "channel_id": "channel-141",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "axelar-dojo-1"
             }
           ]
         },
@@ -61,9 +29,9 @@
           ],
           "channels": [
             {
-              "channel_id": "channel-874",
+              "channel_id": "channel-0",
               "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
+              "dst_chain_id": "cosmoshub-4"
             }
           ]
         }
