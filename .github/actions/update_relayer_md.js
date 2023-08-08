@@ -26,7 +26,7 @@ function generateMDTable(relayers, chains) {
 
         if (channels || dstChannels.length > 0) {
             const mdContent = generateMDContent(channels, dstChannels, chain);
-            const outputPath = path.join('chains', chain.name, 'service_ibc_relayer.md');
+            const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
             fs.writeFileSync(outputPath, mdContent);
         }
     }
@@ -53,7 +53,7 @@ function findDstChannels(relayers, dstChainId) {
 
 function generateMDContent(srcChannels, dstChannels, chain) {
     const wallets = chain.relayer_accounts && chain.relayer_accounts.length > 0
-        ? `Active Relayer Accounts \`${chain.name}\`:\n\`\`\`\n${chain.relayer_accounts.map(wallet => `${wallet}`).join('\n')}\n\`\`\`\n\n`
+        ? `Active Relayer Accounts:\n\`\`\`\n${chain.relayer_accounts.map(wallet => `${wallet}`).join('\n')}\n\`\`\`\n\n`
         : '';
     const header = `## CryptoCrew IBC relayer
 IBC relayers play a crucial role in the interchain by efficiently managing and transmitting data and assets between different blockchain networks using the Inter-Blockchain Communication (IBC) protocol.
@@ -62,7 +62,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-${wallets}### Active IBC channels \`` + chain.name + `\`
+${wallets}### Active IBC channels \`` + chain.name + `\`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |\n`;
     const srcRows = srcChannels ? srcChannels.map(channel => `| ${chain.chain_id} | ${channel.dst_chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n') : '';
