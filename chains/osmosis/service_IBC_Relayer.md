@@ -5,9 +5,30 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
+Active Relayer Accounts:
+```
+osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
+osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
+```
+
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | chihuahua-1 | transfer | channel-113 |
+| osmosis-1 | lum-network-1 | transfer | channel-115 |
+| osmosis-1 | injective-1 | transfer | channel-122 |
+| osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
+| osmosis-1 | juno-1 | transfer | channel-169 |
+| osmosis-1 | evmos_9001-2 | transfer | channel-204 |
+| osmosis-1 | phoenix-1 | transfer | channel-251 |
+| osmosis-1 | odin-mainnet-freya | transfer | channel-258 |
+| osmosis-1 | kaiyo-1 | transfer | channel-259 |
+| osmosis-1 | phoenix-1 | transfer | channel-341 |
+| osmosis-1 | juno-1 | transfer | channel-42 |
+| osmosis-1 | migaloo-1 | transfer | channel-642 |
+| osmosis-1 | bitsong-2b | transfer | channel-73 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
+| osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
@@ -34,21 +55,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | osmosis-1 | quicksilver-2 | transfer | channel-522 |
 | osmosis-1 | mars-1 | transfer | channel-557 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| osmosis-1 | lum-network-1 | transfer | channel-115 |
-| osmosis-1 | injective-1 | transfer | channel-122 |
-| osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
-| osmosis-1 | juno-1 | transfer | channel-169 |
-| osmosis-1 | evmos_9001-2 | transfer | channel-204 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
-| osmosis-1 | odin-mainnet-freya | transfer | channel-258 |
-| osmosis-1 | kaiyo-1 | transfer | channel-259 |
-| osmosis-1 | phoenix-1 | transfer | channel-341 |
-| osmosis-1 | juno-1 | transfer | channel-42 |
-| osmosis-1 | migaloo-1 | transfer | channel-642 |
-| osmosis-1 | bitsong-2b | transfer | channel-73 |
-| osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
 | osmosis-1 | quasar-1 | icqhost | channel-1172 |
@@ -79,6 +85,20 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| bitsong-2b | osmosis-1 | transfer | channel-0 |
+| chihuahua-1 | osmosis-1 | transfer | channel-7 |
+| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
+| gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
+| injective-1 | osmosis-1 | transfer | channel-8 |
+| juno-1 | osmosis-1 | transfer | channel-0 |
+| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
+| kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| lum-network-1 | osmosis-1 | transfer | channel-3 |
+| migaloo-1 | osmosis-1 | transfer | channel-5 |
+| odin-mainnet-freya | osmosis-1 | transfer | channel-3 |
+| phoenix-1 | osmosis-1 | transfer | channel-1 |
+| secret-4 | osmosis-1 | transfer | channel-1 |
+| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
@@ -104,19 +124,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| bitsong-2b | osmosis-1 | transfer | channel-0 |
-| chihuahua-1 | osmosis-1 | transfer | channel-7 |
-| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
-| gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
-| injective-1 | osmosis-1 | transfer | channel-8 |
-| juno-1 | osmosis-1 | transfer | channel-0 |
-| kaiyo-1 | osmosis-1 | transfer | channel-3 |
-| lum-network-1 | osmosis-1 | transfer | channel-3 |
-| migaloo-1 | osmosis-1 | transfer | channel-5 |
-| odin-mainnet-freya | osmosis-1 | transfer | channel-3 |
-| phoenix-1 | osmosis-1 | transfer | channel-1 |
-| secret-4 | osmosis-1 | transfer | channel-1 |
-| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |

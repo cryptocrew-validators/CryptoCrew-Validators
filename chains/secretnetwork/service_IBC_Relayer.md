@@ -5,12 +5,18 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
+Active Relayer Accounts:
+```
+secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
+```
+
 ### Active IBC channels `secretnetwork`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
+| secret-4 | injective-1 | transfer | channel-23 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | chihuahua-1 | transfer | channel-11 |
@@ -24,6 +30,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | secret-4 | juno-1 | transfer | channel-8 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
+| injective-1 | secret-4 | transfer | channel-88 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |

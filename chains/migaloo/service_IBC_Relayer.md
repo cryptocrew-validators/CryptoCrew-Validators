@@ -5,10 +5,16 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
+Active Relayer Accounts:
+```
+migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
+```
+
 ### Active IBC channels `migaloo`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
+| migaloo-1 | juno-1 | transfer | channel-1 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
@@ -17,6 +23,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | migaloo-1 | injective-1 | transfer | channel-3 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
+| juno-1 | migaloo-1 | transfer | channel-210 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
