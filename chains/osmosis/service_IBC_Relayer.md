@@ -14,6 +14,10 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
+| osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
@@ -48,10 +52,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | quasar-1 | icqhost | channel-705 |
 | osmosis-1 | quasar-1 | icqhost | channel-710 |
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
-| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
 | osmosis-1 | quasar-1 | icqhost | channel-1172 |
@@ -82,6 +82,10 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
+| empowerchain-1 | osmosis-1 | transfer | channel-1 |
+| laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
@@ -108,10 +112,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| comdex-1 | osmosis-1 | transfer | channel-1 |
-| empowerchain-1 | osmosis-1 | transfer | channel-1 |
-| laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
