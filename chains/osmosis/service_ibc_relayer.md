@@ -5,13 +5,25 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Accounts `osmosis-1`:
-```- osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
-- osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d```
+Active Relayer Accounts `osmosis`:
+```
+- osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
+- osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
+```
 
 ### Active IBC channels `osmosis`
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | akashnet-2 | transfer | channel-1 |
+| osmosis-1 | quasar-1 | icqhost | channel-1142 |
+| osmosis-1 | quasar-1 | icqhost | channel-1156 |
+| osmosis-1 | quasar-1 | icqhost | channel-1172 |
+| osmosis-1 | stride-1 | transfer | channel-326 |
+| osmosis-1 | teritori-1 | transfer | channel-362 |
+| osmosis-1 | quicksilver-2 | transfer | channel-522 |
+| osmosis-1 | quasar-1 | icqhost | channel-705 |
+| osmosis-1 | quasar-1 | icqhost | channel-710 |
+| osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | empowerchain-1 | transfer | channel-1411 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
@@ -46,6 +58,10 @@ Active Relayer Accounts `osmosis-1`:
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
+| quicksilver-2 | osmosis-1 | transfer | channel-2 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
+| teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |

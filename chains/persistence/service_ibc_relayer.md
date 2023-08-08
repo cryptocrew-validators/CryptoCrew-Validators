@@ -5,9 +5,11 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Accounts `core-1`:
-```- persistence1yvejj22t78s2vfk7slty2d7fs5lkc8rna8hptc
-- persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm```
+Active Relayer Accounts `persistence`:
+```
+- persistence1yvejj22t78s2vfk7slty2d7fs5lkc8rna8hptc
+- persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
+```
 
 ### Active IBC channels `persistence`
 | src_chain | dst_chain | IBC port | IBC channel |
