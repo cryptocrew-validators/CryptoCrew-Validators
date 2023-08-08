@@ -7,9 +7,9 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `bandchain`:
 ```
-- band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c
-- band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5
-- band15md2qvgma8lnvqv67w0umu2paqkqkhegq9ewsh
+band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c
+band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5
+band15md2qvgma8lnvqv67w0umu2paqkqkhegq9ewsh
 ```
 
 ### Active IBC channels `bandchain`

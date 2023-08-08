@@ -7,7 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `bitsong`:
 ```
-- bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n
+bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n
 ```
 
 ### Active IBC channels `bitsong`

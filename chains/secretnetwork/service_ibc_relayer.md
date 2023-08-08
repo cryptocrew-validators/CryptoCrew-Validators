@@ -7,7 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `secretnetwork`:
 ```
-- secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
+secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 ```
 
 ### Active IBC channels `secretnetwork`

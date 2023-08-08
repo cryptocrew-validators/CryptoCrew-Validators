@@ -7,7 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `odin`:
 ```
-- odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk
+odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk
 ```
 
 ### Active IBC channels `odin`

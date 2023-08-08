@@ -7,7 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `lumnetwork`:
 ```
-- lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg
+lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg
 ```
 
 ### Active IBC channels `lumnetwork`

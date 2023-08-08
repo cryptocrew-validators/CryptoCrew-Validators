@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `comdex`:
 ```
-- comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8
-- comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
+comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8
+comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 ```
 
 ### Active IBC channels `comdex`

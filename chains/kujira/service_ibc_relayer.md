@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts `kujira`:
 ```
-- kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
-- kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
+kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
+kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 ```
 
 ### Active IBC channels `kujira`
