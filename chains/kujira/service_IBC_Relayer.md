@@ -15,6 +15,13 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
+| kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| kaiyo-1 | juno-1 | transfer | channel-31 |
+| kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
+| kaiyo-1 | injective-1 | transfer | channel-54 |
+| kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
@@ -25,13 +32,6 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
-| kaiyo-1 | stargaze-1 | transfer | channel-7 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
-| kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
-| kaiyo-1 | osmosis-1 | transfer | channel-3 |
-| kaiyo-1 | juno-1 | transfer | channel-31 |
-| kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
-| kaiyo-1 | injective-1 | transfer | channel-54 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | secret-4 | transfer | channel-44 |
@@ -49,11 +49,7 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
-| migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
-| phoenix-1 | kaiyo-1 | transfer | channel-10 |
-| phoenix-1 | kaiyo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-28 |
-| secret-4 | kaiyo-1 | transfer | channel-22 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
@@ -61,7 +57,11 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
+| migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
+| phoenix-1 | kaiyo-1 | transfer | channel-10 |
+| phoenix-1 | kaiyo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-28 |
+| secret-4 | kaiyo-1 | transfer | channel-22 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
