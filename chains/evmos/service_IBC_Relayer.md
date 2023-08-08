@@ -14,9 +14,6 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 ### Active IBC channels `evmos`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
-| evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
-| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | evmos_9001-2 | secret-4 | transfer | channel-15 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
@@ -24,9 +21,6 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 | evmos_9001-2 | juno-1 | transfer | channel-41 |
 | evmos_9001-2 | juno-1 | transfer | channel-5 |
 | evmos_9001-2 | gravity-bridge-3 | transfer | channel-8 |
-| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
-| kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
-| osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | secret-4 | evmos_9001-2 | transfer | channel-18 |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
