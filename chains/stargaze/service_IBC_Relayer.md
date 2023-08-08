@@ -15,6 +15,7 @@ stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
+| stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
@@ -23,6 +24,7 @@ stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
+| kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
