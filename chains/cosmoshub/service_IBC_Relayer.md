@@ -18,14 +18,6 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| cosmoshub-4 | core-1 | transfer | channel-190 |
-| cosmoshub-4 | juno-1 | transfer | channel-207 |
-| cosmoshub-4 | injective-1 | transfer | channel-220 |
-| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
-| cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
-| cosmoshub-4 | comdex-1 | transfer | channel-400 |
-| cosmoshub-4 | core-1 | icahost | channel-428 |
-| cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
@@ -34,6 +26,14 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | canto_7700-1 | transfer | channel-358 |
 | cosmoshub-4 | lum-network-1 | transfer | channel-566 |
+| cosmoshub-4 | core-1 | transfer | channel-190 |
+| cosmoshub-4 | juno-1 | transfer | channel-207 |
+| cosmoshub-4 | injective-1 | transfer | channel-220 |
+| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
+| cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
+| cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| cosmoshub-4 | core-1 | icahost | channel-428 |
+| cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
@@ -49,14 +49,6 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
-| comdex-1 | cosmoshub-4 | transfer | channel-37 |
-| core-1 | cosmoshub-4 | transfer | channel-24 |
-| core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
-| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
-| injective-1 | cosmoshub-4 | transfer | channel-1 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
-| empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
@@ -65,6 +57,14 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
+| comdex-1 | cosmoshub-4 | transfer | channel-37 |
+| core-1 | cosmoshub-4 | transfer | channel-24 |
+| core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
+| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
+| injective-1 | cosmoshub-4 | transfer | channel-1 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
