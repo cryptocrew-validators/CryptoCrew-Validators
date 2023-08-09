@@ -18,6 +18,10 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
+| osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
@@ -44,10 +48,6 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
@@ -91,6 +91,10 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
+| empowerchain-1 | osmosis-1 | transfer | channel-1 |
+| laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
@@ -119,10 +123,6 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| comdex-1 | osmosis-1 | transfer | channel-1 |
-| empowerchain-1 | osmosis-1 | transfer | channel-1 |
-| laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
