@@ -19,6 +19,8 @@ secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | injective-1 | transfer | channel-23 |
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
+| secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
+| secret-4 | juno-1 | transfer | channel-8 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | chihuahua-1 | transfer | channel-11 |
@@ -33,7 +35,9 @@ secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | injective-1 | secret-4 | transfer | channel-88 |
+| juno-1 | secret-4 | transfer | channel-48 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
+| kaiyo-1 | secret-4 | transfer | channel-44 |
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
