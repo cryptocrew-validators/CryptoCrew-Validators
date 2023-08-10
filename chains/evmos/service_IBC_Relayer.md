@@ -34,6 +34,7 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 | evmos_9001-2 | juno-1 | transfer | channel-41 |
 | evmos_9001-2 | juno-1 | transfer | channel-5 |
 | evmos_9001-2 | gravity-bridge-3 | transfer | channel-8 |
+| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | juno-1 | evmos_9001-2 | wasm.juno1zh4d42vxl9nv26htvu28k86vmy0tfusngdlknk7z37mkylkke2lslqzv6m | channel-205 |
