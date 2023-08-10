@@ -17,6 +17,7 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | phoenix-1 | chihuahua-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-114 |
+| phoenix-1 | juno-1 | transfer | channel-2 |
 | phoenix-1 | osmosis-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-26 |
 | phoenix-1 | kaiyo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-28 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
@@ -32,6 +33,7 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | migaloo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-87 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | injective-1 | phoenix-1 | transfer | channel-104 |
+| juno-1 | phoenix-1 | transfer | channel-86 |
 | kaiyo-1 | phoenix-1 | transfer | channel-36 |
 | kaiyo-1 | phoenix-1 | transfer | channel-4 |
 | kaiyo-1 | phoenix-1 | transfer | channel-43 |
