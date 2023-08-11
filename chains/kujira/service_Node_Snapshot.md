@@ -1,16 +1,16 @@
-CryptoCrew provides daily node-snapshots for the chains we validate. You can use these snapshots to quickly sync your own node!  
-Latest snapshot kujirad version: `v0.8.7`
+CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
+kujirad version: `0.8.7`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_12942106.tar.lz4)** | Wed Aug 02 2023 22:50:58 UTC | `kaiyo-1` | 386G | 12942106 | `e4aa293a63102f3475b5c635a135ba30ebb9426ab9e8dcac9be4ba5d21465773` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_12915200.tar.lz4)** | Tue Aug 01 2023 21:32:45 UTC | `kaiyo-1` | 1.2T | 12915200 | `b822cd54174724ff9e93711a7e6a50c45daa1b1ffc56611dc0b5296d5dedde97` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_wasm.tar.lz4)** | Fri Aug 11 2023 14:05:24 UTC | `kaiyo-1` | 83M | wasm | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_13186688.tar.lz4)** | Fri Aug 11 2023 14:05:17 UTC | `kaiyo-1` | 3.5G | 13186688 | `5a88550b5637c28fcb3e0fb847a7a2e12008bbbec2e03db271ac99e451c82950` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_12942106.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13186688.tar.lz4
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,13 +24,21 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_12942106.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13186688.tar.lz4
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
+```
+*Optional: Download `wasm` folder only*
+(In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases)
+```
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_wasm.tar.lz4
+cd $HOME/.kujira
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 ## Using the download script
  
