@@ -2,15 +2,14 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 kujirad version: `0.8.7`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_wasm.tar.lz4)** | Fri Aug 11 2023 14:05:24 UTC | `kaiyo-1` | 83M | wasm | `` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_13186688.tar.lz4)** | Fri Aug 11 2023 14:05:17 UTC | `kaiyo-1` | 3.5G | 13186688 | `5a88550b5637c28fcb3e0fb847a7a2e12008bbbec2e03db271ac99e451c82950` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_13187096.tar.lz4)** | Fri Aug 11 2023 14:25:56 UTC | `kaiyo-1` | 3.7G | 13187096 | `d29081b566d92ae1799cd717f134194727de3a49f044a9939605012a85ab77ad` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13186688.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13187096.tar.lz4
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +23,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13186688.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13187096.tar.lz4
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -32,9 +31,9 @@ wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
-*Optional: Download `wasm` folder only*
+Optional: Download `wasm` folder only  
 (In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases)
-```
+```sh
 URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_wasm.tar.lz4
 cd $HOME/.kujira
 rm -rf wasm
