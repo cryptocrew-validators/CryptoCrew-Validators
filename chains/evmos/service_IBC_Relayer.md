@@ -55,7 +55,6 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 | kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-23 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
-| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
 | secret-4 | evmos_9001-2 | transfer | channel-18 |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
