@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot gravity version: `vantares`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/gravity-bridge-3_8024121.tar.lz4)** | Sat Aug 12 2023 15:35:10 UTC | `gravity-bridge-3` | 75G | 8024121 | `52fe0e109acdef56e0f22285d971bc5e8ff8a16b1827b8a1b8449b5f717e7214` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/gravity-bridge-3_8012266.tar.lz4)** | Fri Aug 11 2023 17:12:58 UTC | `gravity-bridge-3` | 75G | 8012266 | `e328d4601f92fe0f161cabb4aa4aa63a75c647f4527cf4819e342611ec4210aa` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/gravity-bridge-3_7999424.tar.lz4)** | Thu Aug 10 2023 15:34:52 UTC | `gravity-bridge-3` | 74G | 7999424 | `e3669a1e7c7dcbed80c64ab91080338f087cd5560d9342ba7b96080517cd6fdf` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8012266.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8024121.tar.lz4
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8012266.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8024121.tar.lz4
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
