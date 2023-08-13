@@ -9,15 +9,16 @@ Active Relayer Accounts:
 ```
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
-osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
-osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
+osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
+osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
@@ -55,7 +56,6 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | empowerchain-1 | transfer | channel-1411 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
@@ -90,6 +90,7 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
@@ -126,7 +127,6 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
