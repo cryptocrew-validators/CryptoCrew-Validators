@@ -3,14 +3,14 @@ kujirad version: `v0.8.7`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_.tar.lz4)** | Sun Aug 13 2023 17:45:59 UTC | `kaiyo-1` | 3.5G |  | `ba1d02aee849a4417d67acb8c70539e6b37e48eb3de9f2dc314dc9c4f05fc279` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_13241046.tar.lz4)** | Sun Aug 13 2023 15:30:42 UTC | `kaiyo-1` | 4.3G | 13241046 | `cdb9e813396e50cb41989f5335dd11e6885672e7f92fbb266417726a528da2f0` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kaiyo-1_13269750.tar.lz4)** | Mon Aug 14 2023 17:47:31 UTC | `kaiyo-1` | 61G | 13269750 | `c8320ffa6991cf4a90e38cd3d634e405bd2eed04e925c99bd71e53c38acf92ae` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13269750.tar.lz4
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -25,7 +25,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 (no double disk-space needed, but slower and not possible to check checksum)
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_13269750.tar.lz4
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -38,6 +38,14 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```sh
 URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_wasm.tar.lz4
 cd $HOME/.kujira
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
+```
+**Optional: Download `wasm` folder only**  
+(In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases. Note, on this chain the wasm folder is located within the `data` folder.)
+```sh
+URL=https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_wasm.tar.lz4
+cd $HOME/.kujira/data
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 ```
