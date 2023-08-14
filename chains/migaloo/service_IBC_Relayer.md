@@ -17,6 +17,7 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | migaloo-1 | juno-1 | transfer | channel-1 |
 | migaloo-1 | chihuahua-1 | transfer | channel-10 |
 | migaloo-1 | phoenix-1 | transfer | channel-2 |
+| migaloo-1 | injective-1 | transfer | channel-3 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
@@ -26,6 +27,7 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
+| injective-1 | migaloo-1 | transfer | channel-102 |
 | juno-1 | migaloo-1 | transfer | channel-210 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
