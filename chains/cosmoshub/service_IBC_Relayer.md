@@ -44,7 +44,6 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
-| cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
 | cosmoshub-4 | bitsong-2b | transfer | channel-229 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
@@ -83,7 +82,6 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
-| empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
