@@ -3,7 +3,7 @@
 ## IBC table
 
 |CHAIN_ID    |CLIENT            |CONNECTION     |CHANNEL     |PORT     |COUNTERPARTY_CHAIN |COUNTERPARTY_CLIENT|COUNTERPARTY_CONNECTION|COUNTERPARTY_CHANNEL|COUNTERPARTY_PORT|SUPPORTED_BY_CC|DENOM_TRACE_BASE_DENOM|DENOM_TRACE_PATH      |IBC_DENOM_COUNTERPARY|
-|------------|------------------|---------------|------------|---------|-------------------|-------------------|-----------------------|--------------------|-----------------|---------------|----------------------|----------------------|---------------------|
+|---------------|---------------------|------------------|------------|---------|-------------------|-------------------|-----------------------|--------------------|-----------------|---------------|-------------------------|----------------------|---------------------|
 |kava_2222-10| 07-tendermint-1  | connection-0  | channel-0  | transfer| cosmoshub-4       | 07-tendermint-557 | connection-460        | channel-277        | transfer        | `true`        |`erc20/tether/usdt`   |`transfer/channel-277`|`ibc/F04D72CF9B5D9C849BB278B691CDFA2241813327430EC9CDC83F8F4CA4CDC2B0`|
 |kava_2222-10| 07-tendermint-2  | connection-1  | channel-1  | transfer| osmosis-1         | 07-tendermint-1735| connection-1328       | channel-143        | transfer        | `true`        |`erc20/tether/usdt`   |`transfer/channel-143`|`ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB`|
 |kava_2222-10| 07-tendermint-119| connection-156| channel-116| transfer| kaiyo-1           | 07-tendermint-140 | connection-106        | channel-95         | transfer        | `true`        |`erc20/tether/usdt`   |`transfer/channel-95` |`ibc/20014F963CC9E6488B299622F87B60C6DE71632864859EC08B4753478DAB2BB8`|
