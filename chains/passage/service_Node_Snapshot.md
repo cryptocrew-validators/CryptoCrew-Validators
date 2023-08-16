@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot passage version: `v2.0.0`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/passage-2_4317787.tar.lz4)** | Wed Aug 16 2023 06:03:37 UTC | `passage-2` | 1.4G | 4317787 | `5979194d8f9f04f09c12e2ea8fad57c9bc15b9f7461b24f0b2d7d762062274ed` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/passage-2_4303050.tar.lz4)** | Tue Aug 15 2023 06:02:45 UTC | `passage-2` | 1.5G | 4303050 | `013d3e5cc0cd639372bcf9a5f29608ba6675b66dc23dd0e05deb1fd3799134e2` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/passage-2_4288411.tar.lz4)** | Mon Aug 14 2023 06:03:23 UTC | `passage-2` | 1.3G | 4288411 | `b2a2e69d4155a81d6d7663d0ce952b30fb0913efac12e36164f7e57ad9ab5448` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/passage/passage-2_4303050.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/passage/passage-2_4317787.tar.lz4
 cd $HOME/.passage
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/passage/passage-2_4303050.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/passage/passage-2_4317787.tar.lz4
 cd $HOME/.passage
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
