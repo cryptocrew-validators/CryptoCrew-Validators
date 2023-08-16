@@ -1,7 +1,7 @@
 # CryptoCrew <> Kava IBC Relayer Reports
 
 ## IBC table
-
+**YAML Format: [ibc_table.yaml](./ibc_table.yaml)**
 |CHAIN_ID    |CLIENT            |CONNECTION     |CHANNEL     |PORT     |COUNTERPARTY_CHAIN |COUNTERPARTY_CLIENT|COUNTERPARTY_CONNECTION|COUNTERPARTY_CHANNEL|COUNTERPARTY_PORT|SUPPORTED_BY_CC|DENOM_TRACE_BASE_DENOM|DENOM_TRACE_PATH      |IBC_DENOM_COUNTERPARY|
 |---------------|---------------------|------------------|------------|---------|-------------------|-------------------|-----------------------|--------------------|-----------------|---------------|-------------------------|----------------------|---------------------|
 |kava_2222-10| 07-tendermint-1  | connection-0  | channel-0  | transfer| cosmoshub-4       | 07-tendermint-557 | connection-460        | channel-277        | transfer        | `true`        |`erc20/tether/usdt`   |`transfer/channel-277`|`ibc/F04D72CF9B5D9C849BB278B691CDFA2241813327430EC9CDC83F8F4CA4CDC2B0`|
