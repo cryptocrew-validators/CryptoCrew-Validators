@@ -11,8 +11,6 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
-cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla
-cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 ```
 
 ### Active IBC channels `cosmoshub`:
@@ -42,7 +40,6 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | bitsong-2b | transfer | channel-229 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
@@ -80,7 +77,6 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
