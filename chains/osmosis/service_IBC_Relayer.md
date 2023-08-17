@@ -98,6 +98,7 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
@@ -143,7 +144,6 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
