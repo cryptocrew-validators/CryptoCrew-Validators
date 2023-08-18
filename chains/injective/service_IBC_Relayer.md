@@ -34,6 +34,7 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | injective-1 | core-1 | transfer | channel-82 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
