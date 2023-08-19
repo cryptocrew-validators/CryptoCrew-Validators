@@ -46,7 +46,6 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
 | laozi-mainnet | injective-1 | oracle | channel-7 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
 | core-1 | injective-1 | transfer | channel-41 |
