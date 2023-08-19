@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot migalood version: `vnull`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/migaloo-1_2807600.tar.lz4)** | Sat Aug 19 2023 13:50:24 UTC | `migaloo-1` | 923M | 2807600 | `f19f2dfe82d3addcc401c2d7ff8d2fd280bbc43d964cba92a08653c18029b17f` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/migaloo-1_2792577.tar.lz4)** | Fri Aug 18 2023 13:52:37 UTC | `migaloo-1` | 1.9G | 2792577 | `674a7cde619da4d14892869b006bcdfe4ee559a53d01a3f8f4afde868185a98f` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/migaloo-1_2777546.tar.lz4)** | Thu Aug 17 2023 13:50:20 UTC | `migaloo-1` | 1.1G | 2777546 | `580c2d01858a467051965d185a3cdcdf39cb7e94094fec5acfb4637b84cdc0d2` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2792577.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2807600.tar.lz4
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2792577.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2807600.tar.lz4
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
