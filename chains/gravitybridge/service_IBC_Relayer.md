@@ -14,6 +14,8 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 ### Active IBC channels `gravitybridge`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
+| gravity-bridge-3 | core-1 | transfer | channel-24 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
@@ -30,14 +32,13 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
 | gravity-bridge-3 | secret-4 | transfer | channel-79 |
 | gravity-bridge-3 | canto_7700-1 | transfer | channel-88 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
-| gravity-bridge-3 | core-1 | transfer | channel-24 |
 | gravity-bridge-3 | secret-4 | transfer | channel-79 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | gravity-bridge-3 | core-1 | transfer | channel-24 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-21 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-83 |
+| core-1 | gravity-bridge-3 | transfer | channel-38 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | comdex-1 | gravity-bridge-3 | transfer | channel-23 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
@@ -54,7 +55,6 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
 | secret-4 | gravity-bridge-3 | transfer | channel-17 |
-| core-1 | gravity-bridge-3 | transfer | channel-38 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
 | juno-1 | gravity-bridge-3 | transfer | channel-31 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
