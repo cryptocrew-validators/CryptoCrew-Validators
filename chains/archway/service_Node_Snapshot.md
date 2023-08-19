@@ -2,15 +2,15 @@ CryptoCrew provides daily node-snapshots for the chains we validate. You can use
 Latest snapshot archwayd version: `v2.0.0`
 | DOWNLOAD | date | chain_id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_685683.tar.lz4)** | Sat Aug 19 2023 15:22:16 UTC | `archway-1` | 6.6G | 685683 | `23737cb66b2b445d7cab0c9d0e995fc4a52bc16d67979f10be6598c4d24fa4db` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_671178.tar.lz4)** | Fri Aug 18 2023 15:23:17 UTC | `archway-1` | 17G | 671178 | `6b1c2e9cd9e14b2d5901f9a6c8d06a8b8dfe818b357c8402e22ef07800857c3f` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_656677.tar.lz4)** | Thu Aug 17 2023 15:23:18 UTC | `archway-1` | 6.2G | 656677 | `8c263f856990d534d6498cb232ca0c90a6a1253cc678186e1c3fe670ba893c47` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_671178.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_685683.tar.lz4
 cd $HOME/.archway
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +24,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 *Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_671178.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_685683.tar.lz4
 cd $HOME/.archway
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
