@@ -18,6 +18,7 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
@@ -90,6 +91,7 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -126,7 +128,6 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
