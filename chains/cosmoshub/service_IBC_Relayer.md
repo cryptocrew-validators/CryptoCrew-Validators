@@ -10,12 +10,15 @@ Active Relayer Accounts:
 cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
+cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla
+cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 ```
 
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -52,6 +55,7 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
