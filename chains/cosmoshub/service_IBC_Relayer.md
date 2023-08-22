@@ -53,6 +53,7 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | chihuahua-1 | cosmoshub-4 | transfer | channel-49 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
@@ -66,7 +67,6 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
 | chihuahua-1 | cosmoshub-4 | transfer | channel-49 |
