@@ -10,6 +10,8 @@ function generateMDTable(relayers, chains) {
     const relayerChains = {};
     const walletsByChain = {};
 
+    const channelSet = new Set();
+
     for (const relayer of relayers.relayers) {
         for (const chain of relayer.chains) {
             const chainId = chain.chain_id;
@@ -17,7 +19,15 @@ function generateMDTable(relayers, chains) {
             if (!relayerChains[chainId]) {
                 relayerChains[chainId] = [];
             }
-            relayerChains[chainId].push(...chain.channels);
+
+            for (const channel of chain.channels) {
+                const uniqueChannelIdentifier = `${chainId}-${channel.dst_chain_id}-${channel.port_id}-${channel.channel_id}`;
+
+                if (!channelSet.has(uniqueChannelIdentifier)) {
+                    channelSet.add(uniqueChannelIdentifier);
+                    relayerChains[chainId].push(channel);
+                }
+            }
 
             if (!walletsByChain[chainId]) {
                 walletsByChain[chainId] = new Set();
