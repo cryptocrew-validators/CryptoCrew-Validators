@@ -1,7 +1,7 @@
 ## Genesis File
 A Genesis File () defines the initial state of a chain. We provide hosted genesis files for all chains we validate.  
 **Download: [mars-1 genesis.json](https://dl.ccvalidators.com/SERVICE/mars/genesis.json)**  
-- last updated: Wed Aug 23 2023 18:01:33
+- last updated: Wed Aug 23 2023 18:02:47
 ---
 ## Instructions
 ```sh
