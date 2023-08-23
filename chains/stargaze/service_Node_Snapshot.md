@@ -3,14 +3,14 @@ starsd version: `v11.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/stargaze-1_.tar.lz4)** | Wed Aug 23 2023 05:01:09 UTC | `stargaze-1` | 2.3G |  | `1cb887b353976028877babc61ef317e8b6950711d75a9c7152e7e5b3c84ca512` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/stargaze-1_9673085.tar.lz4)** | Tue Aug 22 2023 06:38:07 UTC | `stargaze-1` | 28G | 9673085 | `b0a6e028c92405ef296f7a0b3c385d973162ac66b4af98a94447e50f5b455bd8` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/stargaze-1_9689528.tar.lz4)** | Wed Aug 23 2023 08:59:37 UTC | `stargaze-1` | 2.7G | 9689528 | `bac72ef0af00275435bf0ddae8b7ae5b8212e0fa920ff9228520fdba24ac1016` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_9689528.tar.lz4
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -25,7 +25,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 (no double disk-space needed, but slower and not possible to check checksum)
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_9689528.tar.lz4
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
