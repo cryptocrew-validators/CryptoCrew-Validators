@@ -1,16 +1,16 @@
-CryptoCrew provides daily node-snapshots for the chains we validate. You can use these snapshots to quickly sync your own node!  
-Latest snapshot migalood version: `vnull`
-| DOWNLOAD | date | chain_id | size | height | checksum |
+CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
+migalood version: `vlatest`
+| DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/migaloo-1_2859740.tar.lz4)** | Wed Aug 23 2023 01:08:29 UTC | `migaloo-1` | 422M | 2859740 | `55d18b5c2a4040c0a1fee5b9d0d34895242bae5b8a5f171b880fe2536c544b4a` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/migaloo-1_2837643.tar.lz4)** | Mon Aug 21 2023 13:50:38 UTC | `migaloo-1` | 1.2G | 2837643 | `7591edf9b0e8e50e2b99cb4ff181c096180496fa4913b89ac5fc31b558744915` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/migaloo-1_2822607.tar.lz4)** | Sun Aug 20 2023 13:51:43 UTC | `migaloo-1` | 2.3G | 2822607 | `c7d3f9f4fe79c86431e161efe665448484903ab363e363adc0d8692a9a6c4bf5` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2837643.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2859740.tar.lz4
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -21,16 +21,25 @@ lz4 -d `basename $URL` | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
-*Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
+**Or single-stream:**  
+(no double disk-space needed, but slower and not possible to check checksum)
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2837643.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_2859740.tar.lz4
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
+```
+**Optional: Download `wasm` folder only**  
+(In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases)
+```sh
+URL=https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_wasm.tar.lz4
+cd $HOME/.migalood
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 ## Using the download script
  
