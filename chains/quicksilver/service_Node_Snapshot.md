@@ -2,6 +2,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 quicksilverd version: `v1.2.15`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/quicksilver-2_3382841.tar.lz4)** | Wed Aug 23 2023 11:52:24 UTC | `quicksilver-2` | 1.8G | 3382841 | `9690bc456f505944208c5af9a2a3d8e078ea9c1c11995c0a5acec2b09d20f58f` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/quicksilver-2_3368327.tar.lz4)** | Tue Aug 22 2023 11:44:40 UTC | `quicksilver-2` | 848M | 3368327 | `2125d436632907cd052cea3aacc9caca806ff8bf1a6bce25d1095fe36c66d904` |
  
 ---
@@ -9,7 +10,7 @@ quicksilverd version: `v1.2.15`
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3368327.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3382841.tar.lz4
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -24,7 +25,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 (no double disk-space needed, but slower and not possible to check checksum)
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3368327.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3382841.tar.lz4
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
