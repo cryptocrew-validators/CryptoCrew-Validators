@@ -1,16 +1,16 @@
-CryptoCrew provides daily node-snapshots for the chains we validate. You can use these snapshots to quickly sync your own node!  
-Latest snapshot nolusd version: `v0.4.1`
-| DOWNLOAD | date | chain_id | size | height | checksum |
+CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
+nolusd version: `v0.4.1`
+| DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/pirin-1_1365904.tar.lz4)** | Wed Aug 23 2023 00:12:54 UTC | `pirin-1` | 151M | 1365904 | `f120e39712cf8a9e4b7008de646a91e2673ec54f6e72d537f72363e78d92b252` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/pirin-1_1355984.tar.lz4)** | Tue Aug 22 2023 08:19:26 UTC | `pirin-1` | 9.4G | 1355984 | `3c1ae81c2d3ed4bbc7ca1e6731d7d656a9b87da99163b3d2683474e81e8018a0` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/pirin-1_1341682.tar.lz4)** | Mon Aug 21 2023 09:23:48 UTC | `pirin-1` | 9.2G | 1341682 | `b1e3700960e901f28016d576024f5ddff9f4477feeafc1ff644716b1a3b03114` |
  
 ---
 ## Download instructions
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_1355984.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_1365904.tar.lz4
 cd $HOME/.nolus
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -21,16 +21,25 @@ lz4 -d `basename $URL` | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
-*Or single-stream: (no double disk-space needed, but slower and not possible to check checksum)*
+**Or single-stream:**  
+(no double disk-space needed, but slower and not possible to check checksum)
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_1355984.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_1365904.tar.lz4
 cd $HOME/.nolus
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
+```
+**Optional: Download `wasm` folder only**  
+(In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases)
+```sh
+URL=https://dl.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_wasm.tar.lz4
+cd $HOME/.nolus
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 ## Using the download script
  
