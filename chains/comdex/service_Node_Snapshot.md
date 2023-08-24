@@ -1,7 +1,8 @@
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-comdex version: `v11.4.0`
+comdex version: `v11.5.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/comdex-1_9212082.tar.lz4)** | Thu Aug 24 2023 11:44:33 UTC | `comdex-1` | 1016M | 9212082 | `479ab50dbeeb360297e0a8629ca87c4f1de7cc3cc1161282b39a6311e530c324` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/comdex-1_9197278.tar.lz4)** | Wed Aug 23 2023 12:40:36 UTC | `comdex-1` | 4.4G | 9197278 | `eaf6e442f88e5b3923392a557143b8b8c8f1ada210962f0a538fb43465f72484` |
  
 ---
@@ -9,7 +10,7 @@ comdex version: `v11.4.0`
  
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9197278.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9212082.tar.lz4
 cd $HOME/.comdex
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -24,7 +25,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 (no double disk-space needed, but slower and not possible to check checksum)
 ```sh
 sudo apt install wget lz4
-URL=https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9197278.tar.lz4
+URL=https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9212082.tar.lz4
 cd $HOME/.comdex
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
