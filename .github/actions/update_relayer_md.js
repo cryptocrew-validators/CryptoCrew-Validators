@@ -111,10 +111,9 @@ ${wallets}### Active IBC channels \`${chain.name}\`:
 const relayers = readJSONFile('relayers.json');
 const chains = readJSONFile('chains.json');
 
-// Create a map of chain IDs to unique relayer accounts
 const chainIdToRelayerAccountsMap = {};
 
-for (const relayer of relayersData.relayers) {
+for (const relayer of relayers.relayers) {
   for (const chain of relayer.chains) {
     const chainId = chain.chain_id;
     const relayerWallets = chain.wallets;
@@ -129,8 +128,7 @@ for (const relayer of relayersData.relayers) {
   }
 }
 
-// Update relayer accounts in chainsData
-for (const chain of chainsData.chains) {
+for (const chain of chains.chains) {
   const chainId = chain.chain_id;
   const matchingRelayerAccountsSet = chainIdToRelayerAccountsMap[chainId];
 
@@ -139,8 +137,7 @@ for (const chain of chainsData.chains) {
   }
 }
 
-// Write the updated data back to chains.json
-fs.writeFileSync('chains.json', JSON.stringify(chainsData, null, 2));
+fs.writeFileSync('chains.json', JSON.stringify(chains, null, 2));
 
 console.log('Relayer accounts updated in chains.json');
 
