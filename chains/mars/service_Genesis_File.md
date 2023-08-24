@@ -2,22 +2,21 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-
 **Download: [mars-1 genesis.json](https://dl.ccvalidators.com/SERVICE/mars/genesis.json)**
-
 ---
 
-- last updated: Thu Aug 24 2023 16:09:51
+> [!NOTE]
+> - last updated: Thu Aug 24 2023 16:18:05
 
 ## Instructions
 ```sh
 # Stop the node
-sudo systemctl stop "marsd"
+sudo systemctl stop marsd
 
 # Download genesis file
 URL="https://dl.ccvalidators.com/SERVICE/mars/genesis.json"
-wget -4 "$URL" -P "$README_DAEMON_HOME/config/genesis.json"
+wget -4 $URL -P $HOME/.mars/config/genesis.json
 
 # Start the node
-sudo systemctl start "marsd"
+sudo systemctl start marsd
 ```

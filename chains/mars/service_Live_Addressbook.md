@@ -7,19 +7,19 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 ---
 
 > [!NOTE]
-> - last updated: Thu Aug 24 2023 16:09:51
-> - available peers: 178
-> - total peers (network scan): 790
+> - last updated: Thu Aug 24 2023 16:18:05
+> - available peers: 47
+> - total peers (network scan): 791
 
 ## Instructions
 ```sh
 # Stop the node
-sudo systemctl stop "marsd"
+sudo systemctl stop marsd
 
 # Download addrbook file
 URL="https://dl.ccvalidators.com/SERVICE/mars/addrbook.json"
-wget -4 "$URL" -P "$README_DAEMON_HOME/config/addrbook.json"
+wget -4 $URL -P $HOME/.mars/config/addrbook.json
 
 # Start the node
-sudo systemctl start "marsd"
+sudo systemctl start marsd
 ```
