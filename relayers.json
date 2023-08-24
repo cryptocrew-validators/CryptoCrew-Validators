@@ -3,6 +3,26 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-3",
+      "software": "hermes",
+      "software_version": "hermes 1.5.1+6583d697",
+      "chains": [
+        {
+          "chain_id": "axelar-dojo-1",
+          "wallets": [
+            "axelar16m48j88mlw2smhc8nyurznt4jl9nqgyqvv9fu3"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-11",
       "software": "hermes",
       "software_version": "hermes 1.5.1+6583d697-dirty",
@@ -1862,26 +1882,6 @@
           "channels": [
             {
               "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-3",
-      "software": "hermes",
-      "software_version": "hermes 1.5.1+6583d697",
-      "chains": [
-        {
-          "chain_id": "axelar-dojo-1",
-          "wallets": [
-            "axelar16m48j88mlw2smhc8nyurznt4jl9nqgyqvv9fu3"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-3",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
             }
