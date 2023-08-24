@@ -92,8 +92,18 @@ ${wallets}### Active IBC channels \`${chain.name}\`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |\n`;
     
-    const srcRows = srcChannels ? srcChannels.map(channel => `| ${chain.chain_id} | ${channel.dst_chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n') : '';
-    const dstRows = dstChannels.map(channel => `| ${channel.chain_id} | ${chain.chain_id} | ${channel.port_id} | ${channel.channel_id} |`).join('\n');
+    const uniqueSrcChannels = new Set(srcChannels.map(channel => JSON.stringify(channel)));
+    const uniqueDstChannels = new Set(dstChannels.map(channel => JSON.stringify(channel)));
+
+    const srcRows = [...uniqueSrcChannels].map(channel => {
+        const parsedChannel = JSON.parse(channel);
+        return `| ${chain.chain_id} | ${parsedChannel.dst_chain_id} | ${parsedChannel.port_id} | ${parsedChannel.channel_id} |`;
+    }).join('\n');
+
+    const dstRows = [...uniqueDstChannels].map(channel => {
+        const parsedChannel = JSON.parse(channel);
+        return `| ${parsedChannel.chain_id} | ${chain.chain_id} | ${parsedChannel.port_id} | ${parsedChannel.channel_id} |`;
+    }).join('\n');
 
     return header + (srcRows && dstRows ? srcRows + '\n' + dstRows : srcRows || dstRows);
 }
