@@ -19,14 +19,3 @@ omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp
 | omniflixhub-1 | juno-1 | transfer | channel-20 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
 | omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
-| chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
-| cosmoshub-4 | omniflixhub-1 | transfer | channel-290 |
-| cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
-| juno-1 | omniflixhub-1 | transfer | channel-78 |
-| kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
-| osmosis-1 | omniflixhub-1 | transfer | channel-199 |
-| chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
-| cosmoshub-4 | omniflixhub-1 | transfer | channel-290 |
-| cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
-| juno-1 | omniflixhub-1 | transfer | channel-78 |
-| osmosis-1 | omniflixhub-1 | transfer | channel-199 |

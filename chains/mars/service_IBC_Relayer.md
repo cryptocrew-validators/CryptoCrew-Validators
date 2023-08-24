@@ -14,4 +14,3 @@ mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | mars-1 | osmosis-1 | transfer | channel-1 |
-| osmosis-1 | mars-1 | transfer | channel-557 |
