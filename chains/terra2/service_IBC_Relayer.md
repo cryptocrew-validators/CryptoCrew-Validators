@@ -38,11 +38,4 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | phoenix-1 | transfer | channel-341 |
 | secret-4 | phoenix-1 | transfer | channel-16 |
-| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
-| juno-1 | phoenix-1 | transfer | channel-86 |
-| kaiyo-1 | phoenix-1 | transfer | channel-5 |
-| migaloo-1 | phoenix-1 | transfer | channel-0 |
-| migaloo-1 | phoenix-1 | transfer | channel-2 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | phoenix-1 | transfer | channel-559 |
-| secret-4 | phoenix-1 | transfer | channel-16 |

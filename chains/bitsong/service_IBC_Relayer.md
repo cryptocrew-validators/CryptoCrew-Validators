@@ -19,6 +19,3 @@ bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n
 | cosmoshub-4 | bitsong-2b | transfer | channel-229 |
 | juno-1 | bitsong-2b | transfer | channel-17 |
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
-| cosmoshub-4 | bitsong-2b | transfer | channel-229 |
-| juno-1 | bitsong-2b | transfer | channel-17 |
-| osmosis-1 | bitsong-2b | transfer | channel-73 |

@@ -33,8 +33,3 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | laozi-mainnet | comdex-1 | oracle | channel-96 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
-| cosmoshub-4 | comdex-1 | transfer | channel-400 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-21 |
-| kaiyo-1 | comdex-1 | transfer | channel-18 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |

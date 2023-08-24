@@ -15,4 +15,3 @@ odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk
 | --------------- | --------------- | ------------ | ------------------- |
 | odin-mainnet-freya | osmosis-1 | transfer | channel-3 |
 | osmosis-1 | odin-mainnet-freya | transfer | channel-258 |
-| osmosis-1 | odin-mainnet-freya | transfer | channel-258 |

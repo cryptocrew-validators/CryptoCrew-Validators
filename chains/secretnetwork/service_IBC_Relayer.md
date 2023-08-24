@@ -36,14 +36,5 @@ secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | phoenix-1 | secret-4 | transfer | channel-3 |
-| chihuahua-1 | secret-4 | transfer | channel-16 |
-| cosmoshub-4 | secret-4 | transfer | channel-235 |
 | evmos_9001-2 | secret-4 | transfer | channel-15 |
-| gravity-bridge-3 | secret-4 | transfer | channel-79 |
-| juno-1 | secret-4 | transfer | channel-48 |
-| kaiyo-1 | secret-4 | transfer | channel-10 |
-| kaiyo-1 | secret-4 | transfer | channel-44 |
-| osmosis-1 | secret-4 | transfer | channel-476 |
-| osmosis-1 | secret-4 | transfer | channel-88 |
-| phoenix-1 | secret-4 | transfer | channel-3 |
 | stargaze-1 | secret-4 | transfer | channel-48 |

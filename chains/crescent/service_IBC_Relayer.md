@@ -17,4 +17,3 @@ cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp
 | crescent-1 | stride-1 | transfer | channel-29 |
 | agoric-3 | crescent-1 | transfer | channel-2 |
 | stride-1 | crescent-1 | transfer | channel-51 |
-| agoric-3 | crescent-1 | transfer | channel-2 |

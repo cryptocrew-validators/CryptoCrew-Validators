@@ -19,4 +19,3 @@ lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg
 | cosmoshub-4 | lum-network-1 | transfer | channel-566 |
 | cosmoshub-4 | lum-network-1 | icahost | channel-607 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
-| osmosis-1 | lum-network-1 | transfer | channel-115 |

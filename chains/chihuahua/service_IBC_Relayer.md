@@ -31,10 +31,4 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
 | secret-4 | chihuahua-1 | transfer | channel-11 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
-| cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
-| gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
-| juno-1 | chihuahua-1 | transfer | channel-28 |
 | omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| secret-4 | chihuahua-1 | transfer | channel-11 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
