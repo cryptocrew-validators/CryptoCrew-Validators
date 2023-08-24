@@ -21,3 +21,16 @@ persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | core-1 | comdex-1 | transfer | channel-71 |
+| gravity-bridge-3 | core-1 | transfer | channel-24 |
+| comdex-1 | core-1 | transfer | channel-57 |
+| cosmoshub-4 | core-1 | transfer | channel-190 |
+| cosmoshub-4 | core-1 | icahost | channel-428 |
+| gravity-bridge-3 | core-1 | transfer | channel-24 |
+| injective-1 | core-1 | transfer | channel-82 |
+| juno-1 | core-1 | transfer | channel-33 |
+| osmosis-1 | core-1 | transfer | channel-4 |
+| gravity-bridge-3 | core-1 | transfer | channel-24 |
+| cosmoshub-4 | core-1 | transfer | channel-190 |
+| injective-1 | core-1 | transfer | channel-82 |
+| juno-1 | core-1 | transfer | channel-33 |
+| osmosis-1 | core-1 | transfer | channel-4 |

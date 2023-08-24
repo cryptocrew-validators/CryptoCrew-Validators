@@ -19,3 +19,17 @@ stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | stargaze-1 | evmos_9001-2 | transfer | channel-46 |
 | stargaze-1 | secret-4 | transfer | channel-48 |
+| evmos_9001-2 | stargaze-1 | transfer | channel-13 |
+| gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
+| juno-1 | stargaze-1 | transfer | channel-20 |
+| kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
+| evmos_9001-2 | stargaze-1 | transfer | channel-13 |
+| gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
+| juno-1 | stargaze-1 | transfer | channel-20 |
+| kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
+| secret-4 | stargaze-1 | transfer | channel-19 |
+| juno-1 | stargaze-1 | transfer | channel-20 |
+| kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
