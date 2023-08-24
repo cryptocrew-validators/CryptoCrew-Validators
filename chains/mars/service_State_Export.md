@@ -3,10 +3,10 @@ CryptoCrew provides automatic daily state exports for all chains we validate. St
 
 ---
 
-**Download: [mars-1 State Export](https://dl.ccvalidators.com/SERVICE/mars/mars-1_export_3049891.json)**
+**Download: [mars-1 State Export](https://dl.ccvalidators.com/SERVICE/mars/mars-1_export_3049974.json)**
 
 ---
 
-- last updated: Thu Aug 24 2023 16:01:49
-- export height: 3049891
+- last updated: Thu Aug 24 2023 16:09:51
+- export height: 3049974
 - use for: airdrops, local tests, chain recovery

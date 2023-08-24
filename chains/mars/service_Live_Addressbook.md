@@ -1,18 +1,15 @@
 ## Live Addressbook File
+
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
-<div class="panel panel-success">
-**Do's**
-{: .panel-heading}
-<div class="panel-body">
-
+---
 **Download: [mars-1 addrbook.json](https://dl.ccvalidators.com/SERVICE/mars/addrbook.json)**
+---
 
-</div>
-</div>
-- last updated: Thu Aug 24 2023 16:01:49
-- available peers: 216
-- total peers (network scan): 791
+> [!NOTE]
+> - last updated: Thu Aug 24 2023 16:09:51
+> - available peers: 178
+> - total peers (network scan): 790
 
 ## Instructions
 ```sh

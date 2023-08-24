@@ -7,7 +7,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 
 ---
 
-- last updated: Thu Aug 24 2023 16:01:49
+- last updated: Thu Aug 24 2023 16:09:51
 
 ## Instructions
 ```sh
