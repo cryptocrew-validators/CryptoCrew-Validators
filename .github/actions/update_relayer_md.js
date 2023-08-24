@@ -53,6 +53,20 @@ function generateMDTable(relayers, chains) {
             const mdContent = generateMDContent(channels, dstChannels, chain);
             const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
             fs.writeFileSync(outputPath, mdContent);
+
+            const matchingRelayerChain = relayers.relayers.find(relayer => {
+                return relayer.chains.some(relayerChain => relayerChain.chain_id === chainId);
+            });
+    
+            if (matchingRelayerChain) {
+                const relayerWallets = matchingRelayerChain.wallets || [];
+                
+                if (relayerWallets.length > 0) {
+                    chain.relayer_wallets = [...new Set(relayerWallets)];
+    
+                    fs.writeFileSync('chains.json', JSON.stringify(chains, null, 2));
+                }
+            }
         }
     }
 }
@@ -110,4 +124,5 @@ ${wallets}### Active IBC channels \`${chain.name}\`:
 
 const relayers = readJSONFile('relayers.json');
 const chains = readJSONFile('chains.json');
+
 generateMDTable(relayers, chains);
