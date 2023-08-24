@@ -53,20 +53,6 @@ function generateMDTable(relayers, chains) {
             const mdContent = generateMDContent(channels, dstChannels, chain);
             const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
             fs.writeFileSync(outputPath, mdContent);
-
-            const matchingRelayerChain = relayers.relayers.find(relayer => {
-                return relayer.chains.some(relayerChain => relayerChain.chain_id === chainId);
-            });
-    
-            if (matchingRelayerChain) {
-                const relayerWallets = matchingRelayerChain.wallets || [];
-                
-                if (relayerWallets.length > 0) {
-                    chain.relayer_wallets = [...new Set(relayerWallets)];
-    
-                    fs.writeFileSync('chains.json', JSON.stringify(chains, null, 2));
-                }
-            }
         }
     }
 }
@@ -124,5 +110,38 @@ ${wallets}### Active IBC channels \`${chain.name}\`:
 
 const relayers = readJSONFile('relayers.json');
 const chains = readJSONFile('chains.json');
+
+// Create a map of chain IDs to unique relayer accounts
+const chainIdToRelayerAccountsMap = {};
+
+for (const relayer of relayersData.relayers) {
+  for (const chain of relayer.chains) {
+    const chainId = chain.chain_id;
+    const relayerWallets = chain.wallets;
+
+    if (!chainIdToRelayerAccountsMap[chainId]) {
+      chainIdToRelayerAccountsMap[chainId] = new Set();
+    }
+
+    for (const wallet of relayerWallets) {
+      chainIdToRelayerAccountsMap[chainId].add(wallet);
+    }
+  }
+}
+
+// Update relayer accounts in chainsData
+for (const chain of chainsData.chains) {
+  const chainId = chain.chain_id;
+  const matchingRelayerAccountsSet = chainIdToRelayerAccountsMap[chainId];
+
+  if (matchingRelayerAccountsSet) {
+    chain.relayer_accounts = Array.from(matchingRelayerAccountsSet);
+  }
+}
+
+// Write the updated data back to chains.json
+fs.writeFileSync('chains.json', JSON.stringify(chainsData, null, 2));
+
+console.log('Relayer accounts updated in chains.json');
 
 generateMDTable(relayers, chains);
