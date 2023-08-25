@@ -152,5 +152,5 @@ done
 for file in *_service_Governance.md; do
     CHAINNAME="${file%_service_Governance.md}"
 
-    mv "$file" "$CHAINNAME/service_Governance.md"
+    mv "$file" "./$CHAINNAME/service_Governance.md"
 done
