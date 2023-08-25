@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 chihuahuad version: `v5.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/chihuahua-1_8932716.tar.lz4)** | Fri Aug 25 2023 16:49:07 UTC | `chihuahua-1` | 1.8G | 8932716 | `1137bdad63dfcaae85fb2a2db4d789dcb7cdcf68328e8c9ec53d9b134f17fcc0` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/chihuahua-1_8918037.tar.lz4)** | Thu Aug 24 2023 16:50:35 UTC | `chihuahua-1` | 1.2G | 8918037 | `b63dbb0a67b46df08456633329f6ed43491f378258fe06456483aa476ac471f8` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/chihuahua-1_8904560.tar.lz4)** | Wed Aug 23 2023 20:44:47 UTC | `chihuahua-1` | 4.8G | 8904560 | `d67cb1f8f0306e1db6f70960658842d166d824c571aedf052bec5be4b60b3afd` |
 
 ---
 
@@ -12,7 +12,7 @@ chihuahuad version: `v5.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8918037.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8932716.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8918037.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_8932716.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -41,7 +41,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases. Note, on this chain the wasm folder is located within the `data` folder.
 ```sh
-URL="https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/${CHAIN_ID}_wasm.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_wasm.tar.lz4"
 cd $HOME/.chihuahuad/data
 rm -rf wasm
 wget -O - \$URL | lz4 -d | tar -xvf -
