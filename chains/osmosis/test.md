@@ -1,4 +1,4 @@
-## Governance Proposals
+## Governance Proposals `osmosis-1`
 
 | PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
 |-------------|----------------|-------------------|-----------------|------|
@@ -7,8 +7,9 @@
 
 ---
 
-#### 587: Create SEI Supercharged Pools
-- Voting Period: Mo Aug 21 2023 12:52:07 UTC to Sa Aug 26 2023 12:52:07 UTC
+#### Prop. 587: Create SEI Supercharged Pools
+- Voting Start: Mo Aug 21 2023 12:52:07 UTC
+- Voting End: Sa Aug 26 2023 12:52:07 UTC
 
 <details>
 <summary>Proposal Text</summary>
@@ -38,8 +39,9 @@ Website: [https://www.sei.io/](https://www.sei.io/)
 
 ---
 
-#### 589: Create Initial Wormhole Supercharged Pools
-- Voting Period: Fr Aug 25 2023 15:03:30 UTC to Mi Aug 30 2023 15:03:30 UTC
+#### Prop. 589: Create Initial Wormhole Supercharged Pools
+- Voting Start: Fr Aug 25 2023 15:03:30 UTC
+- Voting End: Mi Aug 30 2023 15:03:30 UTC
 
 <details>
 <summary>Proposal Text</summary>
