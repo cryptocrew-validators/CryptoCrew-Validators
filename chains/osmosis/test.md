@@ -1,84 +1,117 @@
-## Active Proposals `osmosis-1`
+## Active Proposals `stargaze-1`
 
 | PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
 |-------------|----------------|-------------------|-----------------|------|
-| 587 | Create SEI Supercharged Pools | Mo Aug 21 2023 12:52:07 UTC | Sa Aug 26 2023 12:52:07 UTC | ✅ YES |
-| 589 | Create Initial Wormhole Supercharged Pools | Fr Aug 25 2023 15:03:30 UTC | Mi Aug 30 2023 15:03:30 UTC | ⏳ not yet voted |
+| 208 | Store Ojo Oracle Contract Wasm Code | Mi Aug 23 2023 20:50:44 UTC | Sa Aug 26 2023 20:50:44 UTC | ✅ YES |
+| 210 | Incentivizing DOT/STARS Pools on the Pablo DEX | Do Aug 24 2023 17:55:48 UTC | So Aug 27 2023 17:55:48 UTC | 🤷‍♂️ ABSTAIN |
+| 211 | Recover NOIS IBC Expired Client | Do Aug 24 2023 23:13:09 UTC | So Aug 27 2023 23:13:09 UTC | ⏳ not yet voted |
+| 212 | Stargaze v12 Upgrade | Fr Aug 25 2023 06:03:15 UTC | Mo Aug 28 2023 06:03:15 UTC | ✅ YES |
 
 ---
 
-### Prop. 587: Create SEI Supercharged Pools
-- Voting Start: Mo Aug 21 2023 12:52:07 UTC
-- Voting End: Sa Aug 26 2023 12:52:07 UTC
+### 🗳 208: Store Ojo Oracle Contract Wasm Code
+- Voting Start: Mi Aug 23 2023 20:50:44 UTC
+- Voting End: Sa Aug 26 2023 20:50:44 UTC
 
 <details>
-<summary>#### Proposal Text</summary>
+<summary>Proposal Text</summary>
 
-This proposal would create four new Supercharged Liquidity pools: 
+## Store Ojo Oracle Contract Wasm Code
 
-* SEI/OSMO 0.2% Spread nolus_service_Governance.md SEI/OSMO 0.05% Spread nolus_service_Governance.md SEI/USDT 0.2% Spread nolus_service_Governance.md SEI/USDT 0.05% Spread
+This proposal intends to upload the Ojo Oracle Contract for use by Stargaze. The Stargaze team has agreed to begin using Ojo's STARS price feed as a way for users to set NFT prices in USD instead of in STARS. From the users' perspective, this is mainly a UX improvement. Ojo has already been deployed to Juno, Secret Network, Comdex, Archway, and Umee.
 
-## Background 
-During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). 
-## Choice of Pools 
-The proposed pools are for the newly launched SEI mainnet. 
-Pairings with OSMO is standard for most new listings. 
-Pairings with USDT represent the stablecoin pairing. 
+Ojo uses a push-model price oracle contract which broadcasts regular price updates. We plan on being the premiere oracle of the Cosmos; 60+ assets will be added to these feeds over the course of time, many of which are cosmos-native assets such as liquid staking tokens, stablecoins, and LP tokens. This also includes our Smart Oracle offering, which provides contextual data about these price feeds for DeFi to make safer decisions on how to mitigate risk.
 
-The higher spread factors mirror the typical spread factors used on Classic pools. The lower spreads will potentially be more efficient at collecting rewards for the same liquidity, as seen in other concentrated liquidity models but require more volume to reach the same fee generation and so are likely poor for initial bootstrapping purposes. The addition of two levels of the spread factor will enable the market to decide where liquidity reward collection is optimal as the markets grow. 
+## Yes
+Vote YES on this proposal to support an Ojo Oracle Contract being deployed to Stargaze.
 
-## About Sei 
-Sei is a general purpose, open-source Layer 1 blockchain specialized for the exchange of digital assets. Leveraging a novel consensus and technical breakthroughs, Sei is the fastest blockchain in the industry. 
-Website: [https://www.sei.io/](https://www.sei.io/)
+## No
+Vote NO on this proposal to oppose an Ojo Oracle Contract being deployed to Stargaze.
 
-**Forum Thread**:[https://forum.osmosis.zone/t/create-sei-supercharged-pools/227](https://forum.osmosis.zone/t/create-sei-supercharged-pools/227)
+### References
+- [Ojo Network docs](https://docs.ojo.network/integrate)
+- [Ojo GitHub](https://github.com/ojo-network)
+- [Ojo Whitepaper](https://github.com/ojo-network/ojo/blob/main/whitepaper.pdf)
+- [Integration Docs](https://docs.ojo.network)
+
+### Compile Instructions
+
+```sh
+docker run --rm -v $(pwd):/code \
+ --mount type=volume,source=$(basename $(pwd))_cache,target=/code/target \
+ --mount type=volume,source=registry_cache,target=/usr/local/cargo/registry \
+ cosmwasm/workspace-optimizer:0.12.7
+```
+
+### This results in the following SHA256 checksum:
+
+```
+560673bbd71f1bf10326048292313e9c9c0e29cc4f45b2377a4faee1f72c5107 std_reference.wasm
+```
+
+### Verify On-chain Contract
+
+```sh
+starsd q gov proposal $id --output json \
+| jq -r '.content.wasm_byte_code' \
+| base64 -d \
+| gzip -dc \
+| sha256sum
+```
+
+### Verify Local Contract
+
+```
+sha256sum artifacts/std_reference.wasm
+```
 </details>
 
 ---
 
-### Prop. 589: Create Initial Wormhole Supercharged Pools
-- Voting Start: Fr Aug 25 2023 15:03:30 UTC
-- Voting End: Mi Aug 30 2023 15:03:30 UTC
+### 🗳 210: Incentivizing DOT/STARS Pools on the Pablo DEX
+- Voting Start: Do Aug 24 2023 17:55:48 UTC
+- Voting End: So Aug 27 2023 17:55:48 UTC
 
 <details>
-<summary>#### Proposal Text</summary>
+<summary>Proposal Text</summary>
 
-This proposal would create nine new Supercharged Liquidity pools: 
+PROPOSALnThe Composable Finance team proposes to allocate 2,000,000 STARS for a DOT/STARS pool on the Pablo Decentralized Exchange (DEX), to be paid for by the Stargaze community pool. These stars will be allocated over 180 days. The DOT/STARS pool is the first time STARS will be available to native DotSama users, thus the goal of this proposal is to attract additional liquidity to the pool.nThis proposal, if passed, would distribute the requested amount of STARS to the multi-sig account listed below, which will move the funds over to Picasso via its Centauri bridge. These incentives will go live on within a week of receipt.nBACKGROUNDnPolkadot (DOT):nPolkadot (DOT), the native token of the Polkadot Network. DOT’s use cases have been previously restricted to DotSama, with its key functions in Polkadot being securing the relay chain and leasing of parachains. However, Composable’s Centauri bridge now allows for the creation of new use cases for DOT in the interchain. This will likely also attract new users (from DotSama) to Cosmos and vice versa.nDOT currently holds a market cap of $6,201,293,681, ranking 13th overall amongst networks and holds an average trading volume of $98,502,212 at the time of writing (as per CoinMarketCap). Polkadot has 1.4 million twitter followers, and 81.2 thousand reddit followers. The total value locked across all DotSama parachains is over $125 million.nDOT is available on 96 exchanges (as per Coincodex), encompassing most of the major exchanges in the industry, such as Binance, KuCoin, OKX, Huobi Global, and Kraken. Notably, thanks to Composable’s Centauri bridge, DOT can now be exchanged for Cosmos-native assets on both Osmosis and Composable’s Pablo DEX. Thus, DOT is a highly available and popular asset, making it an optimal candidate to put in a liquidity pool with STARS.nCentauri:nThanks to Composable Finance’s new Centauri bridge, Cosmos and Polkadot/Kusama are trustlessly connected for the first time. That means that assets can now flow back and forth between these two major ecosystems, opening new opportunities for users to participate and utilize idle assets.nCentauri is the first trustless connection between DotSama and the Interchain. This is facilitated by both Composable’s Kusama parachain, Picasso, and the Inter-Blockchain Communication (IBC) Protocol. Resultantly, all 46+ IBC-enabled chains can interoperate with ~80 DotSama parachains, with each ecosystem’s native assets now being able to flow to the other.nThe Pablo DEX:nThe Pablo Decentralized Exchange (DEX) is the first trustless and non-custodial cross-ecosystem DEX unifying liquidity across the major ecosystems. Pablo exists on Composable’s Picasso parachain, and leverages the Centauri bridge. Thus, Pablo offers a number of liquidity pools between Cosmos-native and DotSama-native assets.nPablo’s DOT/STARS PoolnThe DOT/STARS pool on Pablo will enable users to take advantage of newly introduced opportunities to transact between Cosmos and DotSama. This will help facilitate the flow of liquidity and volume between DotSama projects and Cosmos Projects such as Stargaze. Specifically, DOT owners can come to the DOT/STARS pool on Pablo to swap for STARS, which can then be leveraged for use on Stargaze and beyond (and vice versa).nIncentivizing this pool aims to attract liquidity in order to onboard new holders and users of STARS from the DotSama ecosystem.nMultisignFunds will be received and moved from the Cosmos side using a 2-of-3 multisig handled by:nNotional DAO (Development Shop + Validator)nAlkedata (Validator)nDon Cryptonium (Community Member)nat multisig address stars1yfujl2wd6skqudwamk2z3e2f0q96k9urcgfpt8nVotingnBy voting Yes you agree to allocate 2,000,000 STARS to incentivize STARS/DOT LP on Pablo DEX.nBy voting No you reject allocating 2,000,000 STARS to incentivize STARS/DOT LP on Pablo DEX.n
+</details>
 
-* SOL/USDT 0.2% Spread nolus_service_Governance.md SOL/USDT 0.05% Spread nolus_service_Governance.md APT/USDT 0.2% Spread nolus_service_Governance.md APT/USDT 0.05% Spread nolus_service_Governance.md SUI/USDT 0.2% Spread nolus_service_Governance.md SUI/USDT 0.05% Spread nolus_service_Governance.md BONK/USDT 0.2% Spread nolus_service_Governance.md BONK/USDT 0.05% Spread nolus_service_Governance.md whUSDT/USDT 0.05% Spread 
+---
 
-## Background
-During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). 
+### 🗳 211: Recover NOIS IBC Expired Client
+- Voting Start: Do Aug 24 2023 23:13:09 UTC
+- Voting End: So Aug 27 2023 23:13:09 UTC
 
-## Choice of Pools 
-The proposed pools are the planned initial assets provided by Wormhole to Osmosis. 
+<details>
+<summary>Proposal Text</summary>
 
-Wormhole was recently granted Canonical bridge status for these assets in [Proposal 582](https://www.mintscan.io/osmosis/proposals/582). 
+This proposal aims to recover the expired client 07-tendermint-237 belonging to the Nois connection and update it to client 07-tendermint-285. 
 
-Pairings with USDT are proposed as stablecoin pairings are more attractive to liquidity providers who only have to account for the volatility of one side of their position. 
+ For more information, read the discussion in Commonwealth: https://commonwealth.im/stargaze/discussion/12856-recover-expired-client-from-nois-network
+</details>
 
-These pairings will also be beneficial to Osmosis when the Taker fee, approved in [Proposal 530](https://www.mintscan.io/osmosis/proposals/530), is implemented as it will form additional yield to stakers as well as establish non-OSMO value in the community pool. 
+---
 
-The higher spread factors mirror the typical spread factors used on Classic pools. The lower spreads will potentially be more efficient at collecting rewards for the same liquidity, as seen in other concentrated liquidity models but require more volume to reach the same fee generation and so are likely poor for initial bootstrapping purposes. The addition of two levels of the spread factor will enable the market to decide where liquidity reward collection is optimal as the markets grow. 
+### 🗳 212: Stargaze v12 Upgrade
+- Voting Start: Fr Aug 25 2023 06:03:15 UTC
+- Voting End: Mo Aug 28 2023 06:03:15 UTC
 
-## About Solana 
-Solana is a blockchain built for mass adoption. It's a high-performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine and is open, interoperable, and decentralized. 
+<details>
+<summary>Proposal Text</summary>
 
-Website: [https://solana.com/](https://solana.com/) 
-## About Aptos 
-Aptos is the layer 1 blockchain engineered to evolve. Built with Move to create a home where developers build future-proof apps efficiently and enjoyably. Aptos is designed with scalability, safety, reliability, and upgradeability as key principles. 
+# Stargaze v12 Upgrade
 
-Website: [https://aptos.dev/](https://aptos.dev/) 
-## About Sui 
-Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by Move. 
+This upgrade adds a new module, updates to CosmWasm, and bugfixes.
 
-Website: [https://sui.io/](https://sui.io/) 
-## About Bonk 
-THE DOG COIN OF THE PEOPLE 
+- packet-forward-middleware
+- wasmd v0.33 with 1_2 and 1_3 capabilities
 
-Initially launched as a free airdrop to the Solana community on Christmas Day 2022, BONK's adoption has since grown parabolically to emerge as the true community coin of web3 
 
-Website: [https://www.bonkcoin.com/](https://www.bonkcoin.com/)
-
-**Forum Thread**:[https://forum.osmosis.zone/t/create-initial-wormhole-supercharged-pools/219](https://forum.osmosis.zone/t/create-initial-wormhole-supercharged-pools/219)
+## Details of upgrade time
+This proposal suggests block #9796507 for the upgrade, which is estimated to be at Wednesday 30th August 15:00 UTC, using avg block time of 5.87 secs https://www.mintscan.io/stargaze/blocks/9796507
+When the network reaches the halt height, the state machine of the blockchain will be halted. Cosmovisor, if configured properly, will then switch the binary used for v12.0.0, and then the chain will continue to make progress.
+In the event of an issue at upgrade time, we will coordinate via the #verified-validators channel in Discord.
+[Upgrade Instructions](https://github.com/public-awesome/mainnet/blob/main/stargaze-1/v12_0_0_UPGRADE.md)
 </details>
