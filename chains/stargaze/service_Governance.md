@@ -6,6 +6,7 @@
 | 210 | Incentivizing DOT/STARS Pools on the Pablo DEX | Thu Aug 24 2023 15:55:48 UTC | Sun Aug 27 2023 15:55:48 UTC | 🤷‍♂️ ABSTAIN |
 | 211 | Recover NOIS IBC Expired Client | Thu Aug 24 2023 21:13:09 UTC | Sun Aug 27 2023 21:13:09 UTC | ⏳ not yet voted |
 | 212 | Stargaze v12 Upgrade | Fri Aug 25 2023 04:03:15 UTC | Mon Aug 28 2023 04:03:15 UTC | ✅ YES |
+| 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | Mon Aug 28 2023 21:35:51 UTC | ⏳ not yet voted |
 
 ---
 
@@ -114,4 +115,16 @@ This proposal suggests block #9796507 for the upgrade, which is estimated to be 
 When the network reaches the halt height, the state machine of the blockchain will be halted. Cosmovisor, if configured properly, will then switch the binary used for v12.0.0, and then the chain will continue to make progress.
 In the event of an issue at upgrade time, we will coordinate via the #verified-validators channel in Discord.
 [Upgrade Instructions](https://github.com/public-awesome/mainnet/blob/main/stargaze-1/v12_0_0_UPGRADE.md)
+</details>
+
+---
+
+### 🗳 213: Stargaze integration with Huddle01
+- Voting Start: Fri Aug 25 2023 21:35:51 UTC
+- Voting End: Mon Aug 28 2023 21:35:51 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+GoalnIntegrate Huddle01 infrastructure on Stargaze enabling NFT token-gated meetings, developer community to build A/V applications and Stargaze names DID integrations.nnProposal in detail here - https://commonwealth.im/stargaze/discussion/12257-huddle01-integration-for-stargazennWebsite: - https://www.huddle01.com/nnUse cases examples -n1. Every NFT can have token Gated Meetings via subdomain. Imagine all BadKids holders have a token-gated community call with an upcoming collab.land integration on Discord or via a custom sub-domain like pudgy penguins highlighted above.n2. Game-fi is building up on Stargaze. Huddle01's upcoming Unity SDK can power Games with their Audio chat. n3. Business Development efforts with events to host NFT tickets on Stargaze. We can have demo days and more in token-gated online meetings for ticket holders.n4. NFT ticketing for online concerts, shows, and more. Token-gated meetings are possible for all these avenues.n5. Stargazes names integration on the Huddle01 applicationn6. Analytics for stargaze/Stargaze NFT projects community calls allowing the attendees to be airdropped NFTs/Tokens etcnnImplementation:n- Stargaze chain integrationn- Stargaze NFT integrationn- Stargaze NFT token Gated meetingsn- Custom sub-domain and branding services for Stargaze NFTs nnTimeline - 3-4 weeksnnWe have 3/5 multi-sig.nTwo multi-sig signers are from the Huddle01 team and the other three of multi-sig signers aren- Notional DAOn- Omniflixn- PoshHumannnmultisig address: -stars104svw09zdmhy369z5uwmkh7zc96sf26j8g96pannFunding Requestedn- 10000$ 
 </details>
