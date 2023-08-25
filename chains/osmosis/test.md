@@ -1,25 +1,22 @@
-## Governance Proposals `osmosis-1`
+## Active Proposals `osmosis-1`
 
 | PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
 |-------------|----------------|-------------------|-----------------|------|
-| 587 | Create SEI Supercharged Pools | Mo Aug 21 2023 12:52:07 UTC | Sa Aug 26 2023 12:52:07 UTC | ✅ yes |
+| 587 | Create SEI Supercharged Pools | Mo Aug 21 2023 12:52:07 UTC | Sa Aug 26 2023 12:52:07 UTC | ✅ YES |
 | 589 | Create Initial Wormhole Supercharged Pools | Fr Aug 25 2023 15:03:30 UTC | Mi Aug 30 2023 15:03:30 UTC | ⏳ not yet voted |
 
 ---
 
-#### Prop. 587: Create SEI Supercharged Pools
+### Prop. 587: Create SEI Supercharged Pools
 - Voting Start: Mo Aug 21 2023 12:52:07 UTC
 - Voting End: Sa Aug 26 2023 12:52:07 UTC
 
 <details>
-<summary>Proposal Text</summary>
+<summary>#### Proposal Text</summary>
 
 This proposal would create four new Supercharged Liquidity pools: 
 
-* SEI/OSMO 0.2% Spread 
-* SEI/OSMO 0.05% Spread 
-* SEI/USDT 0.2% Spread 
-* SEI/USDT 0.05% Spread
+* SEI/OSMO 0.2% Spread nolus_service_Governance.md SEI/OSMO 0.05% Spread nolus_service_Governance.md SEI/USDT 0.2% Spread nolus_service_Governance.md SEI/USDT 0.05% Spread
 
 ## Background 
 During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). 
@@ -39,24 +36,16 @@ Website: [https://www.sei.io/](https://www.sei.io/)
 
 ---
 
-#### Prop. 589: Create Initial Wormhole Supercharged Pools
+### Prop. 589: Create Initial Wormhole Supercharged Pools
 - Voting Start: Fr Aug 25 2023 15:03:30 UTC
 - Voting End: Mi Aug 30 2023 15:03:30 UTC
 
 <details>
-<summary>Proposal Text</summary>
+<summary>#### Proposal Text</summary>
 
 This proposal would create nine new Supercharged Liquidity pools: 
 
-* SOL/USDT 0.2% Spread 
-* SOL/USDT 0.05% Spread 
-* APT/USDT 0.2% Spread 
-* APT/USDT 0.05% Spread 
-* SUI/USDT 0.2% Spread 
-* SUI/USDT 0.05% Spread 
-* BONK/USDT 0.2% Spread 
-* BONK/USDT 0.05% Spread 
-* whUSDT/USDT 0.05% Spread 
+* SOL/USDT 0.2% Spread nolus_service_Governance.md SOL/USDT 0.05% Spread nolus_service_Governance.md APT/USDT 0.2% Spread nolus_service_Governance.md APT/USDT 0.05% Spread nolus_service_Governance.md SUI/USDT 0.2% Spread nolus_service_Governance.md SUI/USDT 0.05% Spread nolus_service_Governance.md BONK/USDT 0.2% Spread nolus_service_Governance.md BONK/USDT 0.05% Spread nolus_service_Governance.md whUSDT/USDT 0.05% Spread 
 
 ## Background
 During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). 
