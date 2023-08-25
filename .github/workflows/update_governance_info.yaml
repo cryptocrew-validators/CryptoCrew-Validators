@@ -1,0 +1,26 @@
+name: Update Governance Info
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' 
+
+jobs:
+  update-info:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Run update_governance_info.sh script
+      run: |
+        chmod +x update_governance_info.sh
+        update_governance_info.sh
+
+    - name: Commit and push if there are changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update governance info"
+        git push
