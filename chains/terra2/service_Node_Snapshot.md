@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 terrad version: `v2.4.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/phoenix-1_6554084.tar.lz4)** | Sat Aug 26 2023 12:43:45 UTC | `phoenix-1` | 9.2G | 6554084 | `6ae4dfd57f3dca1d7bfc0c400d4ca0a11d9aef656967df76492f3ea3b9fa620d` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/phoenix-1_6539681.tar.lz4)** | Fri Aug 25 2023 12:39:27 UTC | `phoenix-1` | 8.7G | 6539681 | `daf0af3af884ea34cf3e287bccc7986fb8cd8397b012b4e3e05a3b1c61b39ad7` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/phoenix-1_6525371.tar.lz4)** | Thu Aug 24 2023 12:41:51 UTC | `phoenix-1` | 5.9G | 6525371 | `48e987b186776cbd9af741b745f390712d4d3fdaa48dbefedd4c7d43a75ba385` |
 
 ---
 
@@ -12,7 +12,7 @@ terrad version: `v2.4.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_6539681.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_6554084.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_6539681.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_6554084.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -41,7 +41,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases. Note, on this chain the wasm folder is located within the `data` folder.
 ```sh
-URL="https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/${CHAIN_ID}_wasm.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_wasm.tar.lz4"
 cd $HOME/.terra/data
 rm -rf wasm
 wget -O - \$URL | lz4 -d | tar -xvf -
