@@ -2,70 +2,10 @@
 
 | PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
 |-------------|----------------|-------------------|-----------------|------|
-| 208 | Store Ojo Oracle Contract Wasm Code | Wed Aug 23 2023 18:50:44 UTC | Sat Aug 26 2023 18:50:44 UTC | ✅ YES |
 | 210 | Incentivizing DOT/STARS Pools on the Pablo DEX | Thu Aug 24 2023 15:55:48 UTC | Sun Aug 27 2023 15:55:48 UTC | 🤷‍♂️ ABSTAIN |
 | 211 | Recover NOIS IBC Expired Client | Thu Aug 24 2023 21:13:09 UTC | Sun Aug 27 2023 21:13:09 UTC | ⏳ not yet voted |
 | 212 | Stargaze v12 Upgrade | Fri Aug 25 2023 04:03:15 UTC | Mon Aug 28 2023 04:03:15 UTC | ✅ YES |
 | 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | Mon Aug 28 2023 21:35:51 UTC | ⏳ not yet voted |
-
----
-
-### 🗳 208: Store Ojo Oracle Contract Wasm Code
-- Voting Start: Wed Aug 23 2023 18:50:44 UTC
-- Voting End: Sat Aug 26 2023 18:50:44 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-## Store Ojo Oracle Contract Wasm Code
-
-This proposal intends to upload the Ojo Oracle Contract for use by Stargaze. The Stargaze team has agreed to begin using Ojo's STARS price feed as a way for users to set NFT prices in USD instead of in STARS. From the users' perspective, this is mainly a UX improvement. Ojo has already been deployed to Juno, Secret Network, Comdex, Archway, and Umee.
-
-Ojo uses a push-model price oracle contract which broadcasts regular price updates. We plan on being the premiere oracle of the Cosmos; 60+ assets will be added to these feeds over the course of time, many of which are cosmos-native assets such as liquid staking tokens, stablecoins, and LP tokens. This also includes our Smart Oracle offering, which provides contextual data about these price feeds for DeFi to make safer decisions on how to mitigate risk.
-
-## Yes
-Vote YES on this proposal to support an Ojo Oracle Contract being deployed to Stargaze.
-
-## No
-Vote NO on this proposal to oppose an Ojo Oracle Contract being deployed to Stargaze.
-
-### References
-- [Ojo Network docs](https://docs.ojo.network/integrate)
-- [Ojo GitHub](https://github.com/ojo-network)
-- [Ojo Whitepaper](https://github.com/ojo-network/ojo/blob/main/whitepaper.pdf)
-- [Integration Docs](https://docs.ojo.network)
-
-### Compile Instructions
-
-```sh
-docker run --rm -v $(pwd):/code \
- --mount type=volume,source=$(basename $(pwd))_cache,target=/code/target \
- --mount type=volume,source=registry_cache,target=/usr/local/cargo/registry \
- cosmwasm/workspace-optimizer:0.12.7
-```
-
-### This results in the following SHA256 checksum:
-
-```
-560673bbd71f1bf10326048292313e9c9c0e29cc4f45b2377a4faee1f72c5107 std_reference.wasm
-```
-
-### Verify On-chain Contract
-
-```sh
-starsd q gov proposal $id --output json \
-| jq -r '.content.wasm_byte_code' \
-| base64 -d \
-| gzip -dc \
-| sha256sum
-```
-
-### Verify Local Contract
-
-```
-sha256sum artifacts/std_reference.wasm
-```
-</details>
 
 ---
 
