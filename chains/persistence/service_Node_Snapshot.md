@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 persistenceCore version: `v7.0.3`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/core-1_12903946.tar.lz4)** | Sat Aug 26 2023 13:23:30 UTC | `core-1` | 365M | 12903946 | `b293b65f7bd11222c497a1ff972b0dcedfea0fe8a29575f8fefcc71daadec5ce` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/core-1_12888480.tar.lz4)** | Fri Aug 25 2023 11:38:37 UTC | `core-1` | 408M | 12888480 | `5988908fbcbe7428f6dfe640b5fc2a6207df3bae93de46988d814466daaccaec` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/core-1_12875331.tar.lz4)** | Thu Aug 24 2023 13:44:43 UTC | `core-1` | 515M | 12875331 | `a08ba5acb51e439923eea62c6c7ac9873845d5d8bf8aa966f2cf6f05be91c065` |
 
 ---
 
@@ -12,7 +12,7 @@ persistenceCore version: `v7.0.3`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/persistence/core-1_12888480.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/persistence/core-1_12903946.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/persistence/core-1_12888480.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/persistence/core-1_12903946.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -40,7 +40,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
 ```sh
-URL="https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/${CHAIN_ID}_wasm.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/persistence/core-1_wasm.tar.lz4"
 cd $HOME/.persistenceCore
 rm -rf wasm
 wget -O - \$URL | lz4 -d | tar -xvf -
