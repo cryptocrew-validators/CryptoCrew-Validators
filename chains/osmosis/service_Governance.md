@@ -2,42 +2,9 @@
 
 | PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
 |-------------|----------------|-------------------|-----------------|------|
-| 587 | Create SEI Supercharged Pools | Mon Aug 21 2023 10:52:07 UTC | Sat Aug 26 2023 10:52:07 UTC | ✅ YES |
 | 589 | Create Initial Wormhole Supercharged Pools | Fri Aug 25 2023 13:03:30 UTC | Wed Aug 30 2023 13:03:30 UTC | ⏳ not yet voted |
 | 592 | Add ATOM/USDT pairings to the Osmosis Incentives Program | Fri Aug 25 2023 16:54:55 UTC | Wed Aug 30 2023 16:54:55 UTC | ⏳ not yet voted |
 | 593 | Community Spend: Match Kava Rise Rewards for three months | Fri Aug 25 2023 16:56:35 UTC | Wed Aug 30 2023 16:56:35 UTC | ⏳ not yet voted |
-
----
-
-### 🗳 587: Create SEI Supercharged Pools
-- Voting Start: Mon Aug 21 2023 10:52:07 UTC
-- Voting End: Sat Aug 26 2023 10:52:07 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal would create four new Supercharged Liquidity pools: 
-
-* SEI/OSMO 0.2% Spread 
-* SEI/OSMO 0.05% Spread 
-* SEI/USDT 0.2% Spread 
-* SEI/USDT 0.05% Spread
-
-## Background 
-During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). 
-## Choice of Pools 
-The proposed pools are for the newly launched SEI mainnet. 
-Pairings with OSMO is standard for most new listings. 
-Pairings with USDT represent the stablecoin pairing. 
-
-The higher spread factors mirror the typical spread factors used on Classic pools. The lower spreads will potentially be more efficient at collecting rewards for the same liquidity, as seen in other concentrated liquidity models but require more volume to reach the same fee generation and so are likely poor for initial bootstrapping purposes. The addition of two levels of the spread factor will enable the market to decide where liquidity reward collection is optimal as the markets grow. 
-
-## About Sei 
-Sei is a general purpose, open-source Layer 1 blockchain specialized for the exchange of digital assets. Leveraging a novel consensus and technical breakthroughs, Sei is the fastest blockchain in the industry. 
-Website: [https://www.sei.io/](https://www.sei.io/)
-
-**Forum Thread**:[https://forum.osmosis.zone/t/create-sei-supercharged-pools/227](https://forum.osmosis.zone/t/create-sei-supercharged-pools/227)
-</details>
 
 ---
 
