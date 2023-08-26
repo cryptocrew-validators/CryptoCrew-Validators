@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
+osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
@@ -18,6 +18,7 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
@@ -59,11 +60,11 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | crypto-org-chain-mainnet-1 | transfer | channel-5 |
 | osmosis-1 | phoenix-1 | transfer | channel-559 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
@@ -99,7 +100,6 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | core-1 | osmosis-1 | transfer | channel-6 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | crypto-org-chain-mainnet-1 | osmosis-1 | transfer | channel-10 |
 | phoenix-1 | osmosis-1 | wasm.terra1d90p5lacfxnqgjxjupu234lxnxyeu8fdeef4d0e0nqy3p30r7gss4myn9x | channel-85 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
