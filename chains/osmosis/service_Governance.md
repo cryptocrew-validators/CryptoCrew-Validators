@@ -2,7 +2,7 @@
 
 | PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
 |-------------|----------------|-------------------|-----------------|------|
-| 587 | Create SEI Supercharged Pools | Mon Aug 21 2023 10:52:07 UTC | Sat Aug 26 2023 10:52:07 UTC | ⏳ not yet voted |
+| 587 | Create SEI Supercharged Pools | Mon Aug 21 2023 10:52:07 UTC | Sat Aug 26 2023 10:52:07 UTC | ✅ YES |
 | 589 | Create Initial Wormhole Supercharged Pools | Fri Aug 25 2023 13:03:30 UTC | Wed Aug 30 2023 13:03:30 UTC | ⏳ not yet voted |
 | 592 | Add ATOM/USDT pairings to the Osmosis Incentives Program | Fri Aug 25 2023 16:54:55 UTC | Wed Aug 30 2023 16:54:55 UTC | ⏳ not yet voted |
 | 593 | Community Spend: Match Kava Rise Rewards for three months | Fri Aug 25 2023 16:56:35 UTC | Wed Aug 30 2023 16:56:35 UTC | ⏳ not yet voted |
