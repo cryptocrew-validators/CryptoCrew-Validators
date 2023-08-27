@@ -64,6 +64,7 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | crypto-org-chain-mainnet-1 | transfer | channel-5 |
 | osmosis-1 | phoenix-1 | transfer | channel-559 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
@@ -99,7 +100,6 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | crypto-org-chain-mainnet-1 | osmosis-1 | transfer | channel-10 |
 | phoenix-1 | osmosis-1 | wasm.terra1d90p5lacfxnqgjxjupu234lxnxyeu8fdeef4d0e0nqy3p30r7gss4myn9x | channel-85 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
