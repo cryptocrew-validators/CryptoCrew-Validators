@@ -28,9 +28,7 @@ PROPOSALnThe Composable Finance team proposes to allocate 2,000,000 STARS for a 
 <details>
 <summary>Proposal Text</summary>
  
-This proposal aims to recover the expired client 07-tendermint-237 belonging to the Nois connection and update it to client 07-tendermint-285. 
-
- For more information, read the discussion in Commonwealth: https://commonwealth.im/stargaze/discussion/12856-recover-expired-client-from-nois-network
+This proposal aims to recover the expired client 07-tendermint-237 belonging to the Nois connection and update it to client 07-tendermint-285. For more information, read the discussion in Commonwealth: https://commonwealth.im/stargaze/discussion/12856-recover-expired-client-from-nois-network
 </details>
 
 ---
@@ -42,19 +40,7 @@ This proposal aims to recover the expired client 07-tendermint-237 belonging to 
 <details>
 <summary>Proposal Text</summary>
  
-# Stargaze v12 Upgrade
-
-This upgrade adds a new module, updates to CosmWasm, and bugfixes.
-
-- packet-forward-middleware
-- wasmd v0.33 with 1_2 and 1_3 capabilities
-
-
-## Details of upgrade time
-This proposal suggests block #9796507 for the upgrade, which is estimated to be at Wednesday 30th August 15:00 UTC, using avg block time of 5.87 secs https://www.mintscan.io/stargaze/blocks/9796507
-When the network reaches the halt height, the state machine of the blockchain will be halted. Cosmovisor, if configured properly, will then switch the binary used for v12.0.0, and then the chain will continue to make progress.
-In the event of an issue at upgrade time, we will coordinate via the #verified-validators channel in Discord.
-[Upgrade Instructions](https://github.com/public-awesome/mainnet/blob/main/stargaze-1/v12_0_0_UPGRADE.md)
+# Stargaze v12 Upgrade This upgrade adds a new module, updates to CosmWasm, and bugfixes. - packet-forward-middleware - wasmd v0.33 with 1_2 and 1_3 capabilities ## Details of upgrade time This proposal suggests block #9796507 for the upgrade, which is estimated to be at Wednesday 30th August 15:00 UTC, using avg block time of 5.87 secs https://www.mintscan.io/stargaze/blocks/9796507 When the network reaches the halt height, the state machine of the blockchain will be halted. Cosmovisor, if configured properly, will then switch the binary used for v12.0.0, and then the chain will continue to make progress. In the event of an issue at upgrade time, we will coordinate via the #verified-validators channel in Discord. [Upgrade Instructions](https://github.com/public-awesome/mainnet/blob/main/stargaze-1/v12_0_0_UPGRADE.md)
 </details>
 
 ---
@@ -66,5 +52,5 @@ In the event of an issue at upgrade time, we will coordinate via the #verified-v
 <details>
 <summary>Proposal Text</summary>
  
-GoalnIntegrate Huddle01 infrastructure on Stargaze enabling NFT token-gated meetings, developer community to build A/V applications and Stargaze names DID integrations.nnProposal in detail here - https://commonwealth.im/stargaze/discussion/12257-huddle01-integration-for-stargazennWebsite: - https://www.huddle01.com/nnUse cases examples -n1. Every NFT can have token Gated Meetings via subdomain. Imagine all BadKids holders have a token-gated community call with an upcoming collab.land integration on Discord or via a custom sub-domain like pudgy penguins highlighted above.n2. Game-fi is building up on Stargaze. Huddle01's upcoming Unity SDK can power Games with their Audio chat. n3. Business Development efforts with events to host NFT tickets on Stargaze. We can have demo days and more in token-gated online meetings for ticket holders.n4. NFT ticketing for online concerts, shows, and more. Token-gated meetings are possible for all these avenues.n5. Stargazes names integration on the Huddle01 applicationn6. Analytics for stargaze/Stargaze NFT projects community calls allowing the attendees to be airdropped NFTs/Tokens etcnnImplementation:n- Stargaze chain integrationn- Stargaze NFT integrationn- Stargaze NFT token Gated meetingsn- Custom sub-domain and branding services for Stargaze NFTs nnTimeline - 3-4 weeksnnWe have 3/5 multi-sig.nTwo multi-sig signers are from the Huddle01 team and the other three of multi-sig signers aren- Notional DAOn- Omniflixn- PoshHumannnmultisig address: -stars104svw09zdmhy369z5uwmkh7zc96sf26j8g96pannFunding Requestedn- 10000$ 
+GoalnIntegrate Huddle01 infrastructure on Stargaze enabling NFT token-gated meetings, developer community to build A/V applications and Stargaze names DID integrations.nnProposal in detail here - https://commonwealth.im/stargaze/discussion/12257-huddle01-integration-for-stargazennWebsite: - https://www.huddle01.com/nnUse cases examples -n1. Every NFT can have token Gated Meetings via subdomain. Imagine all BadKids holders have a token-gated community call with an upcoming collab.land integration on Discord or via a custom sub-domain like pudgy penguins highlighted above.n2. Game-fi is building up on Stargaze. Huddle01's upcoming Unity SDK can power Games with their Audio chat. n3. Business Development efforts with events to host NFT tickets on Stargaze. We can have demo days and more in token-gated online meetings for ticket holders.n4. NFT ticketing for online concerts, shows, and more. Token-gated meetings are possible for all these avenues.n5. Stargazes names integration on the Huddle01 applicationn6. Analytics for stargaze/Stargaze NFT projects community calls allowing the attendees to be airdropped NFTs/Tokens etcnnImplementation:n- Stargaze chain integrationn- Stargaze NFT integrationn- Stargaze NFT token Gated meetingsn- Custom sub-domain and branding services for Stargaze NFTs nnTimeline - 3-4 weeksnnWe have 3/5 multi-sig.nTwo multi-sig signers are from the Huddle01 team and the other three of multi-sig signers aren- Notional DAOn- Omniflixn- PoshHumannnmultisig address: -stars104svw09zdmhy369z5uwmkh7zc96sf26j8g96pannFunding Requestedn- 10000$
 </details>
