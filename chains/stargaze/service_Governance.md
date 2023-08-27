@@ -2,23 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 211 | Recover NOIS IBC Expired Client | Thu Aug 24 2023 21:13:09 UTC | ⏳ NOT VOTED |
 | 212 | Stargaze v12 Upgrade | Fri Aug 25 2023 04:03:15 UTC | ✅ YES |
 | 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 211: Recover NOIS IBC Expired Client
-- Voting Start: Thu Aug 24 2023 21:13:09 UTC
-- Voting End: Sun Aug 27 2023 21:13:09 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal aims to recover the expired client 07-tendermint-237 belonging to the Nois connection and update it to client 07-tendermint-285. 
-
- For more information, read the discussion in Commonwealth: https://commonwealth.im/stargaze/discussion/12856-recover-expired-client-from-nois-network
-</details>
 
 ---
 
