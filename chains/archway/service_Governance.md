@@ -1,7 +1,7 @@
-## Active Proposals `archway-1`
+## Active Proposals
 
-| PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
-|-------------|----------------|-------------------|-----------------|------|
+| Proposal ID | Proposal Title | Voting End Time | VOTED |
+|-------------|----------------|-----------------|-------|
 | 17 | Marketing and Growth DAO | Wed Aug 23 2023 22:01:39 UTC | Wed Aug 30 2023 22:01:39 UTC | 🤷‍♂️ ABSTAIN |
 
 ---

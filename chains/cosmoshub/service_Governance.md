@@ -1,4 +1,4 @@
-## Active Proposals `cosmoshub-4`
+## Active Proposals
 
-| PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
-|-------------|----------------|-------------------|-----------------|------|
+| Proposal ID | Proposal Title | Voting End Time | VOTED |
+|-------------|----------------|-----------------|-------|

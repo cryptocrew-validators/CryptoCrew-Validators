@@ -1,8 +1,8 @@
-## Active Proposals `secret-4`
+## Active Proposals
 
-| PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
-|-------------|----------------|-------------------|-----------------|------|
-| 266 | Support Team Funding Proposal  | Thu Aug 24 2023 14:43:59 UTC | Thu Aug 31 2023 14:43:59 UTC | ⏳ not yet voted |
+| Proposal ID | Proposal Title | Voting End Time | VOTED |
+|-------------|----------------|-----------------|-------|
+| 266 | Support Team Funding Proposal  | Thu Aug 24 2023 14:43:59 UTC | Thu Aug 31 2023 14:43:59 UTC | ⏳ NOT VOTED |
 
 ---
 

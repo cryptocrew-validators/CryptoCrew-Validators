@@ -1,6 +1,6 @@
-## Active Proposals `migaloo-1`
+## Active Proposals
 
-| PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |
-|-------------|----------------|-------------------|-----------------|------|
+| Proposal ID | Proposal Title | Voting End Time | VOTED |
+|-------------|----------------|-----------------|-------|
  
 No current active proposals found for migaloo
