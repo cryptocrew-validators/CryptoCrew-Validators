@@ -141,7 +141,7 @@ jq -c '.chains[]' chains.json | while read chain; do
                   echo "<details>"
                   echo "<summary>Proposal Text</summary>"
                   echo " "
-                  echo $PROPOSAL_TEXT
+                  echo "$PROPOSAL_TEXT"
                   echo "</details>"
                   echo ""
                   echo "---"
