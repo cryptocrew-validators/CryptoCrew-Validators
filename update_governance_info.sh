@@ -1,5 +1,19 @@
 #!/bin/bash
 
+# Blacklisted words
+BLACKLIST=("Airdrop" "airdrop" "AIRDROP") 
+
+# Check if PROPOSAL_TEXT contains any blacklisted word
+contains_blacklisted_word() {
+    local text="$1"
+    for word in "${BLACKLIST[@]}"; do
+        if [[ "$text" == *"$word"* ]]; then
+            return 0
+        fi
+    done
+    return 1
+}
+
 # Function to fetch proposals with pagination
 fetch_proposals() {
     local endpoint="$1"
@@ -119,28 +133,27 @@ jq -c '.chains[]' chains.json | while read chain; do
 
           # Add detailed proposal info below the table
           {
-              echo "### 🗳 $PROPOSAL_ID: $PROPOSAL_TITLE"
-              echo "- Voting Start: $(date -d "$VOTING_START_TIME" +"%a %b %d %Y %T UTC")"
-              echo "- Voting End: $(date -d "$VOTING_END_TIME" +"%a %b %d %Y %T UTC")"
-              echo ""
-              echo "<details>"
-              echo "<summary>Proposal Text</summary>"
-              echo " "
-              echo "$PROPOSAL_TEXT"
-              echo "</details>"
-              echo ""
-              echo "---"
-              echo ""
-              # delete break line for last proposal
+              if ! contains_blacklisted_word $PROPOSAL_TEXT && ! contains_blacklisted_word $PROPOSAL_TITLE; then
+                  echo "### 🗳 $PROPOSAL_ID: $PROPOSAL_TITLE"
+                  echo "- Voting Start: $(date -d "$VOTING_START_TIME" +"%a %b %d %Y %T UTC")"
+                  echo "- Voting End: $(date -d "$VOTING_END_TIME" +"%a %b %d %Y %T UTC")"
+                  echo ""
+                  echo "<details>"
+                  echo "<summary>Proposal Text</summary>"
+                  echo " "
+                  echo $PROPOSAL_TEXT
+                  echo "</details>"
+                  echo ""
+                  echo "---"
+                  echo ""
+              fi
           } >> $OUTPUT_FILE
 
           echo "Saved details to $OUTPUT_FILE"
       done
 
       # remove last 3 lines
-      sed -i '$d' $OUTPUT_FILE
-      sed -i '$d' $OUTPUT_FILE
-      sed -i '$d' $OUTPUT_FILE
+      sed -i '$d' $OUTPUT_FILE && sed -i '$d' $OUTPUT_FILE && sed -i '$d' $OUTPUT_FILE
     else
       # put some info that there are currently no active proposals
       echo " " >> $OUTPUT_FILE
