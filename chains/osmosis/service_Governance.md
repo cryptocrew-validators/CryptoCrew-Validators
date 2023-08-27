@@ -16,52 +16,7 @@
 <details>
 <summary>Proposal Text</summary>
  
-This proposal would create nine new Supercharged Liquidity pools: 
-
-* SOL/USDT 0.2% Spread 
-* SOL/USDT 0.05% Spread 
-* APT/USDT 0.2% Spread 
-* APT/USDT 0.05% Spread 
-* SUI/USDT 0.2% Spread 
-* SUI/USDT 0.05% Spread 
-* BONK/USDT 0.2% Spread 
-* BONK/USDT 0.05% Spread 
-* whUSDT/USDT 0.05% Spread 
-
-## Background
-During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). 
-
-## Choice of Pools 
-The proposed pools are the planned initial assets provided by Wormhole to Osmosis. 
-
-Wormhole was recently granted Canonical bridge status for these assets in [Proposal 582](https://www.mintscan.io/osmosis/proposals/582). 
-
-Pairings with USDT are proposed as stablecoin pairings are more attractive to liquidity providers who only have to account for the volatility of one side of their position. 
-
-These pairings will also be beneficial to Osmosis when the Taker fee, approved in [Proposal 530](https://www.mintscan.io/osmosis/proposals/530), is implemented as it will form additional yield to stakers as well as establish non-OSMO value in the community pool. 
-
-The higher spread factors mirror the typical spread factors used on Classic pools. The lower spreads will potentially be more efficient at collecting rewards for the same liquidity, as seen in other concentrated liquidity models but require more volume to reach the same fee generation and so are likely poor for initial bootstrapping purposes. The addition of two levels of the spread factor will enable the market to decide where liquidity reward collection is optimal as the markets grow. 
-
-## About Solana 
-Solana is a blockchain built for mass adoption. It's a high-performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine and is open, interoperable, and decentralized. 
-
-Website: [https://solana.com/](https://solana.com/) 
-## About Aptos 
-Aptos is the layer 1 blockchain engineered to evolve. Built with Move to create a home where developers build future-proof apps efficiently and enjoyably. Aptos is designed with scalability, safety, reliability, and upgradeability as key principles. 
-
-Website: [https://aptos.dev/](https://aptos.dev/) 
-## About Sui 
-Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by Move. 
-
-Website: [https://sui.io/](https://sui.io/) 
-## About Bonk 
-THE DOG COIN OF THE PEOPLE 
-
-Initially launched as a free airdrop to the Solana community on Christmas Day 2022, BONK's adoption has since grown parabolically to emerge as the true community coin of web3 
-
-Website: [https://www.bonkcoin.com/](https://www.bonkcoin.com/)
-
-**Forum Thread**:[https://forum.osmosis.zone/t/create-initial-wormhole-supercharged-pools/219](https://forum.osmosis.zone/t/create-initial-wormhole-supercharged-pools/219)
+This proposal would create nine new Supercharged Liquidity pools: README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh SOL/USDT 0.2% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh SOL/USDT 0.05% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh APT/USDT 0.2% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh APT/USDT 0.05% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh SUI/USDT 0.2% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh SUI/USDT 0.05% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh BONK/USDT 0.2% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh BONK/USDT 0.05% Spread README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh whUSDT/USDT 0.05% Spread ## Background During the rollout period, the creation of Supercharged Liquidity pools is permissioned by governance as established in [Proposal 532](https://www.mintscan.io/osmosis/proposals/532). ## Choice of Pools The proposed pools are the planned initial assets provided by Wormhole to Osmosis. Wormhole was recently granted Canonical bridge status for these assets in [Proposal 582](https://www.mintscan.io/osmosis/proposals/582). Pairings with USDT are proposed as stablecoin pairings are more attractive to liquidity providers who only have to account for the volatility of one side of their position. These pairings will also be beneficial to Osmosis when the Taker fee, approved in [Proposal 530](https://www.mintscan.io/osmosis/proposals/530), is implemented as it will form additional yield to stakers as well as establish non-OSMO value in the community pool. The higher spread factors mirror the typical spread factors used on Classic pools. The lower spreads will potentially be more efficient at collecting rewards for the same liquidity, as seen in other concentrated liquidity models but require more volume to reach the same fee generation and so are likely poor for initial bootstrapping purposes. The addition of two levels of the spread factor will enable the market to decide where liquidity reward collection is optimal as the markets grow. ## About Solana Solana is a blockchain built for mass adoption. It's a high-performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine and is open, interoperable, and decentralized. Website: [https://solana.com/](https://solana.com/) ## About Aptos Aptos is the layer 1 blockchain engineered to evolve. Built with Move to create a home where developers build future-proof apps efficiently and enjoyably. Aptos is designed with scalability, safety, reliability, and upgradeability as key principles. Website: [https://aptos.dev/](https://aptos.dev/) ## About Sui Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by Move. Website: [https://sui.io/](https://sui.io/) ## About Bonk THE DOG COIN OF THE PEOPLE Initially launched as a free airdrop to the Solana community on Christmas Day 2022, BONK's adoption has since grown parabolically to emerge as the true community coin of web3 Website: [https://www.bonkcoin.com/](https://www.bonkcoin.com/) **Forum Thread**:[https://forum.osmosis.zone/t/create-initial-wormhole-supercharged-pools/219](https://forum.osmosis.zone/t/create-initial-wormhole-supercharged-pools/219)
 </details>
 
 ---
@@ -73,28 +28,7 @@ Website: [https://www.bonkcoin.com/](https://www.bonkcoin.com/)
 <details>
 <summary>Proposal Text</summary>
  
-This proposal asks that the pools comprising the ATOM/USDT Supercharged pairings created in [Proposal 579](https://www.mintscan.io/osmosis/proposals/579) be added to the Osmosis incentives program. 
-
-## Background
-Pools following the pattern of MAJOR/STABLE category have received no incentives since the category model was introduced in [Proposal 233](https://www.mintscan.io/osmosis/proposals/233). The Osmosis community had previously chosen to minimize incentives to non-OSMO pools to prevent excessive value leakage. 
-
-The MAJOR/STABLE incentives category itself was removed in [Proposal 389](https://www.mintscan.io/osmosis/proposals/389). This was driven by the multihop mechanism being implemented, which led to the most optimal routing for trades being via OSMO rather than a direct route. 
-
-[Proposal 530](https://www.mintscan.io/osmosis/proposals/530) proposed adding a Taker Fee of 0.15% to all swaps, including each hop, drastically reducing the impact of the multihop discount and making direct routes competitive again. 
-
-When a taker fee is introduced in a future software upgrade, establishing non-OSMO pools increases the value capture of the protocol in non-OSMO assets. This has the potential to exceed the value of OSMO spent on incentivizing liquidity to cater to trading. Each OSMO of incentives currently generates around 0.4 OSMO in swap fee value. With Supercharged pools expected to increase the efficiency of fee generation significantly, each OSMO emitted to these pools as incentives may lead to a net positive gain for the protocol and increase the yield for stakers. 
-
-This proposal asks for a limited incentivization of these pools, capped to no more than 1% of OSMO incentives in total, at a 1:1 daily swap fee to daily OSMO spend only, similar to how the Stable/Stable category is currently structured. 
-
-This would limit the OSMO spend on the pool if the fee generation is lower than expected while preventing the category from taking a large portion of OSMO incentives in this trial period. 
-
-The two ATOM/USDT Supercharged pools created in [Proposal 579](https://www.mintscan.io/osmosis/proposals/579) would then be added to the incentives system at the next routine incentives proposal as part of this category. 
-
-Both pools are added to the incentives system to allow the optimal spread factor to be used from the two options of 0.05% and 0.01%. The pools will therefore be incentivized based on their performance. As there is no bonding period for normal Supercharged liquidity, this should encourage the movement of liquidity between the two pools as required to provide optimal trading liquidity. This represents a movement towards the incentivization of pairs rather than pools. 
-
- 
-
-Forum Thread: [https://forum.osmosis.zone/t/add-atom-usdt-pairings-to-the-osmosis-incentives-program/208](https://forum.osmosis.zone/t/add-atom-usdt-pairings-to-the-osmosis-incentives-program/208)
+This proposal asks that the pools comprising the ATOM/USDT Supercharged pairings created in [Proposal 579](https://www.mintscan.io/osmosis/proposals/579) be added to the Osmosis incentives program. ## Background Pools following the pattern of MAJOR/STABLE category have received no incentives since the category model was introduced in [Proposal 233](https://www.mintscan.io/osmosis/proposals/233). The Osmosis community had previously chosen to minimize incentives to non-OSMO pools to prevent excessive value leakage. The MAJOR/STABLE incentives category itself was removed in [Proposal 389](https://www.mintscan.io/osmosis/proposals/389). This was driven by the multihop mechanism being implemented, which led to the most optimal routing for trades being via OSMO rather than a direct route. [Proposal 530](https://www.mintscan.io/osmosis/proposals/530) proposed adding a Taker Fee of 0.15% to all swaps, including each hop, drastically reducing the impact of the multihop discount and making direct routes competitive again. When a taker fee is introduced in a future software upgrade, establishing non-OSMO pools increases the value capture of the protocol in non-OSMO assets. This has the potential to exceed the value of OSMO spent on incentivizing liquidity to cater to trading. Each OSMO of incentives currently generates around 0.4 OSMO in swap fee value. With Supercharged pools expected to increase the efficiency of fee generation significantly, each OSMO emitted to these pools as incentives may lead to a net positive gain for the protocol and increase the yield for stakers. This proposal asks for a limited incentivization of these pools, capped to no more than 1% of OSMO incentives in total, at a 1:1 daily swap fee to daily OSMO spend only, similar to how the Stable/Stable category is currently structured. This would limit the OSMO spend on the pool if the fee generation is lower than expected while preventing the category from taking a large portion of OSMO incentives in this trial period. The two ATOM/USDT Supercharged pools created in [Proposal 579](https://www.mintscan.io/osmosis/proposals/579) would then be added to the incentives system at the next routine incentives proposal as part of this category. Both pools are added to the incentives system to allow the optimal spread factor to be used from the two options of 0.05% and 0.01%. The pools will therefore be incentivized based on their performance. As there is no bonding period for normal Supercharged liquidity, this should encourage the movement of liquidity between the two pools as required to provide optimal trading liquidity. This represents a movement towards the incentivization of pairs rather than pools. Forum Thread: [https://forum.osmosis.zone/t/add-atom-usdt-pairings-to-the-osmosis-incentives-program/208](https://forum.osmosis.zone/t/add-atom-usdt-pairings-to-the-osmosis-incentives-program/208)
 </details>
 
 ---
