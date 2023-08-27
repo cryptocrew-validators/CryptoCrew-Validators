@@ -68,13 +68,14 @@ jq -c '.chains[]' chains.json | while read chain; do
     # Create MD file
     OUTPUT_FILE="${CHAIN_NAME}_service_Governance.md"
     rm $OUTPUT_FILE || true
-    echo "## Active Proposals \`$CHAIN_ID\`" >> $OUTPUT_FILE
+    echo "## Active Proposals" >> $OUTPUT_FILE
+    echo "- Chain ID: \`$CHAIN_ID\`"
     echo "" >> $OUTPUT_FILE
 
     # Add table headers
     {
-        echo "| PROPOSAL_ID | PROPOSAL_TITLE | VOTING_START_TIME | VOTING_END_TIME | VOTE |"
-        echo "|-------------|----------------|-------------------|-----------------|------|"
+        echo "| Proposal ID | Proposal Title | Voting End Time | VOTED |"
+        echo "|-------------|----------------|-----------------|-------|"
     } >> $OUTPUT_FILE
 
     if [ -n "$ACTIVE_PROPOSALS" ];  then
@@ -92,13 +93,13 @@ jq -c '.chains[]' chains.json | while read chain; do
           echo "processing proposal $PROPOSAL_ID"
 
           # Fetch vote details for the operator
-          echo "Fetching vote details for operator..."
+          echo "Fetching vote details"
           VOTE=$(curl -s "$REST_ENDPOINT/cosmos/gov/v1beta1/proposals/$PROPOSAL_ID/votes/$OPERATOR_ACCOUNT" | jq -r '.vote.option')
 
           # resolve vote
           VOTE_OPTION="unknown"
           if [ -z "$VOTE" ] || [[ "$VOTE" == *"null"* ]]; then
-            VOTE_OPTION="⏳ not yet voted"
+            VOTE_OPTION="⏳ NOT VOTED"
           else
             if [[ "$VOTE" == "VOTE_OPTION_YES" ]]; then
               VOTE_OPTION="✅ YES"
@@ -122,10 +123,12 @@ jq -c '.chains[]' chains.json | while read chain; do
       echo "" >> $OUTPUT_FILE
 
       echo "$ACTIVE_PROPOSALS" | while read proposal; do
+          echo "Fetching proposal details"
           PROPOSAL_ID=$(echo $proposal | jq -r '.proposal_id')
           if [ -z $PROPOSAL_ID ]; then
               continue
           fi
+
           PROPOSAL_TITLE=$(echo $proposal | jq -r '.content.title')
           VOTING_START_TIME=$(echo $proposal | jq -r '.voting_start_time')
           VOTING_END_TIME=$(echo $proposal | jq -r '.voting_end_time')
@@ -133,20 +136,23 @@ jq -c '.chains[]' chains.json | while read chain; do
 
           # Add detailed proposal info below the table
           {
-              if ! contains_blacklisted_word $PROPOSAL_TEXT && ! contains_blacklisted_word $PROPOSAL_TITLE; then
-                  echo "### 🗳 $PROPOSAL_ID: $PROPOSAL_TITLE"
-                  echo "- Voting Start: $(date -d "$VOTING_START_TIME" +"%a %b %d %Y %T UTC")"
-                  echo "- Voting End: $(date -d "$VOTING_END_TIME" +"%a %b %d %Y %T UTC")"
-                  echo ""
-                  echo "<details>"
+              echo "### 🗳 $PROPOSAL_ID: $PROPOSAL_TITLE"
+              echo "- Voting Start: $(date -d "$VOTING_START_TIME" +"%a %b %d %Y %T UTC")"
+              echo "- Voting End: $(date -d "$VOTING_END_TIME" +"%a %b %d %Y %T UTC")"
+              echo ""
+              echo "<details>"
+              if contains_blacklisted_word "$PROPOSAL_TITLE" || contains_blacklisted_word "$PROPOSAL_TEXT"; then
+                  echo "<summary>Text hidden (blacklist match)</summary>"
+                  echo " "
+              else
                   echo "<summary>Proposal Text</summary>"
                   echo " "
                   echo "$PROPOSAL_TEXT"
-                  echo "</details>"
-                  echo ""
-                  echo "---"
-                  echo ""
               fi
+              echo "</details>"
+              echo ""
+              echo "---"
+              echo ""
           } >> $OUTPUT_FILE
 
           echo "Saved details to $OUTPUT_FILE"
