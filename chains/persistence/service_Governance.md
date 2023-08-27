@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 40 | Next leg of XPRT Liquidity Bootstrapping (XLB) incentives on Dexter and Osmosis | Wed Aug 23 2023 16:18:33 UTC | Mon Aug 28 2023 16:18:33 UTC | ✅ YES |
+| 40 | Next leg of XPRT Liquidity Bootstrapping (XLB) incentives on Dexter and Osmosis | Wed Aug 23 2023 16:18:33 UTC | ✅ YES |
 
 ---
 

@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 266 | Support Team Funding Proposal  | Thu Aug 24 2023 14:43:59 UTC | Thu Aug 31 2023 14:43:59 UTC | ⏳ NOT VOTED |
+| 266 | Support Team Funding Proposal  | Thu Aug 24 2023 14:43:59 UTC | ⏳ NOT VOTED |
 
 ---
 

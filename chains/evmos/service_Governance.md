@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 165 | Lunar Launch – Tashi Launch Liquidity Incentives | Thu Aug 24 2023 00:49:35 UTC | Tue Aug 29 2023 00:49:35 UTC | ABSTAIN |
-| 166 | Inferno 2 - Continuing Forge LP incentives with Revert Finance | Fri Aug 25 2023 03:42:13 UTC | Wed Aug 30 2023 03:42:13 UTC | ABSTAIN |
+| 165 | Lunar Launch – Tashi Launch Liquidity Incentives | Thu Aug 24 2023 00:49:35 UTC | ABSTAIN |
+| 166 | Inferno 2 - Continuing Forge LP incentives with Revert Finance | Fri Aug 25 2023 03:42:13 UTC | ABSTAIN |
 
 ---
 

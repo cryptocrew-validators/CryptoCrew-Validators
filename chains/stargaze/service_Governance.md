@@ -2,10 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 210 | Incentivizing DOT/STARS Pools on the Pablo DEX | Thu Aug 24 2023 15:55:48 UTC | Sun Aug 27 2023 15:55:48 UTC | 🤷‍♂️ ABSTAIN |
-| 211 | Recover NOIS IBC Expired Client | Thu Aug 24 2023 21:13:09 UTC | Sun Aug 27 2023 21:13:09 UTC | ⏳ NOT VOTED |
-| 212 | Stargaze v12 Upgrade | Fri Aug 25 2023 04:03:15 UTC | Mon Aug 28 2023 04:03:15 UTC | ✅ YES |
-| 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | Mon Aug 28 2023 21:35:51 UTC | ⏳ NOT VOTED |
+| 210 | Incentivizing DOT/STARS Pools on the Pablo DEX | Thu Aug 24 2023 15:55:48 UTC | 🤷‍♂️ ABSTAIN |
+| 211 | Recover NOIS IBC Expired Client | Thu Aug 24 2023 21:13:09 UTC | ⏳ NOT VOTED |
+| 212 | Stargaze v12 Upgrade | Fri Aug 25 2023 04:03:15 UTC | ✅ YES |
+| 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | ⏳ NOT VOTED |
 
 ---
 

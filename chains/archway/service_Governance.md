@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 17 | Marketing and Growth DAO | Wed Aug 23 2023 22:01:39 UTC | Wed Aug 30 2023 22:01:39 UTC | 🤷‍♂️ ABSTAIN |
+| 17 | Marketing and Growth DAO | Wed Aug 23 2023 22:01:39 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
