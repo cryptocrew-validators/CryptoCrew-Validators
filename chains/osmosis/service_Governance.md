@@ -6,6 +6,7 @@
 | 592 | Add ATOM/USDT pairings to the Osmosis Incentives Program | Fri Aug 25 2023 16:54:55 UTC | ⏳ NOT VOTED |
 | 593 | Community Spend: Match Kava Rise Rewards for three months | Fri Aug 25 2023 16:56:35 UTC | ⏳ NOT VOTED |
 | 598 | 💎 ATOM Airdrop ✅ | Sat Aug 26 2023 23:56:55 UTC | ⏳ NOT VOTED |
+| 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -72,4 +73,45 @@ This proposal would allocate up to 800,000 OSMO from the Osmosis Community Pool 
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 600: Upload Transmuter Contract v1
+- Voting Start: Mon Aug 28 2023 15:27:28 UTC
+- Voting End: Sat Sep 02 2023 15:27:28 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Transmuter is a CosmWasm contract that allows 1:1 conversion of one asset to another. 
+
+Transmuter would be the first CosmWasm Pool to be uploaded to Osmosis, a pool type fully integrated with Osmosis’ existing pools but created via the instantiation of a CosmWasm contract, allowing deployment of new pool types without software upgrades. 
+## Details
+Once instantiated with two assets, the contract functions as a pool with a fixed 1:1 ratio of token value, no matter the ratio of the assets in the pool. 
+
+[Classic curve (Red), Stableswap (Blue) and Transmuter (Green)](https://imgur.com/ZvvBErC) 
+
+For traders, this enables the Transmute function which allows the exchange of 1 unit of value of a token they possess that is in the pool with 1 unit of value of any other token that is present in the pool without any slippage. 
+
+For liquidity providers, one token can be added to the pool in exchange for a representative token of that value held within the pool. Owners of the representative tokens can choose which asset to withdraw from the pool. 
+
+As there is zero slippage or fee, liquidity providers must either be altruistic or obtain an alternative benefit for adding tokens to the pool. 
+
+## Potential Uses 
+V1 of the Transmuter may be used to convert freely between identical tokens of different origins, such as axlUSDC and native USDC, to aid migration. As there is no benefit for liquidity providers to maintain a usable ratio of tokens, this would likely only be in use over a token’s transition period rather than a stableswap pool with a small swap fee. 
+
+## Contract information
+
+**Release**: V1.0.0
+
+**Compiler Version**: cosmwasm/workspace-optimizer:0.14.0
+
+**Checksum**: 6a1407229263b3321aedc359758018f26e18faff6a2feecc11a9acb118ccdd3d
+
+**Code repository**: [https://github.com/osmosis-labs/transmuter](https://github.com/osmosis-labs/transmuter)
+
+**Commit ID**: 1d7e32d3f3e83db5ecb3b3f7b8b8961a6787d515
+
+**Forum Thread**: [https://forum.osmosis.zone/t/upload-transmuter-contract-v1/133](https://forum.osmosis.zone/t/upload-transmuter-contract-v1/133)
 </details>
