@@ -24,6 +24,7 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | injective-1 | phoenix-1 | transfer | channel-104 |
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | laozi-mainnet | oracle | channel-3 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
