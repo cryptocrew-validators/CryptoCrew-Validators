@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | ⏳ NOT VOTED |
+| 213 | Stargaze integration with Huddle01 | Fri Aug 25 2023 21:35:51 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
