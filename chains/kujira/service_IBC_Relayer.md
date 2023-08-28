@@ -33,6 +33,7 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
+| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-18 |
