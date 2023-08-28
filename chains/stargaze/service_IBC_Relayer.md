@@ -8,7 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw
-stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd
 ```
 
 ### Active IBC channels `stargaze`:
@@ -18,10 +17,8 @@ stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd
 | stargaze-1 | evmos_9001-2 | transfer | channel-46 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
-| stargaze-1 | secret-4 | transfer | channel-48 |
 | evmos_9001-2 | stargaze-1 | transfer | channel-13 |
 | gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| secret-4 | stargaze-1 | transfer | channel-19 |

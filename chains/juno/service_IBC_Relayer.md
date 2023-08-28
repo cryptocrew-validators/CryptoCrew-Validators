@@ -8,7 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
-juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 ```
 
 ### Active IBC channels `juno`:
@@ -28,12 +27,6 @@ juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
-| juno-1 | bitsong-2b | transfer | channel-17 |
-| juno-1 | migaloo-1 | transfer | channel-210 |
-| juno-1 | secret-4 | transfer | channel-48 |
-| juno-1 | phoenix-1 | transfer | channel-86 |
-| juno-1 | gravity-bridge-3 | transfer | channel-31 |
-| juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-91 |
 | chihuahua-1 | juno-1 | transfer | channel-11 |
 | comdex-1 | juno-1 | transfer | channel-18 |
 | core-1 | juno-1 | transfer | channel-37 |
@@ -47,9 +40,3 @@ juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 | omniflixhub-1 | juno-1 | transfer | channel-20 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
-| bitsong-2b | juno-1 | transfer | channel-5 |
-| migaloo-1 | juno-1 | transfer | channel-1 |
-| osmosis-1 | juno-1 | transfer | channel-168 |
-| osmosis-1 | juno-1 | transfer | channel-169 |
-| phoenix-1 | juno-1 | transfer | channel-2 |
-| secret-4 | juno-1 | transfer | channel-8 |
