@@ -18,6 +18,7 @@ jobs:
       run: |
         chmod +x ./update_governance_info.sh
         ./update_governance_info.sh
+      continue-on-error: true
 
     - name: Commit and push if there are changes
       run: |
