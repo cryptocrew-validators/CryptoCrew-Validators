@@ -7,6 +7,7 @@
 | 593 | Community Spend: Match Kava Rise Rewards for three months | Fri Aug 25 2023 16:56:35 UTC | 🤷‍♂️ ABSTAIN |
 | 598 | 💎 ATOM Airdrop ✅ | Sat Aug 26 2023 23:56:55 UTC | ⏳ NOT VOTED |
 | 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ⏳ NOT VOTED |
+| 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -114,4 +115,16 @@ V1 of the Transmuter may be used to convert freely between identical tokens of d
 **Commit ID**: 1d7e32d3f3e83db5ecb3b3f7b8b8961a6787d515
 
 **Forum Thread**: [https://forum.osmosis.zone/t/upload-transmuter-contract-v1/133](https://forum.osmosis.zone/t/upload-transmuter-contract-v1/133)
+</details>
+
+---
+
+### 🗳 601: Osmosis Support Lab Funding Round September 2023 - March 2024
+- Voting Start: Tue Aug 29 2023 20:53:42 UTC
+- Voting End: Sun Sep 03 2023 20:53:42 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal will fund the Osmosis Support Lab for the period of September 2023 through March 2024.nnThe full proposal and discussion can be found here: https://forum.osmosis.zone/t/revised-osmosis-support-lab-funding-round-september-2023-march-2024/255
 </details>
