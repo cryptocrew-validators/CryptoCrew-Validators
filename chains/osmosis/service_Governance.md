@@ -2,23 +2,11 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 589 | Create Initial Wormhole Supercharged Pools | Fri Aug 25 2023 13:03:30 UTC | ✅ YES |
 | 592 | Add ATOM/USDT pairings to the Osmosis Incentives Program | Fri Aug 25 2023 16:54:55 UTC | ✅ YES |
 | 593 | Community Spend: Match Kava Rise Rewards for three months | Fri Aug 25 2023 16:56:35 UTC | 🤷‍♂️ ABSTAIN |
 | 598 | 💎 ATOM Airdrop ✅ | Sat Aug 26 2023 23:56:55 UTC | ABSTAIN |
 | 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ⏳ NOT VOTED |
 | 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 589: Create Initial Wormhole Supercharged Pools
-- Voting Start: Fri Aug 25 2023 13:03:30 UTC
-- Voting End: Wed Aug 30 2023 13:03:30 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
