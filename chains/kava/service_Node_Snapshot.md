@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 kava version: `v0.24.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kava_2222-10_6276493.tar.lz4)** | Wed Aug 30 2023 22:52:07 UTC | `kava_2222-10` | 11G | 6276493 | `aea5a28f65b57c289a058707b49c857059544623e2866c8125d03b418131abfc` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kava_2222-10_6253963.tar.lz4)** | Tue Aug 29 2023 07:11:51 UTC | `kava_2222-10` | 11G | 6253963 | `1a9e5a45ee35c756263923e8340e554210390b70c856863bb00199d93b114d01` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/kava_2222-10_6249115.tar.lz4)** | Mon Aug 28 2023 22:56:00 UTC | `kava_2222-10` | 11G | 6249115 | `634360dab8f92f2764a6e9f56e080b279d0a541f938971f3bbdc324c770827c5` |
 
 ---
 
@@ -12,13 +12,13 @@ kava version: `v0.24.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_6253963.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_6276493.tar.lz4"
 cd $HOME/.kava
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
 wget $URL
 wget $URL.sha256
-diff -s <(sha256sum $(basename $URL) | awk '{print $1}') <(cat $(basename $URL).sha256)
+echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
 lz4 -d $(basename $URL) | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_6253963.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_6276493.tar.lz4"
 cd $HOME/.kava
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
