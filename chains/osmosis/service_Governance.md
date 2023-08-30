@@ -5,6 +5,7 @@
 | 592 | Add ATOM/USDT pairings to the Osmosis Incentives Program | Fri Aug 25 2023 16:54:55 UTC | ✅ YES |
 | 593 | Community Spend: Match Kava Rise Rewards for three months | Fri Aug 25 2023 16:56:35 UTC | 🤷‍♂️ ABSTAIN |
 | 598 | 💎 ATOM Airdrop ✅ | Sat Aug 26 2023 23:56:55 UTC | ABSTAIN |
+| 599 | IBC Client Update: Expired Client to Starname Chain | Wed Aug 30 2023 16:35:53 UTC | ⏳ NOT VOTED |
 | 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ⏳ NOT VOTED |
 | 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | ⏳ NOT VOTED |
 | 604 | Upload WBTC Contract | Wed Aug 30 2023 14:41:35 UTC | ⏳ NOT VOTED |
@@ -64,6 +65,18 @@ This proposal would allocate up to 800,000 OSMO from the Osmosis Community Pool 
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 599: IBC Client Update: Expired Client to Starname Chain
+- Voting Start: Wed Aug 30 2023 16:35:53 UTC
+- Voting End: Mon Sep 04 2023 16:35:53 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Due to an unforeseen relayer issue that resulted in the subject client exceeding the trusting period, the IBC client 07-tendermint-71 used by channel-15 for IOV transfers from Starname to Osmosis is currently in an expired state. If accepted, this proposal will update client 07-tendermint-71 with the data from 07-tendermint-2952 which is created newly, so that users may continue to take advantage of both the established channel.
 </details>
 
 ---
