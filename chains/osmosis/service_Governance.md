@@ -8,6 +8,7 @@
 | 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ⏳ NOT VOTED |
 | 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | ⏳ NOT VOTED |
 | 604 | Upload WBTC Contract | Wed Aug 30 2023 14:41:35 UTC | ⏳ NOT VOTED |
+| 605 | Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token | Wed Aug 30 2023 15:42:34 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -172,4 +173,16 @@ The DAO commits to prioritizing the Canonical Bridge assets, incentivizing them 
 This proposal does not directly impact the incentives currently provided to the axlWBTC/OSMO pool (712), which will be reallocated in a future proposal. 
 
 **Forum Thread**: [https://forum.osmosis.zone/t/upload-cosmwasm-wbtc-contract/246](https://forum.osmosis.zone/t/upload-cosmwasm-wbtc-contract/246)
+</details>
+
+---
+
+### 🗳 605: Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token
+- Voting Start: Wed Aug 30 2023 15:42:34 UTC
+- Voting End: Mon Sep 04 2023 15:42:34 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+The Gelotto (GLTO) token was launched in June of 2022 and has been actively traded on Osmosis. However, the unverified status given by Osmosis creates an unwanted perception towards the asset, deterring new users and causing additional steps for existing users. This proposal aims to remove the unverified status of GLTO. More details can be found on the forum discussion: https://forum.osmosis.zone/t/signaling-proposal-remove-unverified-status-from-gelotto-glto-token/236
 </details>
