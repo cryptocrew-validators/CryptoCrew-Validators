@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 centaurid version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/centauri-1_1291540.tar.lz4)** | Wed Aug 30 2023 23:44:11 UTC | `centauri-1` | 218M | 1291540 | `0263b362efc6ed60014edb07702e1dfc8b7c2d99fd33dca7860c97e43508aeef` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/centauri-1_1276566.tar.lz4)** | Tue Aug 29 2023 23:43:55 UTC | `centauri-1` | 645M | 1276566 | `2c4922282619e928f590e107a417490cdecf41fd891a343aa3c956398c59b485` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/centauri-1_1261552.tar.lz4)** | Mon Aug 28 2023 23:47:28 UTC | `centauri-1` | 550M | 1261552 | `63d8ee90f26c984fa5b07c1ffab53f0a7e971e3d5ca495fd4927c5de12833995` |
 
 ---
 
@@ -12,13 +12,13 @@ centaurid version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_1276566.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_1291540.tar.lz4"
 cd $HOME/.banksy
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm wasm_client_data
 wget $URL
 wget $URL.sha256
-diff -s <(sha256sum $(basename $URL) | awk '{print $1}') <(cat $(basename $URL).sha256)
+echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
 lz4 -d $(basename $URL) | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_1276566.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_1291540.tar.lz4"
 cd $HOME/.banksy
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm wasm_client_data
@@ -43,7 +43,7 @@ In some cases you can statesync a wasm chain, but the wasm-folder will not be in
 URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_wasm.tar.lz4"
 cd $HOME/.banksy
 rm -rf wasm
-wget -O - \$URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 
 ### Optional: Download `wasm_client_data` folder only
@@ -52,7 +52,7 @@ It is possible to statesync `centauri-1` when retaining the `$HOME/.banksy/wasm_
 URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_wasm_client_data.tar.lz4"
 cd $HOME/.banksy
 rm -rf wasm_client_data
-wget -O - \$URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 
 ## Using the download script
