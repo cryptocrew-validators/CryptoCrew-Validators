@@ -43,7 +43,7 @@ In some cases you can statesync a wasm chain, but the wasm-folder will not be in
 URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_wasm.tar.lz4"
 cd $HOME/.wormchain
 rm -rf wasm
-wget -O - \$URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 
 
