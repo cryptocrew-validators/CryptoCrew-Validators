@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 77 | [SIPS-072] TurboSWETH Liquidity Mining Incentives Proposal | Tue Aug 29 2023 00:41:51 UTC | ⏳ NOT VOTED |
+| 77 | [SIPS-072] TurboSWETH Liquidity Mining Incentives Proposal | Tue Aug 29 2023 00:41:51 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
