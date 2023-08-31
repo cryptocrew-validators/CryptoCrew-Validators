@@ -9,6 +9,8 @@
 | 604 | Upload WBTC Contract | Wed Aug 30 2023 14:41:35 UTC | ⏳ NOT VOTED |
 | 605 | Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token | Wed Aug 30 2023 15:42:34 UTC | ⏳ NOT VOTED |
 | 606 | Osmosis v19 Software Upgrade | Thu Aug 31 2023 11:40:09 UTC | ⏳ NOT VOTED |
+| 607 | Upload Stride Redemption Rate Oracle Contract | Thu Aug 31 2023 20:05:55 UTC | ⏳ NOT VOTED |
+| 608 | Upload stToken Scaling Factor Auto-update Contract | Thu Aug 31 2023 20:10:26 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -203,4 +205,84 @@ The proposal targets the upgrade proposal block to be **11317300**, anticipated 
 The upgrade is anticipated to take approx 30 minutes, during which time, there will not be any on-chain activity on the network. 
 
 In the event of an issue at upgrade time, we should coordinate via the validators channel in Discord to come to a quick emergency consensus and mitigate any further issues.
+</details>
+
+---
+
+### 🗳 607: Upload Stride Redemption Rate Oracle Contract
+- Voting Start: Thu Aug 31 2023 20:05:55 UTC
+- Voting End: Tue Sep 05 2023 20:05:55 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Passing this proposal will upload the Stride Redemption Rate Oracle Contract to the Osmosis chain 
+
+ ## Summary 
+
+ The Stride Redemption Rate Oracle Contract uses an interchain account (ICA) to provide the redemption rates of Stride's stTokens to the Osmosis blockchain in a decentralized manner. 
+
+ If uploaded to Osmosis, the Oracle Contract's feeds could be used to 1) trustlessly handle the scaling factor for stToken stableswap pools, and 2) could be integrated with Mars' oracle implementation to provide a more dependable oracle price for stTokens. 
+
+ ## Details 
+
+ stTokens represent underlying staked tokens, which are controlled by the Stride blockchain. At any time, a user may use his stToken to redeem a certain amount of its underlying token. The amount of underlying tokens a single stToken can redeem is called the redemption rate. For example, on the Stride blockchain 1 stATOM can currently be used to redeem 1.205 ATOM. To continue with the example, the market price of stATOM vs ATOM may fluctuate - but the true stATOM vs ATOM value is the redemption rate. 
+
+ The Oracle Contract uses an ICA to provide redemption rates for Stride's stTokens to the Osmosis blockchain in a decentralized manner. As mentioned above, stToken redemption rates on Osmosis can be used to trustlessly manage the scaling factors for stToken stableswap pools and to strengthen stToken price oracles on Osmosis. 
+
+ ## Contract information 
+
+ **Release**: [v1.0.0](https://github.com/Stride-Labs/ica-oracle/releases/tag/v1.0.0) 
+
+ **Git Commit**: `2fdf76f3ba4fad6a20a6d10d77c0511f2439b6c3` 
+
+ **Code Repository**: [https://github.com/Stride-Labs/ica-oracle](https://github.com/Stride-Labs/ica-oracle) 
+
+ **Compiler**: `cosmwasm/rust-optimizer:0.14.0` 
+
+ **Checksum**: `5ee10302357ff0f8531fe00029cd35cfe5a2c521c6a818cee06cd61a3df0cb42` 
+
+ **Forum Thread**: [https://forum.osmosis.zone/t/upload-stride-redemption-rate-oracle-contract/248](https://forum.osmosis.zone/t/upload-stride-redemption-rate-oracle-contract/248) 
+</details>
+
+---
+
+### 🗳 608: Upload stToken Scaling Factor Auto-update Contract
+- Voting Start: Thu Aug 31 2023 20:10:26 UTC
+- Voting End: Tue Sep 05 2023 20:10:26 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Passing this proposal will upload the stToken Scaling Factor Auto-update Contract to the Osmosis chain 
+
+ ## Summary 
+
+ The stToken Scaling Factor Auto-update Contract makes use of the Stride Redemption Rate Oracle Contract to automatically update the scaling factor for stToken stableswap pools, such as the stOSMO-OSMO pool. 
+
+ Currently, the scaling factor for stToken stableswap pools is updated every several days using a multisig address controlled by the Stride Association. By using the Auto-update Contract the Stride Association can relinquish this responsibility, which would thereafter be carried out in an automatic and fully trustless manner. 
+
+ ## Details 
+
+ Normal stableswap pools concentrate the two tokens at a 1:1 ratio, which is ideal for USD stablecoins. But Osmosis stableswap pools have an optional scaling factor, which enables the concentration ratio to be continually scaled. This scaling factor is utilized for stToken stableswap pools, because stTokens constantly appreciate in value against their underlying tokens. 
+
+ Currently, it is the responsibility of a Stride Association multisig address to gradually increase the concentration ratios on several stToken stableswap pools. But that process can now be automated. 
+
+ For example, the stOSMO:OSMO redemption rate is currently 1:1.148. Soon, the Stride Redemption Rate Oracle Contract could feed this redemption rate to Osmosis. Then the stToken Scaling Factor Auto-update Contract would take the stOSMO redemption rate and use it to adjust the scaling factor / concentration ratio on the stOSMO/OSMO stableswap pool. 
+
+ Note that once these two contracts are uploaded, a further governance proposal would be required for the Stride Association multisig to relinquish control of stToken pool scaling factors to the Auto-update Contract. 
+
+ ## Contract information 
+
+ **Release**: [v1.0.0](https://github.com/Stride-Labs/st-scaling-factor/releases/tag/v1.0.0) 
+
+ **Git Commit**: `7e75ff9e92755a4ad284a8f07b332f4d5b444062` 
+
+ **Code repository**: [https://github.com/Stride-Labs/st-scaling-factor](https://github.com/Stride-Labs/st-scaling-factor) 
+
+ **Compiler**: `cosmwasm/rust-optimizer:0.12.13` 
+
+ **Checksum**: `57f5ec7f8e2848d53e8164c80272cdff311cc844c70d0b15b71712cbc2ec034c` 
+
+ **Forum Thread**: [https://forum.osmosis.zone/t/upload-sttoken-scaling-factor-auto-update-contract/249](https://forum.osmosis.zone/t/upload-sttoken-scaling-factor-auto-update-contract/249) 
 </details>
