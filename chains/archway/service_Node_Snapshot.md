@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 archwayd version: `v2.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_850444.tar.lz4)** | Thu Aug 31 2023 00:05:15 UTC | `archway-1` | 617M | 850444 | `bcf20d2b86cbbd6adc0bf23931b7d3fdca384877f2ad1940728449cda14e9990` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_837078.tar.lz4)** | Wed Aug 30 2023 01:59:16 UTC | `archway-1` | 758M | 837078 | `f006527b9d74fbfca394754286fb148a1e013a28c109327a34ac3f6792038c85` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/archway-1_821489.tar.lz4)** | Tue Aug 29 2023 00:08:35 UTC | `archway-1` | 693M | 821489 | `db04c964f6942dd0c17ab04fd68c6424e59cfbe6229cc56c9fe5187b4d14f2e9` |
 
 ---
 
@@ -12,13 +12,13 @@ archwayd version: `v2.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_837078.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_850444.tar.lz4"
 cd $HOME/.archway
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget $URL
 wget $URL.sha256
-diff -s <(sha256sum $(basename $URL) | awk '{print $1}') <(cat $(basename $URL).sha256)
+echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
 lz4 -d $(basename $URL) | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_837078.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_850444.tar.lz4"
 cd $HOME/.archway
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -43,7 +43,7 @@ In some cases you can statesync a wasm chain, but the wasm-folder will not be in
 URL="https://dl.ccvalidators.com/SNAPSHOTS/archway/archway-1_wasm.tar.lz4"
 cd $HOME/.archway
 rm -rf wasm
-wget -O - \$URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 
 
