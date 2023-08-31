@@ -8,6 +8,7 @@
 | 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | ⏳ NOT VOTED |
 | 604 | Upload WBTC Contract | Wed Aug 30 2023 14:41:35 UTC | ⏳ NOT VOTED |
 | 605 | Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token | Wed Aug 30 2023 15:42:34 UTC | ⏳ NOT VOTED |
+| 606 | Osmosis v19 Software Upgrade | Thu Aug 31 2023 11:40:09 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -151,4 +152,55 @@ This proposal does not directly impact the incentives currently provided to the 
 <summary>Proposal Text</summary>
  
 The Gelotto (GLTO) token was launched in June of 2022 and has been actively traded on Osmosis. However, the unverified status given by Osmosis creates an unwanted perception towards the asset, deterring new users and causing additional steps for existing users. This proposal aims to remove the unverified status of GLTO. More details can be found on the forum discussion: https://forum.osmosis.zone/t/signaling-proposal-remove-unverified-status-from-gelotto-glto-token/236
+</details>
+
+---
+
+### 🗳 606: Osmosis v19 Software Upgrade
+- Voting Start: Thu Aug 31 2023 11:40:09 UTC
+- Voting End: Tue Sep 05 2023 11:40:09 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This is a proposal to do a software upgrade to the v19.0.0 software tag of the Osmosis codebase on block height **11317300**, which is estimated to occur on **Tuesday September 5th, UTC 16:00**. Block times have high variance, so please monitor the chain for more precise time estimates. 
+## Upgrade Features
+This upgrade adds the following features: 
+
+**Taker Fee Implementation**
+Parameters to enable a Taker fee on Osmosis have been added. 
+* The initial global taker fee parameter is set to 0 and will need to be activated by governance. 
+* Distribution parameters have been set according to [Proposal 530](https://www.mintscan.io/osmosis/proposals/530) and [Proposal 549](https://www.mintscan.io/osmosis/proposals/549)
+* Stakers initially receive: 
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh 100% of OSMO value collected. 
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh 67% of Non-OSMO value collected which is swapped to OSMO before distribution, similar to the mechanism by which Transaction fees in non-OSMO assets are distributed. 
+* The Community pool receives: 
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh 33% of Non-OSMO value collected. 
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh Takes the form of the Quote asset involved in the transaction. 
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh Transactions not involving a Quote asset will swap to a governance adjustable asset, initially USDC, before being sent to the community pool. 
+* This is an adjustment to the value distribution method mentioned in [Proposal 530](https://www.mintscan.io/osmosis/proposals/530) due to issues with gas usage when claiming a wide variety of tokens discovered during implementation and a change to the expected mechanism of taker fee implementation when using pools with Quote assets. 
+* Acceptance of this proposal approves the software upgrade using this modified implementation. Further information is detailed [here](https://forum.osmosis.zone/t/temperature-check-modification-of-taker-fee-distribution-for-non-osmo-assets/276). 
+* Taker fee rates for specific denom pairings can be adjusted via governance or by a whitelisted address parameter which is initially not set. 
+
+**Superfluid Staking Fix**
+Voting power for Superfluid stake was removed during the expedited v18 software upgrade. 
+This software upgrade restores all voting power provided to validators through Superfluid Stake. 
+
+See the [Full Change Log](https://github.com/osmosis-labs/osmosis/blob/main/CHANGELOG.md) for more API Breaking, State Breaking and other miscellaneous changes. 
+
+## Getting Prepared for the Upgrade 
+To build the binary, be sure to install golang 1.20. 
+
+As always, we recommend validators utilize 64GB of RAM. Since state migration is relatively negligible in this upgrade, it is possible to get away with less, but still not recommended. If you are unable to have 64GB of RAM, at a minimum have a total of 64GB of swap set to prevent out of memory errors. 
+
+If using Cosmovisor, manually build & copy the osmosisd binary to /cosmovisor/upgrades/v19/bin/. 
+
+If not using Cosmovisor, wait for your node to halt at the upgrade height, then install and run the v19.0.0 binary. 
+
+## Details of Upgrade Time
+The proposal targets the upgrade proposal block to be **11317300**, anticipated to be on **Tuesday September 5th, UTC 16:00**. Note that block times have high variance, so keep monitoring the time. See countdown [here](https://www.mintscan.io/osmosis/blocks/11317300). 
+
+The upgrade is anticipated to take approx 30 minutes, during which time, there will not be any on-chain activity on the network. 
+
+In the event of an issue at upgrade time, we should coordinate via the validators channel in Discord to come to a quick emergency consensus and mitigate any further issues.
 </details>
