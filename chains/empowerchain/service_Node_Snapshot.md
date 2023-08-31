@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 empowerd version: `v1.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/empowerchain-1_985601.tar.lz4)** | Thu Aug 31 2023 01:58:54 UTC | `empowerchain-1` | 219M | 985601 | `03c8297c887c0c52b32effa46ba50d492bccbc90d362b8c163dd6d2d0baba7dc` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/empowerchain-1_975617.tar.lz4)** | Wed Aug 30 2023 10:32:18 UTC | `empowerchain-1` | 487M | 975617 | `20498f1bd5526a2983be0258ddfbcfb82c07c3b73549ec132da2aa435067400a` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/empowerchain-1_954856.tar.lz4)** | Tue Aug 29 2023 02:18:16 UTC | `empowerchain-1` | 479M | 954856 | `4d3f9507a5d01cae25974bedde1d21507d28c825bd1bfa6d8a2c8769eeca67f1` |
 
 ---
 
@@ -12,13 +12,13 @@ empowerd version: `v1.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_975617.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_985601.tar.lz4"
 cd $HOME/.empowerchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget $URL
 wget $URL.sha256
-diff -s <(sha256sum $(basename $URL) | awk '{print $1}') <(cat $(basename $URL).sha256)
+echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
 lz4 -d $(basename $URL) | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_975617.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_985601.tar.lz4"
 cd $HOME/.empowerchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -43,7 +43,7 @@ In some cases you can statesync a wasm chain, but the wasm-folder will not be in
 URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_wasm.tar.lz4"
 cd $HOME/.empowerchain
 rm -rf wasm
-wget -O - \$URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 
 
