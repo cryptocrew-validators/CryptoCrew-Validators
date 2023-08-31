@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 marsd version: `v1.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_3155352.tar.lz4)** | Thu Aug 31 2023 18:35:12 UTC | `mars-1` | 705M | 3155352 | `f1e67964f83fe0b00639e4c62fafa812a00793d2da643abf98a7564668cb5a96` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_3137258.tar.lz4)** | Wed Aug 30 2023 13:19:43 UTC | `mars-1` | 460M | 3137258 | `45701f9974f53fd50c9831a18d62daebe2c9c032b618f429170ad3764d8e6376` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/mars-1_3125648.tar.lz4)** | Tue Aug 29 2023 18:35:10 UTC | `mars-1` | 704M | 3125648 | `0ab94345ea501bda9a67d3b07ff6d83da6a174ef155cc5ad31ac1b949ae773ca` |
 
 ---
 
@@ -12,13 +12,13 @@ marsd version: `v1.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_3137258.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_3155352.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
 wget $URL
 wget $URL.sha256
-diff -s <(sha256sum $(basename $URL) | awk '{print $1}') <(cat $(basename $URL).sha256)
+echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
 lz4 -d $(basename $URL) | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_3137258.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_3155352.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -44,7 +44,7 @@ In some cases you can statesync a wasm chain, but the wasm-folder will not be in
 URL="https://dl.ccvalidators.com/SNAPSHOTS/mars/mars-1_wasm.tar.lz4"
 cd $HOME/.mars/data
 rm -rf wasm
-wget -O - \$URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar -xvf -
 ```
 
 
