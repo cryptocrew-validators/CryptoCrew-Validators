@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/lumnetwork/addrbook.json)**
 ---
 
-- last updated: Wed Aug 30 2023 05:40:58
+- last updated: Thu Aug 31 2023 05:41:28
 - chain id: `lum-network-1`
 
-- total peers (network scan): 135
+- total peers (network scan): 497
 
 ## Instructions
 ```sh
