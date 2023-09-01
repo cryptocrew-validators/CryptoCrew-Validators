@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 276 | ATOM / LUNA Airdrop ✅ | Wed Aug 30 2023 00:28:54 UTC | ⏳ NOT VOTED |
+| 276 | ATOM / LUNA Airdrop ✅ | Wed Aug 30 2023 00:28:54 UTC | ABSTAIN |
 
 ---
 
