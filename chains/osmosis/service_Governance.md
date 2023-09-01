@@ -3,13 +3,14 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 599 | IBC Client Update: Expired Client to Starname Chain | Wed Aug 30 2023 16:35:53 UTC | ⏳ NOT VOTED |
-| 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ⏳ NOT VOTED |
+| 600 | Upload Transmuter Contract v1 | Mon Aug 28 2023 15:27:28 UTC | ✅ YES |
 | 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | ⏳ NOT VOTED |
 | 604 | Upload WBTC Contract | Wed Aug 30 2023 14:41:35 UTC | ⏳ NOT VOTED |
 | 605 | Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token | Wed Aug 30 2023 15:42:34 UTC | ⏳ NOT VOTED |
 | 606 | Osmosis v19 Software Upgrade | Thu Aug 31 2023 11:40:09 UTC | ⏳ NOT VOTED |
 | 607 | Upload Stride Redemption Rate Oracle Contract | Thu Aug 31 2023 20:05:55 UTC | ⏳ NOT VOTED |
 | 608 | Upload stToken Scaling Factor Auto-update Contract | Thu Aug 31 2023 20:10:26 UTC | ⏳ NOT VOTED |
+| 609 | HUAHUA Recovery from wrong pools | Fri Sep 01 2023 12:04:49 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -273,4 +274,21 @@ Passing this proposal will upload the stToken Scaling Factor Auto-update Contrac
  **Checksum**: `57f5ec7f8e2848d53e8164c80272cdff311cc844c70d0b15b71712cbc2ec034c` 
 
  **Forum Thread**: [https://forum.osmosis.zone/t/upload-sttoken-scaling-factor-auto-update-contract/249](https://forum.osmosis.zone/t/upload-sttoken-scaling-factor-auto-update-contract/249) 
+</details>
+
+---
+
+### 🗳 609: HUAHUA Recovery from wrong pools
+- Voting Start: Fri Sep 01 2023 12:04:49 UTC
+- Voting End: Wed Sep 06 2023 12:04:49 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal seeks a Governance approval to merge the code needed to recover 6B HUAHUA stuck into wrong pools into the osmosis codebase.
+Here you can find a [detailed description of the incident](https://commonwealth.im/osmosis/discussion/6497-recovering-huahua-wrong-external-incentives)
+And here you can find the [forum thread](https://forum.osmosis.zone/t/save-6bn-huahua-from-locked-pool/238 with the resolution proposal.)
+
+- Vote YES if you want to allow Chihuahua to recover the 6B HUAHUA
+- Vote NO if you don't want to allow Chihuahua to recover the 6B HUAHUA
 </details>
