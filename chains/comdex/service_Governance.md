@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 181 | Proposal to add liquidity mining incentives to cSwap pools : phase-35 | Thu Aug 31 2023 17:57:21 UTC | ⏳ NOT VOTED |
+| 181 | Proposal to add liquidity mining incentives to cSwap pools : phase-35 | Thu Aug 31 2023 17:57:21 UTC | ✅ YES |
 
 ---
 
