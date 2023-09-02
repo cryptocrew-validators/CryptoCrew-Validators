@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 wormchaind version: `v2.23.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/wormchain_4630991.tar.lz4)** | Sat Sep 02 2023 10:44:48 UTC | `wormchain` | 673M | 4630991 | `4703b35f600176713e286651dc341bc01035a0e38d9593dd7827a65f45807d10` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/wormchain_4605236.tar.lz4)** | Thu Aug 31 2023 17:17:57 UTC | `wormchain` | 661M | 4605236 | `2b6748d7927b34cad5560c77949782c24ffb0d63d84b65806c81b51d55868319` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/wormchain_4591574.tar.lz4)** | Wed Aug 30 2023 19:15:48 UTC | `wormchain` | 649M | 4591574 | `e3cb4092232e139fe950f1a900d638ad7391b27707808845328bdc9d7b64d829` |
 
 ---
 
@@ -12,7 +12,7 @@ wormchaind version: `v2.23.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_4605236.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_4630991.tar.lz4"
 cd $HOME/.wormchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_4605236.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_4630991.tar.lz4"
 cd $HOME/.wormchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
