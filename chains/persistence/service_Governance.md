@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 42 | PersistenceCore v8 Pacaya Upgrade | Wed Aug 30 2023 11:08:40 UTC | ⏳ NOT VOTED |
+| 42 | PersistenceCore v8 Pacaya Upgrade | Wed Aug 30 2023 11:08:40 UTC | ✅ YES |
 
 ---
 
