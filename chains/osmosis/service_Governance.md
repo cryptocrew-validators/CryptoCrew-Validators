@@ -3,7 +3,6 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 599 | IBC Client Update: Expired Client to Starname Chain | Wed Aug 30 2023 16:35:53 UTC | ✅ YES |
-| 601 | Osmosis Support Lab Funding Round September 2023 - March 2024 | Tue Aug 29 2023 20:53:42 UTC | 🤷‍♂️ ABSTAIN |
 | 604 | Upload WBTC Contract | Wed Aug 30 2023 14:41:35 UTC | ⏳ NOT VOTED |
 | 605 | Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token | Wed Aug 30 2023 15:42:34 UTC | ⏳ NOT VOTED |
 | 606 | Osmosis v19 Software Upgrade | Thu Aug 31 2023 11:40:09 UTC | ⏳ NOT VOTED |
@@ -23,18 +22,6 @@
 <summary>Proposal Text</summary>
  
 Due to an unforeseen relayer issue that resulted in the subject client exceeding the trusting period, the IBC client 07-tendermint-71 used by channel-15 for IOV transfers from Starname to Osmosis is currently in an expired state. If accepted, this proposal will update client 07-tendermint-71 with the data from 07-tendermint-2952 which is created newly, so that users may continue to take advantage of both the established channel.
-</details>
-
----
-
-### 🗳 601: Osmosis Support Lab Funding Round September 2023 - March 2024
-- Voting Start: Tue Aug 29 2023 20:53:42 UTC
-- Voting End: Sun Sep 03 2023 20:53:42 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal will fund the Osmosis Support Lab for the period of September 2023 through March 2024.nnThe full proposal and discussion can be found here: https://forum.osmosis.zone/t/revised-osmosis-support-lab-funding-round-september-2023-march-2024/255
 </details>
 
 ---
