@@ -3,7 +3,6 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 599 | IBC Client Update: Expired Client to Starname Chain | Wed Aug 30 2023 16:35:53 UTC | ✅ YES |
-| 605 | Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token | Wed Aug 30 2023 15:42:34 UTC | 🤷‍♂️ ABSTAIN |
 | 606 | Osmosis v19 Software Upgrade | Thu Aug 31 2023 11:40:09 UTC | ✅ YES |
 | 607 | Upload Stride Redemption Rate Oracle Contract | Thu Aug 31 2023 20:05:55 UTC | ✅ YES |
 | 608 | Upload stToken Scaling Factor Auto-update Contract | Thu Aug 31 2023 20:10:26 UTC | ✅ YES |
@@ -21,18 +20,6 @@
 <summary>Proposal Text</summary>
  
 Due to an unforeseen relayer issue that resulted in the subject client exceeding the trusting period, the IBC client 07-tendermint-71 used by channel-15 for IOV transfers from Starname to Osmosis is currently in an expired state. If accepted, this proposal will update client 07-tendermint-71 with the data from 07-tendermint-2952 which is created newly, so that users may continue to take advantage of both the established channel.
-</details>
-
----
-
-### 🗳 605: Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token
-- Voting Start: Wed Aug 30 2023 15:42:34 UTC
-- Voting End: Mon Sep 04 2023 15:42:34 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-The Gelotto (GLTO) token was launched in June of 2022 and has been actively traded on Osmosis. However, the unverified status given by Osmosis creates an unwanted perception towards the asset, deterring new users and causing additional steps for existing users. This proposal aims to remove the unverified status of GLTO. More details can be found on the forum discussion: https://forum.osmosis.zone/t/signaling-proposal-remove-unverified-status-from-gelotto-glto-token/236
 </details>
 
 ---
