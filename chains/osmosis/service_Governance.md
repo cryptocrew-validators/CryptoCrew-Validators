@@ -8,6 +8,7 @@
 | 609 | HUAHUA Recovery from wrong pools | Fri Sep 01 2023 12:04:49 UTC | ✅ YES |
 | 610 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 08:07:10 UTC | ❌ NO |
 | 611 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 10:08:47 UTC | ⏳ NOT VOTED |
+| 612 | Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem | Mon Sep 04 2023 21:20:07 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -197,4 +198,50 @@ This has the impact that:
 This proposal restores the Classic to Supercharged pool links and allows incentives to be distributed as intended. This is an expedited proposal in order to minimize the time that incentives are distributed incorrectly. 
 
 As an expedited proposal, this proposal will pass as long as two-thirds of voting power votes within the first 24 hours. This will cause incentives to resume distribution to Classic pools at Epoch on the 5th September. If this threshold is not met, then this proposal will revert to a five-day proposal, and intended incentive distribution will resume on the 9th September if the proposal is successful.
+</details>
+
+---
+
+### 🗳 612: Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem
+- Voting Start: Mon Sep 04 2023 21:20:07 UTC
+- Voting End: Sat Sep 09 2023 21:20:07 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal would recognize Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem for Osmosis. 
+
+It would also establish Supercharged pools of OSMO/DOT and USDT/DOT as well as signal the migration of incentives from the OSMO/axlDOT pool to the new OSMO/DOT pool. 
+
+## Background
+
+DOT within the Cosmos ecosystem, specifically Osmosis DEX, is currently sourced via multiple bridges provided by a combination of the Moonbeam and Axelar networks. This results in tokens wrapped by multiple protocols to enable axlDOT within Osmosis DEX. 
+
+For increased fungibility in a cross-chain environment, it becomes paramount to reduce the number of networks used to transfer an asset and, thus, reduce the number of times a token must be wrapped from source to destination. 
+
+In the current environment, DOT must be moved into Moonbeam and transferred through Axelar's satellite bridge to reach its final destination on Cosmos. With the introduction of Composable's Centauri bridge, we propose a migration from axlDOT to DOT sourced directly from Polkadot over Centauri, referred to as ibcDOT in this proposal for clarity. 
+
+**About Composable and Centauri**
+Composable (comprised of Picasso network on Kusama, and eventually Composable network on Polkadot) acts as an infrastructure layer for asset transfers. The chain is made up of three components: i) the base layer L1, Picasso, which houses Pablo DEX and CosmWasm VM for smart contract deployment within Kusama, ii) Centauri, the transfer layer that enables bridging of assets over IBC, and iii) the composable virtual machine (in development), which enables smart contract orchestration between chains connected via Centauri. 
+
+Centauri is an IBC enabled chain within the Cosmos ecosystem that operates as an intermediary between source and destination to transfer assets via IBC. For example, assets transferred from Picasso (on Kusama) would follow the route of Picasso -> Centauri -> Cosmos Destination Chain; in the case of transfers from Polkadot, and additional hop would be needed and would follow the route of Polkadot -> Picasso -> Centauri -> Cosmos Destination Chain. The transfer routes are able to be abstracted away via frontend, whereas only source and destination are conveyed to the end user. Currently, Centauri connects the Polkadot and Kusama ecosystems, as well as connecting these chains to ten Cosmos app chains. As of the time of writing, Centauri is connected to Cosmos Hub, Osmosis, Neutron, Stride, Umee, Agoric, Stargaze, Secret, Crescent, and Chihuahua within the Cosmos. 
+
+With Centauri being built using IBC, we believe assets entering the Cosmos ecosystem should adhere to the transfer protocol used by the network. Therefore, an IBC-based bridging solution makes the most sense for transferring assets into the Cosmos ecosystem. 
+
+## Method
+This proposal would recognize the DOT arriving over the Centauri bridge as the canonical version of DOT, renaming the current DOT in use on Osmosis to axlDOT. 
+
+This proposal directly creates Supercharged Liquidity pools of USDT/DOT and OSMO/DOT with 0.2% spread factors. 
+
+This proposal would also migrate incentives from the OSMO/axlDOT Supercharged pool, 773, to the newly created OSMO/ibcDOT Supercharged pool, at the next monthly incentive proposal. 
+
+## Canonical Status
+Canonical status sets the following agreement: 
+ **Default Asset List**
+Assets will be unprefixed in the app.osmosis.zone default asset list, e.g. DOT with all other bridges' assets being bridge1DOT, bridge2DOT, etc. Osmosis DAO requests that allied/friendly front-ends do the same, though any front-end is free to make its own decisions. 
+
+**Osmosis Incentives** 
+The DAO commits to prioritizing the Canonical Bridge assets, incentivizing them earlier and more heavily than the comparable assets of non-canonical bridges. In general, canonical pools should earn substantially more incentives per dollar of liquidity than their counterpart pools–under the base incentives model, not necessarily counting external incentive matching. 
+
+**Forum Thread**:[https://forum.osmosis.zone/t/implement-composable-s-centauri-bridge-as-the-canonical-route-to-the-polkadot-and-kusama-ecosystem/179](https://forum.osmosis.zone/t/implement-composable-s-centauri-bridge-as-the-canonical-route-to-the-polkadot-and-kusama-ecosystem/179)
 </details>
