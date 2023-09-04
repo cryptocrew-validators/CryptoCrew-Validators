@@ -10,7 +10,7 @@
 | 608 | Upload stToken Scaling Factor Auto-update Contract | Thu Aug 31 2023 20:10:26 UTC | ⏳ NOT VOTED |
 | 609 | HUAHUA Recovery from wrong pools | Fri Sep 01 2023 12:04:49 UTC | ⏳ NOT VOTED |
 | 610 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 08:07:10 UTC | ⏳ NOT VOTED |
-| 611 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 10:08:47 UTC | ✅ YES |
+| 611 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 10:08:47 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -265,7 +265,7 @@ As an expedited proposal, this proposal will pass as long as two-thirds of votin
 
 ### 🗳 611: Expedited: Repair migration for already approved CL pools
 - Voting Start: Sun Sep 03 2023 10:08:47 UTC
-- Voting End: Mon Sep 04 2023 10:08:47 UTC
+- Voting End: Fri Sep 08 2023 10:08:47 UTC
 
 <details>
 <summary>Proposal Text</summary>
