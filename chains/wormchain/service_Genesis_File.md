@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/wormchain/genesis.json)**
 ---
 
-- last updated: Sun Sep 03 2023 23:12:02
+- last updated: Mon Sep 04 2023 11:25:21
 - chain id: `wormchain`
 
 ## Instructions
