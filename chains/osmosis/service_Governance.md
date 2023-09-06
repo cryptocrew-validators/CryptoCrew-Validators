@@ -2,29 +2,11 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 609 | HUAHUA Recovery from wrong pools | Fri Sep 01 2023 12:04:49 UTC | ✅ YES |
 | 610 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 08:07:10 UTC | ❌ NO |
 | 611 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 10:08:47 UTC | ⏳ NOT VOTED |
 | 612 | Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem | Mon Sep 04 2023 21:20:07 UTC | ✅ YES |
 | 613 | Routine Incentive Adjustment for September 2023 | Tue Sep 05 2023 07:42:09 UTC | ✅ YES |
 | 614 | Create Supercharged Pools: Community Requests | Tue Sep 05 2023 07:43:01 UTC | ✅ YES |
-
----
-
-### 🗳 609: HUAHUA Recovery from wrong pools
-- Voting Start: Fri Sep 01 2023 12:04:49 UTC
-- Voting End: Wed Sep 06 2023 12:04:49 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal seeks a Governance approval to merge the code needed to recover 6B HUAHUA stuck into wrong pools into the osmosis codebase.
-Here you can find a [detailed description of the incident](https://commonwealth.im/osmosis/discussion/6497-recovering-huahua-wrong-external-incentives)
-And here you can find the [forum thread](https://forum.osmosis.zone/t/save-6bn-huahua-from-locked-pool/238 with the resolution proposal.)
-
-- Vote YES if you want to allow Chihuahua to recover the 6B HUAHUA
-- Vote NO if you don't want to allow Chihuahua to recover the 6B HUAHUA
-</details>
 
 ---
 
