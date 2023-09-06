@@ -7,6 +7,9 @@
 | 612 | Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem | Mon Sep 04 2023 21:20:07 UTC | ✅ YES |
 | 613 | Routine Incentive Adjustment for September 2023 | Tue Sep 05 2023 07:42:09 UTC | ✅ YES |
 | 614 | Create Supercharged Pools: Community Requests | Tue Sep 05 2023 07:43:01 UTC | ✅ YES |
+| 616 | Incentivise SOL/USDT Supercharged Pools | Wed Sep 06 2023 16:26:34 UTC | ⏳ NOT VOTED |
+| 617 | Incentivise APT/USDT Supercharged Pools | Wed Sep 06 2023 16:26:46 UTC | ⏳ NOT VOTED |
+| 618 | Incentivise SUI/USDT Supercharged Pools | Wed Sep 06 2023 16:26:52 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -194,4 +197,58 @@ Requested by their communities include USDT pairings for pools of BCNA, CUDOS, J
 MANTA will also be listed soon and wishes to have the liquidity efficiency that comes from the Supercharged pools. 
 
 **Forum Thread**:[https://forum.osmosis.zone/t/create-supercharged-pools-community-requests/278](https://forum.osmosis.zone/t/create-supercharged-pools-community-requests/278)
+</details>
+
+---
+
+### 🗳 616: Incentivise SOL/USDT Supercharged Pools
+- Voting Start: Wed Sep 06 2023 16:26:34 UTC
+- Voting End: Mon Sep 11 2023 16:26:34 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal asks that the pools comprising the SOL/USDT Supercharged pairings created in [Proposal 589](https://www.mintscan.io/osmosis/proposals/589) be added to the Osmosis incentives program and directly allocates 0.5% of incentives to each pool to bootstrap liquidity. 
+
+This proposal would also recognize SOL as a Major asset. Although the category system is no longer in place since [Proposal 578](https://www.mintscan.io/osmosis/proposals/578) and so do not allocate additional rewards, this list can be used for reference of a group of strategically important assets for Osmosis. 
+## About Solana
+Solana is a blockchain built for mass adoption. It’s a high-performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine and is open, interoperable, and decentralized. 
+Website: [https://solana.com/](https://solana.com/)
+
+**Forum Thread**:[https://forum.osmosis.zone/t/incentivise-sol-usdt-supercharged-pools/271](https://forum.osmosis.zone/t/incentivise-sol-usdt-supercharged-pools/271)
+</details>
+
+---
+
+### 🗳 617: Incentivise APT/USDT Supercharged Pools
+- Voting Start: Wed Sep 06 2023 16:26:46 UTC
+- Voting End: Mon Sep 11 2023 16:26:46 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal asks that the pools comprising the APT/USDT Supercharged pairings created in [Proposal 589](https://www.mintscan.io/osmosis/proposals/589) be added to the Osmosis incentives program and directly allocates 0.25% of incentives to each pool to bootstrap liquidity. 
+## About Aptos
+Aptos is the layer 1 blockchain engineered to evolve. Built with Move to create a home where developers build future-proof apps efficiently and enjoyably. Aptos is designed with scalability, safety, reliability, and upgradeability as key principles. 
+Website: [https://aptos.dev/](https://aptos.dev/)
+
+**Forum Thread**:[https://forum.osmosis.zone/t/incentivise-aptos-usdt-supercharged-pools/272](https://forum.osmosis.zone/t/incentivise-aptos-usdt-supercharged-pools/272)
+</details>
+
+---
+
+### 🗳 618: Incentivise SUI/USDT Supercharged Pools
+- Voting Start: Wed Sep 06 2023 16:26:52 UTC
+- Voting End: Mon Sep 11 2023 16:26:52 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal asks that the pools comprising the SUI/USDT Supercharged pairings created in [Proposal 589](https://www.mintscan.io/osmosis/proposals/589) be added to the Osmosis incentives program and directly allocates 0.25% of incentives to each pool to bootstrap liquidity. 
+
+## About Sui
+Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by Move. 
+Website: [https://sui.io/](https://sui.io/)
+
+**Forum Thread**:[https://forum.osmosis.zone/t/incentivise-sui-usdt-supercharged-pools/273](https://forum.osmosis.zone/t/incentivise-sui-usdt-supercharged-pools/273)
 </details>
