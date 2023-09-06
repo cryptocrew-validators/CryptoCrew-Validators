@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 174 | IBC Registration for TASHI | Tue Sep 05 2023 13:40:43 UTC | ⏳ NOT VOTED |
+| 174 | IBC Registration for TASHI | Tue Sep 05 2023 13:40:43 UTC | ABSTAIN |
 
 ---
 
