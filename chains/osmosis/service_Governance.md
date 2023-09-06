@@ -7,7 +7,7 @@
 | 611 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 10:08:47 UTC | ⏳ NOT VOTED |
 | 612 | Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem | Mon Sep 04 2023 21:20:07 UTC | ✅ YES |
 | 613 | Routine Incentive Adjustment for September 2023 | Tue Sep 05 2023 07:42:09 UTC | ✅ YES |
-| 614 | Create Supercharged Pools: Community Requests | Tue Sep 05 2023 07:43:01 UTC | ⏳ NOT VOTED |
+| 614 | Create Supercharged Pools: Community Requests | Tue Sep 05 2023 07:43:01 UTC | ✅ YES |
 
 ---
 
