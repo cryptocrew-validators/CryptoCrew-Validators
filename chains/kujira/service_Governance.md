@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 461 | Blend - Instantiate Fixed CW3 Multisig for fees | Wed Sep 06 2023 10:05:38 UTC | ⏳ NOT VOTED |
+| 461 | Blend - Instantiate Fixed CW3 Multisig for fees | Wed Sep 06 2023 10:05:38 UTC | ABSTAIN |
 
 ---
 
