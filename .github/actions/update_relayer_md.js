@@ -92,8 +92,8 @@ ${wallets}### Active IBC channels \`${chain.name}\`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |\n`;
     
-    const uniqueSrcChannels = new Set(srcChannels.map(channel => JSON.stringify(channel)));
-    const uniqueDstChannels = new Set(dstChannels.map(channel => JSON.stringify(channel)));
+    const uniqueSrcChannels = srcChannels ? new Set(srcChannels.map(channel => JSON.stringify(channel))) : new Set();
+    const uniqueDstChannels = dstChannels ? new Set(dstChannels.map(channel => JSON.stringify(channel))) : new Set();
 
     const srcRows = [...uniqueSrcChannels].map(channel => {
         const parsedChannel = JSON.parse(channel);
