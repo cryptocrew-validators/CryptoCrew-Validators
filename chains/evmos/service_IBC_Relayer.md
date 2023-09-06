@@ -7,6 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+evmos1jd7me7u2hew8cr8422m9yvgldhpv70l0qn3gfu
 evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j
 evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 ```
@@ -14,6 +15,7 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 ### Active IBC channels `evmos`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | evmos_9001-2 | stargaze-1 | transfer | channel-13 |

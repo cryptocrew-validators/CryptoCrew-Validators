@@ -218,3 +218,20 @@
     - DENOM_TRACE_BASE_DENOM: erc20/tether/usdt
       DENOM_TRACE_PATH: transfer/channel-13
       IBC_DENOM_COUNTERPARTY: ibc/FAFF3F7B2FE30447544A27910DF77069763CF25472BFCF63A9E7C81F0AD545AC
+
+- CHAIN_ID: kava_2222-10
+  CLIENT: 07-tendermint-142
+  CONNECTION: connection-175
+  CHANNEL: channel-130
+  PORT: transfer
+  COUNTERPARTY:
+    CHAIN_ID: pacific-1
+    CLIENT: 07-tendermint-35
+    CONNECTION: connection-25
+    CHANNEL: channel-17
+    PORT: transfer
+  SUPPORTED_BY_CC: true
+  ASSETS:
+    - DENOM_TRACE_BASE_DENOM: erc20/tether/usdt
+      DENOM_TRACE_PATH: transfer/channel-17
+      IBC_DENOM_COUNTERPARTY: 

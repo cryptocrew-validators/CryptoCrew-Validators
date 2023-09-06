@@ -24,7 +24,6 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | gravity-bridge-3 | canto_7700-1 | transfer | channel-88 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | gravity-bridge-3 | core-1 | transfer | channel-24 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-21 |
 | canto_7700-1 | gravity-bridge-3 | transfer | channel-0 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
@@ -34,5 +33,3 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
 | secret-4 | gravity-bridge-3 | transfer | channel-17 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
-| comdex-1 | gravity-bridge-3 | transfer | channel-23 |
-| stargaze-1 | gravity-bridge-3 | transfer | channel-6 |

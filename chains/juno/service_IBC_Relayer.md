@@ -29,7 +29,6 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
-| juno-1 | core-1 | transfer | channel-33 |
 | juno-1 | comdex-1 | transfer | channel-36 |
 | juno-1 | omniflixhub-1 | transfer | channel-78 |
 | bitsong-2b | juno-1 | transfer | channel-5 |
@@ -49,5 +48,4 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | secret-4 | juno-1 | transfer | channel-8 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | comdex-1 | juno-1 | transfer | channel-18 |
-| core-1 | juno-1 | transfer | channel-37 |
 | omniflixhub-1 | juno-1 | transfer | channel-20 |

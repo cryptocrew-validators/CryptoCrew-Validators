@@ -21,7 +21,6 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | chihuahua-1 | cosmoshub-4 | transfer | channel-49 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
-| chihuahua-1 | comdex-1 | transfer | channel-37 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
 | juno-1 | chihuahua-1 | transfer | channel-28 |
@@ -30,5 +29,3 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | phoenix-1 | chihuahua-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-114 |
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
 | secret-4 | chihuahua-1 | transfer | channel-11 |
-| comdex-1 | chihuahua-1 | transfer | channel-61 |
-| omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
