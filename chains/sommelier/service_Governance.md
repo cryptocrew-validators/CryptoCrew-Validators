@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 78 | [SIPS-073] Real Yield BTC Cellar Incentives | Tue Sep 05 2023 18:29:38 UTC | ⏳ NOT VOTED |
+| 78 | [SIPS-073] Real Yield BTC Cellar Incentives | Tue Sep 05 2023 18:29:38 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
