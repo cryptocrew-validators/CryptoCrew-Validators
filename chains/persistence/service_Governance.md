@@ -2,5 +2,16 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
+| 43 | null | Thu Sep 07 2023 19:01:11 UTC | ⏳ NOT VOTED |
+
+---
+
+### 🗳 43: null
+- Voting Start: Thu Sep 07 2023 19:01:11 UTC
+- Voting End: Tue Sep 12 2023 19:01:11 UTC
+
+<details>
+<summary>Proposal Text</summary>
  
-No current active proposals found for persistence
+null
+</details>
