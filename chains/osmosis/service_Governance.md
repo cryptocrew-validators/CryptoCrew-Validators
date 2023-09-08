@@ -2,7 +2,6 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 610 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 08:07:10 UTC | ❌ NO |
 | 611 | Expedited: Repair migration for already approved CL pools | Sun Sep 03 2023 10:08:47 UTC | ⏳ NOT VOTED |
 | 612 | Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem | Mon Sep 04 2023 21:20:07 UTC | ✅ YES |
 | 613 | Routine Incentive Adjustment for September 2023 | Tue Sep 05 2023 07:42:09 UTC | ✅ YES |
@@ -11,27 +10,6 @@
 | 617 | Incentivise APT/USDT Supercharged Pools | Wed Sep 06 2023 16:26:46 UTC | ⏳ NOT VOTED |
 | 618 | Incentivise SUI/USDT Supercharged Pools | Wed Sep 06 2023 16:26:52 UTC | ⏳ NOT VOTED |
 | 620 | Upload Alpine Pay Core contract | Fri Sep 08 2023 03:11:34 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 610: Expedited: Repair migration for already approved CL pools
-- Voting Start: Sun Sep 03 2023 08:07:10 UTC
-- Voting End: Fri Sep 08 2023 08:07:10 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-There was a code bug in the logic that executed [Proposal 597](https://www.mintscan.io/osmosis/proposals/597). This has resulted in there being only one Supercharged pool linked to its corresponding Classic pool (stATOM/ATOM). 
-
-This has the impact that: 
-* Classic positions cannot be migrated to the new Supercharged Pools. 
-* Incentives are only being sent to the Supercharged pools, not the already established full range classic positions as well. 
-* Liquidity in Supercharged pools is over-incentivized until this proposal passes. 
-
-This proposal restores the Classic to Supercharged pool links and allows incentives to be distributed as intended. This is an expedited proposal in order to minimize the time that incentives are distributed incorrectly. 
-
-As an expedited proposal, this proposal will pass as long as two-thirds of voting power votes within the first 24 hours. This will cause incentives to resume distribution to Classic pools at Epoch on the 5th September. If this threshold is not met, then this proposal will revert to a five-day proposal, and intended incentive distribution will resume on the 9th September if the proposal is successful.
-</details>
 
 ---
 
