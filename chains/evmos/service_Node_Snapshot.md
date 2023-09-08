@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 evmosd version: `v13.0.2`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15754465.tar.lz4)** | Fri Sep 08 2023 21:21:47 UTC | `evmos_9001-2` | 296G | 15754465 | `8e4aaefd53051a6adaa7173ee4e7c36f1b0b066dda509527b69fc2cee49b1ad3` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15712414.tar.lz4)** | Wed Sep 06 2023 18:17:08 UTC | `evmos_9001-2` | 289G | 15712414 | `4adf9bd17be6d2baa2283913da0bd84d1be817e7a2e412c899f7c3374b294d3f` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15635110.tar.lz4)** | Sat Sep 02 2023 22:29:51 UTC | `evmos_9001-2` | 251G | 15635110 | `616cbaa66d9201a0a74bb02bbcb32223f9a3300596c201b3bb9233c6a593aef1` |
 
 ---
 
@@ -12,7 +12,7 @@ evmosd version: `v13.0.2`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15712414.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15754465.tar.lz4"
 cd $HOME/.evmosd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15712414.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/evmos/evmos_9001-2_15754465.tar.lz4"
 cd $HOME/.evmosd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
