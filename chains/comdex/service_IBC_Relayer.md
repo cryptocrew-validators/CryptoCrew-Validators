@@ -19,9 +19,11 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | comdex-1 | evmos_9001-2 | transfer | channel-35 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | comdex-1 | core-1 | transfer | channel-57 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
+| comdex-1 | chihuahua-1 | transfer | channel-61 |
+| chihuahua-1 | comdex-1 | transfer | channel-37 |
 | core-1 | comdex-1 | transfer | channel-71 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | evmos_9001-2 | comdex-1 | transfer | channel-26 |
 | juno-1 | comdex-1 | transfer | channel-36 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| gravity-bridge-3 | comdex-1 | transfer | channel-112 |

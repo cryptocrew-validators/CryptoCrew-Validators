@@ -17,10 +17,12 @@ chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 | chihuahua-1 | juno-1 | transfer | channel-11 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
+| chihuahua-1 | comdex-1 | transfer | channel-37 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
 | chihuahua-1 | cosmoshub-4 | transfer | channel-49 |
+| comdex-1 | chihuahua-1 | transfer | channel-61 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
 | juno-1 | chihuahua-1 | transfer | channel-28 |
