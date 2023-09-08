@@ -6,8 +6,8 @@
 | 613 | Routine Incentive Adjustment for September 2023 | Tue Sep 05 2023 07:42:09 UTC | ✅ YES |
 | 614 | Create Supercharged Pools: Community Requests | Tue Sep 05 2023 07:43:01 UTC | ✅ YES |
 | 616 | Incentivise SOL/USDT Supercharged Pools | Wed Sep 06 2023 16:26:34 UTC | ✅ YES |
-| 617 | Incentivise APT/USDT Supercharged Pools | Wed Sep 06 2023 16:26:46 UTC | ⏳ NOT VOTED |
-| 618 | Incentivise SUI/USDT Supercharged Pools | Wed Sep 06 2023 16:26:52 UTC | ⏳ NOT VOTED |
+| 617 | Incentivise APT/USDT Supercharged Pools | Wed Sep 06 2023 16:26:46 UTC | ✅ YES |
+| 618 | Incentivise SUI/USDT Supercharged Pools | Wed Sep 06 2023 16:26:52 UTC | ✅ YES |
 | 620 | Upload Alpine Pay Core contract | Fri Sep 08 2023 03:11:34 UTC | ⏳ NOT VOTED |
 
 ---
