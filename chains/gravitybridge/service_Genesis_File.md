@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/gravitybridge/genesis.json)**
 ---
 
-- last updated: Thu Sep 07 2023 12:11:16
+- last updated: Fri Sep 08 2023 16:27:39
 - chain id: `gravity-bridge-3`
 
 ## Instructions
