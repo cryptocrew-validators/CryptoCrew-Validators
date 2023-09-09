@@ -7,7 +7,7 @@
 | 614 | Create Supercharged Pools: Community Requests | Tue Sep 05 2023 07:43:01 UTC | ✅ YES |
 | 616 | Incentivise SOL/USDT Supercharged Pools | Wed Sep 06 2023 16:26:34 UTC | ✅ YES |
 | 617 | Incentivise APT/USDT Supercharged Pools | Wed Sep 06 2023 16:26:46 UTC | ✅ YES |
-| 618 | Incentivise SUI/USDT Supercharged Pools | Wed Sep 06 2023 16:26:52 UTC | ✅ YES |
+| 618 | Incentivise SUI/USDT Supercharged Pools | Wed Sep 06 2023 16:26:52 UTC | ⏳ NOT VOTED |
 | 620 | Upload Alpine Pay Core contract | Fri Sep 08 2023 03:11:34 UTC | ⏳ NOT VOTED |
 | 621 | Enable superfluid staking on newly created OSMO/USDC, OSMO/ETH, and OSMO/ATOM supercharged liquidity pools | Fri Sep 08 2023 21:52:51 UTC | ⏳ NOT VOTED |
 
