@@ -28,6 +28,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | gravity-bridge-3 | secret-4 | transfer | channel-79 |
 | injective-1 | secret-4 | transfer | channel-88 |
+| juno-1 | secret-4 | transfer | channel-163 |
 | juno-1 | secret-4 | transfer | channel-48 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | secret-4 | transfer | channel-44 |
