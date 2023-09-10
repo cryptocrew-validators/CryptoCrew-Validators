@@ -21,7 +21,7 @@
 
 ### 🗳 269: Include Shillables Contracts to the list in v1.10 for Pre v1.10 Contracts
 - Voting Start: Sat Sep 09 2023 08:36:50 UTC
-- Voting End: Sun Sep 10 2023 08:36:50 UTC
+- Voting End: Sat Sep 16 2023 08:36:50 UTC
 
 <details>
 <summary>Proposal Text</summary>
