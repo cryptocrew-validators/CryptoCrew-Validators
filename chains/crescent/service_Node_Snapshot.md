@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 crescentd version: `v4.1.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8445277.tar.lz4)** | Sun Sep 10 2023 18:39:11 UTC | `crescent-1` | 830M | 8445277 | `4cb2aaddf591a47f019a5fdb0d2b0700528a61804ad7e1c2e9c9ba21c2c1eac0` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8429163.tar.lz4)** | Sat Sep 09 2023 18:37:33 UTC | `crescent-1` | 844M | 8429163 | `22233549c05e2b39b5bfb5c08d5d4160c27d0f12ba2add1aff855b33dc238c17` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8413046.tar.lz4)** | Fri Sep 08 2023 18:39:11 UTC | `crescent-1` | 1.1G | 8413046 | `cddb688309d6501a032fe8c9a26b8ee714c68fdb7d7a14a865b4feb8eec41dd7` |
 
 ---
 
@@ -12,7 +12,7 @@ crescentd version: `v4.1.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8429163.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8445277.tar.lz4"
 cd $HOME/.crescent
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8429163.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/crescent/crescent-1_8445277.tar.lz4"
 cd $HOME/.crescent
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
