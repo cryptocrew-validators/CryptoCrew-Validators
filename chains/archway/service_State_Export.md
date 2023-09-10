@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [archway-1 state export](https://dl.ccvalidators.com/SERVICE/archway/archway-1_export_981550.json)**
+**Download: [archway-1 state export](https://dl.ccvalidators.com/SERVICE/archway/archway-1_export_994834.json)**
 ---
 
-- last updated: Sat Sep 09 2023 02:01:58
+- last updated: Sun Sep 10 2023 00:07:39
 - chain id: `archway-1`
-- export height: `981550`
+- export height: `994834`
 - use for: airdrops, local tests, chain recovery
