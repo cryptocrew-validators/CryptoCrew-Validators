@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 79 | [SIPS-075] Proposal to Replace the Cellar Adaptor in RYBTC | Fri Sep 08 2023 15:53:21 UTC | ✅ YES |
 | 80 | [SIPS-076] Proposal to Update stETH Pricing Mechanism | Fri Sep 08 2023 15:58:35 UTC | ✅ YES |
-| 81 | [SIP-077] Proposal to Add Fraxlend Collateral and Debt Support to RYBTC | Fri Sep 08 2023 16:06:17 UTC | ⏳ NOT VOTED |
+| 81 | [SIP-077] Proposal to Add Fraxlend Collateral and Debt Support to RYBTC | Fri Sep 08 2023 16:06:17 UTC | ✅ YES |
 
 ---
 
