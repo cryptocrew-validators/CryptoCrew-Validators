@@ -115,7 +115,7 @@ jq -c '.chains[]' chains.json | while read chain; do
           fi
 
         # Add table row for the proposal
-        echo "| $PROPOSAL_ID | $PROPOSAL_TITLE | $(date -d "$VOTING_START_TIME" +"%a %b %d %Y %T UTC") | $VOTE_OPTION |" >> $OUTPUT_FILE
+        echo "| $PROPOSAL_ID | $PROPOSAL_TITLE | $(date -d "$VOTING_END_TIME" +"%a %b %d %Y %T UTC") | $VOTE_OPTION |" >> $OUTPUT_FILE
       done
 
       echo "" >> $OUTPUT_FILE
