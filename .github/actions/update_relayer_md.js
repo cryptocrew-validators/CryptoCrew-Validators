@@ -40,7 +40,7 @@ function generateMDTable(relayers, chains) {
 
     for (const chain of chains.chains) {
         const chainId = chain.chain_id;
-        const channels = relayerChains[chainId];
+        const channels = relayerChains[chainId] || [];
         const dstChannels = findDstChannels(relayers, chainId);
 
         if (!chain.relayer_accounts) {
