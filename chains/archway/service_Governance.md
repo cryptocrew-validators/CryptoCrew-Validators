@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 20 | Governance Community Spend Guardrails | Thu Sep 07 2023 21:38:02 UTC | ✅ YES |
+| 20 | Governance Community Spend Guardrails | Thu Sep 14 2023 21:38:02 UTC | ✅ YES |
 
 ---
 

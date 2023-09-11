@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 82 | Mutual token swap between Sommelier and MantaDAO | Mon Sep 11 2023 12:14:55 UTC | ⏳ NOT VOTED |
+| 82 | Mutual token swap between Sommelier and MantaDAO | Wed Sep 13 2023 12:14:55 UTC | ⏳ NOT VOTED |
 
 ---
 

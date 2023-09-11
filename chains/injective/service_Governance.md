@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 248 | Disbursement of OLP rewards for epoch ended on 5 September 2023 | Mon Sep 11 2023 09:11:51 UTC | ⏳ NOT VOTED |
+| 248 | Disbursement of OLP rewards for epoch ended on 5 September 2023 | Fri Sep 15 2023 09:11:51 UTC | ABSTAIN |
 
 ---
 

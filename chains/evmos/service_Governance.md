@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 179 | Native USDt liquidity incentives | Sun Sep 10 2023 12:20:34 UTC | ⏳ NOT VOTED |
+| 179 | Native USDt liquidity incentives | Fri Sep 15 2023 12:20:34 UTC | ABSTAIN |
 
 ---
 

@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 215 | Upgrade OnceUpon to v0.13.0 | Fri Sep 08 2023 16:24:28 UTC | ✅ YES |
+| 215 | Upgrade OnceUpon to v0.13.0 | Mon Sep 11 2023 16:24:28 UTC | ✅ YES |
 
 ---
 
