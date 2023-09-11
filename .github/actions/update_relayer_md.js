@@ -43,17 +43,13 @@ function generateMDTable(relayers, chains) {
         const channels = relayerChains[chainId] || [];
         const dstChannels = findDstChannels(relayers, chainId);
 
-        if (!chain.relayer_accounts) {
-            chain.relayer_accounts = [];
+        if (channels.length === 0 && dstChannels.length === 0) {
+            continue; 
         }
-        chain.relayer_accounts.push(...Array.from(walletsByChain[chainId] || []));
-        chain.relayer_accounts = [...new Set(chain.relayer_accounts)];
 
-        if (channels || dstChannels.length > 0) {
-            const mdContent = generateMDContent(channels, dstChannels, chain);
-            const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
-            fs.writeFileSync(outputPath, mdContent);
-        }
+        const mdContent = generateMDContent(channels, dstChannels, chain);
+        const outputPath = path.join('chains', chain.name, 'service_IBC_Relayer.md');
+        fs.writeFileSync(outputPath, mdContent);
     }
 }
 
