@@ -2,65 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 616 | Incentivise SOL/USDT Supercharged Pools | Mon Sep 11 2023 16:26:34 UTC | ✅ YES |
-| 617 | Incentivise APT/USDT Supercharged Pools | Mon Sep 11 2023 16:26:46 UTC | ✅ YES |
-| 618 | Incentivise SUI/USDT Supercharged Pools | Mon Sep 11 2023 16:26:52 UTC | ✅ YES |
 | 620 | Upload Alpine Pay Core contract | Wed Sep 13 2023 03:11:34 UTC | ⏳ NOT VOTED |
 | 621 | Enable superfluid staking on newly created OSMO/USDC, OSMO/ETH, and OSMO/ATOM supercharged liquidity pools | Wed Sep 13 2023 21:52:51 UTC | ✅ YES |
-
----
-
-### 🗳 616: Incentivise SOL/USDT Supercharged Pools
-- Voting Start: Wed Sep 06 2023 16:26:34 UTC
-- Voting End: Mon Sep 11 2023 16:26:34 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal asks that the pools comprising the SOL/USDT Supercharged pairings created in [Proposal 589](https://www.mintscan.io/osmosis/proposals/589) be added to the Osmosis incentives program and directly allocates 0.5% of incentives to each pool to bootstrap liquidity. 
-
-This proposal would also recognize SOL as a Major asset. Although the category system is no longer in place since [Proposal 578](https://www.mintscan.io/osmosis/proposals/578) and so do not allocate additional rewards, this list can be used for reference of a group of strategically important assets for Osmosis. 
-## About Solana
-Solana is a blockchain built for mass adoption. It’s a high-performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine and is open, interoperable, and decentralized. 
-Website: [https://solana.com/](https://solana.com/)
-
-**Forum Thread**:[https://forum.osmosis.zone/t/incentivise-sol-usdt-supercharged-pools/271](https://forum.osmosis.zone/t/incentivise-sol-usdt-supercharged-pools/271)
-</details>
-
----
-
-### 🗳 617: Incentivise APT/USDT Supercharged Pools
-- Voting Start: Wed Sep 06 2023 16:26:46 UTC
-- Voting End: Mon Sep 11 2023 16:26:46 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal asks that the pools comprising the APT/USDT Supercharged pairings created in [Proposal 589](https://www.mintscan.io/osmosis/proposals/589) be added to the Osmosis incentives program and directly allocates 0.25% of incentives to each pool to bootstrap liquidity. 
-## About Aptos
-Aptos is the layer 1 blockchain engineered to evolve. Built with Move to create a home where developers build future-proof apps efficiently and enjoyably. Aptos is designed with scalability, safety, reliability, and upgradeability as key principles. 
-Website: [https://aptos.dev/](https://aptos.dev/)
-
-**Forum Thread**:[https://forum.osmosis.zone/t/incentivise-aptos-usdt-supercharged-pools/272](https://forum.osmosis.zone/t/incentivise-aptos-usdt-supercharged-pools/272)
-</details>
-
----
-
-### 🗳 618: Incentivise SUI/USDT Supercharged Pools
-- Voting Start: Wed Sep 06 2023 16:26:52 UTC
-- Voting End: Mon Sep 11 2023 16:26:52 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal asks that the pools comprising the SUI/USDT Supercharged pairings created in [Proposal 589](https://www.mintscan.io/osmosis/proposals/589) be added to the Osmosis incentives program and directly allocates 0.25% of incentives to each pool to bootstrap liquidity. 
-
-## About Sui
-Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by Move. 
-Website: [https://sui.io/](https://sui.io/)
-
-**Forum Thread**:[https://forum.osmosis.zone/t/incentivise-sui-usdt-supercharged-pools/273](https://forum.osmosis.zone/t/incentivise-sui-usdt-supercharged-pools/273)
-</details>
 
 ---
 
