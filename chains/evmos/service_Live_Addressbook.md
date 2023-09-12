@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/evmos/addrbook.json)**
 ---
 
-- last updated: Fri Sep 08 2023 21:46:11
+- last updated: Tue Sep 12 2023 20:55:04
 - chain id: `evmos_9001-2`
-- available peers: 2261
-- total peers (network scan): 1110
+- available peers: 1224
+- total peers (network scan): 1224
 
 ## Instructions
 ```sh
