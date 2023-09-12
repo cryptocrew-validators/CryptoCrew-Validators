@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/neutron/addrbook.json)**
 ---
 
-- last updated: Mon Sep 11 2023 13:01:21
+- last updated: Tue Sep 12 2023 14:12:54
 - chain id: `neutron-1`
-- available peers: 142
-- total peers (network scan): 454
+- available peers: 86
+- total peers (network scan): 246
 
 ## Instructions
 ```sh
