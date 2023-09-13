@@ -4,7 +4,7 @@ junod version: `v16.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_9991378.tar.lz4)** | Tue Sep 12 2023 12:10:31 UTC | `juno-1` | 7.0G | 9991378 | `e3c713a93b62637fe2b5ed3ea7d6072160f9a4a26bb6ed0f1775458c4a1e1f19` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_9978015.tar.lz4)** | Mon Sep 11 2023 13:33:50 UTC | `juno-1` | 7.4G | 9978015 | `fbc5e92a48b43b74fead35bd31a7332d8d492bc76a3daed9fc83365f7199991d` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_10005412.tar.lz4)** | Wed Sep 13 2023 11:53:32 UTC | `juno-1` | 7.1G | 10005412 | `1e9d5e701839c8d2f352de33987655e135a6b6b77734374c45b2bcbb3b4b3139` |
 
 ---
 
@@ -12,7 +12,7 @@ junod version: `v16.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_9991378.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_10005412.tar.lz4"
 cd $HOME/.juno
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_9991378.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/juno/juno-1_10005412.tar.lz4"
 cd $HOME/.juno
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
