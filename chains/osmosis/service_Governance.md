@@ -2,21 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 621 | Enable superfluid staking on newly created OSMO/USDC, OSMO/ETH, and OSMO/ATOM supercharged liquidity pools | Wed Sep 13 2023 21:52:51 UTC | ✅ YES |
 | 622 | Create Supercharged Pools: USDT pairing equivalents | Sun Sep 17 2023 09:18:24 UTC | ⏳ NOT VOTED |
 | 623 | Create Supercharged Pools: Community Request Resubmission | Mon Sep 18 2023 14:44:50 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 621: Enable superfluid staking on newly created OSMO/USDC, OSMO/ETH, and OSMO/ATOM supercharged liquidity pools
-- Voting Start: Fri Sep 08 2023 21:52:51 UTC
-- Voting End: Wed Sep 13 2023 21:52:51 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-On passing, this proposal would enable superfluid staking on the newly linked OSMO/USDC (#1133), OSMO/ETH (#1134), and OSMO/ATOM (#1135) supercharged liquidity pools on Osmosis. This will also allow for superfluid staked positions in the traditional GAMM pools to migrate to the linked supercharged liquidity pools
-</details>
 
 ---
 
