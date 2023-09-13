@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/archway/genesis.json)**
 ---
 
-- last updated: Tue Sep 12 2023 00:13:23
+- last updated: Wed Sep 13 2023 00:06:05
 - chain id: `archway-1`
 
 ## Instructions
