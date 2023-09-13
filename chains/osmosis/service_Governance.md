@@ -4,6 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 621 | Enable superfluid staking on newly created OSMO/USDC, OSMO/ETH, and OSMO/ATOM supercharged liquidity pools | Wed Sep 13 2023 21:52:51 UTC | ✅ YES |
 | 622 | Create Supercharged Pools: USDT pairing equivalents | Sun Sep 17 2023 09:18:24 UTC | ⏳ NOT VOTED |
+| 623 | Create Supercharged Pools: Community Request Resubmission | Mon Sep 18 2023 14:44:50 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -76,4 +77,23 @@ Pools are created with 0.2% spread factor, and 0.05% spread factor alternatives 
 * GRAV/USDT 0.2% 
 
 **Forum Thread**:[https://forum.osmosis.zone/t/create-supercharged-pools-usdt-pairing-equivalents/277](https://forum.osmosis.zone/t/create-supercharged-pools-usdt-pairing-equivalents/277)
+</details>
+
+---
+
+### 🗳 623: Create Supercharged Pools: Community Request Resubmission
+- Voting Start: Wed Sep 13 2023 14:44:50 UTC
+- Voting End: Mon Sep 18 2023 14:44:50 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This is a resubmission of [Proposal 614](https://www.mintscan.io/osmosis/proposals/614) with the corrected parameters for 4 of the pools which were previously submitted as lower case denoms in error, resulting in non-functional pools.
+
+* YieldETH/ETH, 0.05% Spread
+* ETH.wh/ETH, 0.05% Spread
+* MANTA/OSMO, 0.2% Spread
+* USDC.wh/OSMO, 0.2% Spread
+
+**Forum Thread**:[https://forum.osmosis.zone/t/create-supercharged-pools-community-requests/278](https://forum.osmosis.zone/t/create-supercharged-pools-community-requests/278)
 </details>
