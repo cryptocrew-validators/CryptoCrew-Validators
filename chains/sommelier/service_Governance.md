@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 83 | [SIPS-078] Authorize the Turbo GHO Cellar | Thu Sep 14 2023 16:55:36 UTC | ⏳ NOT VOTED |
-| 84 | [SIPS-079] TurboGHO Liquidity Mining Incentives Proposal | Thu Sep 14 2023 16:58:27 UTC | ⏳ NOT VOTED |
+| 83 | [SIPS-078] Authorize the Turbo GHO Cellar | Thu Sep 14 2023 16:55:36 UTC | ✅ YES |
+| 84 | [SIPS-079] TurboGHO Liquidity Mining Incentives Proposal | Thu Sep 14 2023 16:58:27 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
