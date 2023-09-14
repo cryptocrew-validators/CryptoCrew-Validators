@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 248 | Disbursement of OLP rewards for epoch ended on 5 September 2023 | Fri Sep 15 2023 09:11:51 UTC | ABSTAIN |
-| 249 | Adjust Trade & Earn reward points | Sun Sep 17 2023 15:53:31 UTC | ⏳ NOT VOTED |
+| 249 | Adjust Trade & Earn reward points | Sun Sep 17 2023 15:53:31 UTC | ABSTAIN |
 
 ---
 
