@@ -21,4 +21,5 @@ cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp
 | agoric-3 | crescent-1 | transfer | channel-2 |
 | akashnet-2 | crescent-1 | transfer | channel-70 |
 | mars-1 | crescent-1 | transfer | channel-5 |
+| osmosis-1 | crescent-1 | transfer | channel-297 |
 | stride-1 | crescent-1 | transfer | channel-51 |
