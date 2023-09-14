@@ -16,6 +16,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | --------------- | --------------- | ------------ | ------------------- |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | juno-1 | transfer | channel-1 |
+| kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | juno-1 | transfer | channel-2 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-23 |
@@ -32,6 +33,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | secret-4 | transfer | channel-44 |
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
+| comdex-1 | kaiyo-1 | transfer | channel-31 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-18 |
