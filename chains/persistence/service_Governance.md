@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 44 | Upgrade v9.2.0 PersistenceCore | Wed Sep 20 2023 10:21:08 UTC | ⏳ NOT VOTED |
+| 44 | Upgrade v9.2.0 PersistenceCore | Wed Sep 20 2023 10:21:08 UTC | ABSTAIN |
 
 ---
 
