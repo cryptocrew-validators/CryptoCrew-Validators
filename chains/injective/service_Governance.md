@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 249 | Adjust Trade & Earn reward points | Sun Sep 17 2023 15:53:31 UTC | ABSTAIN |
-| 250 | Trade and Earn Rewards Pool Update Epochs 96-103 | Mon Sep 18 2023 14:09:04 UTC | ⏳ NOT VOTED |
+| 250 | Trade and Earn Rewards Pool Update Epochs 96-103 | Mon Sep 18 2023 14:09:04 UTC | ABSTAIN |
 
 ---
 
