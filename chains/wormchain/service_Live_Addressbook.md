@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/wormchain/addrbook.json)**
 ---
 
-- last updated: Thu Sep 14 2023 13:05:30
+- last updated: Fri Sep 15 2023 01:05:28
 - chain id: `wormchain`
-- available peers: 61
-- total peers (network scan): 94
+- available peers: 55
+- total peers (network scan): 95
 
 ## Instructions
 ```sh
