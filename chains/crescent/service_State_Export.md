@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [crescent-1 state export](https://dl.ccvalidators.com/SERVICE/crescent/crescent-1_export_8525661.json)**
+**Download: [crescent-1 state export](https://dl.ccvalidators.com/SERVICE/crescent/crescent-1_export_8541813.json)**
 ---
 
-- last updated: Fri Sep 15 2023 18:40:19
+- last updated: Sat Sep 16 2023 18:42:24
 - chain id: `crescent-1`
-- export height: `8525661`
+- export height: `8541813`
 - use for: airdrops, local tests, chain recovery
