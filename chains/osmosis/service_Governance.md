@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 623 | Create Supercharged Pools: Community Request Resubmission | Mon Sep 18 2023 14:44:50 UTC | ✅ YES |
-| 626 | Recognising wstETH Canonical Token status for Osmosis | Wed Sep 20 2023 08:08:47 UTC | ✅ YES |
+| 626 | Recognising wstETH Canonical Token status for Osmosis | Wed Sep 20 2023 08:08:47 UTC | ⏳ NOT VOTED |
 
 ---
 
