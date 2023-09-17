@@ -6,9 +6,9 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/passage/addrbook.json)**
 ---
 
-- last updated: Sat Sep 16 2023 05:19:10
+- last updated: Sun Sep 17 2023 05:24:28
 - chain id: `passage-2`
-- available peers: 101
+- available peers: 107
 - total peers (network scan): 158
 
 ## Instructions
