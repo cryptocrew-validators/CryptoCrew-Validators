@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 216 | Liquid Stake the OSMO in the Community Pool | Mon Sep 18 2023 13:32:01 UTC | ⏳ NOT VOTED |
-| 217 | Liquid Stake the OSMO in the Community Pool | Mon Sep 18 2023 14:14:34 UTC | ⏳ NOT VOTED |
+| 216 | Liquid Stake the OSMO in the Community Pool | Mon Sep 18 2023 13:32:01 UTC | ❌ NO |
+| 217 | Liquid Stake the OSMO in the Community Pool | Mon Sep 18 2023 14:14:34 UTC | ✅ YES |
 
 ---
 

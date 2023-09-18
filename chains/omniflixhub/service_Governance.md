@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 16 | OmniFlix contributors out of the game. Increase validators set for 5 places | Sat Sep 23 2023 09:16:12 UTC | ⏳ NOT VOTED |
+| 16 | OmniFlix contributors out of the game. Increase validators set for 5 places | Sat Sep 23 2023 09:16:12 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
