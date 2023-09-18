@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 468 | ERIS - Instantiate Fixed CW3 ampMNTA Grant Escrow | Wed Sep 20 2023 13:28:36 UTC | ⏳ NOT VOTED |
+| 468 | ERIS - Instantiate Fixed CW3 ampMNTA Grant Escrow | Wed Sep 20 2023 13:28:36 UTC | ABSTAIN |
 
 ---
 
