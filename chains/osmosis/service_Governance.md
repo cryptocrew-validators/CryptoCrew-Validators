@@ -2,28 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 623 | Create Supercharged Pools: Community Request Resubmission | Mon Sep 18 2023 14:44:50 UTC | ✅ YES |
 | 626 | Recognising wstETH Canonical Token status for Osmosis | Wed Sep 20 2023 08:08:47 UTC | ✅ YES |
 | 627 | Migrate Superfluid Supercharged positions to a Wider Range | Sat Sep 23 2023 08:58:01 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 623: Create Supercharged Pools: Community Request Resubmission
-- Voting Start: Wed Sep 13 2023 14:44:50 UTC
-- Voting End: Mon Sep 18 2023 14:44:50 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This is a resubmission of [Proposal 614](https://www.mintscan.io/osmosis/proposals/614) with the corrected parameters for 4 of the pools which were previously submitted as lower case denoms in error, resulting in non-functional pools.
-
-* YieldETH/ETH, 0.05% Spread
-* ETH.wh/ETH, 0.05% Spread
-* MANTA/OSMO, 0.2% Spread
-* USDC.wh/OSMO, 0.2% Spread
-
-**Forum Thread**:[https://forum.osmosis.zone/t/create-supercharged-pools-community-requests/278](https://forum.osmosis.zone/t/create-supercharged-pools-community-requests/278)
-</details>
 
 ---
 
