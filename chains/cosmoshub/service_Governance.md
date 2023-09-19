@@ -3,6 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 823 | Signaling Proposal: Update instructions for ATOM POL 2 | Wed Sep 27 2023 22:04:53 UTC | ⏳ NOT VOTED |
+| 824 | 💎ATOM Airdrop ✅  | Tue Oct 03 2023 18:40:34 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -38,4 +39,15 @@ The following items describe the voting options and their significance for this 
 - **NO**: You do not wish to extend the AA DAO’s stewardship term, which would result in the AA DAO removing the ATOM liquidity position on October 1st, 2023
 - **NO WITH VETO**: You 1) consider this proposal to be spam, 2) believe it infringes on minority interests, or 3) believe it violates the rules of engagement as currently set out by Cosmos Hub governance. If the number of NoWithVeto votes is greater than a third of total votes, the proposal is rejected and the deposits are burned
 - **ABSTAIN**: You wish to contribute to quorum but you formally decline to vote either for or against the proposal
+</details>
+
+---
+
+### 🗳 824: 💎ATOM Airdrop ✅ 
+- Voting Start: Tue Sep 19 2023 18:40:34 UTC
+- Voting End: Tue Oct 03 2023 18:40:34 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
 </details>
