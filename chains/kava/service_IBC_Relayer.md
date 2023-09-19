@@ -16,6 +16,6 @@ kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | kava_2222-10 | akashnet-2 | transfer | channel-5 |
-| cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| akashnet-2 | kava_2222-10 | transfer | channel-37 |
 | evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
