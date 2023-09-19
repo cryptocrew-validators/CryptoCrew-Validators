@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 626 | Recognising wstETH Canonical Token status for Osmosis | Wed Sep 20 2023 08:08:47 UTC | ✅ YES |
+| 626 | Recognising wstETH Canonical Token status for Osmosis | Wed Sep 20 2023 08:08:47 UTC | ⏳ NOT VOTED |
 | 627 | Migrate Superfluid Supercharged positions to a Wider Range | Sat Sep 23 2023 08:58:01 UTC | ⏳ NOT VOTED |
 
 ---
