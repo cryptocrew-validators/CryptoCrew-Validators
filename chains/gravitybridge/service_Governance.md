@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 201 | Set Auction Length parameter to 85600 | Wed Sep 20 2023 19:41:10 UTC | ✅ YES |
-| 202 | Set Burn Winning Bids parameter to true | Wed Sep 20 2023 19:41:40 UTC | ✅ YES |
+| 202 | Set Burn Winning Bids parameter to true | Wed Sep 20 2023 19:41:40 UTC | ⏳ NOT VOTED |
 | 203 | Set Minimum Bid Fee parameter to 3110 GRAV | Wed Sep 20 2023 19:41:59 UTC | ✅ YES |
 
 ---
