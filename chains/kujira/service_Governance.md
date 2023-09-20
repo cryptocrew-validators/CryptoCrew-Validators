@@ -5,6 +5,7 @@
 | 468 | ERIS - Instantiate Fixed CW3 ampMNTA Grant Escrow | Wed Sep 20 2023 13:28:36 UTC | ABSTAIN |
 | 469 | Update Instantiate Config: BOW LSD | Thu Sep 21 2023 15:02:13 UTC | ⏳ NOT VOTED |
 | 470 | Deploy NEOK-USK FIN Market | Thu Sep 21 2023 16:20:21 UTC | ⏳ NOT VOTED |
+| 471 | Instantiate El Dorado aggregator contract for Maya Protocol | Fri Sep 22 2023 09:54:21 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -40,4 +41,16 @@ Code ID 158 is an experimental BOW strategy built by the Kujira team, specifiall
 <summary>Proposal Text</summary>
  
 This will open the NEOK <> USK market on FIN
+</details>
+
+---
+
+### 🗳 471: Instantiate El Dorado aggregator contract for Maya Protocol
+- Voting Start: Wed Sep 20 2023 09:54:21 UTC
+- Voting End: Fri Sep 22 2023 09:54:21 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This smart contract enables Dex aggregation from Maya Protocol to Kujira assets + IBC option on El Dorado market. The smart contract uses the Manta API, and Fin’s liquidity.
 </details>
