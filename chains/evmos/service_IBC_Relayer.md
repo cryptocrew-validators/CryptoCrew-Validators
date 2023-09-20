@@ -7,14 +7,15 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 evmos1jd7me7u2hew8cr8422m9yvgldhpv70l0qn3gfu
+evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j
 ```
 
 ### Active IBC channels `evmos`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
@@ -25,8 +26,8 @@ evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j
 | evmos_9001-2 | juno-1 | transfer | channel-5 |
 | evmos_9001-2 | juno-1 | icahost | channel-66 |
 | evmos_9001-2 | gravity-bridge-3 | transfer | channel-8 |
-| evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
 | evmos_9001-2 | stargaze-1 | transfer | channel-13 |
+| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
 | comdex-1 | evmos_9001-2 | transfer | channel-35 |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | gravity-bridge-3 | evmos_9001-2 | transfer | channel-65 |
