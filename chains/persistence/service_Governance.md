@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 45 | Re-enable IBC Client to Acrechain | Sat Sep 23 2023 05:33:49 UTC | ⏳ NOT VOTED |
+| 45 | Re-enable IBC Client to Acrechain | Sat Sep 23 2023 05:33:49 UTC | ABSTAIN |
 
 ---
 
