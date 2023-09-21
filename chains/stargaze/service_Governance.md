@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 218 | BugFix OnceUpon to v0.13.1 | Thu Sep 21 2023 17:37:30 UTC | ⏳ NOT VOTED |
-| 219 | IBC Minter Fees | Thu Sep 21 2023 21:23:08 UTC | ⏳ NOT VOTED |
+| 218 | BugFix OnceUpon to v0.13.1 | Thu Sep 21 2023 17:37:30 UTC | ✅ YES |
+| 219 | IBC Minter Fees | Thu Sep 21 2023 21:23:08 UTC | ✅ YES |
 
 ---
 
