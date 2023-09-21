@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 54 | null | Sat Sep 23 2023 15:23:55 UTC | ABSTAIN |
+| 54 | null | Sat Sep 23 2023 15:23:55 UTC | ⏳ NOT VOTED |
 
 ---
 
