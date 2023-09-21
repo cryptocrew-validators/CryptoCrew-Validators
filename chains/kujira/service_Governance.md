@@ -2,21 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 470 | Deploy NEOK-USK FIN Market | Thu Sep 21 2023 16:20:21 UTC | ABSTAIN |
 | 471 | Instantiate El Dorado aggregator contract for Maya Protocol | Fri Sep 22 2023 09:54:21 UTC | ABSTAIN |
 | 472 | Update Instantiate Config: BOW Stable | Sat Sep 23 2023 14:12:16 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 470: Deploy NEOK-USK FIN Market
-- Voting Start: Tue Sep 19 2023 16:20:21 UTC
-- Voting End: Thu Sep 21 2023 16:20:21 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This will open the NEOK <> USK market on FIN
-</details>
 
 ---
 
