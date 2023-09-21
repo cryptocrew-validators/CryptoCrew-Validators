@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 627 | Migrate Superfluid Supercharged positions to a Wider Range | Sat Sep 23 2023 08:58:01 UTC | ⏳ NOT VOTED |
+| 627 | Migrate Superfluid Supercharged positions to a Wider Range | Sat Sep 23 2023 08:58:01 UTC | ✅ YES |
 
 ---
 
