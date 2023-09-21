@@ -36,6 +36,7 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | cosmoshub-4 | lum-network-1 | transfer | channel-566 |
 | cosmoshub-4 | lum-network-1 | icahost | channel-607 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | chihuahua-1 | cosmoshub-4 | transfer | channel-49 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
@@ -55,4 +56,3 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
