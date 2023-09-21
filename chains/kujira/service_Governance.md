@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 471 | Instantiate El Dorado aggregator contract for Maya Protocol | Fri Sep 22 2023 09:54:21 UTC | ⏳ NOT VOTED |
+| 471 | Instantiate El Dorado aggregator contract for Maya Protocol | Fri Sep 22 2023 09:54:21 UTC | ABSTAIN |
 | 472 | Update Instantiate Config: BOW Stable | Sat Sep 23 2023 14:12:16 UTC | ⏳ NOT VOTED |
 
 ---
