@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 469 | Update Instantiate Config: BOW LSD | Thu Sep 21 2023 15:02:13 UTC | ABSTAIN |
 | 470 | Deploy NEOK-USK FIN Market | Thu Sep 21 2023 16:20:21 UTC | ABSTAIN |
-| 471 | Instantiate El Dorado aggregator contract for Maya Protocol | Fri Sep 22 2023 09:54:21 UTC | ⏳ NOT VOTED |
+| 471 | Instantiate El Dorado aggregator contract for Maya Protocol | Fri Sep 22 2023 09:54:21 UTC | ABSTAIN |
 
 ---
 
