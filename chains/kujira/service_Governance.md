@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 472 | Update Instantiate Config: BOW Stable | Sat Sep 23 2023 14:12:16 UTC | ⏳ NOT VOTED |
+| 472 | Update Instantiate Config: BOW Stable | Sat Sep 23 2023 14:12:16 UTC | ABSTAIN |
 
 ---
 
