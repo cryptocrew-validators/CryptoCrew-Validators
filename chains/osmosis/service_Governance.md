@@ -3,9 +3,9 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 627 | Migrate Superfluid Supercharged positions to a Wider Range | Sat Sep 23 2023 08:58:01 UTC | ✅ YES |
-| 631 | Upload CrossChain Registry Contract V1 | Tue Sep 26 2023 15:35:43 UTC | ⏳ NOT VOTED |
-| 632 | Upload Crosschain Swaps Contract V2 | Tue Sep 26 2023 15:39:14 UTC | ⏳ NOT VOTED |
-| 633 | Upload Swaprouter Contract V2 | Tue Sep 26 2023 15:40:14 UTC | ⏳ NOT VOTED |
+| 631 | Upload CrossChain Registry Contract V1 | Tue Sep 26 2023 15:35:43 UTC | ✅ YES |
+| 632 | Upload Crosschain Swaps Contract V2 | Tue Sep 26 2023 15:39:14 UTC | ✅ YES |
+| 633 | Upload Swaprouter Contract V2 | Tue Sep 26 2023 15:40:14 UTC | ✅ YES |
 
 ---
 
