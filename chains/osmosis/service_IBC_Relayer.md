@@ -17,6 +17,7 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
@@ -35,7 +36,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | pacific-1 | transfer | channel-782 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
@@ -70,7 +70,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
