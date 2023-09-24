@@ -5,7 +5,7 @@
 | 631 | Upload CrossChain Registry Contract V1 | Tue Sep 26 2023 15:35:43 UTC | ✅ YES |
 | 632 | Upload Crosschain Swaps Contract V2 | Tue Sep 26 2023 15:39:14 UTC | ✅ YES |
 | 633 | Upload Swaprouter Contract V2 | Tue Sep 26 2023 15:40:14 UTC | ✅ YES |
-| 634 | Enable Permissionless Creation of Supercharged Pools | Thu Sep 28 2023 10:57:09 UTC | ⏳ NOT VOTED |
+| 634 | Enable Permissionless Creation of Supercharged Pools | Thu Sep 28 2023 10:57:09 UTC | ✅ YES |
 
 ---
 

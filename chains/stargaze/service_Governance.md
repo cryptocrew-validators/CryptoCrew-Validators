@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 220 | Reduce Auctions Extend Duration | Mon Sep 25 2023 17:31:02 UTC | ⏳ NOT VOTED |
+| 220 | Reduce Auctions Extend Duration | Mon Sep 25 2023 17:31:02 UTC | ✅ YES |
 
 ---
 
