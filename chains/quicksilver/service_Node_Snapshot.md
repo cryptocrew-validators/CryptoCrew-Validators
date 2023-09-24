@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 quicksilverd version: `v1.2.15`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3820248.tar.lz4)** | Fri Sep 22 2023 11:45:57 UTC | `quicksilver-2` | 909M | 3820248 | `82895abd9179b674b2d5392fa77b50e09b6e725265116c325d7a844f0d498499` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3805545.tar.lz4)** | Thu Sep 21 2023 11:44:06 UTC | `quicksilver-2` | 1011M | 3805545 | `9e1059979515b129845419961d26e1848c753acc33bce2cdf018ecca0889b17b` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3849626.tar.lz4)** | Sun Sep 24 2023 11:52:09 UTC | `quicksilver-2` | 1.3G | 3849626 | `3ca9ac0cd41d8d967494c9e39f8bff9544e601babb0c5f79b9b29993a6056ccf` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3835443.tar.lz4)** | Sat Sep 23 2023 12:39:15 UTC | `quicksilver-2` | 961M | 3835443 | `29b0c52c9cadd72333a915fb678dead9ec73b4beacf6b9ac7183d093c32c8aaa` |
 
 ---
 
@@ -12,7 +12,7 @@ quicksilverd version: `v1.2.15`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3820248.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3849626.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3820248.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_3849626.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
