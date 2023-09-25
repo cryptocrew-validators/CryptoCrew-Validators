@@ -22,10 +22,10 @@ gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
 | gravity-bridge-3 | evmos_9001-2 | transfer | channel-65 |
 | gravity-bridge-3 | juno-1 | transfer | channel-8 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
 | gravity-bridge-3 | secret-4 | transfer | channel-79 |
 | gravity-bridge-3 | canto_7700-1 | transfer | channel-88 |
+| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | comdex-1 | gravity-bridge-3 | transfer | channel-23 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
