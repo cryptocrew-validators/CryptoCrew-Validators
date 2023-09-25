@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 823 | Signaling Proposal: Update instructions for ATOM POL 2 | Wed Sep 27 2023 22:04:53 UTC | ✅ YES |
-| 824 | 💎ATOM Airdrop ✅  | Tue Oct 03 2023 18:40:34 UTC | ⏳ NOT VOTED |
+| 824 | 💎ATOM Airdrop ✅  | Tue Oct 03 2023 18:40:34 UTC | ABSTAIN |
 
 ---
 
