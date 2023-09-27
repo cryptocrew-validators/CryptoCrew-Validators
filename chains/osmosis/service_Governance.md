@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 634 | Enable Permissionless Creation of Supercharged Pools | Thu Sep 28 2023 10:57:09 UTC | ⏳ NOT VOTED |
+| 634 | Enable Permissionless Creation of Supercharged Pools | Thu Sep 28 2023 10:57:09 UTC | ✅ YES |
 | 638 | Remove Incentives from Non-Strategic Pools | Sun Oct 01 2023 00:43:03 UTC | ⏳ NOT VOTED |
 | 639 | Mutual token swap between Osmosis and MantaDAO | Sun Oct 01 2023 17:35:15 UTC | ⏳ NOT VOTED |
 
