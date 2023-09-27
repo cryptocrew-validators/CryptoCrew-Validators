@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 473 | $100k KUJI<>MNTA Token Swap with Kujira Community Pool | Wed Sep 27 2023 13:57:08 UTC | ⏳ NOT VOTED |
+| 473 | $100k KUJI<>MNTA Token Swap with Kujira Community Pool | Wed Sep 27 2023 13:57:08 UTC | ABSTAIN |
 
 ---
 
