@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 282 | 💎LUNA Classic Airdrop ✅ | Mon Oct 02 2023 02:07:21 UTC | ⏳ NOT VOTED |
+| 282 | 💎LUNA Classic Airdrop ✅ | Mon Oct 02 2023 02:07:21 UTC | ABSTAIN |
 
 ---
 

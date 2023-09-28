@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 638 | Remove Incentives from Non-Strategic Pools | Sun Oct 01 2023 00:43:03 UTC | ⏳ NOT VOTED |
-| 639 | Mutual token swap between Osmosis and MantaDAO | Sun Oct 01 2023 17:35:15 UTC | ⏳ NOT VOTED |
+| 639 | Mutual token swap between Osmosis and MantaDAO | Sun Oct 01 2023 17:35:15 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 

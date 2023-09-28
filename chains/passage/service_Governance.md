@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 4 | Proposal to Allocate Foundry Funds to Apello | Tue Oct 03 2023 15:38:34 UTC | ⏳ NOT VOTED |
+| 4 | Proposal to Allocate Foundry Funds to Apello | Tue Oct 03 2023 15:38:34 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
