@@ -3,8 +3,8 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 207 | Recover expired IBC client for Noble | Sun Oct 01 2023 03:26:54 UTC | ⏳ NOT VOTED |
-| 208 | 💎Evmos Airdrop ✅ | Sun Oct 01 2023 03:45:21 UTC | ⏳ NOT VOTED |
-| 210 | 💎Evmos Airdrop ✅ | Tue Oct 03 2023 00:36:16 UTC | ⏳ NOT VOTED |
+| 208 | 💎Evmos Airdrop ✅ | Sun Oct 01 2023 03:45:21 UTC | ABSTAIN |
+| 210 | 💎Evmos Airdrop ✅ | Tue Oct 03 2023 00:36:16 UTC | ABSTAIN |
 
 ---
 
