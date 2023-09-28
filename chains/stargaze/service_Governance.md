@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 221 | Stargaze Proposal: Deploying Interchain NFT Contracts (aka Outgoing Proxy and ICS721 Contracts) | Thu Sep 28 2023 22:50:46 UTC | ✅ YES |
 | 222 | Marketplace Post Sale Hook Removal | Fri Sep 29 2023 20:37:01 UTC | ✅ YES |
-| 223 | Bootstrapping the STARS pool on Cosmos Millions | Sat Sep 30 2023 08:25:05 UTC | ⏳ NOT VOTED |
+| 223 | Bootstrapping the STARS pool on Cosmos Millions | Sat Sep 30 2023 08:25:05 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
