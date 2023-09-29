@@ -58,6 +58,7 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | pacific-1 | transfer | channel-782 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
@@ -83,7 +84,6 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | core-1 | osmosis-1 | transfer | channel-6 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
