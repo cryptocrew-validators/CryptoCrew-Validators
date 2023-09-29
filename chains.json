@@ -14,9 +14,9 @@
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
         "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u",
+        "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
-        "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
-        "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl"
+        "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {
@@ -45,9 +45,9 @@
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
         "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
         "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
@@ -616,8 +616,8 @@
       "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
       "relayer_accounts": [
-        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh",
-        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
+        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5",
+        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
       ],
       "stake_link": "https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "restake": {
