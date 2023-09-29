@@ -14,4 +14,5 @@ nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | pirin-1 | osmosis-1 | transfer | channel-0 |
+| pirin-1 | osmosis-1 | icacontroller-nolus1w86y5gz82caf5x5cu502zepzk39ydalup8jd5at7szvllyxlajrszk83x6.0 | channel-76 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
