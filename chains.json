@@ -16,7 +16,6 @@
         "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
-        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
         "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
@@ -222,7 +221,6 @@
       "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
       "relayer_accounts": [
         "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j",
-        "evmos1jd7me7u2hew8cr8422m9yvgldhpv70l0qn3gfu",
         "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
       ],
       "stake_link": "https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
