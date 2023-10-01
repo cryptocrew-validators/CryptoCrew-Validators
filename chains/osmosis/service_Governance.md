@@ -2,22 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 638 | Remove Incentives from Non-Strategic Pools | Sun Oct 01 2023 00:43:03 UTC | ⏳ NOT VOTED |
 | 639 | Mutual token swap between Osmosis and MantaDAO | Sun Oct 01 2023 17:35:15 UTC | 🤷‍♂️ ABSTAIN |
 | 641 | Deploy 20M OSMO to the stOSMO Pool | Wed Oct 04 2023 14:51:14 UTC | ⏳ NOT VOTED |
 | 642 | 💎ATOM Airdrop ✅  | Thu Oct 05 2023 02:53:56 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 638: Remove Incentives from Non-Strategic Pools
-- Voting Start: Tue Sep 26 2023 00:43:03 UTC
-- Voting End: Sun Oct 01 2023 00:43:03 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This is a signaling proposal to remove incentives from all pools that contain assets that are not one of the following:nnUSDCnUSDTnDAInWBTCnETHnATOMnOSMOnstETHnstATOMnstOSMOnIBCXnnIf passed the changes will be made during the next routine monthly incentives prop in early October.nnSee further discussion and analysis on the community forum: https://forum.osmosis.zone/t/remove-lp-incentives-from-non-strategic-pools/367
-</details>
+| 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -52,4 +40,16 @@ This is a signaling proposal to remove incentives from all pools that contain as
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 643: Partial refund - pools created post-v19
+- Voting Start: Sun Oct 01 2023 00:28:37 UTC
+- Voting End: Fri Oct 06 2023 00:28:37 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Requesting 13500 OSMO to facilitate user refunds of 900 osmo for all <15> pools ncreated between the time of the increase and the start of discussion to nofficialize that change. Funds will go to Support Lab DAO wallet, nto be dispersed by multisend. Discussion and details here -- nhttps://forum.osmosis.zone/t/reimburse-900-osmo-to-any-recent-pool-creators/370
 </details>
