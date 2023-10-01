@@ -53,4 +53,3 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
