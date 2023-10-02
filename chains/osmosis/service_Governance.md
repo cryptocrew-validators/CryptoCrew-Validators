@@ -2,9 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 641 | Deploy 20M OSMO to the stOSMO Pool | Wed Oct 04 2023 14:51:14 UTC | ⏳ NOT VOTED |
-| 642 | 💎ATOM Airdrop ✅  | Thu Oct 05 2023 02:53:56 UTC | ⏳ NOT VOTED |
-| 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | ⏳ NOT VOTED |
+| 641 | Deploy 20M OSMO to the stOSMO Pool | Wed Oct 04 2023 14:51:14 UTC | 🤷‍♂️ ABSTAIN |
+| 642 | 💎ATOM Airdrop ✅  | Thu Oct 05 2023 02:53:56 UTC | ABSTAIN |
+| 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | 🤷‍♂️ ABSTAIN |
+| 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -39,4 +40,18 @@
 <summary>Proposal Text</summary>
  
 Requesting 13500 OSMO to facilitate user refunds of 900 osmo for all <15> pools ncreated between the time of the increase and the start of discussion to nofficialize that change. Funds will go to Support Lab DAO wallet, nto be dispersed by multisend. Discussion and details here -- nhttps://forum.osmosis.zone/t/reimburse-900-osmo-to-any-recent-pool-creators/370
+</details>
+
+---
+
+### 🗳 647: Routine Incentive Adjustment for October 2023
+- Voting Start: Mon Oct 02 2023 16:16:14 UTC
+- Voting End: Sat Oct 07 2023 16:16:14 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal adjusts the Osmosis Liquidity Incentives emitted to each pool according to the methodology in [Proposal 578](https://www.mintscan.io/osmosis/proposals/578) as well as implementing [Proposal 638](https://www.mintscan.io/osmosis/proposals/638). 
+
+ New Incentives and Targets for the pools retaining incentives can be found on the [Chaos Labs Dashboard](https://community-staging.chaoslabs.xyz/osmosis/incentives-optimization).
 </details>
