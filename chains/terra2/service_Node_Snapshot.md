@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 terrad version: `v2.4.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7057005.tar.lz4)** | Sat Sep 30 2023 12:43:51 UTC | `phoenix-1` | 8.5G | 7057005 | `39dd36eaa1cd296ada8b77e64677106878dec30449353f8cbc4c27192910f96b` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7042589.tar.lz4)** | Fri Sep 29 2023 12:38:19 UTC | `phoenix-1` | 9.7G | 7042589 | `46424b564a4758570f4eaa01693d003a81ba6429b01df63d5399282b98cf37d9` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7085835.tar.lz4)** | Mon Oct 02 2023 12:44:16 UTC | `phoenix-1` | 9.0G | 7085835 | `7aaf5f897b8bbfcb306a6775fc5f9182008cfb365aa1bb5948567989b9972438` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7071405.tar.lz4)** | Sun Oct 01 2023 12:38:22 UTC | `phoenix-1` | 9.9G | 7071405 | `975ef78e3d9465d3678df6d4ad80ab31bcb565a058707c3d21b19087993ddfef` |
 
 ---
 
@@ -12,7 +12,7 @@ terrad version: `v2.4.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7057005.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7085835.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7057005.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_7085835.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
