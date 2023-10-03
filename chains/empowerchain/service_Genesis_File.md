@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/empowerchain/genesis.json)**
 ---
 
-- last updated: Mon Oct 02 2023 10:34:34
+- last updated: Tue Oct 03 2023 00:20:19
 - chain id: `empowerchain-1`
 
 ## Instructions
