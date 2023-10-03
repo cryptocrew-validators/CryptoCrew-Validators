@@ -13,7 +13,6 @@ kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt
 ### Active IBC channels `kava`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
