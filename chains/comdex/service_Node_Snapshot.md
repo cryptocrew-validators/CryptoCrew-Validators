@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-comdex version: `v11.5.1`
+comdex version: `v11.4.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9800767.tar.lz4)** | Tue Oct 03 2023 13:39:48 UTC | `comdex-1` | 2.9G | 9800767 | `3a283c059cb542309ca3a0de5303fa7e23af6b3730e28261daa30b87d6c92920` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9786002.tar.lz4)** | Mon Oct 02 2023 13:41:24 UTC | `comdex-1` | 1.2G | 9786002 | `f6f7e90893536c8afc40357dc1a5ed53a3ad0bc870368ed919169d9d764c6bfb` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9771358.tar.lz4)** | Sun Oct 01 2023 13:48:43 UTC | `comdex-1` | 2.9G | 9771358 | `9fce863ad96d819f9133b334c19e982d18a3572a05e1192e79ff9d44368de5db` |
 
 ---
 
@@ -12,7 +12,7 @@ comdex version: `v11.5.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9786002.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9800767.tar.lz4"
 cd $HOME/.comdex
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9786002.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_9800767.tar.lz4"
 cd $HOME/.comdex
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
