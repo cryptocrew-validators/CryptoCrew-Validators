@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 824 | 💎ATOM Airdrop ✅  | Tue Oct 03 2023 18:40:34 UTC | ABSTAIN |
-| 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | ⏳ NOT VOTED |
+| 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
