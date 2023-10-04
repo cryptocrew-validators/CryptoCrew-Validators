@@ -7,12 +7,14 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+migaloo12aeyaxq699k3f4d3733dl5pstw0ulplkhpq0rz
 migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 ```
 
 ### Active IBC channels `migaloo`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| migaloo-1 | kava_2222-10 | transfer | channel-48 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
 | migaloo-1 | juno-1 | transfer | channel-1 |
 | migaloo-1 | chihuahua-1 | transfer | channel-10 |
@@ -20,6 +22,7 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | migaloo-1 | injective-1 | transfer | channel-3 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
+| kava_2222-10 | migaloo-1 | transfer | channel-120 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
 | juno-1 | migaloo-1 | transfer | channel-210 |
