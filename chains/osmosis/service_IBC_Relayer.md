@@ -57,6 +57,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
@@ -99,4 +100,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
