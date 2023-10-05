@@ -5,6 +5,7 @@
 | 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | 🤷‍♂️ ABSTAIN |
 | 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ⏳ NOT VOTED |
 | 648 | Migration of Incentives from USDC.axl pools to USDC pools | Sun Oct 08 2023 13:40:49 UTC | ⏳ NOT VOTED |
+| 650 | Deploy 2M OSMO to an ampOSMO Supercharged Pool | Tue Oct 10 2023 13:17:21 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -62,4 +63,16 @@ This proposal, therefore, directly transfers all native incentives from the USDC
 The remaining incentives in the OSMO / USDC.axl pool will be moved to the OSMO / USDC pool in the next routine incentives proposal, expected at the start of November. 
 
  **Forum Post**: [https://forum.osmosis.zone/t/migration-of-incentives-from-usdc-axl-pools-to-usdc-pools/398](https://forum.osmosis.zone/t/migration-of-incentives-from-usdc-axl-pools-to-usdc-pools/398)
+</details>
+
+---
+
+### 🗳 650: Deploy 2M OSMO to an ampOSMO Supercharged Pool
+- Voting Start: Thu Oct 05 2023 13:17:21 UTC
+- Voting End: Tue Oct 10 2023 13:17:21 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal aims to deploy 2M OSMO to an ampOSMO/OSMO supercharged pool.nnThe OSMO are sent to a 4-out-of-5 mult-sig controlled by trusted community members. The purpose of this multisig wallet is to create a concentrated liquidity pool, create a liquidity position to cover the expected trading range over the next two years and subsequently transfer the resulting position back to the Osmosis community when possible.nnBy doing so we will be able to improve the utility of ampOSMO across the Cosmos ecosystem. Additionally, it will reduce Osmosis dependency on a single liquid staking provider, while ensuring the continued sovereignty of delegations and governance power.nnFull details can be found in the forum: https://forum.osmosis.zone/t/deploy-2m-osmo-to-the-amposmo-osmo-pool/385
 </details>
