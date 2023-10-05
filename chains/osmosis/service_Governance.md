@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | ⏳ NOT VOTED |
+| 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | 🤷‍♂️ ABSTAIN |
 | 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ⏳ NOT VOTED |
 | 648 | Migration of Incentives from USDC.axl pools to USDC pools | Sun Oct 08 2023 13:40:49 UTC | ⏳ NOT VOTED |
 
