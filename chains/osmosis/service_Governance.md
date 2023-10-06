@@ -2,22 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 643 | Partial refund - pools created post-v19 | Fri Oct 06 2023 00:28:37 UTC | 🤷‍♂️ ABSTAIN |
 | 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ⏳ NOT VOTED |
 | 648 | Migration of Incentives from USDC.axl pools to USDC pools | Sun Oct 08 2023 13:40:49 UTC | ⏳ NOT VOTED |
 | 650 | Deploy 2M OSMO to an ampOSMO Supercharged Pool | Tue Oct 10 2023 13:17:21 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 643: Partial refund - pools created post-v19
-- Voting Start: Sun Oct 01 2023 00:28:37 UTC
-- Voting End: Fri Oct 06 2023 00:28:37 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Requesting 13500 OSMO to facilitate user refunds of 900 osmo for all <15> pools ncreated between the time of the increase and the start of discussion to nofficialize that change. Funds will go to Support Lab DAO wallet, nto be dispersed by multisend. Discussion and details here -- nhttps://forum.osmosis.zone/t/reimburse-900-osmo-to-any-recent-pool-creators/370
-</details>
 
 ---
 
