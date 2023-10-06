@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ⏳ NOT VOTED |
-| 648 | Migration of Incentives from USDC.axl pools to USDC pools | Sun Oct 08 2023 13:40:49 UTC | ⏳ NOT VOTED |
+| 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ✅ YES |
+| 648 | Migration of Incentives from USDC.axl pools to USDC pools | Sun Oct 08 2023 13:40:49 UTC | ✅ YES |
 | 650 | Deploy 2M OSMO to an ampOSMO Supercharged Pool | Tue Oct 10 2023 13:17:21 UTC | ⏳ NOT VOTED |
 
 ---
