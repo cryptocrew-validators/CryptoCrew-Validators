@@ -34,6 +34,7 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
@@ -43,7 +44,6 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | chihuahua-1 | cosmoshub-4 | transfer | channel-49 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
