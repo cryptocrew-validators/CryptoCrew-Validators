@@ -220,7 +220,6 @@
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
       "relayer_accounts": [
-        "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j",
         "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
       ],
       "stake_link": "https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
@@ -615,8 +614,8 @@
       "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
       "relayer_accounts": [
-        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh",
-        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
+        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5",
+        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
       ],
       "stake_link": "https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "restake": {
