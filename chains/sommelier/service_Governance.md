@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 89 | [SIPS-085] Real Yield BTC Cellar Incentives | Sat Oct 07 2023 17:16:01 UTC | ⏳ NOT VOTED |
-| 90 | [SIPS-084] Co-Incentives Proposal for Turbo GHO | Sat Oct 07 2023 17:18:01 UTC | ⏳ NOT VOTED |
+| 89 | [SIPS-085] Real Yield BTC Cellar Incentives | Sat Oct 07 2023 17:16:01 UTC | 🤷‍♂️ ABSTAIN |
+| 90 | [SIPS-084] Co-Incentives Proposal for Turbo GHO | Sat Oct 07 2023 17:18:01 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
