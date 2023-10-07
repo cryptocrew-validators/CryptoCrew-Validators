@@ -2,20 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 47 | 💎ATOM Airdrop ✅  | Sat Oct 07 2023 15:16:29 UTC | ABSTAIN |
 | 48 | XPRT Liquidity Bootstrapping incentives October 2023 | Sun Oct 08 2023 20:56:11 UTC | ABSTAIN |
 | 49 | 💎XPRT Airdrop ✅  | Tue Oct 10 2023 01:12:59 UTC | ABSTAIN |
-
----
-
-### 🗳 47: 💎ATOM Airdrop ✅ 
-- Voting Start: Mon Oct 02 2023 15:16:29 UTC
-- Voting End: Sat Oct 07 2023 15:16:29 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
