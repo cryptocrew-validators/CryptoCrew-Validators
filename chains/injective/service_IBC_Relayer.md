@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
+inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 ```
 
 ### Active IBC channels `injective`:
@@ -16,16 +16,16 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
-| injective-1 | phoenix-1 | transfer | channel-104 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
-| injective-1 | secret-4 | transfer | channel-88 |
-| injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | core-1 | transfer | channel-82 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
+| injective-1 | kaiyo-1 | transfer | channel-98 |
+| injective-1 | phoenix-1 | transfer | channel-104 |
+| injective-1 | secret-4 | transfer | channel-88 |
+| core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
+| evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
-| core-1 | injective-1 | transfer | channel-41 |
-| evmos_9001-2 | injective-1 | transfer | channel-10 |
