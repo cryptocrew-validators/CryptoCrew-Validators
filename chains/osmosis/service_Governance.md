@@ -2,23 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 647 | Routine Incentive Adjustment for October 2023 | Sat Oct 07 2023 16:16:14 UTC | ✅ YES |
 | 648 | Migration of Incentives from USDC.axl pools to USDC pools | Sun Oct 08 2023 13:40:49 UTC | ✅ YES |
 | 650 | Deploy 2M OSMO to an ampOSMO Supercharged Pool | Tue Oct 10 2023 13:17:21 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 647: Routine Incentive Adjustment for October 2023
-- Voting Start: Mon Oct 02 2023 16:16:14 UTC
-- Voting End: Sat Oct 07 2023 16:16:14 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal adjusts the Osmosis Liquidity Incentives emitted to each pool according to the methodology in [Proposal 578](https://www.mintscan.io/osmosis/proposals/578) as well as implementing [Proposal 638](https://www.mintscan.io/osmosis/proposals/638). 
-
- New Incentives and Targets for the pools retaining incentives can be found on the [Chaos Labs Dashboard](https://community-staging.chaoslabs.xyz/osmosis/incentives-optimization).
-</details>
 
 ---
 
