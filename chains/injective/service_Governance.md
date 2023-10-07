@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 256 | Kava Assets and USDT Launch on Injective | Sat Oct 07 2023 21:50:02 UTC | ABSTAIN |
+| 256 | Kava Assets and USDT Launch on Injective | Sat Oct 07 2023 21:50:02 UTC | ⏳ NOT VOTED |
 | 257 | TIA/USDT-30NOV23 Expiry Futures Market Launch | Sat Oct 07 2023 21:50:29 UTC | ABSTAIN |
 | 258 | AXL/USDT PERP Launch | Sat Oct 07 2023 21:51:07 UTC | ABSTAIN |
 | 259 | Adjust Trade & Earn reward points | Tue Oct 10 2023 09:43:04 UTC | ABSTAIN |
