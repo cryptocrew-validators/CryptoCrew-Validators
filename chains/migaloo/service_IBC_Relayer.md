@@ -24,3 +24,4 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
+| phoenix-1 | migaloo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-87 |
