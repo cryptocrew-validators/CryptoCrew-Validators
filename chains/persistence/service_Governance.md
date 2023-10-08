@@ -2,22 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 48 | XPRT Liquidity Bootstrapping incentives October 2023 | Sun Oct 08 2023 20:56:11 UTC | ABSTAIN |
 | 49 | 💎XPRT Airdrop ✅  | Tue Oct 10 2023 01:12:59 UTC | ABSTAIN |
-
----
-
-### 🗳 48: XPRT Liquidity Bootstrapping incentives October 2023
-- Voting Start: Tue Oct 03 2023 20:56:11 UTC
-- Voting End: Sun Oct 08 2023 20:56:11 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Incentivize the ATOM/XPRT pool on Dexter with 55,000 XPRT and the XPRT/OSMO (Pool #1101) on Osmosis with 10,000 XPRT for 30 days starting around 8 October 2023.
-
-More details [here](https://forum.persistence.one/t/xlb-incentives-october-2023/265).
-</details>
 
 ---
 
