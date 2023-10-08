@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
-cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 ```
 
 ### Active IBC channels `cosmoshub`:
@@ -31,7 +30,7 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
-| cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
@@ -49,4 +48,3 @@ cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
