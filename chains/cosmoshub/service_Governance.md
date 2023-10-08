@@ -3,6 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | 🤷‍♂️ ABSTAIN |
+| 828 | 💎ATOM Airdrop ✅ | Sun Oct 22 2023 02:25:22 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -91,4 +92,15 @@ Cosmos Forum Post: [Minimum Commission Proposal](https://forum.cosmos.network/t/
 - By voting **NO**, you disagree that the network should adopt a 5% Minimum commission rate.
 - By voting **ABSTAIN**, you express no opinion on the matter.
 - A **NoWithVeto** vote indicates a proposal either (1) is deemed to be spam, i.e., irrelevant to Cosmos Hub, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Cosmos Hub governance
+</details>
+
+---
+
+### 🗳 828: 💎ATOM Airdrop ✅
+- Voting Start: Sun Oct 08 2023 02:25:22 UTC
+- Voting End: Sun Oct 22 2023 02:25:22 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
 </details>
