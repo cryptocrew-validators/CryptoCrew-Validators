@@ -4,6 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 650 | Deploy 2M OSMO to an ampOSMO Supercharged Pool | Tue Oct 10 2023 13:17:21 UTC | 🤷‍♂️ ABSTAIN |
 | 652 | Update medasdigital-1 07-tendermint-2372 client | Sat Oct 14 2023 15:35:56 UTC | ⏳ NOT VOTED |
+| 653 | Cosmos x Celestia Airdrop ✅ | Sat Oct 14 2023 18:26:55 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -27,4 +28,15 @@ This proposal aims to deploy 2M OSMO to an ampOSMO/OSMO supercharged pool.nnThe 
 <summary>Proposal Text</summary>
  
 Update medasdigital-1 07-tendermint-2372 client
+</details>
+
+---
+
+### 🗳 653: Cosmos x Celestia Airdrop ✅
+- Voting Start: Mon Oct 09 2023 18:26:55 UTC
+- Voting End: Sat Oct 14 2023 18:26:55 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
 </details>
