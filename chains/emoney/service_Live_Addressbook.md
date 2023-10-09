@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/emoney/addrbook.json)**
 ---
 
-- last updated: Sun Oct 08 2023 11:21:04
+- last updated: Mon Oct 09 2023 13:20:00
 - chain id: `emoney-3`
-- available peers: 65
-- total peers (network scan): 68
+- available peers: 177
+- total peers (network scan): 65
 
 ## Instructions
 ```sh
