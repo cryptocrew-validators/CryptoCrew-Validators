@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | 🤷‍♂️ ABSTAIN |
-| 828 | 💎ATOM Airdrop ✅ | Sun Oct 22 2023 02:25:22 UTC | ⏳ NOT VOTED |
+| 828 | 💎ATOM Airdrop ✅ | Sun Oct 22 2023 02:25:22 UTC | ABSTAIN |
 
 ---
 
