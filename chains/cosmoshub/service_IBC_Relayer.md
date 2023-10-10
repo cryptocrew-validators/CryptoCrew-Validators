@@ -36,6 +36,7 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
@@ -54,4 +55,3 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
