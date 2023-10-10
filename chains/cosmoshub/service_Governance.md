@@ -5,6 +5,7 @@
 | 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | 🤷‍♂️ ABSTAIN |
 | 828 | 💎ATOM Airdrop ✅ | Sun Oct 22 2023 02:25:22 UTC | ABSTAIN |
 | 830 | Cosmos x Celestia Airdrop ✅ | Mon Oct 23 2023 20:40:47 UTC | ⏳ NOT VOTED |
+| 831 | 💎ATOM / Celestia Airdrop ✅ | Tue Oct 24 2023 04:12:10 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -111,6 +112,17 @@ Cosmos Forum Post: [Minimum Commission Proposal](https://forum.cosmos.network/t/
 ### 🗳 830: Cosmos x Celestia Airdrop ✅
 - Voting Start: Mon Oct 09 2023 20:40:47 UTC
 - Voting End: Mon Oct 23 2023 20:40:47 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 831: 💎ATOM / Celestia Airdrop ✅
+- Voting Start: Tue Oct 10 2023 04:12:10 UTC
+- Voting End: Tue Oct 24 2023 04:12:10 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
