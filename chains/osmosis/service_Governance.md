@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 652 | Update medasdigital-1 07-tendermint-2372 client | Sat Oct 14 2023 15:35:56 UTC | ⏳ NOT VOTED |
-| 653 | Cosmos x Celestia Airdrop ✅ | Sat Oct 14 2023 18:26:55 UTC | ⏳ NOT VOTED |
+| 653 | Cosmos x Celestia Airdrop ✅ | Sat Oct 14 2023 18:26:55 UTC | ABSTAIN |
 
 ---
 
