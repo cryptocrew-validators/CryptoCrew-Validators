@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 50 | 💎Atom x Celestia Airdrop ✅ | Mon Oct 16 2023 02:09:58 UTC | ⏳ NOT VOTED |
+| 50 | 💎Atom x Celestia Airdrop ✅ | Mon Oct 16 2023 02:09:58 UTC | ABSTAIN |
 
 ---
 

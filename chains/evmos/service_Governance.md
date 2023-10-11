@@ -5,8 +5,8 @@
 | 214 | null | Wed Oct 11 2023 18:17:51 UTC | ABSTAIN |
 | 215 | 💎Evmos Airdrop ✅ | Thu Oct 12 2023 16:01:47 UTC | ABSTAIN |
 | 216 | Cosmos x Celestia Airdrop ✅ | Sat Oct 14 2023 13:30:48 UTC | ABSTAIN |
-| 223 | null | Sun Oct 15 2023 16:48:56 UTC | ⏳ NOT VOTED |
-| 224 | 💎Evmos Airdrop ✅ | Mon Oct 16 2023 01:28:14 UTC | ⏳ NOT VOTED |
+| 223 | null | Sun Oct 15 2023 16:48:56 UTC | ABSTAIN |
+| 224 | 💎Evmos Airdrop ✅ | Mon Oct 16 2023 01:28:14 UTC | ABSTAIN |
 
 ---
 
