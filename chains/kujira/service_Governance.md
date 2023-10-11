@@ -2,11 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 479 | Enable SOMM as a collateral type for USK | Thu Oct 12 2023 08:56:01 UTC | ABSTAIN |
+| 479 | Enable SOMM as a collateral type for USK | Thu Oct 12 2023 08:56:01 UTC | ⏳ NOT VOTED |
 | 480 | Open the Orca Liquidation Queue for the SOMM USK Market | Thu Oct 12 2023 08:56:19 UTC | ABSTAIN |
 | 481 | Enable STARS as a collateral type for USK | Thu Oct 12 2023 08:56:30 UTC | ABSTAIN |
 | 482 | Open the Orca Liquidation Queue for the STARS USK Market | Thu Oct 12 2023 08:56:38 UTC | ABSTAIN |
-| 483 | v0.9.0 | Wed Oct 11 2023 14:53:47 UTC | ABSTAIN |
 
 ---
 
@@ -54,16 +53,4 @@ This will deploy the USK Market contract using STARS as a collateral type. Initi
 <summary>Proposal Text</summary>
  
 This will deploy the Orca Liquidation Queue contract to liquidate STARS with USK
-</details>
-
----
-
-### 🗳 483: v0.9.0
-- Voting Start: Mon Oct 09 2023 14:53:47 UTC
-- Voting End: Wed Oct 11 2023 14:53:47 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-See release notes at https://github.com/Team-Kujira/core/releases/tag/v0.9.0
 </details>
