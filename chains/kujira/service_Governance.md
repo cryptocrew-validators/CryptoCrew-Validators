@@ -6,7 +6,7 @@
 | 480 | Open the Orca Liquidation Queue for the SOMM USK Market | Thu Oct 12 2023 08:56:19 UTC | ABSTAIN |
 | 481 | Enable STARS as a collateral type for USK | Thu Oct 12 2023 08:56:30 UTC | ABSTAIN |
 | 482 | Open the Orca Liquidation Queue for the STARS USK Market | Thu Oct 12 2023 08:56:38 UTC | ABSTAIN |
-| 483 | v0.9.0 | Wed Oct 11 2023 14:53:47 UTC | ⏳ NOT VOTED |
+| 483 | v0.9.0 | Wed Oct 11 2023 14:53:47 UTC | ABSTAIN |
 
 ---
 
