@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 261 | Trade & Earn 2.0 Multiplier Updates | Fri Oct 13 2023 14:57:45 UTC | ⏳ NOT VOTED |
+| 261 | Trade & Earn 2.0 Multiplier Updates | Fri Oct 13 2023 14:57:45 UTC | ABSTAIN |
 | 262 | TIA/USDT-30NOV23 Expiry Futures Market Launch | Sat Oct 14 2023 21:58:30 UTC | ⏳ NOT VOTED |
 
 ---
