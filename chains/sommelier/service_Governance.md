@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 91 | [SIPS-086] Authorize the Turbo STETH Cellar | Fri Oct 13 2023 03:06:58 UTC | ⏳ NOT VOTED |
+| 91 | [SIPS-086] Authorize the Turbo STETH Cellar | Fri Oct 13 2023 03:06:58 UTC | ✅ YES |
 
 ---
 
