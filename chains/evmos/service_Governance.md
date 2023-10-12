@@ -2,21 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 215 | 💎Evmos Airdrop ✅ | Thu Oct 12 2023 16:01:47 UTC | ABSTAIN |
 | 216 | Cosmos x Celestia Airdrop ✅ | Sat Oct 14 2023 13:30:48 UTC | ABSTAIN |
 | 223 | null | Sun Oct 15 2023 16:48:56 UTC | ABSTAIN |
 | 224 | 💎Evmos Airdrop ✅ | Mon Oct 16 2023 01:28:14 UTC | ABSTAIN |
-
----
-
-### 🗳 215: 💎Evmos Airdrop ✅
-- Voting Start: Sat Oct 07 2023 16:01:47 UTC
-- Voting End: Thu Oct 12 2023 16:01:47 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
