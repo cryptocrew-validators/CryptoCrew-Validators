@@ -7,6 +7,7 @@
 | 830 | Cosmos x Celestia Airdrop ✅ | Mon Oct 23 2023 20:40:47 UTC | ABSTAIN |
 | 831 | 💎ATOM / Celestia Airdrop ✅ | Tue Oct 24 2023 04:12:10 UTC | ABSTAIN |
 | 832 | 💎Cosmos Hub X Celestia (TIA) Airdrop ✅ | Tue Oct 24 2023 13:21:05 UTC | ❌ NO |
+| 834 | 💎ATOM Airdrop ✅ | Thu Oct 26 2023 18:32:59 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -135,6 +136,17 @@ Cosmos Forum Post: [Minimum Commission Proposal](https://forum.cosmos.network/t/
 ### 🗳 832: 💎Cosmos Hub X Celestia (TIA) Airdrop ✅
 - Voting Start: Tue Oct 10 2023 13:21:05 UTC
 - Voting End: Tue Oct 24 2023 13:21:05 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 834: 💎ATOM Airdrop ✅
+- Voting Start: Thu Oct 12 2023 18:32:59 UTC
+- Voting End: Thu Oct 26 2023 18:32:59 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
