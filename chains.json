@@ -615,8 +615,8 @@
       "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
       "relayer_accounts": [
-        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5",
-        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
+        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh",
+        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
       ],
       "stake_link": "https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "restake": {
