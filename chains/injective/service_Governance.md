@@ -5,6 +5,7 @@
 | 261 | Trade & Earn 2.0 Multiplier Updates | Fri Oct 13 2023 14:57:45 UTC | ABSTAIN |
 | 262 | TIA/USDT-30NOV23 Expiry Futures Market Launch | Sat Oct 14 2023 21:58:30 UTC | ABSTAIN |
 | 271 | Adjust Trade & Earn reward points | Sun Oct 15 2023 14:09:30 UTC | ABSTAIN |
+| 273 | null | Tue Oct 17 2023 11:22:18 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -76,4 +77,16 @@ The community has presented evidence that these addresses have unfairly received
 For more details, refer to the governance forum post: https://gov.injective.network/discussion/13685-adjust-trade-earn-reward-points
 
 Disclaimer: I am a team member at Injective Labs.
+</details>
+
+---
+
+### 🗳 273: null
+- Voting Start: Fri Oct 13 2023 11:22:18 UTC
+- Voting End: Tue Oct 17 2023 11:22:18 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+null
 </details>
