@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [cheqd-mainnet-1 state export](https://dl.ccvalidators.com/SERVICE/cheqd/cheqd-mainnet-1_export_10163458.json)**
+**Download: [cheqd-mainnet-1 state export](https://dl.ccvalidators.com/SERVICE/cheqd/cheqd-mainnet-1_export_10178573.json)**
 ---
 
-- last updated: Thu Oct 12 2023 02:07:11
+- last updated: Fri Oct 13 2023 02:51:26
 - chain id: `cheqd-mainnet-1`
-- export height: `10163458`
+- export height: `10178573`
 - use for: airdrops, local tests, chain recovery
