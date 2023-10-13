@@ -8,6 +8,7 @@
 | 831 | 💎ATOM / Celestia Airdrop ✅ | Tue Oct 24 2023 04:12:10 UTC | ABSTAIN |
 | 832 | 💎Cosmos Hub X Celestia (TIA) Airdrop ✅ | Tue Oct 24 2023 13:21:05 UTC | ❌ NO |
 | 834 | 💎ATOM Airdrop ✅ | Thu Oct 26 2023 18:32:59 UTC | ⏳ NOT VOTED |
+| 835 | Transfer unclaimed NTRN airdrop tokens to Cosmos Hub | Fri Oct 27 2023 12:48:15 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -147,6 +148,17 @@ Cosmos Forum Post: [Minimum Commission Proposal](https://forum.cosmos.network/t/
 ### 🗳 834: 💎ATOM Airdrop ✅
 - Voting Start: Thu Oct 12 2023 18:32:59 UTC
 - Voting End: Thu Oct 26 2023 18:32:59 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 835: Transfer unclaimed NTRN airdrop tokens to Cosmos Hub
+- Voting Start: Fri Oct 13 2023 12:48:15 UTC
+- Voting End: Fri Oct 27 2023 12:48:15 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
