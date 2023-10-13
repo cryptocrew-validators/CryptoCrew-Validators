@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 261 | Trade & Earn 2.0 Multiplier Updates | Fri Oct 13 2023 14:57:45 UTC | ABSTAIN |
 | 262 | TIA/USDT-30NOV23 Expiry Futures Market Launch | Sat Oct 14 2023 21:58:30 UTC | ABSTAIN |
-| 271 | Adjust Trade & Earn reward points | Sun Oct 15 2023 14:09:30 UTC | ⏳ NOT VOTED |
+| 271 | Adjust Trade & Earn reward points | Sun Oct 15 2023 14:09:30 UTC | ABSTAIN |
 
 ---
 
