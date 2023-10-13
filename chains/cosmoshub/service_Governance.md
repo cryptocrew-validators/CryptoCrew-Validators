@@ -2,11 +2,11 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | 🤷‍♂️ ABSTAIN |
+| 826 | Set Minimum Commission to 5% | Fri Oct 13 2023 17:09:46 UTC | ⏳ NOT VOTED |
 | 828 | 💎ATOM Airdrop ✅ | Sun Oct 22 2023 02:25:22 UTC | ABSTAIN |
 | 830 | Cosmos x Celestia Airdrop ✅ | Mon Oct 23 2023 20:40:47 UTC | ABSTAIN |
-| 831 | 💎ATOM / Celestia Airdrop ✅ | Tue Oct 24 2023 04:12:10 UTC | ABSTAIN |
-| 832 | 💎Cosmos Hub X Celestia (TIA) Airdrop ✅ | Tue Oct 24 2023 13:21:05 UTC | ❌ NO |
+| 831 | 💎ATOM / Celestia Airdrop ✅ | Tue Oct 24 2023 04:12:10 UTC | ⏳ NOT VOTED |
+| 832 | 💎Cosmos Hub X Celestia (TIA) Airdrop ✅ | Tue Oct 24 2023 13:21:05 UTC | ⏳ NOT VOTED |
 | 834 | 💎ATOM Airdrop ✅ | Thu Oct 26 2023 18:32:59 UTC | ⏳ NOT VOTED |
 
 ---
