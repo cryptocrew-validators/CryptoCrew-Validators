@@ -2,21 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 216 | Cosmos x Celestia Airdrop ✅ | Sat Oct 14 2023 13:30:48 UTC | ABSTAIN |
 | 223 | null | Sun Oct 15 2023 16:48:56 UTC | ABSTAIN |
 | 224 | 💎Evmos Airdrop ✅ | Mon Oct 16 2023 01:28:14 UTC | ABSTAIN |
 | 226 | Increase Deposit Amount for Evmos Governance Proposals | Tue Oct 17 2023 21:03:59 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 216: Cosmos x Celestia Airdrop ✅
-- Voting Start: Mon Oct 09 2023 13:30:48 UTC
-- Voting End: Sat Oct 14 2023 13:30:48 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
