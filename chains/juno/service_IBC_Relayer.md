@@ -22,6 +22,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | juno-1 | migaloo-1 | transfer | channel-210 |
 | juno-1 | chihuahua-1 | transfer | channel-28 |
+| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-43 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | juno-1 | secret-4 | transfer | channel-48 |
 | juno-1 | phoenix-1 | transfer | channel-86 |
@@ -32,7 +33,6 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | juno-1 | gravity-bridge-3 | transfer | channel-31 |
 | juno-1 | core-1 | transfer | channel-33 |
 | juno-1 | comdex-1 | transfer | channel-36 |
-| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-43 |
 | juno-1 | evmos_9001-2 | transfer | channel-70 |
 | juno-1 | omniflixhub-1 | transfer | channel-78 |
 | bitsong-2b | juno-1 | transfer | channel-5 |
@@ -41,6 +41,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | kaiyo-1 | juno-1 | transfer | channel-2 |
 | kaiyo-1 | juno-1 | transfer | channel-31 |
 | migaloo-1 | juno-1 | transfer | channel-1 |
+| osmosis-1 | juno-1 | transfer | channel-168 |
 | osmosis-1 | juno-1 | transfer | channel-169 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | phoenix-1 | juno-1 | transfer | channel-2 |
