@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 271 | Adjust Trade & Earn reward points | Sun Oct 15 2023 14:09:30 UTC | ABSTAIN |
+| 271 | Adjust Trade & Earn reward points | Sun Oct 15 2023 14:09:30 UTC | ⏳ NOT VOTED |
 | 273 | null | Tue Oct 17 2023 11:22:18 UTC | ⏳ NOT VOTED |
 
 ---
