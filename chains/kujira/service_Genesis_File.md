@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/kujira/genesis.json)**
 ---
 
-- last updated: Sat Oct 14 2023 13:15:38
+- last updated: Sun Oct 15 2023 11:27:39
 - chain id: `kaiyo-1`
 
 ## Instructions
