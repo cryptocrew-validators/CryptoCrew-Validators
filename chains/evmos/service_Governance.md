@@ -2,21 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 223 | null | Sun Oct 15 2023 16:48:56 UTC | ABSTAIN |
 | 224 | 💎Evmos Airdrop ✅ | Mon Oct 16 2023 01:28:14 UTC | ABSTAIN |
 | 226 | Increase Deposit Amount for Evmos Governance Proposals | Tue Oct 17 2023 21:03:59 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 223: null
-- Voting Start: Tue Oct 10 2023 16:48:56 UTC
-- Voting End: Sun Oct 15 2023 16:48:56 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-null
-</details>
 
 ---
 
