@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [kaiyo-1 state export](https://dl.ccvalidators.com/SERVICE/kujira/kaiyo-1_export_14832222.json)**
+**Download: [kaiyo-1 state export](https://dl.ccvalidators.com/SERVICE/kujira/kaiyo-1_export_14853633.json)**
 ---
 
-- last updated: Sun Oct 15 2023 11:27:39
+- last updated: Mon Oct 16 2023 13:27:16
 - chain id: `kaiyo-1`
-- export height: `14832222`
+- export height: `14853633`
 - use for: airdrops, local tests, chain recovery
