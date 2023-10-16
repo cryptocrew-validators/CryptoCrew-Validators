@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 92 | [SIPS-087] Add Turbo STETH Support to RYETH and RYBTC | Tue Oct 17 2023 01:15:29 UTC | ⏳ NOT VOTED |
+| 92 | [SIPS-087] Add Turbo STETH Support to RYETH and RYBTC | Tue Oct 17 2023 01:15:29 UTC | ✅ YES |
 
 ---
 
