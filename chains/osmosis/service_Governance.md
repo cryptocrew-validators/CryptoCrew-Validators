@@ -2,19 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 655 | Deposit 350K OSMO to the Levana Osmo Liquidity Pool | Tue Oct 17 2023 10:33:10 UTC | 🤷‍♂️ ABSTAIN |
 | 656 | Reactivate expired IBC client 07-tendermint-2229 | Fri Oct 20 2023 04:17:13 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 655: Deposit 350K OSMO to the Levana Osmo Liquidity Pool
-- Voting Start: Thu Oct 12 2023 10:33:10 UTC
-- Voting End: Tue Oct 17 2023 10:33:10 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
