@@ -36,6 +36,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | juno-1 | evmos_9001-2 | transfer | channel-70 |
 | juno-1 | omniflixhub-1 | transfer | channel-78 |
 | bitsong-2b | juno-1 | transfer | channel-5 |
+| chihuahua-1 | juno-1 | transfer | channel-11 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | kaiyo-1 | juno-1 | transfer | channel-1 |
 | kaiyo-1 | juno-1 | transfer | channel-2 |
@@ -49,7 +50,6 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | phoenix-1 | juno-1 | transfer | channel-33 |
 | secret-4 | juno-1 | transfer | channel-8 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
-| chihuahua-1 | juno-1 | transfer | channel-11 |
 | comdex-1 | juno-1 | transfer | channel-18 |
 | core-1 | juno-1 | transfer | channel-37 |
 | evmos_9001-2 | juno-1 | transfer | channel-41 |
