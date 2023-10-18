@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 656 | Reactivate expired IBC client 07-tendermint-2229 | Fri Oct 20 2023 04:17:13 UTC | ⏳ NOT VOTED |
+| 656 | Reactivate expired IBC client 07-tendermint-2229 | Fri Oct 20 2023 04:17:13 UTC | ✅ YES |
 | 657 | 💫 Celestia is coming to Osmosis  | Mon Oct 23 2023 02:56:52 UTC | ABSTAIN |
 | 658 | Osmosis v20 Software Upgrade | Mon Oct 23 2023 09:02:54 UTC | ✅ YES |
 
