@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 287 | LUNA users may be eligible  | Sun Oct 22 2023 15:17:09 UTC | ⏳ NOT VOTED |
+| 287 | LUNA users may be eligible  | Sun Oct 22 2023 15:17:09 UTC | ABSTAIN |
 | 288 | Reallocation of LP farming plan - Optimizing farming reward inflation | Mon Oct 23 2023 07:30:05 UTC | ⏳ NOT VOTED |
 
 ---
