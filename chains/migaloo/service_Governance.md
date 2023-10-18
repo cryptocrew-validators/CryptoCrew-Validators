@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 14 | Increase Minimum Gas Price | Mon Oct 23 2023 17:03:28 UTC | ⏳ NOT VOTED |
+| 14 | Increase Minimum Gas Price | Mon Oct 23 2023 17:03:28 UTC | ABSTAIN |
 
 ---
 
