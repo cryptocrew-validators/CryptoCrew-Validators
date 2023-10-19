@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 14 | Increase Minimum Gas Price | Mon Oct 23 2023 17:03:28 UTC | ABSTAIN |
-| 15 | Governance proposal to recover IBC connection with chihuahua-1 | Wed Oct 25 2023 13:36:16 UTC | ABSTAIN |
+| 14 | Increase Minimum Gas Price | Mon Oct 23 2023 17:03:28 UTC | ⏳ NOT VOTED |
+| 15 | Governance proposal to recover IBC connection with chihuahua-1 | Wed Oct 25 2023 13:36:16 UTC | ⏳ NOT VOTED |
 
 ---
 
