@@ -56,6 +56,7 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | pacific-1 | transfer | channel-782 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
@@ -96,4 +97,3 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | stride-1 | osmosis-1 | icacontroller-osmosis-1.WITHDRAWAL | channel-44 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
