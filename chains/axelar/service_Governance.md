@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 182 | Test Interchain Governance Proposal | Sat Oct 21 2023 11:13:15 UTC | ⏳ NOT VOTED |
+| 182 | Test Interchain Governance Proposal | Sat Oct 21 2023 11:13:15 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 

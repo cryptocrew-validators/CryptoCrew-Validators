@@ -9,7 +9,7 @@
 | 834 | 💎ATOM Airdrop ✅ | Thu Oct 26 2023 18:32:59 UTC | ABSTAIN |
 | 835 | Transfer unclaimed NTRN airdrop tokens to Cosmos Hub | Fri Oct 27 2023 12:48:15 UTC | ✅ YES |
 | 836 | Vitwit's Funding Proposal: Support Resolute | Wed Nov 01 2023 19:08:50 UTC | 🤷‍♂️ ABSTAIN |
-| 837 | Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield. | Fri Nov 03 2023 01:56:30 UTC | ⏳ NOT VOTED |
+| 837 | Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield. | Fri Nov 03 2023 01:56:30 UTC | ABSTAIN |
 
 ---
 
