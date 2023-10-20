@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 657 | 💫 Celestia is coming to Osmosis  | Mon Oct 23 2023 02:56:52 UTC | ABSTAIN |
 | 658 | Osmosis v20 Software Upgrade | Mon Oct 23 2023 09:02:54 UTC | ✅ YES |
-| 659 | Upload Transmuter v2 - Alloyed Assets | Tue Oct 24 2023 09:14:03 UTC | ⏳ NOT VOTED |
+| 659 | Upload Transmuter v2 - Alloyed Assets | Tue Oct 24 2023 09:14:03 UTC | ✅ YES |
 
 ---
 
