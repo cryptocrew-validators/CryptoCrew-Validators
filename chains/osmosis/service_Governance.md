@@ -7,6 +7,7 @@
 | 659 | Upload Transmuter v2 - Alloyed Assets | Tue Oct 24 2023 09:14:03 UTC | ✅ YES |
 | 660 | DYDX Incentive Spend | Wed Oct 25 2023 13:59:41 UTC | ⏳ NOT VOTED |
 | 661 | 🧪 New OSMO version - 48 Hours Left! 🧪 | Thu Oct 26 2023 00:07:38 UTC | ⏳ NOT VOTED |
+| 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -158,6 +159,17 @@ This proposal requests a bootstrapping incentive spend for the launch of dYdX to
 ### 🗳 661: 🧪 New OSMO version - 48 Hours Left! 🧪
 - Voting Start: Sat Oct 21 2023 00:07:38 UTC
 - Voting End: Thu Oct 26 2023 00:07:38 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 662: 💎Celestia Airdrop on Osmosis✅ - 48 hours left!
+- Voting Start: Sat Oct 21 2023 21:55:23 UTC
+- Voting End: Thu Oct 26 2023 21:55:23 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
