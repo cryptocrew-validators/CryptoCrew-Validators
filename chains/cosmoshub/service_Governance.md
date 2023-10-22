@@ -2,7 +2,6 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 828 | 💎ATOM Airdrop ✅ | Sun Oct 22 2023 02:25:22 UTC | ABSTAIN |
 | 830 | Cosmos x Celestia Airdrop ✅ | Mon Oct 23 2023 20:40:47 UTC | ABSTAIN |
 | 831 | 💎ATOM / Celestia Airdrop ✅ | Tue Oct 24 2023 04:12:10 UTC | ABSTAIN |
 | 832 | 💎Cosmos Hub X Celestia (TIA) Airdrop ✅ | Tue Oct 24 2023 13:21:05 UTC | ❌ NO |
@@ -10,17 +9,6 @@
 | 835 | Transfer unclaimed NTRN airdrop tokens to Cosmos Hub | Fri Oct 27 2023 12:48:15 UTC | ✅ YES |
 | 836 | Vitwit's Funding Proposal: Support Resolute | Wed Nov 01 2023 19:08:50 UTC | 🤷‍♂️ ABSTAIN |
 | 837 | Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield. | Fri Nov 03 2023 01:56:30 UTC | ABSTAIN |
-
----
-
-### 🗳 828: 💎ATOM Airdrop ✅
-- Voting Start: Sun Oct 08 2023 02:25:22 UTC
-- Voting End: Sun Oct 22 2023 02:25:22 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
