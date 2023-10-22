@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/stride/genesis.json)**
 ---
 
-- last updated: Sat Oct 21 2023 11:27:48
+- last updated: Sun Oct 22 2023 11:28:11
 - chain id: `stride-1`
 
 ## Instructions
