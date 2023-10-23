@@ -3,9 +3,9 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 659 | Upload Transmuter v2 - Alloyed Assets | Tue Oct 24 2023 09:14:03 UTC | ✅ YES |
-| 660 | DYDX Incentive Spend | Wed Oct 25 2023 13:59:41 UTC | ⏳ NOT VOTED |
-| 661 | 🧪 New OSMO version - 48 Hours Left! 🧪 | Thu Oct 26 2023 00:07:38 UTC | ⏳ NOT VOTED |
-| 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ⏳ NOT VOTED |
+| 660 | DYDX Incentive Spend | Wed Oct 25 2023 13:59:41 UTC | 🤷‍♂️ ABSTAIN |
+| 661 | 🧪 New OSMO version - 48 Hours Left! 🧪 | Thu Oct 26 2023 00:07:38 UTC | ABSTAIN |
+| 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ABSTAIN |
 
 ---
 
