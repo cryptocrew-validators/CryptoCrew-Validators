@@ -6,6 +6,7 @@
 | 660 | DYDX Incentive Spend | Wed Oct 25 2023 13:59:41 UTC | 🤷‍♂️ ABSTAIN |
 | 661 | 🧪 New OSMO version - 48 Hours Left! 🧪 | Thu Oct 26 2023 00:07:38 UTC | ABSTAIN |
 | 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ABSTAIN |
+| 663 | 💎ATOM Airdrop ✅ - New version ⭐️ | Sat Oct 28 2023 16:58:30 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -118,6 +119,17 @@ This proposal requests a bootstrapping incentive spend for the launch of dYdX to
 ### 🗳 662: 💎Celestia Airdrop on Osmosis✅ - 48 hours left!
 - Voting Start: Sat Oct 21 2023 21:55:23 UTC
 - Voting End: Thu Oct 26 2023 21:55:23 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 663: 💎ATOM Airdrop ✅ - New version ⭐️
+- Voting Start: Mon Oct 23 2023 16:58:30 UTC
+- Voting End: Sat Oct 28 2023 16:58:30 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
