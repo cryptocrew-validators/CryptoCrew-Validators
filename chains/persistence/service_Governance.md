@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 53 | 💎ATOM Airdrop ✅ | Tue Oct 24 2023 00:17:49 UTC | ABSTAIN |
+| 53 | 💎ATOM Airdrop ✅ | Tue Oct 24 2023 00:17:49 UTC | ⏳ NOT VOTED |
 
 ---
 
