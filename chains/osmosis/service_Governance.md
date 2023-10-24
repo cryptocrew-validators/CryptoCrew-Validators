@@ -6,6 +6,7 @@
 | 661 | 🧪 New OSMO version - 48 Hours Left! 🧪 | Thu Oct 26 2023 00:07:38 UTC | ABSTAIN |
 | 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ABSTAIN |
 | 663 | 💎ATOM Airdrop ✅ - New version ⭐️ | Sat Oct 28 2023 16:58:30 UTC | ⏳ NOT VOTED |
+| 664 | Upload Ojo Oracle Contract Wasm Code | Sun Oct 29 2023 16:09:34 UTC | ⏳ NOT VOTED |
 | 665 | Celestia Incentive Spend | Sun Oct 29 2023 12:57:06 UTC | ⏳ NOT VOTED |
 
 ---
@@ -51,6 +52,52 @@ This proposal requests a bootstrapping incentive spend for the launch of dYdX to
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 664: Upload Ojo Oracle Contract Wasm Code
+- Voting Start: Tue Oct 24 2023 16:09:34 UTC
+- Voting End: Sun Oct 29 2023 16:09:34 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+## Upload Ojo Oracle Contract Wasm Code
+
+### Summary
+
+This proposal intends to upload the Ojo Oracle Contract for use by Levana on Osmosis.
+
+The Levana team has agreed to use the Ojo Oracle in order to determine the price of assets for their deployment on Osmosis.
+
+### About Ojo
+
+Ojo uses a push-model price oracle contract which broadcasts regular price updates. Ojo is able to support a unique class of assets that are native to DEXes like Osmosis, Crescent, and Kujira's FIN. As a result, Ojo is the only oracle which provides pricing info on all of Stride's LSTs and other native tokens to the Cosmos. This also includes our Smart Oracle offering, which provides contextual market data about low-volume assets so that they can engage in DeFi safely.
+
+Ojo has already been deployed to these Cosmos L1s: Stargaze, Juno, Comdex, Umee, Secret Network, and Archway.
+
+### About Levana
+
+Levana Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers. Levana's perpetual swaps protocol offers a reliable and secure platform for traders and liquidity providers. It ensures fair settlement, minimizes risks, and allows for the development of additional financial protocols on top of tokenized positions.
+
+### Contract Information
+
+Release Version: sdk47-v1.7.0
+
+Code Url : https://github.com/ojo-network/contracts/releases/tag/sdk47-v1.7.0
+
+Compiler Version : cosmwasm/workspace-optimizer:0.12.7
+
+Checksum : 560673bbd71f1bf10326048292313e9c9c0e29cc4f45b2377a4faee1f72c5107
+
+
+### References
+- [Ojo Network docs](https://docs.ojo.network/integrate)
+- [Ojo GitHub](https://github.com/ojo-network)
+- [Ojo Whitepaper](https://github.com/ojo-network/ojo/blob/main/whitepaper.pdf)
+- [Ojo Audit](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Ojo.pdf)
+- [Ojo Docs](https://docs.ojo.network)
 </details>
 
 ---
