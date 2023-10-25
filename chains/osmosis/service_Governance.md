@@ -5,7 +5,7 @@
 | 661 | 🧪 New OSMO version - 48 Hours Left! 🧪 | Thu Oct 26 2023 00:07:38 UTC | ABSTAIN |
 | 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ABSTAIN |
 | 663 | 💎ATOM Airdrop ✅ - New version ⭐️ | Sat Oct 28 2023 16:58:30 UTC | ABSTAIN |
-| 664 | Upload Ojo Oracle Contract Wasm Code | Sun Oct 29 2023 16:09:34 UTC | ⏳ NOT VOTED |
+| 664 | Upload Ojo Oracle Contract Wasm Code | Sun Oct 29 2023 16:09:34 UTC | ✅ YES |
 | 665 | Celestia Incentive Spend | Sun Oct 29 2023 12:57:06 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
