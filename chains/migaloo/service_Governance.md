@@ -2,20 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 15 | Governance proposal to recover IBC connection with chihuahua-1 | Wed Oct 25 2023 13:36:16 UTC | ABSTAIN |
 | 17 | Alliance Whitelist: VT (Virtual Alliance) | Mon Oct 30 2023 15:11:20 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 15: Governance proposal to recover IBC connection with chihuahua-1
-- Voting Start: Wed Oct 18 2023 13:36:16 UTC
-- Voting End: Wed Oct 25 2023 13:36:16 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Governance proposal to recover CLIENT 07-tendermint-21 and move it to CLIENT 07-tendermint-117
-</details>
 
 ---
 
