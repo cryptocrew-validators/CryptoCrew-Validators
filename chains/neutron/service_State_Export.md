@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [neutron-1 state export](https://dl.ccvalidators.com/SERVICE/neutron/neutron-1_export_3899468.json)**
+**Download: [neutron-1 state export](https://dl.ccvalidators.com/SERVICE/neutron/neutron-1_export_3966276.json)**
 ---
 
-- last updated: Mon Oct 23 2023 14:20:38
+- last updated: Wed Oct 25 2023 12:23:10
 - chain id: `neutron-1`
-- export height: `3899468`
+- export height: `3966276`
 - use for: airdrops, local tests, chain recovery
