@@ -109,12 +109,10 @@
       ],
       "stake_link": "https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
       "rpc": [
-        "https://dydx-dao-rpc-1.polkachu.com",
-        "https://dydx-dao-rpc-5.polkachu.com"
+        "https://dydx-rpc.lavenderfive.com:443"
       ],
       "rest": [
-        "https://dydx-dao-api-1.polkachu.com",
-        "https://dydx-dao-api-5.polkachu.com"
+        "https://dydx-api.lavenderfive.com:443"
       ],
       "apr": "",
       "coingecko_id": "dydx",
