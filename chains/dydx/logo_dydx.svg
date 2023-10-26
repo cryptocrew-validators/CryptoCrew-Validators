@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-d4d4a1b7-8305-434c-9aaf-e05062d89011" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .uuid-0d701042-bc74-4a2a-abff-71a7fc5a4ece {
+        fill: #13131f;
+      }
+
+      .uuid-0d701042-bc74-4a2a-abff-71a7fc5a4ece, .uuid-c0242ff2-defe-4285-a765-9a9cac35ac66, .uuid-7d55fa15-887d-415a-be86-caee19b8f847, .uuid-8c1dc407-70d8-439a-8489-ef6980b871de, .uuid-12e83bf5-75ab-4c35-b74a-6a2d072857de, .uuid-9c7d18a6-1023-4d7d-9882-a2370963ce1c, .uuid-31c6bcc7-8bda-4898-b747-dfa7ab2997cb {
+        stroke-width: 0px;
+      }
+
+      .uuid-095e68e7-87e6-4534-8959-725e914df434 {
+        clip-path: url(#uuid-1e8db4a4-4a39-4fdd-bbd3-043c8cde13d2);
+      }
+
+      .uuid-c0242ff2-defe-4285-a765-9a9cac35ac66 {
+        fill: url(#uuid-c288e65a-a88f-405c-8ecc-2e8d6303832f);
+      }
+
+      .uuid-7d55fa15-887d-415a-be86-caee19b8f847 {
+        fill: none;
+      }
+
+      .uuid-8c1dc407-70d8-439a-8489-ef6980b871de, .uuid-9c7d18a6-1023-4d7d-9882-a2370963ce1c {
+        fill: #fff;
+      }
+
+      .uuid-12e83bf5-75ab-4c35-b74a-6a2d072857de {
+        fill: url(#uuid-fa96a098-8bed-4b5a-b71f-f725b0efd67e);
+      }
+
+      .uuid-9c7d18a6-1023-4d7d-9882-a2370963ce1c {
+        fill-rule: evenodd;
+      }
+
+      .uuid-31c6bcc7-8bda-4898-b747-dfa7ab2997cb {
+        fill: url(#uuid-89f561b5-2902-48c8-b433-4fc82db7ebf6);
+      }
+    </style>
+    <clipPath id="uuid-1e8db4a4-4a39-4fdd-bbd3-043c8cde13d2">
+      <path class="uuid-7d55fa15-887d-415a-be86-caee19b8f847" d="m35.61,14.39c-2.83-2.84-6.6-4.4-10.61-4.4-8.27,0-15,6.74-15,15.01s6.73,15.01,15,15.01c4.01,0,7.77-1.56,10.61-4.4,2.83-2.84,4.39-6.61,4.39-10.61,0-4.01-1.56-7.78-4.39-10.61Z"/>
+    </clipPath>
+    <linearGradient id="uuid-89f561b5-2902-48c8-b433-4fc82db7ebf6" x1="31.91" y1="-162.55" x2="34.29" y2="-165.43" gradientTransform="translate(0 -140.98) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="uuid-fa96a098-8bed-4b5a-b71f-f725b0efd67e" x1="36.88" y1="-169.34" x2="33.94" y2="-165.39" gradientTransform="translate(0 -140.98) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6966ff"/>
+      <stop offset="1" stop-color="#6966ff" stop-opacity=".36"/>
+    </linearGradient>
+    <linearGradient id="uuid-c288e65a-a88f-405c-8ecc-2e8d6303832f" x1="19.63" y1="-162.58" x2="22.1" y2="-165.61" xlink:href="#uuid-89f561b5-2902-48c8-b433-4fc82db7ebf6"/>
+  </defs>
+  <circle class="uuid-8c1dc407-70d8-439a-8489-ef6980b871de" cx="25" cy="25" r="18.6"/>
+  <g class="uuid-095e68e7-87e6-4534-8959-725e914df434">
+    <rect class="uuid-0d701042-bc74-4a2a-abff-71a7fc5a4ece" x="4.11" y="5.6" width="41.78" height="38.79"/>
+    <g>
+      <path class="uuid-8c1dc407-70d8-439a-8489-ef6980b871de" d="m36.24,20.91l-5.67,8.12h1.74l5.7-8.12h-1.77Z"/>
+      <path class="uuid-31c6bcc7-8bda-4898-b747-dfa7ab2997cb" d="m32.49,20.91l1.67,2.39-.87,1.31-2.58-3.7h1.78Z"/>
+      <path class="uuid-12e83bf5-75ab-4c35-b74a-6a2d072857de" d="m36.41,29.03l-1.85-2.65.87-1.27,2.72,3.92h-1.74Z"/>
+      <path class="uuid-9c7d18a6-1023-4d7d-9882-a2370963ce1c" d="m28.54,20.91h1.52v8.12h-1.52v-.3c-.44.24-.95.38-1.48.38-1.71,0-3.09-1.38-3.09-3.07s1.38-3.07,3.09-3.07c.54,0,1.04.14,1.48.38v-2.43Zm-1.5,6.85c.97,0,1.75-.78,1.75-1.74s-.78-1.74-1.75-1.74-1.75.78-1.75,1.74.78,1.74,1.75,1.74Z"/>
+      <path class="uuid-8c1dc407-70d8-439a-8489-ef6980b871de" d="m24.12,20.91l-5.67,8.12h1.78l5.66-8.12h-1.77Z"/>
+      <path class="uuid-c0242ff2-defe-4285-a765-9a9cac35ac66" d="m20.23,20.91l1.78,2.47-.98,1.38-2.65-3.84h1.85Z"/>
+      <path class="uuid-9c7d18a6-1023-4d7d-9882-a2370963ce1c" d="m16.42,20.91h1.52v8.12h-1.52v-.3c-.44.24-.95.38-1.48.38-1.71,0-3.09-1.38-3.09-3.07s1.38-3.07,3.09-3.07c.54,0,1.04.14,1.48.38v-2.43Zm-1.5,6.85c.97,0,1.75-.78,1.75-1.74s-.78-1.74-1.75-1.74-1.75.78-1.75,1.74.78,1.74,1.75,1.74Z"/>
+    </g>
+  </g>
+</svg>
