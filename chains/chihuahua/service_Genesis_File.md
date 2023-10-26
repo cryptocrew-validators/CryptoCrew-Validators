@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/chihuahua/genesis.json)**
 ---
 
-- last updated: Wed Oct 25 2023 16:56:09
+- last updated: Thu Oct 26 2023 16:55:36
 - chain id: `chihuahua-1`
 
 ## Instructions
