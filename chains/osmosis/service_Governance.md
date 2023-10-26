@@ -7,6 +7,7 @@
 | 664 | Upload Ojo Oracle Contract Wasm Code | Sun Oct 29 2023 16:09:34 UTC | ✅ YES |
 | 665 | Celestia Incentive Spend | Sun Oct 29 2023 12:57:06 UTC | 🤷‍♂️ ABSTAIN |
 | 667 | 💎Celestia & ATOM Airdrop ✅ - Try New Feature! | Mon Oct 30 2023 23:59:13 UTC | ⏳ NOT VOTED |
+| 668 | Update stOSMO/OSMO Scaling Factor Controller to Auto Update Contract | Tue Oct 31 2023 21:15:40 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -97,4 +98,42 @@ This proposal requests a bootstrapping incentive spend for the launch of Celesti
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 668: Update stOSMO/OSMO Scaling Factor Controller to Auto Update Contract
+- Voting Start: Thu Oct 26 2023 21:15:40 UTC
+- Voting End: Tue Oct 31 2023 21:15:40 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Passing this proposal will change the scaling factor controller address of pool 833 (stOSMO/OSMO) from `osmo1k8c2m5cn322akk5wy8lpt87dd2f4yh9afcd7af` to `osmo12yvjuy69ynnts95ensss4q6480wkvkpnq2z2ntxmfa2qp860xsmq9mzlpn`. 
+
+ ## Summary 
+
+ The stToken Scaling Factor Auto-update Contract makes use of the Stride Redemption Rate Oracle Contract to automatically update the scaling factor for stToken stableswap pools, such as the stOSMO-OSMO pool. 
+
+ Currently, the scaling factor for stToken stableswap pools is updated every several days using a multisig address controlled by the Stride Association. By using the Auto-update Contract the Stride Association can relinquish this responsibility, which would thereafter be carried out in an automatic and fully trustless manner. 
+
+ This proposal changes the scaling factor controller address of the stOSMO/OSMO pool from a multisig (`osmo1k8c2m5cn322akk5wy8lpt87dd2f4yh9afcd7af`) to the contract address of the Auto-update contract (`osmo12yvjuy69ynnts95ensss4q6480wkvkpnq2z2ntxmfa2qp860xsmq9mzlpn`). 
+
+ ## Details 
+
+ Normal stableswap pools concentrate the two tokens at a 1:1 ratio, which is ideal for USD stablecoins. But Osmosis stableswap pools have an optional scaling factor, which enables the concentration ratio to be continually scaled. This scaling factor is utilized for stToken stableswap pools, because stTokens constantly appreciate in value against their underlying tokens. 
+
+ Currently, it is the responsibility of a Stride Association multisig address to gradually increase the concentration ratios on the stOSMO/OSMO pool. But that process can now be automated. 
+
+ For example, the stOSMO:OSMO redemption rate is currently 1:1.1638. The Stride Redemption Rate Oracle Contract feeds this redemption rate to Osmosis. The stToken Scaling Factor Auto-update Contract can then take the stOSMO redemption rate and use it to adjust the scaling factor / concentration ratio on the stOSMO/OSMO stableswap pool. In order to update this ratio, the pool’s controller address must be updated to the contract address. 
+
+ The admin of the auto-update scaling factor contract is the same Stride Association controlled multisig that presently controls the pool’s scaling factor (`osmo1k8c2m5cn322akk5wy8lpt87dd2f4yh9afcd7af`). As a transitionary measure, the admin of the contract has permission to bypass the oracle and update the scaling factor of the pool directly. However, after the oracle and auto-update contract has proven successful, this privilege will be removed from the contract such that the scaling factor can only be updated to values that are inline with the oracle. 
+
+ **Forum Thead:** [#451 - Change stOSOM Scaling Factor Controller Address to Scaling Factor AutoUpdate Contract](https://forum.osmosis.zone/t/change-stosmo-osmo-scaling-factor-controller-address-to-sttoken-scaling-factor-auto-update-contract/451) 
+
+ **Related Forum Posts:** 
+
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh [#248 - Upload Stride Redemption Rate Oracle Contract](https://forum.osmosis.zone/t/upload-stride-redemption-rate-oracle-contract/248) 
+
+ README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh [#249 - Upload StToken Scaling Factor Auto Update Contract](https://forum.osmosis.zone/t/upload-sttoken-scaling-factor-auto-update-contract/249) 
 </details>
