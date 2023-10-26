@@ -2,23 +2,11 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 662 | 💎Celestia Airdrop on Osmosis✅ - 48 hours left! | Thu Oct 26 2023 21:55:23 UTC | ABSTAIN |
 | 663 | 💎ATOM Airdrop ✅ - New version ⭐️ | Sat Oct 28 2023 16:58:30 UTC | ABSTAIN |
 | 664 | Upload Ojo Oracle Contract Wasm Code | Sun Oct 29 2023 16:09:34 UTC | ✅ YES |
 | 665 | Celestia Incentive Spend | Sun Oct 29 2023 12:57:06 UTC | 🤷‍♂️ ABSTAIN |
 | 667 | 💎Celestia & ATOM Airdrop ✅ - Try New Feature! | Mon Oct 30 2023 23:59:13 UTC | ⏳ NOT VOTED |
 | 668 | Update stOSMO/OSMO Scaling Factor Controller to Auto Update Contract | Tue Oct 31 2023 21:15:40 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 662: 💎Celestia Airdrop on Osmosis✅ - 48 hours left!
-- Voting Start: Sat Oct 21 2023 21:55:23 UTC
-- Voting End: Thu Oct 26 2023 21:55:23 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
