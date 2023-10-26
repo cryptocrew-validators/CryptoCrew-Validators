@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gravity version: `vantares`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8950346.tar.lz4)** | Tue Oct 24 2023 16:15:04 UTC | `gravity-bridge-3` | 884M | 8950346 | `cd229e1f5279f305872bae1bd44ff6d776a45d11e1f875ed26f0f98689836baa` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8934604.tar.lz4)** | Mon Oct 23 2023 11:54:40 UTC | `gravity-bridge-3` | 976M | 8934604 | `c1d15da6e658d73f0d7e8b4fa2dbcbe049ada4fc80d4ea57091425341e1219b2` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8977009.tar.lz4)** | Thu Oct 26 2023 16:22:49 UTC | `gravity-bridge-3` | 838M | 8977009 | `154f3c57c6318483352de0bc0bee515abe963c6b1b395934a611c5ab70a47c96` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8961309.tar.lz4)** | Wed Oct 25 2023 11:59:27 UTC | `gravity-bridge-3` | 856M | 8961309 | `6abd942461be6c0c4fdeb900f3ac38c50948a49ae141e075ad6c9b2e1410fce0` |
 
 ---
 
@@ -12,7 +12,7 @@ gravity version: `vantares`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8950346.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8977009.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8950346.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_8977009.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
