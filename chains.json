@@ -96,6 +96,32 @@
       "trade_url": "https://app.osmosis.zone"
     },
     {
+      "name": "dydx",
+      "prettyName": "dYdX Chain",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/dydx/logo_dydx.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/dydx/logo_dydx.png",
+      "symbol": "DYDX",
+      "denom": "adydx",
+      "decimals": "18",
+      "address": "dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
+      "operator_account": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
+      "relayer_accounts": [
+      ],
+      "stake_link": "https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
+      "rpc": [
+        "https://dydx-dao-rpc-1.polkachu.com",
+        "https://dydx-dao-rpc-5.polkachu.com"
+      ],
+      "rest": [
+        "https://dydx-dao-api-1.polkachu.com",
+        "https://dydx-dao-api-5.polkachu.com"
+      ],
+      "apr": "",
+      "coingecko_id": "dydx",
+      "chain_id": "dydx-mainnet-1",
+      "trade_url": "https://www.gate.io/en/trade/DYDX_USDT"
+    },    
+    {
       "name": "secretnetwork",
       "prettyName": "Secret Network",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/secretnetwork/logo_secretnetwork.svg",
