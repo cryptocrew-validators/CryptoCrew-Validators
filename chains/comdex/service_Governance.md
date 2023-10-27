@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 185 | 💎CMDX Airdrop ✅ | Sun Oct 29 2023 13:07:20 UTC | ⏳ NOT VOTED |
+| 185 | 💎CMDX Airdrop ✅ | Sun Oct 29 2023 13:07:20 UTC | ABSTAIN |
 
 ---
 
