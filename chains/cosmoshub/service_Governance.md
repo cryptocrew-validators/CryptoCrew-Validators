@@ -2,22 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 835 | Transfer unclaimed NTRN airdrop tokens to Cosmos Hub | Fri Oct 27 2023 12:48:15 UTC | ✅ YES |
 | 836 | Vitwit's Funding Proposal: Support Resolute | Wed Nov 01 2023 19:08:50 UTC | 🤷‍♂️ ABSTAIN |
 | 837 | Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield. | Fri Nov 03 2023 01:56:30 UTC | ABSTAIN |
 | 838 | 💎ATOM Airdrop ✅ - New Version 2.1 | Tue Nov 07 2023 00:59:52 UTC | ABSTAIN |
 | 839 | Fund 2024 Hub development by Informal Systems and Hypha Worker Co-op | Fri Nov 10 2023 00:08:24 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 835: Transfer unclaimed NTRN airdrop tokens to Cosmos Hub
-- Voting Start: Fri Oct 13 2023 12:48:15 UTC
-- Voting End: Fri Oct 27 2023 12:48:15 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
