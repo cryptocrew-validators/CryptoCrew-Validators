@@ -3,8 +3,8 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 836 | Vitwit's Funding Proposal: Support Resolute | Wed Nov 01 2023 19:08:50 UTC | 🤷‍♂️ ABSTAIN |
-| 837 | Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield. | Fri Nov 03 2023 01:56:30 UTC | ABSTAIN |
-| 838 | 💎ATOM Airdrop ✅ - New Version 2.1 | Tue Nov 07 2023 00:59:52 UTC | ABSTAIN |
+| 837 | Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield. | Fri Nov 03 2023 01:56:30 UTC | ⏳ NOT VOTED |
+| 838 | 💎ATOM Airdrop ✅ - New Version 2.1 | Tue Nov 07 2023 00:59:52 UTC | ⏳ NOT VOTED |
 | 839 | Fund 2024 Hub development by Informal Systems and Hypha Worker Co-op | Fri Nov 10 2023 00:08:24 UTC | ⏳ NOT VOTED |
 
 ---
