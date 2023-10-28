@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 17 | Alliance Whitelist: VT (Virtual Alliance) | Mon Oct 30 2023 15:11:20 UTC | ABSTAIN |
+| 17 | Alliance Whitelist: VT (Virtual Alliance) | Mon Oct 30 2023 15:11:20 UTC | ⏳ NOT VOTED |
 
 ---
 
