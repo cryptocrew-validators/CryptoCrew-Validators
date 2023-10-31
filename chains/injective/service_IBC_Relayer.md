@@ -27,4 +27,3 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
