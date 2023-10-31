@@ -48,6 +48,7 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | osmosis-1 | quasar-1 | icqhost | channel-710 |
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
@@ -72,4 +73,3 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
