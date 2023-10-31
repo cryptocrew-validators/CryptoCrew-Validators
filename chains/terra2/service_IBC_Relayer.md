@@ -18,8 +18,8 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | juno-1 | transfer | channel-2 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
+| neutron-1 | phoenix-1 | transfer | channel-5 |
 | juno-1 | phoenix-1 | transfer | channel-86 |
 | kaiyo-1 | phoenix-1 | transfer | channel-4 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | phoenix-1 | transfer | channel-341 |
-| neutron-1 | phoenix-1 | transfer | channel-5 |
