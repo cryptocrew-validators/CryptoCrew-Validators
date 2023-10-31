@@ -30,6 +30,7 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
@@ -43,4 +44,3 @@ cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
