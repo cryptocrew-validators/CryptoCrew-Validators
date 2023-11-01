@@ -118,6 +118,27 @@
       "trade_url": "https://www.gate.io/en/trade/DYDX_USDT"
     },
     {
+      "name": "celestia",
+      "prettyName": "Celestia",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/celestia/logo_celestia.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/celestia/logo_celestia.png",
+      "symbol": "TIA",
+      "denom": "utia",
+      "decimals": "6",
+      "address": "celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
+      "operator_account": "celestia138jl42zlxue4wpvnugcdqhxjmyd2vpt69gjdfk",
+      "relayer_accounts": [],
+      "stake_link": "https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
+      "rpc": [
+      ],
+      "rest": [
+      ],
+      "apr": "",
+      "coingecko_id": "celestia",
+      "chain_id": "celestia",
+      "trade_url": "https://www.binance.com/en/trade/TIA_USDT"
+    },
+    {
       "name": "secretnetwork",
       "prettyName": "Secret Network",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/secretnetwork/logo_secretnetwork.svg",
