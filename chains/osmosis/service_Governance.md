@@ -2,74 +2,99 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 664 | Upload Ojo Oracle Contract Wasm Code | Sun Oct 29 2023 16:09:34 UTC | ✅ YES |
-| 665 | Celestia Incentive Spend | Sun Oct 29 2023 12:57:06 UTC | 🤷‍♂️ ABSTAIN |
-| 667 | 💎Celestia & ATOM Airdrop ✅ - Try New Feature! | Mon Oct 30 2023 23:59:13 UTC | ⏳ NOT VOTED |
-| 668 | Update stOSMO/OSMO Scaling Factor Controller to Auto Update Contract | Tue Oct 31 2023 21:15:40 UTC | ⏳ NOT VOTED |
+| 670 | Preapprove Incentives for Quote Asset Pairings | Sat Nov 04 2023 10:14:10 UTC | ⏳ NOT VOTED |
+| 671 | Automatic Staking of Osmosis Incentive Rewards | Sat Nov 04 2023 10:29:23 UTC | ⏳ NOT VOTED |
+| 672 | 💎$OSMO Airdrop ✅ - CELESTIA TESTNET  | Sat Nov 04 2023 20:46:57 UTC | ⏳ NOT VOTED |
+| 673 | Expedited: Establish Superfluid Staking for TIA and redirect a portion of Incentives | Wed Nov 01 2023 20:03:01 UTC | ⏳ NOT VOTED |
+| 674 | Expedited: Add TIA as Fee Token | Wed Nov 01 2023 20:06:56 UTC | ⏳ NOT VOTED |
 
 ---
 
-### 🗳 664: Upload Ojo Oracle Contract Wasm Code
-- Voting Start: Tue Oct 24 2023 16:09:34 UTC
-- Voting End: Sun Oct 29 2023 16:09:34 UTC
+### 🗳 670: Preapprove Incentives for Quote Asset Pairings
+- Voting Start: Mon Oct 30 2023 10:14:10 UTC
+- Voting End: Sat Nov 04 2023 10:14:10 UTC
 
 <details>
 <summary>Proposal Text</summary>
  
-## Upload Ojo Oracle Contract Wasm Code
+This proposal signals that Supercharged pools composed of two Quote assets should be automatically included in the Osmosis incentives program. 
 
-### Summary
+## Background 
+This proposal builds on [Proposal 638](https://www.mintscan.io/osmosis/proposals/638), which removed incentives from all non-strategic pairings by declaring that these pairings should be included by default. 
 
-This proposal intends to upload the Ojo Oracle Contract for use by Levana on Osmosis.
+This proposal asks for a narrower scope of strategic pools than Proposal 638 by only automatically making Supercharged pools with pairings of two Quote assets eligible for incentives. 
 
-The Levana team has agreed to use the Ojo Oracle in order to determine the price of assets for their deployment on Osmosis.
+Quote assets on Osmosis are currently: 
+* USDC 
+* USDT 
+* DAI 
+* WBTC 
+* ETH 
+* ATOM 
+* OSMO 
 
-### About Ojo
+Adding incentives encourages the formation of popular non-OSMO trade pairings, such as ATOM/USDC and ETH/WBTC, as well as promoting the creation of alternative OSMO pairings that already exist, such as an OSMO/ATOM pool with 0.05% spread factor. 
 
-Ojo uses a push-model price oracle contract which broadcasts regular price updates. Ojo is able to support a unique class of assets that are native to DEXes like Osmosis, Crescent, and Kujira's FIN. As a result, Ojo is the only oracle which provides pricing info on all of Stride's LSTs and other native tokens to the Cosmos. This also includes our Smart Oracle offering, which provides contextual market data about low-volume assets so that they can engage in DeFi safely.
+Incentivizing these alternative pairings will reduce trader fees for popular trade routes by reducing the requirement for multihop trades, which are no longer discounted, and allowing liquidity providers to expand into lower fee pools without missing out on Osmosis incentives. 
 
-Ojo has already been deployed to these Cosmos L1s: Stargaze, Juno, Comdex, Umee, Secret Network, and Archway.
+This reduction in fees for major routes should further increase the volume through Osmosis and increase taker fees for the protocol. 
 
-### About Levana
+Further proposals will be needed to include new pools in the correct Volume Splitting Gauge for the pairing and adjust the incentives distribution to the new gauge. 
 
-Levana Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers. Levana's perpetual swaps protocol offers a reliable and secure platform for traders and liquidity providers. It ensures fair settlement, minimizes risks, and allows for the development of additional financial protocols on top of tokenized positions.
+Volume Splitting Gauges will continue to have incentives allocated to the pairing according to the methodology defined for pools in [Proposal 578](https://www.mintscan.io/osmosis/proposals/578). 
 
-### Contract Information
-
-Release Version: sdk47-v1.7.0
-
-Code Url : https://github.com/ojo-network/contracts/releases/tag/sdk47-v1.7.0
-
-Compiler Version : cosmwasm/workspace-optimizer:0.12.7
-
-Checksum : 560673bbd71f1bf10326048292313e9c9c0e29cc4f45b2377a4faee1f72c5107
-
-
-### References
-- [Ojo Network docs](https://docs.ojo.network/integrate)
-- [Ojo GitHub](https://github.com/ojo-network)
-- [Ojo Whitepaper](https://github.com/ojo-network/ojo/blob/main/whitepaper.pdf)
-- [Ojo Audit](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Ojo.pdf)
-- [Ojo Docs](https://docs.ojo.network)
+**Forum Thread:** [https://forum.osmosis.zone/t/automated-incentives-for-quote-asset-pairings/480](https://forum.osmosis.zone/t/automated-incentives-for-quote-asset-pairings/480)
 </details>
 
 ---
 
-### 🗳 665: Celestia Incentive Spend
-- Voting Start: Tue Oct 24 2023 12:57:06 UTC
-- Voting End: Sun Oct 29 2023 12:57:06 UTC
+### 🗳 671: Automatic Staking of Osmosis Incentive Rewards
+- Voting Start: Mon Oct 30 2023 10:29:23 UTC
+- Voting End: Sat Nov 04 2023 10:29:23 UTC
 
 <details>
 <summary>Proposal Text</summary>
  
-This proposal requests a bootstrapping incentive spend for the launch of Celestia (TIA) token liquidity on Osmosis.nn## About CelestiannCelestia is a new type of blockchain that aims to launch a new modular paradigm where each chain is minimal in composition and highly specialized to perform specific tasks. This specialization provides breakthroughs in scalability, flexibility, and interoperability, enabling developers to build blockchain applications for mass adoption.nnCelestia is specialized as a data availability blockchain with the TIA token used to pay for blobspace. This allows new blockchains to be spun up without their own native token, instead using TIA similarly to ETH on Ethereum-based rollups. Developers may opt to bootstrap their chain quickly by using TIA as a gas token and currency, in addition to paying for data availability. In this mode, developers can focus on creating their application or execution layer instead of issuing a token right away.nn## Incentive spendnnThis proposal requests a community pool spend to incentivize liquidity on Osmosis for the TIA at the launch of the Celestia chain.nnThis pool will have a 0.05% spread factor Supercharged pool paired with USDC.nnAs of [Proposal 638](https://www.mintscan.io/osmosis/proposals/638), Osmosis no longer allocates ongoing internal incentives to most pools.nnBy spending specific quantities of incentives with a fixed end date, initial liquidity can be crowdsourced for a pool to launch new markets on Osmosis. After the market has been established, these external incentives will end, and the market will reach a sustained level of liquidity through trading fees alone.nn## Why is TIA liquidity important to Osmosis?nnThe modular blockchain paradigm is an extension of the appchain thesis, with each blockchain focusing on its own specialty. As a modular blockchain focussed on data availability, Celestia is deliberately unable to run a native exchange, and so the dominant decentralized exchange for TIA must be run on another chain.nnOsmosis should not only be aiming to be the decentralized exchange of choice for TIA, but also be the connector between all IBC chains, such as Celestia, and all other modular blockchains and rollups that will use the Hyperlane bridge. Building TIA liquidity is the first step towards Osmosis becoming the crossroads of liquidity trading for the emerging modular blockchain ecosystem.nnSee this talk at this year’s Modular conference for more information on Osmosis and Celestia: https://www.youtube.com/watch?v=9DVwjwYvPsknn## Requested SpendnnThis proposal requests that a 300,000 OSMO budget be granted to incentivize liquidity of the TIA token with the following restrictions.nnThe incentives program will start when TIA is listed on Osmosis and freely available to trade.nnThe incentives program will last no more than 50 days to give sufficient time for the liquidity market to establish.nnThe quantity of OSMO has been chosen as a spend equivalent to fifteen days of the redirected incentives removed in [Proposal 638](https://www.mintscan.io/osmosis/proposals/638).nnNew Proof of Stake networks can have issues attracting staking security as well as trading liquidity. Some tokenomic designs have a high level of inflation in order to attract community stakers, but the [initial inflation of the Celestia chain is 8%](https://docs.celestia.org/learn/staking-governance-supply/#inflation), and all tokens, including vested, may be staked. This is comparable to the standard across the Cosmos and should result in an expected staking return of 12%-16% at typical bonding levels for proof of stake chains.nnAll incentives may not be spent as they will be loaded according to the following methodology:nn* Minimum spend of 3000 OSMO per day (150,000 over the period)nn* Maximum spend of 6000 OSMO per day (300,000 over the period)n* Week 1 incentives to be loaded as the maximumn* Week 2 onwards then revise within these restrictions as per the formula:nnValue per day = Celestia Staking rate per day README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh Pool TVL README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh 3nnThis allows Celestia liquidity on Osmosis to be a highly attractive venue for using the token as the pool grows whilst being tempered by both the quantity of Celestia staked and in the event that the pool does not attract the intended liquidity.nn## Funding managementnnThis proposal spends the requested OSMO into a multisig on DAODAO to be loaded to the specified pool by the members according to the above criteria.nnMembers of the [multisig](https://osmosis.daodao.zone/dao/osmo1g6dsaslf2gyzf6yexgmefsf4c4kc7ddu0jh3jtpg4a7x9xxy6z9qttelz7/proposals) are:nn* CryptoCrew (Validator)n* John Galt (Stride Contributor)n* Johnny Wyles (Osmosis Labs)
+This proposal would approve a change to Osmosis tokenomics during a future software upgrade that automatically stakes internal OSMO liquidity rewards to a user’s preferred validator set. 
+
+## Background 
+Under the current tokenomic design, OSMO liquidity rewards are mainly allocated to Supercharged pools, as these cater for the majority of volume, accumulating block by block, requiring a claiming transaction. 
+
+With the increased swap fees generated by the efficiency of concentrated liquidity positions, the fee subsidy rate on Osmosis has fallen below one, meaning that more fees are being generated for liquidity providers than they are receiving from OSMO incentives. 
+
+ [Graph of Fee Subsidy Rate over time](https://imgur.com/a/DDfCHjs) 
+
+This has changed the purpose of OSMO incentives from being the main reason to provide liquidity to being a guide to which pools should have additional liquidity deployed to optimize trading routes. 
+
+Since the loss of the OSMO multihop discount with the implementation of taker fees, this will likely be pairings directly between two non-OSMO assets. Incentivizing these pools to attract liquidity will maximize volume by minimizing trader fees per trade. Therefore, the purpose of OSMO incentives is to bootstrap these pools initially, followed by supplementing any impermanent loss over time by Liquidity Providers. 
+
+Historically, Osmosis governance has been reluctant to allocate OSMO incentives to non-OSMO pools as these liquidity providers have no reason to keep the emissions by compounding back into the pool. This led to governance proposals being passed, such as: 
+* Proposal 128: Add a bias factor to external incentive matching 
+* Proposal 264: External Incentive Matching Reduction within non-OSMO categories 
+* Proposal 273: Phase out Incentives on smaller Other Category pools 
+* Proposal 389: Remove Non-OSMO Pool incentives 
+
+Suppose OSMO incentives are to resume being allocated to non-OSMO pools. In that case, alignment must be encouraged between Liquidity Providers for these pools and Osmosis. Since these liquidity providers are mainly after the trading fees in their pairings, they will likely sell any OSMO rewards for bonus yield rather than engaging with its usage. 
+
+This proposed tokenomic change adds some friction to an undesirable user flow for Osmosis while lowering it for a more desirable one, making the choice of OSMO reward usage a conscious one rather than routine. In the event of losses by liquidity providers, they may unstake these rewards and sell to recoup their losses. Until then, the minority of their rewards will further secure their liquidity on chain and earn them staking rewards, partially composed of the taker fees their liquidity helps generate. 
+
+This awareness of the governance process also encourages active liquidity providers on Osmosis to engage with Osmosis governance to request developmental improvements that improve the platform and attract further liquidity providers. 
+
+## Validator Set Preferences 
+Implemented in v15 of Osmosis, users can choose their preferred validator set. This allows easy distribution of staked tokens amongst a wider variety of validators while maintaining the desired weighting for new delegations by signing a single transaction that delegates to this weighted validator set. Validator sets can also be recommended by third parties to encourage the distribution of stake amongst validators who match criteria that the third party determines, e.g., active governors, relayers, or core stack contributors. 
+
+If a user has not chosen a validator set, the delegation will default to a user’s current staking distribution as the validator set. This would ensure that rewards are still staked to provide security and earn staking rewards, even if the user has not explicitly chosen a validator set. 
+
+For users who have not staked any tokens, the proposal would cause liquidity rewards to require claiming with a vesting period equivalent to the unbonding period. Liquidity providers should choose a preferred validator set so that their liquidity rewards earn yield rather than being merely vested and does not allow liquidity providers to bypass the auto-stake system by not choosing a validator. 
+
+**Forum Thread:** [https://forum.osmosis.zone/t/automatic-staking-of-osmosis-incentive-rewards/481](https://forum.osmosis.zone/t/automatic-staking-of-osmosis-incentive-rewards/481)
 </details>
 
 ---
 
-### 🗳 667: 💎Celestia & ATOM Airdrop ✅ - Try New Feature!
-- Voting Start: Wed Oct 25 2023 23:59:13 UTC
-- Voting End: Mon Oct 30 2023 23:59:13 UTC
+### 🗳 672: 💎$OSMO Airdrop ✅ - CELESTIA TESTNET 
+- Voting Start: Mon Oct 30 2023 20:46:57 UTC
+- Voting End: Sat Nov 04 2023 20:46:57 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
@@ -78,38 +103,57 @@ This proposal requests a bootstrapping incentive spend for the launch of Celesti
 
 ---
 
-### 🗳 668: Update stOSMO/OSMO Scaling Factor Controller to Auto Update Contract
-- Voting Start: Thu Oct 26 2023 21:15:40 UTC
-- Voting End: Tue Oct 31 2023 21:15:40 UTC
+### 🗳 673: Expedited: Establish Superfluid Staking for TIA and redirect a portion of Incentives
+- Voting Start: Tue Oct 31 2023 20:03:01 UTC
+- Voting End: Wed Nov 01 2023 20:03:01 UTC
 
 <details>
 <summary>Proposal Text</summary>
  
-Passing this proposal will change the scaling factor controller address of pool 833 (stOSMO/OSMO) from `osmo1k8c2m5cn322akk5wy8lpt87dd2f4yh9afcd7af` to `osmo12yvjuy69ynnts95ensss4q6480wkvkpnq2z2ntxmfa2qp860xsmq9mzlpn`. 
+On passing, this proposal would enable Superfluid Staking on the TIA/OSMO pools (1248 and 1249) on Osmosis as well as allow the Celestia incentive multisig to spend 50% as many incentives on the TIA/OSMO pool compared to the TIA/USDC pool whilst maintaining the original 6000 OSMO/day cap. 
 
- ## Summary 
+As Osmosis is aiming to be the primary market for Celestia and rollups using the TIA token this proposal is considered to be important for the functioning of this market and so is being proposed as an expedited proposal. 
+## Details 
+**Superfluid** 
+Superfluid proposals ask whether governance trusts in the stability and security of the chain sufficiently to allow their tokens to have an influence on Osmosis governance. 
 
- The stToken Scaling Factor Auto-update Contract makes use of the Stride Redemption Rate Oracle Contract to automatically update the scaling factor for stToken stableswap pools, such as the stOSMO-OSMO pool. 
+This proposal would enable Superfluid Staking in the TIA/OSMO pools (1248 and 1249) with the default 25% discount rate. 
 
- Currently, the scaling factor for stToken stableswap pools is updated every several days using a multisig address controlled by the Stride Association. By using the Auto-update Contract the Stride Association can relinquish this responsibility, which would thereafter be carried out in an automatic and fully trustless manner. 
+**Incentives on OSMO Pool** 
+This proposal will also allow the incentive multisig from [Proposal 655](https://www.mintscan.io/osmosis/proposals/665) to spend up to 
+Value per day = Celestia Staking rate per day README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh Pool TVL README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh 1.5 
+On the TIA/OSMO pools up to a cap of 3000 OSMO/day, with a minimum of 1500 per day. While maintaining the overall cap of 6000 OSMO/day across the two pools from the original proposal. Exempting the initial overlapping period. 
 
- This proposal changes the scaling factor controller address of the stOSMO/OSMO pool from a multisig (`osmo1k8c2m5cn322akk5wy8lpt87dd2f4yh9afcd7af`) to the contract address of the Auto-update contract (`osmo12yvjuy69ynnts95ensss4q6480wkvkpnq2z2ntxmfa2qp860xsmq9mzlpn`). 
+This means that half the incentives being spent on the TIA/USDC pool will be spent on TIA/OSMO pools while retaining the same upper limit in potential spend. Where the 6000 OSMO cap is hit then incentives will be split according to demand of each pool. 
+## About Celestia 
+Celestia is a new type of blockchain that aims to launch a new modular paradigm where each chain is minimal in composition and highly specialized to perform specific tasks. This specialization provides breakthroughs in scalability, flexibility, and interoperability, enabling developers to build blockchain applications for mass adoption. 
 
- ## Details 
+Celestia is specialized as a data availability blockchain with the TIA token used to pay for blobspace. This allows new blockchains to be spun up without their own native token, instead using TIA similarly to ETH on Ethereum-based rollups. Developers may opt to bootstrap their chain quickly by using TIA as a gas token and currency, in addition to paying for data availability. In this mode, developers can focus on creating their application or execution layer instead of issuing a token right away. 
 
- Normal stableswap pools concentrate the two tokens at a 1:1 ratio, which is ideal for USD stablecoins. But Osmosis stableswap pools have an optional scaling factor, which enables the concentration ratio to be continually scaled. This scaling factor is utilized for stToken stableswap pools, because stTokens constantly appreciate in value against their underlying tokens. 
+**Forum Thread**
+[https://forum.osmosis.zone/t/celestia-launch-expedited-proposals/538](https://forum.osmosis.zone/t/celestia-launch-expedited-proposals/538)
+</details>
 
- Currently, it is the responsibility of a Stride Association multisig address to gradually increase the concentration ratios on the stOSMO/OSMO pool. But that process can now be automated. 
+---
 
- For example, the stOSMO:OSMO redemption rate is currently 1:1.1638. The Stride Redemption Rate Oracle Contract feeds this redemption rate to Osmosis. The stToken Scaling Factor Auto-update Contract can then take the stOSMO redemption rate and use it to adjust the scaling factor / concentration ratio on the stOSMO/OSMO stableswap pool. In order to update this ratio, the pool’s controller address must be updated to the contract address. 
+### 🗳 674: Expedited: Add TIA as Fee Token
+- Voting Start: Tue Oct 31 2023 20:06:56 UTC
+- Voting End: Wed Nov 01 2023 20:06:56 UTC
 
- The admin of the auto-update scaling factor contract is the same Stride Association controlled multisig that presently controls the pool’s scaling factor (`osmo1k8c2m5cn322akk5wy8lpt87dd2f4yh9afcd7af`). As a transitionary measure, the admin of the contract has permission to bypass the oracle and update the scaling factor of the pool directly. However, after the oracle and auto-update contract has proven successful, this privilege will be removed from the contract such that the scaling factor can only be updated to values that are inline with the oracle. 
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal would add TIA as a valid fee token for Osmosis transactions. 
 
- **Forum Thead:** [#451 - Change stOSOM Scaling Factor Controller Address to Scaling Factor AutoUpdate Contract](https://forum.osmosis.zone/t/change-stosmo-osmo-scaling-factor-controller-address-to-sttoken-scaling-factor-auto-update-contract/451) 
+This allows users whose only interaction with the Cosmos ecosystem is via Celestia to be able to transact for the first time on Osmosis. 
 
- **Related Forum Posts:** 
+As Osmosis is aiming to be the primary market for Celestia and rollups using the TIA token this proposal is considered to be important for the functioning of this market and so is being proposed as an expedited proposal. 
 
- README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh [#248 - Upload Stride Redemption Rate Oracle Contract](https://forum.osmosis.zone/t/upload-stride-redemption-rate-oracle-contract/248) 
+Fee tokens currently can only be routed through a Classic pool and so this will be routed through pool 1249. 
+## About Celestia 
+Celestia is a new type of blockchain that aims to launch a new modular paradigm where each chain is minimal in composition and highly specialized to perform specific tasks. This specialization provides breakthroughs in scalability, flexibility, and interoperability, enabling developers to build blockchain applications for mass adoption. 
 
- README.md ccv.png ccvalidators_logo.png chains chains.json chains.schema.json cosmoshub_service_Governance.md cryptocrew-validators-logo.png osmosis_service_Governance.md relayers.json relayers.schema.json reports solva_logo.png update_governance_info.sh [#249 - Upload StToken Scaling Factor Auto Update Contract](https://forum.osmosis.zone/t/upload-sttoken-scaling-factor-auto-update-contract/249) 
+Celestia is specialized as a data availability blockchain with the TIA token used to pay for blobspace. This allows new blockchains to be spun up without their own native token, instead using TIA similarly to ETH on Ethereum-based rollups. Developers may opt to bootstrap their chain quickly by using TIA as a gas token and currency, in addition to paying for data availability. In this mode, developers can focus on creating their application or execution layer instead of issuing a token right away. 
+
+ **Forum Thread**: [https://forum.osmosis.zone/t/celestia-launch-expedited-proposals/538](https://forum.osmosis.zone/t/celestia-launch-expedited-proposals/538)
 </details>
