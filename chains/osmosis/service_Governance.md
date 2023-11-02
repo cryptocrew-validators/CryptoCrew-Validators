@@ -2,11 +2,11 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 670 | Preapprove Incentives for Quote Asset Pairings | Sat Nov 04 2023 10:14:10 UTC | ⏳ NOT VOTED |
+| 670 | Preapprove Incentives for Quote Asset Pairings | Sat Nov 04 2023 10:14:10 UTC | ✅ YES |
 | 671 | Automatic Staking of Osmosis Incentive Rewards | Sat Nov 04 2023 10:29:23 UTC | ⏳ NOT VOTED |
 | 672 | 💎$OSMO Airdrop ✅ - CELESTIA TESTNET  | Sat Nov 04 2023 20:46:57 UTC | ⏳ NOT VOTED |
-| 673 | Expedited: Establish Superfluid Staking for TIA and redirect a portion of Incentives | Wed Nov 01 2023 20:03:01 UTC | ⏳ NOT VOTED |
-| 674 | Expedited: Add TIA as Fee Token | Wed Nov 01 2023 20:06:56 UTC | ⏳ NOT VOTED |
+| 673 | Expedited: Establish Superfluid Staking for TIA and redirect a portion of Incentives | Sun Nov 05 2023 20:03:01 UTC | ⏳ NOT VOTED |
+| 674 | Expedited: Add TIA as Fee Token | Sun Nov 05 2023 20:06:56 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -105,7 +105,7 @@ For users who have not staked any tokens, the proposal would cause liquidity rew
 
 ### 🗳 673: Expedited: Establish Superfluid Staking for TIA and redirect a portion of Incentives
 - Voting Start: Tue Oct 31 2023 20:03:01 UTC
-- Voting End: Wed Nov 01 2023 20:03:01 UTC
+- Voting End: Sun Nov 05 2023 20:03:01 UTC
 
 <details>
 <summary>Proposal Text</summary>
@@ -138,7 +138,7 @@ Celestia is specialized as a data availability blockchain with the TIA token use
 
 ### 🗳 674: Expedited: Add TIA as Fee Token
 - Voting Start: Tue Oct 31 2023 20:06:56 UTC
-- Voting End: Wed Nov 01 2023 20:06:56 UTC
+- Voting End: Sun Nov 05 2023 20:06:56 UTC
 
 <details>
 <summary>Proposal Text</summary>
