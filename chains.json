@@ -45,6 +45,7 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
+        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
         "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
         "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
@@ -638,9 +639,7 @@
       "address": "bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "operator_account": "band1ev4ylm9q6kyzsck3t6sw0h86zev95cfxwqhkaf",
       "relayer_accounts": [
-        "band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c",
-        "band1yvejj22t78s2vfk7slty2d7fs5lkc8rn2y3sa5",
-        "band15md2qvgma8lnvqv67w0umu2paqkqkhegq9ewsh"
+        "band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c"
       ],
       "stake_link": "https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
       "rpc": [],
@@ -785,7 +784,10 @@
       "rest": [],
       "apr": "",
       "coingecko_id": "",
-      "chain_id": "empowerchain-1"
+      "chain_id": "empowerchain-1",
+      "relayer_accounts": [
+        "empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw"
+      ]
     },
     {
       "name": "teritori",

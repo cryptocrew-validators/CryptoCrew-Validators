@@ -7,11 +7,13 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw
+band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c
 ```
 
-### Active IBC channels `empowerchain`:
+### Active IBC channels `bandchain`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| empowerchain-1 | osmosis-1 | transfer | channel-1 |
-| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
+| laozi-mainnet | osmosis-1 | transfer | channel-83 |
+| laozi-mainnet | comdex-1 | oracle | channel-96 |
+| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
+| osmosis-1 | laozi-mainnet | transfer | channel-148 |
