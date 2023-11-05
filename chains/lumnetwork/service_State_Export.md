@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [lum-network-1 state export](https://dl.ccvalidators.com/SERVICE/lumnetwork/lum-network-1_export_10049835.json)**
+**Download: [lum-network-1 state export](https://dl.ccvalidators.com/SERVICE/lumnetwork/lum-network-1_export_10064627.json)**
 ---
 
-- last updated: Sat Nov 04 2023 05:56:20
+- last updated: Sun Nov 05 2023 05:43:29
 - chain id: `lum-network-1`
-- export height: `10049835`
+- export height: `10064627`
 - use for: airdrops, local tests, chain recovery
