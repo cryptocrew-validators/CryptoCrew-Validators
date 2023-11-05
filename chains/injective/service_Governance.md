@@ -2,33 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 278 | Trade & Earn Multiplier Updates | Sat Nov 04 2023 18:08:58 UTC | ⏳ NOT VOTED |
-| 279 | Adjust Trade & Earn reward points | Sun Nov 05 2023 08:46:53 UTC | ⏳ NOT VOTED |
-| 280 | Trade and Earn Rewards Pool Update Epochs 104-111 | Sun Nov 05 2023 09:42:40 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 278: Trade & Earn Multiplier Updates
-- Voting Start: Tue Oct 31 2023 18:08:58 UTC
-- Voting End: Sat Nov 04 2023 18:08:58 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-To promote trading activity in new markets, the Injective Labs team proposes to boost the TIA/USDT spot market to 50x while resetting multipliers for all other markets.
-
-Action
-
-By voting YES on this proposal, you agree to update T&E multipliers based on the description above.
-
-By voting NO on the proposal, you do not support updating T&E multipliers based on the description above.
-
-By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
-
-By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
-
-Disclaimer: I am a member of the Injective Labs team.
-</details>
+| 279 | Adjust Trade & Earn reward points | Sun Nov 05 2023 08:46:53 UTC | ABSTAIN |
+| 280 | Trade and Earn Rewards Pool Update Epochs 104-111 | Sun Nov 05 2023 09:42:40 UTC | ABSTAIN |
+| 282 | Disbursement of OLP rewards for epoch ended on 30 October 2023 | Tue Nov 07 2023 09:23:37 UTC | ABSTAIN |
 
 ---
 
@@ -86,4 +62,18 @@ By voting NO on the proposal, you do not support spending 15,912 INJ from the co
 By voting NO WITH VETO, you find this proposal to (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
 
 By voting ABSTAIN, you wish to contribute to quorum but formally decline to vote either for or against the proposal.
+</details>
+
+---
+
+### 🗳 282: Disbursement of OLP rewards for epoch ended on 30 October 2023
+- Voting Start: Fri Nov 03 2023 09:23:37 UTC
+- Voting End: Tue Nov 07 2023 09:23:37 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal confirms the final Open Liquidity Program market maker performance of epoch 25 as well as the distribution of 59995.617 INJ tokens, of which 29995.733 INJ are the OLP vested amount from epoch 22, and 29999.884 INJ are 50% of the OLP rewards allocated to epoch 25. The remaining OLP rewards of epoch 25 will be disbursed along with the rewards disbursement of epoch 28. The recipient must still be an active participant of the program in order to receive future disbursements. For a further breakdown of rewards refer to the IPFS link: https://cloudflare-ipfs.com/ipfs/Qmd4mb3tPBZtpXrx3Bp5z4YA3nS73kq1VzDkKgiKuXt7RE.
+
+Disclaimer: I am a member of the Injective Labs team.
 </details>

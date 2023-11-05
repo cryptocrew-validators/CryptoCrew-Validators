@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 46 | Raise the minimum utilization threshold | Sun Nov 05 2023 11:12:09 UTC | ⏳ NOT VOTED |
+| 46 | Raise the minimum utilization threshold | Sun Nov 05 2023 11:12:09 UTC | ✅ YES |
 
 ---
 
