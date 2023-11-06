@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [empowerchain-1 state export](https://dl.ccvalidators.com/SERVICE/empowerchain/empowerchain-1_export_2002108.json)**
+**Download: [empowerchain-1 state export](https://dl.ccvalidators.com/SERVICE/empowerchain/empowerchain-1_export_2023686.json)**
 ---
 
-- last updated: Sun Nov 05 2023 00:57:22
+- last updated: Mon Nov 06 2023 10:20:50
 - chain id: `empowerchain-1`
-- export height: `2002108`
+- export height: `2023686`
 - use for: airdrops, local tests, chain recovery
