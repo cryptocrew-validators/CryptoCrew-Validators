@@ -20,6 +20,7 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | injective-1 | core-1 | transfer | channel-82 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | cosmoshub-4 | injective-1 | transfer | channel-570 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
