@@ -43,6 +43,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | osmosis-1 | juno-1 | transfer | channel-169 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | phoenix-1 | juno-1 | transfer | channel-2 |
+| phoenix-1 | juno-1 | transfer | channel-33 |
 | secret-4 | juno-1 | transfer | channel-8 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | comdex-1 | juno-1 | transfer | channel-18 |
