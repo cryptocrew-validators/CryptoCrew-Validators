@@ -15,9 +15,9 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
-| osmosis-1 | injective-1 | transfer | channel-122 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-570 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
+| osmosis-1 | injective-1 | transfer | channel-122 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |

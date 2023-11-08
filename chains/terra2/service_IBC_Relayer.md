@@ -26,6 +26,7 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
+| juno-1 | phoenix-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-154 |
 | juno-1 | phoenix-1 | transfer | channel-86 |
 | kaiyo-1 | phoenix-1 | transfer | channel-36 |
 | kaiyo-1 | phoenix-1 | transfer | channel-4 |
