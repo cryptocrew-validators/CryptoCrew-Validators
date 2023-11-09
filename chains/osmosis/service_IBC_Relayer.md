@@ -7,17 +7,21 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
-osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
+| osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
@@ -26,7 +30,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
@@ -46,9 +49,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | quasar-1 | icqhost | channel-710 |
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | vidulum-1 | transfer | channel-124 |
 | osmosis-1 | juno-1 | transfer | channel-168 |
@@ -61,8 +61,11 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | phoenix-1 | transfer | channel-559 |
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| chihuahua-1 | osmosis-1 | transfer | channel-7 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
+| empowerchain-1 | osmosis-1 | transfer | channel-1 |
+| laozi-mainnet | osmosis-1 | transfer | channel-83 |
+| chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
@@ -82,9 +85,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| empowerchain-1 | osmosis-1 | transfer | channel-1 |
-| laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-43 |
