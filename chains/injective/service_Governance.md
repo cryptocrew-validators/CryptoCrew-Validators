@@ -2,78 +2,109 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 279 | Adjust Trade & Earn reward points | Sun Nov 05 2023 08:46:53 UTC | ABSTAIN |
-| 280 | Trade and Earn Rewards Pool Update Epochs 104-111 | Sun Nov 05 2023 09:42:40 UTC | ABSTAIN |
-| 282 | Disbursement of OLP rewards for epoch ended on 30 October 2023 | Tue Nov 07 2023 09:23:37 UTC | ABSTAIN |
+| 284 | Make USDTkv and USDCnb Quoted Markets Eligible for Fee Discounts | Fri Nov 10 2023 22:41:30 UTC | ABSTAIN |
+| 285 | Add USDTkv and USDCnb Quoted Markets to Trade & Earn (T&E) | Fri Nov 10 2023 22:46:30 UTC | ABSTAIN |
+| 286 | Upload Ojo Oracle Contract Wasm Code | Sun Nov 12 2023 17:34:01 UTC | ⏳ NOT VOTED |
 
 ---
 
-### 🗳 279: Adjust Trade & Earn reward points
-- Voting Start: Wed Nov 01 2023 08:46:53 UTC
-- Voting End: Sun Nov 05 2023 08:46:53 UTC
+### 🗳 284: Make USDTkv and USDCnb Quoted Markets Eligible for Fee Discounts
+- Voting Start: Mon Nov 06 2023 22:41:30 UTC
+- Voting End: Fri Nov 10 2023 22:41:30 UTC
 
 <details>
 <summary>Proposal Text</summary>
  
-This proposal, if passed, will adjust the Trade & Earn reward points for the epoch that ended on Oct 25.
+Currently USDTkv markets are not eligible for fee discounts. To incentivize more taker flow, USDTkv markets should be made eligible for fee discounts. In addition, USDCnb should be added to allow for fee discounts in USDCnb markets in the future.
 
-The reward points for the following addresses will be adjusted to zero: inj1mqykgk8glnfevlu7xl0equkaq77djzm2n0g3zp
+By voting YES on this proposal, you agree to make USDTkv and USDCnb quoted markets eligible for fee discounts.
 
-The community has presented evidence that these addresses have unfairly received Trade & Earn rewards through malicious behavior.
+By voting NO on the proposal, you do not support making USDTkv and USDCnb quoted markets eligible for fee discounts.
 
-For more details, refer to the governance forum post: https://gov.injective.network/discussion/13905-adjust-trade-earn-reward-points
+By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
 
-Disclaimer: I am a team member at Injective Labs.
+By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
 </details>
 
 ---
 
-### 🗳 280: Trade and Earn Rewards Pool Update Epochs 104-111
-- Voting Start: Wed Nov 01 2023 09:42:40 UTC
-- Voting End: Sun Nov 05 2023 09:42:40 UTC
+### 🗳 285: Add USDTkv and USDCnb Quoted Markets to Trade & Earn (T&E)
+- Voting Start: Mon Nov 06 2023 22:46:30 UTC
+- Voting End: Fri Nov 10 2023 22:46:30 UTC
 
 <details>
 <summary>Proposal Text</summary>
  
-This proposal defines the rewards allocation of Trade & Earn from epoch 104 to epoch 111, which ends on 14 Nov 2023 09:00 (UTC). The Trade & Earn rewards program was approved by the Injective community to help support the trading volume of Injective and the growth of the exchange dApps built on Injective.
+Currently USDTkv markets are not eligible for T&E rewards because the denom has not been added to the program. To incentivize retail traders to adopt USDTkv, USDTkv markets should be added to T&E. In addition, USDCnb should be added to allow USDCnb markets to partake in T&E in the future.
 
-This proposal, if approved, will extend Trade & Earn rewards for another 8 weeks. The following is the breakdown of the rewards:
+By voting YES on this proposal, you agree to add USDTkv and USDCnb quoted markets to T&E.
 
-- Epoch 104 - 2,034 INJ
+By voting NO on the proposal, you do not support adding USDTkv and USDCnb quoted markets to T&E.
 
-- Epoch 105 - 2,021 INJ
+By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
 
-- Epoch 106 - 2,008 INJ
-
-- Epoch 107 - 1,995 INJ
-
-- Epoch 108 - 1,983 INJ
-
-- Epoch 109 - 1,970 INJ
-
-- Epoch 110 - 1,957 INJ
-
-- Epoch 111 - 1,944 INJ
-
-By voting YES on this proposal, you agree to spending 15,912 INJ from the community pool to promote trading activity on Injective.
-
-By voting NO on the proposal, you do not support spending 15,912 INJ from the community pool to promote trading activity on Injective.
-
-By voting NO WITH VETO, you find this proposal to (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
-
-By voting ABSTAIN, you wish to contribute to quorum but formally decline to vote either for or against the proposal.
-</details>
-
----
-
-### 🗳 282: Disbursement of OLP rewards for epoch ended on 30 October 2023
-- Voting Start: Fri Nov 03 2023 09:23:37 UTC
-- Voting End: Tue Nov 07 2023 09:23:37 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal confirms the final Open Liquidity Program market maker performance of epoch 25 as well as the distribution of 59995.617 INJ tokens, of which 29995.733 INJ are the OLP vested amount from epoch 22, and 29999.884 INJ are 50% of the OLP rewards allocated to epoch 25. The remaining OLP rewards of epoch 25 will be disbursed along with the rewards disbursement of epoch 28. The recipient must still be an active participant of the program in order to receive future disbursements. For a further breakdown of rewards refer to the IPFS link: https://cloudflare-ipfs.com/ipfs/Qmd4mb3tPBZtpXrx3Bp5z4YA3nS73kq1VzDkKgiKuXt7RE.
+By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
 
 Disclaimer: I am a member of the Injective Labs team.
+</details>
+
+---
+
+### 🗳 286: Upload Ojo Oracle Contract Wasm Code
+- Voting Start: Wed Nov 08 2023 17:34:01 UTC
+- Voting End: Sun Nov 12 2023 17:34:01 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+## Upload Ojo Oracle Contract Wasm Code
+
+### Background
+
+The Ojo Network is a Cosmos SDK based appchain which specializes in aggregating data from decentralized sources on the blockchain in a permissionless manner and relaying that information to other blockchains via cross-chain smart contracts and the Inter-Blockchain Communication Protocol (IBC).
+
+### Summary
+
+This proposal intends to upload the Ojo Oracle Contract for use by Levana on Injective.
+
+The Levana team has agreed to use the Ojo Oracle in order to determine the price of assets for their deployment on Injective.
+
+### About Ojo
+
+Ojo uses a push-model price oracle contract which broadcasts regular price updates. Ojo is able to support a unique class of assets that are native to DEXes like Osmosis, Crescent, and Kujira’s FIN. As a result, Ojo is the only oracle which provides pricing info on all of Stride’s LSTs and other native tokens to the Cosmos. This also includes our Smart Oracle offering, which provides contextual market data about low-volume assets so that they can engage in DeFi safely.
+
+Ojo has already been deployed to these Cosmos L1s: Osmosis, Juno, Comdex, Umee, Secret Network, Stargaze, and Archway.
+
+### About Levana
+
+Levana Perps is a protocol for perpetual swaps, which are leveraged trading contracts. It aims to manage risk and provide benefits to both traders and liquidity providers. Levana’s perpetual swaps protocol offers a reliable and secure platform for traders and liquidity providers. It ensures fair settlement, minimizes risks, and allows for the development of additional financial protocols on top of tokenized positions.
+
+### Contract Information
+
+- Release Version: sdk47-v1.7.0
+- Code Url : https://github.com/ojo-network/contracts/releases/tag/sdk47-v1.7.0
+- Compiler Version : cosmwasm/workspace-optimizer:0.12.7
+- Checksum : 560673bbd71f1bf10326048292313e9c9c0e29cc4f45b2377a4faee1f72c5107
+
+### TL;DR
+
+- Ojo is a Cosmos SDK based appchain which employs a push-model price oracle contract that broadcasts price updates.
+- This proposal is to upload the Ojo Oracle Contract for Levana's use on Injective.
+
+By voting YES on this proposal, you agree to uploading Ojo's Oracle Wasm Contract as described in this proposal.
+
+By voting NO on the proposal, you do not support uploading Ojo's Oracle Wasm Contract as described in this proposal.
+
+By voting NO WITH VETO, you find this proposal to be spam/irrelevant/malicious to governance, and contribute to burning 500 INJ deposit if NoWithVeto votes are greater than ⅓ of the total voting power.
+
+By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
+
+### References
+
+- [Forum Post](https://gov.injective.network/discussion/13863-upload-ojo-oracle-contract-wasm-code)
+- [Ojo Network docs](https://docs.ojo.network/integrate)
+- [Ojo GitHub](https://github.com/ojo-network)
+- [Ojo Whitepaper](https://github.com/ojo-network/ojo/blob/main/whitepaper.pdf)
+- [Ojo Audit](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Ojo.pdf)
+- [Ojo Docs](https://docs.ojo.network/)
 </details>
