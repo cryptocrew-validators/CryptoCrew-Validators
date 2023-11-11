@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 kava version: `v0.24.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7276269.tar.lz4)** | Sat Nov 11 2023 07:11:59 UTC | `kava_2222-10` | 13G | 7276269 | `99573061ff04dd968239807ddfa4c061e75c7227f898bb5c2af3bbe01d2c0fc8` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7271394.tar.lz4)** | Fri Nov 10 2023 22:50:06 UTC | `kava_2222-10` | 13G | 7271394 | `570b8eaadf08d46aca31a5b592a0b760c33ca1352553af8467a946e4f6ea7936` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7248730.tar.lz4)** | Thu Nov 09 2023 07:12:03 UTC | `kava_2222-10` | 13G | 7248730 | `6b5dc57defdeab8dee8c4f7b0f23a8460639e94efb9ea0a5bcf01ef1db8b2c34` |
 
 ---
 
@@ -12,7 +12,7 @@ kava version: `v0.24.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7271394.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7276269.tar.lz4"
 cd $HOME/.kava
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7271394.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_7276269.tar.lz4"
 cd $HOME/.kava
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
