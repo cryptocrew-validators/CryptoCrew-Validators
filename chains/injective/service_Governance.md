@@ -2,51 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 284 | Make USDTkv and USDCnb Quoted Markets Eligible for Fee Discounts | Fri Nov 10 2023 22:41:30 UTC | ABSTAIN |
-| 285 | Add USDTkv and USDCnb Quoted Markets to Trade & Earn (T&E) | Fri Nov 10 2023 22:46:30 UTC | ABSTAIN |
-| 286 | Upload Ojo Oracle Contract Wasm Code | Sun Nov 12 2023 17:34:01 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 284: Make USDTkv and USDCnb Quoted Markets Eligible for Fee Discounts
-- Voting Start: Mon Nov 06 2023 22:41:30 UTC
-- Voting End: Fri Nov 10 2023 22:41:30 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Currently USDTkv markets are not eligible for fee discounts. To incentivize more taker flow, USDTkv markets should be made eligible for fee discounts. In addition, USDCnb should be added to allow for fee discounts in USDCnb markets in the future.
-
-By voting YES on this proposal, you agree to make USDTkv and USDCnb quoted markets eligible for fee discounts.
-
-By voting NO on the proposal, you do not support making USDTkv and USDCnb quoted markets eligible for fee discounts.
-
-By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
-
-By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
-</details>
-
----
-
-### 🗳 285: Add USDTkv and USDCnb Quoted Markets to Trade & Earn (T&E)
-- Voting Start: Mon Nov 06 2023 22:46:30 UTC
-- Voting End: Fri Nov 10 2023 22:46:30 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Currently USDTkv markets are not eligible for T&E rewards because the denom has not been added to the program. To incentivize retail traders to adopt USDTkv, USDTkv markets should be added to T&E. In addition, USDCnb should be added to allow USDCnb markets to partake in T&E in the future.
-
-By voting YES on this proposal, you agree to add USDTkv and USDCnb quoted markets to T&E.
-
-By voting NO on the proposal, you do not support adding USDTkv and USDCnb quoted markets to T&E.
-
-By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
-
-By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
-
-Disclaimer: I am a member of the Injective Labs team.
-</details>
+| 286 | Upload Ojo Oracle Contract Wasm Code | Sun Nov 12 2023 17:34:01 UTC | ABSTAIN |
+| 287 | The Injective Oracle module will add a new feed from the Injective Ecosystem. | Tue Nov 14 2023 20:41:57 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -107,4 +64,22 @@ By voting ABSTAIN, you wish to contribute to quorum while formally declining to 
 - [Ojo Whitepaper](https://github.com/ojo-network/ojo/blob/main/whitepaper.pdf)
 - [Ojo Audit](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Ojo.pdf)
 - [Ojo Docs](https://docs.ojo.network/)
+</details>
+
+---
+
+### 🗳 287: The Injective Oracle module will add a new feed from the Injective Ecosystem.
+- Voting Start: Fri Nov 10 2023 20:41:57 UTC
+- Voting End: Tue Nov 14 2023 20:41:57 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal, if passed, will allow a new price feed oracle to be integrated with Injective, the oracle will be maintained by an external party.
+
+As was the case for IIP-118, new proposals will be submitted for additional price feed oracles to be integrated from the same source in the future.
+
+Passing this proposal will enable the community to list new perpetual markets on Injective exchange dApps.
+
+Disclaimer: I am a member of the Injective Labs team.
 </details>

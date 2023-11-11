@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 678 | Routine Incentive Adjustment for November 2023 | Mon Nov 13 2023 10:25:39 UTC | ⏳ NOT VOTED |
+| 678 | Routine Incentive Adjustment for November 2023 | Mon Nov 13 2023 10:25:39 UTC | ✅ YES |
 
 ---
 

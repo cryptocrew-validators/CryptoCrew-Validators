@@ -2,13 +2,13 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 6 | 💎$PASG Airdrop ✅ | Fri Nov 10 2023 02:34:07 UTC | ABSTAIN |
+| 7 | 💎Atom Airdrop ✅  | Fri Nov 17 2023 14:35:32 UTC | ⏳ NOT VOTED |
 
 ---
 
-### 🗳 6: 💎$PASG Airdrop ✅
-- Voting Start: Fri Nov 03 2023 02:34:07 UTC
-- Voting End: Fri Nov 10 2023 02:34:07 UTC
+### 🗳 7: 💎Atom Airdrop ✅ 
+- Voting Start: Fri Nov 10 2023 14:35:32 UTC
+- Voting End: Fri Nov 17 2023 14:35:32 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
