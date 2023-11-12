@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [juno-1 state export](https://dl.ccvalidators.com/SERVICE/juno/juno-1_export_11499912.json)**
+**Download: [juno-1 state export](https://dl.ccvalidators.com/SERVICE/juno/juno-1_export_11526567.json)**
 ---
 
-- last updated: Sat Nov 11 2023 12:10:24
+- last updated: Sun Nov 12 2023 13:50:43
 - chain id: `juno-1`
-- export height: `11499912`
+- export height: `11526567`
 - use for: airdrops, local tests, chain recovery
