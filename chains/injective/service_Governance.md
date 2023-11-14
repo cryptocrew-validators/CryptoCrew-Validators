@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 287 | The Injective Oracle module will add a new feed from the Injective Ecosystem. | Tue Nov 14 2023 20:41:57 UTC | ⏳ NOT VOTED |
+| 287 | The Injective Oracle module will add a new feed from the Injective Ecosystem. | Tue Nov 14 2023 20:41:57 UTC | ABSTAIN |
 
 ---
 

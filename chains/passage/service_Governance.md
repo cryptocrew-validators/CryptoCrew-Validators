@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 7 | 💎Atom Airdrop ✅  | Fri Nov 17 2023 14:35:32 UTC | ⏳ NOT VOTED |
+| 7 | 💎Atom Airdrop ✅  | Fri Nov 17 2023 14:35:32 UTC | ABSTAIN |
 
 ---
 
