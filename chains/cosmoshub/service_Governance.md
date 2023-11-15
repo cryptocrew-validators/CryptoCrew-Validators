@@ -6,6 +6,7 @@
 | 842 | Cosmos Hub adopt the Skip Block SDK | Thu Nov 16 2023 20:08:56 UTC | ✅ YES |
 | 844 | Update Global Fee Parameters | Mon Nov 20 2023 09:16:12 UTC | ✅ YES |
 | 847 | 💎Atom Airdrop ✅ - New Lightning Network  | Mon Nov 20 2023 16:00:18 UTC | ABSTAIN |
+| 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -86,6 +87,17 @@ Proposal to clear the bypass_min_fee_msg_types list to avoid peer-to-peer spams 
 ### 🗳 847: 💎Atom Airdrop ✅ - New Lightning Network 
 - Voting Start: Mon Nov 06 2023 16:00:18 UTC
 - Voting End: Mon Nov 20 2023 16:00:18 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 849: 💎Atom Airdrop ✅ - Discover The Premium Network
+- Voting Start: Tue Nov 14 2023 16:39:28 UTC
+- Voting End: Tue Nov 28 2023 16:39:28 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
