@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 lumd version: `v1.6.2-1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10213489.tar.lz4)** | Wed Nov 15 2023 05:40:05 UTC | `lum-network-1` | 943M | 10213489 | `445180619229646ba95ce34371680b7ac33e952faff0e9e57ff425fff3dfc87b` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10184129.tar.lz4)** | Mon Nov 13 2023 05:40:09 UTC | `lum-network-1` | 1.1G | 10184129 | `5a9a18197fb3fa1f9bdef1d5fc0271b6282ffbfbb4115db0782d7e3deb7776c8` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10169397.tar.lz4)** | Sun Nov 12 2023 06:01:03 UTC | `lum-network-1` | 474M | 10169397 | `2b77f1829fd433de8256da2f06ec557ecaf90e6cd8316aa4595264b80f71029b` |
 
 ---
 
@@ -12,7 +12,7 @@ lumd version: `v1.6.2-1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10184129.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10213489.tar.lz4"
 cd $HOME/.lumd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10184129.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/lumnetwork/lum-network-1_10213489.tar.lz4"
 cd $HOME/.lumd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
