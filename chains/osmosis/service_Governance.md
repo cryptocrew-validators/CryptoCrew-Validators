@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 681 | Remove second stage of USDC incentive migration | Fri Nov 17 2023 10:35:52 UTC | ⏳ NOT VOTED |
-| 682 | Set Osmosis-Specific costs to USDC equivalents | Sat Nov 18 2023 10:31:12 UTC | ⏳ NOT VOTED |
+| 681 | Remove second stage of USDC incentive migration | Fri Nov 17 2023 10:35:52 UTC | ✅ YES |
+| 682 | Set Osmosis-Specific costs to USDC equivalents | Sat Nov 18 2023 10:31:12 UTC | ✅ YES |
 
 ---
 

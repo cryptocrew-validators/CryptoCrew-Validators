@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 288 | PYTH/USDT Prelaunch Perpetual Futures Market Launch and Trade & Earn Multiplier Updates | Sat Nov 18 2023 21:40:41 UTC | ⏳ NOT VOTED |
+| 288 | PYTH/USDT Prelaunch Perpetual Futures Market Launch and Trade & Earn Multiplier Updates | Sat Nov 18 2023 21:40:41 UTC | ABSTAIN |
 
 ---
 

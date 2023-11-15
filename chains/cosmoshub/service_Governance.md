@@ -2,22 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 841 | 💎ATOM Airdrop ✅ - DYDX Migration - nBTC New Feature! | Wed Nov 15 2023 15:00:19 UTC | ABSTAIN |
 | 842 | Cosmos Hub adopt the Skip Block SDK | Thu Nov 16 2023 20:08:56 UTC | ✅ YES |
 | 844 | Update Global Fee Parameters | Mon Nov 20 2023 09:16:12 UTC | ✅ YES |
 | 847 | 💎Atom Airdrop ✅ - New Lightning Network  | Mon Nov 20 2023 16:00:18 UTC | ABSTAIN |
-| 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 841: 💎ATOM Airdrop ✅ - DYDX Migration - nBTC New Feature!
-- Voting Start: Wed Nov 01 2023 15:00:19 UTC
-- Voting End: Wed Nov 15 2023 15:00:19 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
+| 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ABSTAIN |
 
 ---
 

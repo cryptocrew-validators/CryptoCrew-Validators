@@ -2,20 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 282 | 2023-Q4 Testnet Committee | Wed Nov 15 2023 18:12:16 UTC | ⏳ NOT VOTED |
 | 283 | Spend 5k USD in SCRT to incentivize SCRT-USD perps trading on Demex | Sat Nov 18 2023 13:50:26 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 282: 2023-Q4 Testnet Committee
-- Voting Start: Wed Nov 08 2023 18:12:16 UTC
-- Voting End: Wed Nov 15 2023 18:12:16 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal is for on-chain funding of the Testnet committee through the period of November 16, 2023 to February 16, 2024.nThe purpose is to improve and expand the reach of Secret Network by fostering an optimised, fast and reliable space nto enable developers to easily test their contracts in a production-like environment.nTo read the full proposal details and discussion, see: https://forum.scrt.network/t/secret-network-testnet-committee-charter-q4-2023/7129nnTotal ask (3 months): 73021 SCRT @ $0.33, including 5% volatility buffer.
-</details>
 
 ---
 
