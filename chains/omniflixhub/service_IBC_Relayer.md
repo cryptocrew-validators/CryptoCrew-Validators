@@ -15,6 +15,7 @@ omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp
 | --------------- | --------------- | ------------ | ------------------- |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
+| omniflixhub-1 | juno-1 | transfer | channel-20 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
