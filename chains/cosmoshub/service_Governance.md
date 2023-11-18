@@ -2,61 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 842 | Cosmos Hub adopt the Skip Block SDK | Thu Nov 16 2023 20:08:56 UTC | ✅ YES |
 | 844 | Update Global Fee Parameters | Mon Nov 20 2023 09:16:12 UTC | ✅ YES |
 | 847 | 💎Atom Airdrop ✅ - New Lightning Network  | Mon Nov 20 2023 16:00:18 UTC | ABSTAIN |
 | 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ABSTAIN |
-
----
-
-### 🗳 842: Cosmos Hub adopt the Skip Block SDK
-- Voting Start: Thu Nov 02 2023 20:08:56 UTC
-- Voting End: Thu Nov 16 2023 20:08:56 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-### Authors
-
-Sam Hart (Head of Product & Strategy) and Maghnus Mareneck (Co-Founder) of Skip Protocol
-
-### Background
-
-The Cosmos Hub continues to grow as a central trust layer for the AEZ and wider Cosmos. With the expansion of ICS and the addition of Neutron and Stride, the Hub has increased responsibility and importance in the security and extensibility that it can offer to the interchain.
-
-That said, some of the Hub's functionality is still based on dated Cosmos chain design formulated just as IBC was coming online. In particular, the Hub uses a first-come-first-serve, monolithic, and generalized mempool, and does not take advantage of any of the new Cosmos SDK advancements including ABCI++, vote extensions, or enhanced block-production capabilities that Skip has deployed widely across the interchain.
-
-### This has nothing to do with MEV
-
-The Hub, like Bitcoin, currently has very-little-to-no MEV (we checked). This is because Hub transactions are mostly transfers, staking events, and light client updates. This is likely how it will stay, and so **nothing in this proposal suggests introducing a MEV recapture or distribution mechanism.** Rather, it focuses on improving the Hub revenue model by focusing on fee market improvements that have been developed and been battle-tested over the years since the Hub was first deployed.
-
-As an aside, much of Skip's work has transitioned from MEV capture, and into core infrastructure work to improve the Cosmos ecosystem, as demonstrated by the [Skip API](https://api-docs.skip.money/docs) and the [Block SDK](https://docs.skip.money/chains/overview/).
-
-### Proposal
-
-The next planned upgrade of the Cosmos Hub will have [version 0.47](https://github.com/cosmos/gaia/issues/2730), which natively supports ABC++ functionality (but doesn't do anything with it). We propose putting it to work.
-
-Our proposal: After the Cosmos Hub upgrades to Cosmos SDK 0.47 and has proven the software is stable, the subsequent upgrade should adopt the open-source Block SDK, the primary research and development focus of Skip Protocol built on ABCI++, and include the EIP-1559 fee market lane that Skip is building in collaboration with Osmosis Labs.
-
-### Why upgrade?
-
-The current fee market on the Cosmos Hub, controlled by the [Global Fee Module](https://github.com/cosmos/gaia/blob/main/docs/modules/globalfee.md), is very rudimentary and overdue for an upgrade. Transactions are charged a minimum fee irregardless of network load or demand, which is set by governance. Individual validators may choose to responsively increase fees by changing their local configuration. This causes several of problems:
-
-- In order for the Hub to capture additional revenue when the network has any kind of increased load, validators must monitor the mempool and create their own pricing software that resets their configuration file.
-- There is no way for clients to know what fees validators have set locally, meaning wallets and front-ends must guess what fee to set beyond the base fee level. This can cause failed transactions, or transactions may wait in the mempool without ever being accepted. Empirically, most validators use the global fee default, however validators will make such changes to their local fee settings if the Hub ever encounters a spike in transaction load.
-- The Hub is overcharging users for transactions when there is little demand for blockspace and plenty of compute resources available
-- And most importantly, The Hub's performance and liveness will be significantly degraded if there *is* demand for blockspace (e.g. more light client updates from more IBC connections, or many more ICS chains deployed). More concerning is that the Hub is extremely vulnerable to DDoS today.
-
-That is to say, the Hub's fee market needs an update to scale and meet the needs its current security offering. Although the Hub has operated without incident to date, this could change quickly, and it will be too late once it does.
-
-### How EIP-1559 fixes the issues above
-
-EIP-1559 is the adaptive fee market developed within the Ethereum community. Sam Hart worked on EIP-1559 at the earliest stages, helping to validate the design. Additionally, while at the ICF, Sam ran the fee market working group, which mapped out various fee market designs for Cosmos. This work led to changes in Tendermint that allowed for fee prioritization, and generated ideas that would eventually lead to Sommelier's multi-token auction model, as well as Osmosis and Notional's work on cross-chain fee abstraction.
-
-Since deployment EIP-1559 has processed over billions USD-equivalent in fees, and proven itself as a robust and UX-friendly fee market design.
-
-The TLDR of EIP-1559 is that it implements a base
-</details>
+| 851 | Resolution of Proposal 72 Funding Distribution | Thu Nov 30 2023 20:21:54 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -90,4 +39,65 @@ Proposal to clear the bypass_min_fee_msg_types list to avoid peer-to-peer spams 
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 851: Resolution of Proposal 72 Funding Distribution
+- Voting Start: Thu Nov 16 2023 20:21:54 UTC
+- Voting End: Thu Nov 30 2023 20:21:54 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+## Summary
+This proposal is made by [Simply Staking](https://twitter.com/SimplyStaking) to address our situation following the failures of the technical committee appointed by the Cosmos Hub community through Proposal 72.
+
+Proposal 72 was initiated with the goal of financially supporting three teams with early runway to build applications with a vision of becoming consumer chains of the Hub and aligning with the AEZ. A Funding Committee was appointed with the mandate to select suitable projects on behalf of the Hub community, and to administer the distribution of grant funds to these projects. The projects ended up being Neutron, Fairblocks, and our project, now known as EntryPoint.
+
+The agreed-upon structure was to disburse 50% of the funds upon submission of a forum post and the remaining 50% upon achieving consumer chain status. However, as you might have seen from our recent [post](https://forum.cosmos.network/t/proposal-draft-rectifying-proposal-72-committee-actions/11959) the committee did not adhere to this, effectively not upholding the promises made on behalf of the Cosmos Hub community.
+
+## Details
+The following is a succinct timeline of events:
+
+- September 2022: Confirmation was received that Simply Staking qualified for the Proposal 72 grant.
+- October 2022: Our project, EntryPoint, was unveiled at Cosmoverse, with the backing of Prop 72 funding.
+- October 2022 - June 2023: We dedicated ourselves to EntryPoint’s development, consistently updating the committee. No changes or deadlines regarding the funding were communicated.
+- May 2023: A potential conflict of interest was raised by a Committee member.
+- 30 June 2023: Our open letter was shared on the Cosmos Hub forum, and subsequently went unanswered by the Committee.
+- July 2023: Attempts to communicate with the Committee were largely unacknowledged.
+- August 2023: We discovered the promised funds had been returned to the community pool.
+
+As a long-standing Cosmos contributor, Simply Staking has always strived to act professionally and in good faith, even in the face of this disappointing situation we now find ourselves in. We have tried to engage with the Funding Committee, but our efforts have largely been met with either silence or lack of accountability. We have been told by several people in the community that since the funds have been returned to the community pool, we should engage with the community to receive our promised funds.
+
+And so we now turn to you, the Cosmos Hub community, with the hope of resolving this matter once and for all. We understand that the community’s word is final and this will be the last time we address this situation, whatever the outcome may be.
+
+We believe that we have held to our end of the agreement reached with the Proposal 72 committee. We have invested significant time, resources and funds into our project, with a good amount of these resources allocated to understand what a move to ICS entails and how we should be adapting our project’s technical and governance specifications to account for this new paradigm, based on the assumption that we will be receiving funds allocated from Proposal 72.
+
+On the other hand, the Funding Committee chose to ignore the promises made towards us and to simply wash their hands and disburse the funds back to the Hub; notwithstanding the clear financial repercussions of this decision to our team.
+
+Furthermore, this behaviour sets a clear precedent that will make any party wanting to collaborate with the Cosmos Hub think twice lest the promises made by any committee on behalf of the Hub be simply ignored later by the committee itself. This is the last thing the Cosmos Hub needs as it establishes itself as one of the foremost open governance-driven projects in the world.
+
+Therefore, with this proposal, we’re asking the Cosmos community to address the committee’s actions to ensure that past commitments are honoured, and see that the 16,250 ATOM (½ of the earmarked funds) that was pledged by the Funding Committee to support the development of our project is distributed accordingly.
+
+We think that this vote should not be influenced by your opinion of our project. Instead, it should focus on whether the Hub community should uphold the agreement made on its behalf by the Prop 72 Funding Committee—an agreement which the committee did not wish to honour.
+
+Your engagement with this proposal and our prior forum post is genuinely appreciated. Thank you for giving these matters your time and consideration.
+
+## Recipient
+cosmos1ypkeecv2dw58lqsdj5uhkx4ygdl9y3nzhr4jkf
+
+## Amount
+16250 ATOM
+
+## Forum post link
+https://forum.cosmos.network/t/proposal-last-call-rectifying-proposal-72-committee-actions/11959
+
+## Governance votes
+The following items summarize the voting options and what it means for this proposal:
+
+- YES - By voting yes, you agree that Simply Staking should receive the funds it was promised by the technical committee appointed via Proposal 72. The funds will be taken from the community pool and sent directly to the address cosmos1ypkeecv2dw58lqsdj5uhkx4ygdl9y3nzhr4jkf.
+- NO - By voting no, you do not agree that Simply Staking should receive the funds it was promised by the technical committee appointed via Proposal 72.
+- NO WITH VETO - A ‘NoWithVeto’ vote indicates a proposal either (1) is deemed to be spam, i.e., irrelevant to Cosmos Hub, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Cosmos Hub governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the deposits are burned.
+- ABSTAIN - You wish to contribute to quorum but you formally decline to vote either for or against the proposal.
 </details>

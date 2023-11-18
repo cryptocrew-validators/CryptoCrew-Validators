@@ -3,6 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 288 | PYTH/USDT Prelaunch Perpetual Futures Market Launch and Trade & Earn Multiplier Updates | Sat Nov 18 2023 21:40:41 UTC | ABSTAIN |
+| 289 | Upgrade expired IBC client | Tue Nov 21 2023 20:10:09 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -28,4 +29,16 @@ By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant 
 By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
 
 Disclaimer: I am a member of the Injective Labs team.
+</details>
+
+---
+
+### 🗳 289: Upgrade expired IBC client
+- Voting Start: Fri Nov 17 2023 20:10:09 UTC
+- Voting End: Tue Nov 21 2023 20:10:09 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal, if it passes, will update expired IBC client towards Nois. This will re-enable IBC transactions between these two chains once clients on both sides have been updated via governance. Expired IBC client 07-tendermint-201 will be refreshed with active client 07-tendermint-231
 </details>
