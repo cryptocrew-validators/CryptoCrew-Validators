@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 30 | 💎BitSong Airdrop ✅ | Wed Nov 22 2023 15:32:53 UTC | ⏳ NOT VOTED |
+| 30 | 💎BitSong Airdrop ✅ | Wed Nov 22 2023 15:32:53 UTC | ABSTAIN |
 
 ---
 
