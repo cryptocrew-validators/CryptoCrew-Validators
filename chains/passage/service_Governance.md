@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 8 | 💎Passage Airdrop ✅ | Sat Nov 25 2023 03:42:31 UTC | ⏳ NOT VOTED |
+| 8 | 💎Passage Airdrop ✅ | Sat Nov 25 2023 03:42:31 UTC | ABSTAIN |
 
 ---
 

@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 683 | Create Volume Splitting Gauges for Pairings | Fri Nov 24 2023 11:04:54 UTC | ⏳ NOT VOTED |
-| 684 | Create Stable Agnostic Volume Splitting Gauges | Fri Nov 24 2023 11:06:55 UTC | ⏳ NOT VOTED |
+| 683 | Create Volume Splitting Gauges for Pairings | Fri Nov 24 2023 11:04:54 UTC | ✅ YES |
+| 684 | Create Stable Agnostic Volume Splitting Gauges | Fri Nov 24 2023 11:06:55 UTC | ✅ YES |
 
 ---
 

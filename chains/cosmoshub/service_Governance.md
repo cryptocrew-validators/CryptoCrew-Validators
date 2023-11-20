@@ -2,33 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 844 | Update Global Fee Parameters | Mon Nov 20 2023 09:16:12 UTC | ✅ YES |
-| 847 | 💎Atom Airdrop ✅ - New Lightning Network  | Mon Nov 20 2023 16:00:18 UTC | ABSTAIN |
 | 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ABSTAIN |
-| 851 | Resolution of Proposal 72 Funding Distribution | Thu Nov 30 2023 20:21:54 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 844: Update Global Fee Parameters
-- Voting Start: Mon Nov 06 2023 09:16:12 UTC
-- Voting End: Mon Nov 20 2023 09:16:12 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Proposal to clear the bypass_min_fee_msg_types list to avoid peer-to-peer spams as described in https://forum.cosmos.network/t/set-a-minimum-gas-price-of-0-005uatom/11779.
-</details>
-
----
-
-### 🗳 847: 💎Atom Airdrop ✅ - New Lightning Network 
-- Voting Start: Mon Nov 06 2023 16:00:18 UTC
-- Voting End: Mon Nov 20 2023 16:00:18 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
+| 851 | Resolution of Proposal 72 Funding Distribution | Thu Nov 30 2023 20:21:54 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 

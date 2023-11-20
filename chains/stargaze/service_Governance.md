@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 231 | BugFix OnceUpon to v0.13.4 | Tue Nov 21 2023 11:55:56 UTC | ⏳ NOT VOTED |
+| 231 | BugFix OnceUpon to v0.13.4 | Tue Nov 21 2023 11:55:56 UTC | ✅ YES |
 
 ---
 

@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 289 | Upgrade expired IBC client | Tue Nov 21 2023 20:10:09 UTC | ⏳ NOT VOTED |
+| 289 | Upgrade expired IBC client | Tue Nov 21 2023 20:10:09 UTC | ABSTAIN |
 
 ---
 
