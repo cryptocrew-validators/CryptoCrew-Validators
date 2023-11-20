@@ -34,11 +34,11 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
-| juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | phoenix-1 | kaiyo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-28 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
+| juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
