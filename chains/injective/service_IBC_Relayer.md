@@ -26,4 +26,3 @@ inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
