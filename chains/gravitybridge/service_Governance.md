@@ -2,5 +2,16 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
+| 214 | Add ARCH token to Gravity Bridge | Sun Nov 26 2023 18:57:51 UTC | ⏳ NOT VOTED |
+
+---
+
+### 🗳 214: Add ARCH token to Gravity Bridge
+- Voting Start: Tue Nov 21 2023 18:57:51 UTC
+- Voting End: Sun Nov 26 2023 18:57:51 UTC
+
+<details>
+<summary>Proposal Text</summary>
  
-No current active proposals found for gravitybridge
+This proposal connects the ARCH token from Archway to the Gravity Bridge. If accepted, it would establish metadata for the IBC denom ibc/E05A4DAEA5681A09067DC213F32464639D18007215C87964EC45FF876B5EE82B. This metadata would then be usable to deploy an ERC20 representation on Ethereum for the ARCH token. Voters should verify that the ibc hash is on channel-145, that this channel matches the forwarding proposal submitted at the same time, and that the denom trace is for the correct token. This can be done using `gravity query ibc-transfer denom-trace ibc/E05A4DAEA5681A09067DC213F32464639D18007215C87964EC45FF876B5EE82B`
+</details>
