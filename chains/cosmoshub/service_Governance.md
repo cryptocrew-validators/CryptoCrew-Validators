@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ABSTAIN |
 | 851 | Resolution of Proposal 72 Funding Distribution | Thu Nov 30 2023 20:21:54 UTC | 🤷‍♂️ ABSTAIN |
-| 853 | Allocate 600k ATOM for liquid staking growth to pSTAKE | Tue Dec 05 2023 14:45:30 UTC | ⏳ NOT VOTED |
+| 853 | Allocate 600k ATOM for liquid staking growth to pSTAKE | Tue Dec 05 2023 14:45:30 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 

@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 100 | [SIPS-092] Authorize the Turbo EETH Cellar | Thu Nov 23 2023 04:23:14 UTC | ⏳ NOT VOTED |
-| 101 | [SIPS-093] Co-Incentives Proposal for Turbo eETH | Thu Nov 23 2023 04:24:12 UTC | ⏳ NOT VOTED |
+| 100 | [SIPS-092] Authorize the Turbo EETH Cellar | Thu Nov 23 2023 04:23:14 UTC | ✅ YES |
+| 101 | [SIPS-093] Co-Incentives Proposal for Turbo eETH | Thu Nov 23 2023 04:24:12 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
