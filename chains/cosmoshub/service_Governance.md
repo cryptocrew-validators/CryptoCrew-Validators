@@ -4,6 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 849 | 💎Atom Airdrop ✅ - Discover The Premium Network | Tue Nov 28 2023 16:39:28 UTC | ABSTAIN |
 | 851 | Resolution of Proposal 72 Funding Distribution | Thu Nov 30 2023 20:21:54 UTC | 🤷‍♂️ ABSTAIN |
+| 852 | 💎Celestia Airdrop $TIA ✅ Re-vote this ATOM Proposal | Wed Dec 06 2023 14:42:29 UTC | ⏳ NOT VOTED |
 | 853 | Allocate 600k ATOM for liquid staking growth to pSTAKE | Tue Dec 05 2023 14:45:30 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
@@ -76,6 +77,17 @@ The following items summarize the voting options and what it means for this prop
 - NO - By voting no, you do not agree that Simply Staking should receive the funds it was promised by the technical committee appointed via Proposal 72.
 - NO WITH VETO - A ‘NoWithVeto’ vote indicates a proposal either (1) is deemed to be spam, i.e., irrelevant to Cosmos Hub, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Cosmos Hub governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the deposits are burned.
 - ABSTAIN - You wish to contribute to quorum but you formally decline to vote either for or against the proposal.
+</details>
+
+---
+
+### 🗳 852: 💎Celestia Airdrop $TIA ✅ Re-vote this ATOM Proposal
+- Voting Start: Wed Nov 22 2023 14:42:29 UTC
+- Voting End: Wed Dec 06 2023 14:42:29 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
 </details>
 
 ---
