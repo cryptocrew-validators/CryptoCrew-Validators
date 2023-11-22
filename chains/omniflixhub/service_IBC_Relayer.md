@@ -15,4 +15,5 @@ omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp
 | --------------- | --------------- | ------------ | ------------------- |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
+| kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |
