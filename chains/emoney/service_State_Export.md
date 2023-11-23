@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [emoney-3 state export](https://dl.ccvalidators.com/SERVICE/emoney/emoney-3_export_2656536.json)**
+**Download: [emoney-3 state export](https://dl.ccvalidators.com/SERVICE/emoney/emoney-3_export_2659689.json)**
 ---
 
-- last updated: Wed Nov 22 2023 11:19:04
+- last updated: Thu Nov 23 2023 13:20:01
 - chain id: `emoney-3`
-- export height: `2656536`
+- export height: `2659689`
 - use for: airdrops, local tests, chain recovery
