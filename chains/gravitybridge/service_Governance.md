@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 214 | Add ARCH token to Gravity Bridge | Sun Nov 26 2023 18:57:51 UTC | ❌ NO |
 | 215 | Setup Archway IBC Auto-Forwarding | Mon Nov 27 2023 10:35:50 UTC | ✅ YES |
-| 216 | Add ARCH token to Gravity Bridge | Mon Nov 27 2023 16:23:05 UTC | ✅ YES |
+| 216 | Add ARCH token to Gravity Bridge | Mon Nov 27 2023 16:23:05 UTC | ⏳ NOT VOTED |
 
 ---
 
