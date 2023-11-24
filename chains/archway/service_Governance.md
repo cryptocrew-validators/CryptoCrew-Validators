@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 32 |  Budget increase and restructure of Liquidity Council | Thu Nov 30 2023 14:03:55 UTC | ⏳ NOT VOTED |
+| 32 |  Budget increase and restructure of Liquidity Council | Thu Nov 30 2023 14:03:55 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
