@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 52 | Migrate contracts (v0.3.5) | Fri Nov 24 2023 14:03:47 UTC | ⏳ NOT VOTED |
+| 52 | Migrate contracts (v0.3.5) | Fri Nov 24 2023 14:03:47 UTC | ✅ YES |
 
 ---
 
