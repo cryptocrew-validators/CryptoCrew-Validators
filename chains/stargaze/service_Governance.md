@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 232 | BugFix OnceUpon to v0.14.2 | Mon Nov 27 2023 14:48:45 UTC | ⏳ NOT VOTED |
-| 233 | Rewarding reports of stolen collections | Mon Nov 27 2023 15:31:39 UTC | ⏳ NOT VOTED |
+| 232 | BugFix OnceUpon to v0.14.2 | Mon Nov 27 2023 14:48:45 UTC | ✅ YES |
+| 233 | Rewarding reports of stolen collections | Mon Nov 27 2023 15:31:39 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
