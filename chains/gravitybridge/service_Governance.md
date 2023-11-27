@@ -2,20 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 215 | Setup Archway IBC Auto-Forwarding | Mon Nov 27 2023 10:35:50 UTC | ✅ YES |
 | 216 | Add ARCH token to Gravity Bridge | Mon Nov 27 2023 16:23:05 UTC | ✅ YES |
-
----
-
-### 🗳 215: Setup Archway IBC Auto-Forwarding
-- Voting Start: Wed Nov 22 2023 10:35:50 UTC
-- Voting End: Mon Nov 27 2023 10:35:50 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal, if accepted, would establish the bech32 address prefix 'archway' as the IBC Auto-Forwarding prefix for `SendToCosmos` transactions. Any `SendToCosmos` transactions whose `CosmosReceiver` field begins with 'archway1' will be automatically forwarded to Archway Network over the IBC channel channel-145. Failed IBC transactions will result in tokens transferred to the equivalent address in the Gravity Bridge chain, requiring user intervention with the same Cosmos private key. When evaluating this proposal, the community should be confident that channel-145 is the official channel leading to the Archway Network, and that is the correct prefix for the Archway account addresses.
-</details>
 
 ---
 
