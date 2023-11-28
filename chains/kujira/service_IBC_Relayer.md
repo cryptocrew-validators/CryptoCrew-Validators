@@ -42,5 +42,4 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
