@@ -16,6 +16,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
+| juno-1 | phoenix-1 | transfer | channel-153 |
 | juno-1 | bitsong-2b | transfer | channel-17 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | juno-1 | gravity-bridge-3 | transfer | channel-31 |

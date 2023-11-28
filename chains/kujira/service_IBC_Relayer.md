@@ -30,7 +30,6 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
@@ -43,4 +42,5 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
+| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
