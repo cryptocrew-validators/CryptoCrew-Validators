@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 199 | 💎New Upgrade - Comdex ✅  | Wed Nov 29 2023 20:33:21 UTC | ⏳ NOT VOTED |
+| 199 | 💎New Upgrade - Comdex ✅  | Wed Nov 29 2023 20:33:21 UTC | ABSTAIN |
 
 ---
 
