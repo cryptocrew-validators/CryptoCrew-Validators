@@ -3,6 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 200 | Proposal to add liquidity mining incentives to cSwap pools : phase-41 | Sat Dec 02 2023 14:17:30 UTC | 🤷‍♂️ ABSTAIN |
+| 201 | New Comdex Halving ✅ - Set the max. Inflation Rate to 0% | Sat Dec 02 2023 18:34:11 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -29,4 +30,15 @@ The pools would be incentivised as per the discussion on the forum.
  - By voting NO, you signal that incentives should not be distributed as described in the proposal. 
  - By voting ABSTAIN, you formally decline to vote either for or against the proposal.
  - By voting, NOWITHVETO expresses that you strongly disagree and would like to see depositors penalised by revocation of their proposal deposit and contribute towards an automatic 1/3 veto threshold.
+</details>
+
+---
+
+### 🗳 201: New Comdex Halving ✅ - Set the max. Inflation Rate to 0%
+- Voting Start: Thu Nov 30 2023 18:34:11 UTC
+- Voting End: Sat Dec 02 2023 18:34:11 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
 </details>
