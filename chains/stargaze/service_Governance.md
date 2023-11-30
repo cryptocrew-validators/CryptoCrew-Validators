@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 234 | Discontinue the Pablo Dex Incentives | Fri Dec 01 2023 13:47:56 UTC | ⏳ NOT VOTED |
+| 234 | Discontinue the Pablo Dex Incentives | Fri Dec 01 2023 13:47:56 UTC | ✅ YES |
 
 ---
 

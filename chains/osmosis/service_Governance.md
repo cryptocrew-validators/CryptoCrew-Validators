@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 688 | Signaling Proposal: Verify TORI Token as a Verified Asset on Osmosis | Sat Dec 02 2023 10:50:06 UTC | ✅ YES |
 | 689 | Transfer Incentives to Created Volume Splitting Gauges | Sat Dec 02 2023 16:08:56 UTC | ✅ YES |
-| 690 | Modification of TIA incentive allocation | Sun Dec 03 2023 13:42:12 UTC | ⏳ NOT VOTED |
+| 690 | Modification of TIA incentive allocation | Sun Dec 03 2023 13:42:12 UTC | ✅ YES |
 
 ---
 
