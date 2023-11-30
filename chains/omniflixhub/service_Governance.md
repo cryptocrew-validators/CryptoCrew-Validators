@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 18 | New FLIX Halving ✅ - Set the max. Inflation Rate to 70% | Fri Dec 08 2023 15:03:54 UTC | ⏳ NOT VOTED |
+| 18 | New FLIX Halving ✅ - Set the max. Inflation Rate to 70% | Fri Dec 08 2023 15:03:54 UTC | ABSTAIN |
 
 ---
 
