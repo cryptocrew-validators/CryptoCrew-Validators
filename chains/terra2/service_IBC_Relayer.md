@@ -33,4 +33,3 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | phoenix-1 | transfer | channel-341 |
-| neutron-1 | phoenix-1 | transfer | channel-5 |
