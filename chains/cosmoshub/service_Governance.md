@@ -6,6 +6,7 @@
 | 852 | 💎Celestia Airdrop $TIA ✅ Re-vote this ATOM Proposal | Wed Dec 06 2023 14:42:29 UTC | ABSTAIN |
 | 853 | Allocate 600k ATOM for liquid staking growth to pSTAKE | Tue Dec 05 2023 14:45:30 UTC | 🤷‍♂️ ABSTAIN |
 | 855 | IBC Client Update: Expired Client to Realio Chain | Tue Dec 12 2023 09:34:21 UTC | ⏳ NOT VOTED |
+| 856 | Funding the first inscription COSS on Cosmos | Thu Dec 14 2023 13:34:47 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -101,4 +102,16 @@ n# SummarynnThis community spend proposal is for growing ATOM liquid staking wit
 <summary>Proposal Text</summary>
  
 Due to an unforeseen relayer issue that resulted in the subject client exceeding the trusting period, the IBC client 07-tendermint-1157 used by channel-726 for ATOM transfers from Cosmoshub to Realio is currently in an expired state. If accepted, this proposal will update client 07-tendermint-1157 with the data from 07-tendermint-1189 which is created newly, so that users may continue to take advantage of both the established channels.
+</details>
+
+---
+
+### 🗳 856: Funding the first inscription COSS on Cosmos
+- Voting Start: Thu Nov 30 2023 13:34:47 UTC
+- Voting End: Thu Dec 14 2023 13:34:47 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+## SummarynProposal to request for 20000 ATOM from the community spending pool to funding the first inscription protocol (crc-20)non Cosmos.nn## DetailsnCOSS（crc-20）is designed to build an inscription system on cosmos. It will integrate trading, minting and a complete setnof functions.nnOur team believes that in order to improve the ecosystem on cosmos we need to build an inscription system. Since cosmosndoesn't support smart contract, it's a perfect fit for an inscription system to be built as a part of the existingnecosystem.nnInscriptions will dramatically increase the utilization of Atom and bring in a lot of extra gas fees, making the cosmosnchain assets more diversified. For this reason, after months of work we have created a crc-20 standard and will releasenthe first version of the system in the next few days.nn### Tasksn1. Open inscription market, minting function, indexing function, transfer functionn2. Create IBC function for inscriptions so that it can interconnect with other blockchains.n3. Use the funding provided on other cosmos chains to provide liquidity for inscription tokens.n4. Achieve complete decentralization of the inscription system and explore the possibility of using inscription innconjunction with ICS.n5. Explore more possibilities for inscriptions.nn50% of the funding will be used to complete the development and maintenance of the above tasks.nThe other 50% will be used to improve the ecosystem and provide liquidity for the inscription tokens.nnRegardless of whether or not the proposal passes, we will do our best to promote the development of the inscriptionnecosystem at Cosmos.nn## Forum post linknhttps://forum.cosmos.network/t/proposal-funding-the-first-inscription-coss-on-cosmos/12317nn## IPFS pin of proposal on-forumnhttps://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmZ4NWg9Xy379vU6me4wRTyEjJmHB3BzXWX9opciRsS2gWnn## Recipientncosmos1r9759z2qa4yaajk85d95y2kfmhs277uh3efv2ann## Amountn20000 ATOMnn## Governance VotesnThe following items summarize the voting options and what it means for this proposal:nnYES - You approve this community spend proposal to deposit 20000 ATOM to the team to build the Cosmos inscription.nnNO - You disapprove of this community spend proposal in its current form.nnNO WITH VETO - You are strongly opposed to this change and will exit the network if passed.nnABSTAIN - You are impartial to the outcome of the proposal.nn## Websitenhttps://coss.inknn## Twitternhttps://twitter.com/coss_market
 </details>
