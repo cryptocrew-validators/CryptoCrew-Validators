@@ -5,7 +5,7 @@
 | 852 | 💎Celestia Airdrop $TIA ✅ Re-vote this ATOM Proposal | Wed Dec 06 2023 14:42:29 UTC | ABSTAIN |
 | 853 | Allocate 600k ATOM for liquid staking growth to pSTAKE | Tue Dec 05 2023 14:45:30 UTC | 🤷‍♂️ ABSTAIN |
 | 855 | IBC Client Update: Expired Client to Realio Chain | Tue Dec 12 2023 09:34:21 UTC | ⏳ NOT VOTED |
-| 856 | Funding the first inscription COSS on Cosmos | Thu Dec 14 2023 13:34:47 UTC | 🤷‍♂️ ABSTAIN |
+| 856 | Funding the first inscription COSS on Cosmos | Thu Dec 14 2023 13:34:47 UTC | ⏳ NOT VOTED |
 
 ---
 
