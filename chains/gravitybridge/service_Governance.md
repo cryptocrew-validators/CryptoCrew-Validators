@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 217 | COMMUNITY SPEND: BOUNTY and INCENTIVES | Sun Dec 03 2023 06:10:00 UTC | 🤷‍♂️ ABSTAIN |
+| 217 | COMMUNITY SPEND: BOUNTY and INCENTIVES | Sun Dec 03 2023 06:10:00 UTC | ⏳ NOT VOTED |
 
 ---
 
