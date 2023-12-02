@@ -4,6 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 201 | New Comdex Halving ✅ - Set the max. Inflation Rate to 0% | Sat Dec 02 2023 18:34:11 UTC | ⏳ NOT VOTED |
 | 202 | Next Comdex Halving ✅ - Set the max. Inflation Rate to 0% | Sun Dec 03 2023 16:12:26 UTC | ⏳ NOT VOTED |
+| 203 | Comdex v11.5.0 Upgrade | Mon Dec 04 2023 18:14:53 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -25,4 +26,16 @@
 <details>
 <summary>Text hidden (blacklist match)</summary>
  
+</details>
+
+---
+
+### 🗳 203: Comdex v11.5.0 Upgrade
+- Voting Start: Sat Dec 02 2023 18:14:53 UTC
+- Voting End: Mon Dec 04 2023 18:14:53 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Read about Comdex Mainnet Upgrade: www.TerraWeb.atnn- more info: www.TerraWeb.at
 </details>
