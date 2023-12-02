@@ -16,6 +16,5 @@ celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s
 | --------------- | --------------- | ------------ | ------------------- |
 | celestia | osmosis-1 | transfer | channel-2 |
 | celestia | neutron-1 | transfer | channel-8 |
-| injective-1 | celestia | transfer | channel-152 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | neutron-1 | celestia | transfer | channel-35 |
