@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 293 | Changes to Certain Markets on Exchange dApps on Injective | Tue Dec 05 2023 10:26:01 UTC | ⏳ NOT VOTED |
-| 294 | Disbursement of OLP rewards for epoch ended on 27 November 2023 | Tue Dec 05 2023 12:19:31 UTC | ⏳ NOT VOTED |
+| 293 | Changes to Certain Markets on Exchange dApps on Injective | Tue Dec 05 2023 10:26:01 UTC | ABSTAIN |
+| 294 | Disbursement of OLP rewards for epoch ended on 27 November 2023 | Tue Dec 05 2023 12:19:31 UTC | ABSTAIN |
 
 ---
 
