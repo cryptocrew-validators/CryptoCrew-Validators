@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 203 | Comdex v11.5.0 Upgrade | Mon Dec 04 2023 18:14:53 UTC | ⏳ NOT VOTED |
-| 204 | 💎ATOM Airdrop ✅  | Tue Dec 05 2023 02:56:23 UTC | ⏳ NOT VOTED |
+| 203 | Comdex v11.5.0 Upgrade | Mon Dec 04 2023 18:14:53 UTC | ABSTAIN |
+| 204 | 💎ATOM Airdrop ✅  | Tue Dec 05 2023 02:56:23 UTC | ABSTAIN |
 
 ---
 
