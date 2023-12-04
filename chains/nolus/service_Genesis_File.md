@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/nolus/genesis.json)**
 ---
 
-- last updated: Mon Dec 04 2023 01:53:13
+- last updated: Mon Dec 04 2023 22:51:23
 - chain id: `pirin-1`
 
 ## Instructions
