@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 102 | [SIPS-095] Authorize the Turbo stETH (stETH Deposit) Cellar | Wed Dec 06 2023 15:44:01 UTC | ✅ YES |
-| 103 | [SIPS-096] Real Yield ETH Cellar Incentives | Wed Dec 06 2023 15:45:56 UTC | ⏳ NOT VOTED |
+| 103 | [SIPS-096] Real Yield ETH Cellar Incentives | Wed Dec 06 2023 15:45:56 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
