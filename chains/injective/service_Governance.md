@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 293 | Changes to Certain Markets on Exchange dApps on Injective | Tue Dec 05 2023 10:26:01 UTC | ABSTAIN |
 | 294 | Disbursement of OLP rewards for epoch ended on 27 November 2023 | Tue Dec 05 2023 12:19:31 UTC | ABSTAIN |
-| 295 | Change in Staking Thresholds for Trading Fee Discounts | Fri Dec 08 2023 17:14:50 UTC | ⏳ NOT VOTED |
+| 295 | Change in Staking Thresholds for Trading Fee Discounts | Fri Dec 08 2023 17:14:50 UTC | ABSTAIN |
 
 ---
 
