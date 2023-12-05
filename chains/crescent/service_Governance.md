@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 291 | 💎LUNA Classic to $0.01 cents ✅  | Fri Dec 08 2023 00:18:43 UTC | ⏳ NOT VOTED |
+| 291 | 💎LUNA Classic to $0.01 cents ✅  | Fri Dec 08 2023 00:18:43 UTC | ABSTAIN |
 
 ---
 
