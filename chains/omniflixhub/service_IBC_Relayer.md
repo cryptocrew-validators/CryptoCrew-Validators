@@ -13,10 +13,10 @@ omniflix15md2qvgma8lnvqv67w0umu2paqkqkhegy5g4lp
 ### Active IBC channels `omniflixhub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
-| omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
-| chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
+| omniflixhub-1 | juno-1 | transfer | channel-20 |
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
-| kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
+| juno-1 | omniflixhub-1 | transfer | channel-78 |
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |

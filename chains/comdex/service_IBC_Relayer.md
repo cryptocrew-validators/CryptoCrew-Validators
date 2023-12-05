@@ -19,7 +19,6 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
-| chihuahua-1 | comdex-1 | transfer | channel-37 |
 | core-1 | comdex-1 | transfer | channel-71 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | juno-1 | comdex-1 | transfer | channel-36 |
