@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 691 | Nois - Store the Randdrop Contract | Tue Dec 05 2023 20:31:07 UTC | ⏳ NOT VOTED |
+| 691 | Nois - Store the Randdrop Contract | Tue Dec 05 2023 20:31:07 UTC | ✅ YES |
 | 692 | Routine Incentives Adjustment for December 2023 | Sat Dec 09 2023 12:07:43 UTC | ⏳ NOT VOTED |
 
 ---
