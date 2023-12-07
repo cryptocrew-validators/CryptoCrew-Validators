@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
-inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 ```
 
 ### Active IBC channels `injective`:
@@ -23,7 +22,6 @@ inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | canto_7700-1 | transfer | channel-99 |
-| injective-1 | celestia | transfer | channel-152 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
