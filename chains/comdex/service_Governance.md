@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 206 | 💎CMDX Airdrop ✅ - Limited Supply | Fri Dec 08 2023 18:46:59 UTC | ⏳ NOT VOTED |
-| 208 | 💎CMDX Airdrop ✅ | Sat Dec 09 2023 15:02:18 UTC | ⏳ NOT VOTED |
+| 206 | 💎CMDX Airdrop ✅ - Limited Supply | Fri Dec 08 2023 18:46:59 UTC | ABSTAIN |
+| 208 | 💎CMDX Airdrop ✅ | Sat Dec 09 2023 15:02:18 UTC | ABSTAIN |
 
 ---
 
