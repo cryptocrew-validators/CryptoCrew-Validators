@@ -2,9 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 58 | null | Sat Dec 09 2023 13:30:36 UTC | ⏳ NOT VOTED |
-| 59 | null | Sat Dec 09 2023 13:58:56 UTC | ⏳ NOT VOTED |
-| 60 | XPRT Liquidity Bootstrapping (XLB) incentives on Dexter and Osmosis - December 2023 | Sat Dec 09 2023 21:30:58 UTC | ⏳ NOT VOTED |
+| 58 | null | Sat Dec 09 2023 13:30:36 UTC | ABSTAIN |
+| 59 | null | Sat Dec 09 2023 13:58:56 UTC | ABSTAIN |
+| 60 | XPRT Liquidity Bootstrapping (XLB) incentives on Dexter and Osmosis - December 2023 | Sat Dec 09 2023 21:30:58 UTC | ABSTAIN |
 
 ---
 
