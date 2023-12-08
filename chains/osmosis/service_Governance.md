@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 692 | Routine Incentives Adjustment for December 2023 | Sat Dec 09 2023 12:07:43 UTC | ✅ YES |
+| 692 | Routine Incentives Adjustment for December 2023 | Sat Dec 09 2023 12:07:43 UTC | ⏳ NOT VOTED |
 | 693 | Nois - Store the Nois Proxy Contract | Mon Dec 11 2023 13:36:58 UTC | ⏳ NOT VOTED |
 
 ---
