@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 292 | BINANCE CEO to Lead Revival Efforts for LUNA CLASSIC | Sun Dec 10 2023 16:53:16 UTC | ⏳ NOT VOTED |
+| 292 | BINANCE CEO to Lead Revival Efforts for LUNA CLASSIC | Sun Dec 10 2023 16:53:16 UTC | ABSTAIN |
 
 ---
 
