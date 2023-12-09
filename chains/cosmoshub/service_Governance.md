@@ -3,8 +3,8 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 855 | IBC Client Update: Expired Client to Realio Chain | Tue Dec 12 2023 09:34:21 UTC | ❌ NO |
-| 856 | Funding the first inscription COSS on Cosmos | Thu Dec 14 2023 13:34:47 UTC | 🤷‍♂️ ABSTAIN |
-| 858 | Allocate 900k ATOM as Cosmos Hub Protocol Owned Liquidity in the Osmosis stATOM/ATOM pool | Sat Dec 16 2023 23:57:26 UTC | 🤷‍♂️ ABSTAIN |
+| 856 | Funding the first inscription COSS on Cosmos | Thu Dec 14 2023 13:34:47 UTC | ⏳ NOT VOTED |
+| 858 | Allocate 900k ATOM as Cosmos Hub Protocol Owned Liquidity in the Osmosis stATOM/ATOM pool | Sat Dec 16 2023 23:57:26 UTC | ⏳ NOT VOTED |
 | 860 | Signaling Proposal - Claw back unvested funds from Proposal 104 | Wed Dec 20 2023 23:13:40 UTC | ⏳ NOT VOTED |
 
 ---
