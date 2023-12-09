@@ -2,19 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 208 | 💎CMDX Airdrop ✅ | Sat Dec 09 2023 15:02:18 UTC | ABSTAIN |
 | 209 | IBC Client Update towards Kujira | Sun Dec 10 2023 18:15:44 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 208: 💎CMDX Airdrop ✅
-- Voting Start: Thu Dec 07 2023 15:02:18 UTC
-- Voting End: Sat Dec 09 2023 15:02:18 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
