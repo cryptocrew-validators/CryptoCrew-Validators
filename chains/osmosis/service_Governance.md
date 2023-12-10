@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 693 | Nois - Store the Nois Proxy Contract | Mon Dec 11 2023 13:36:58 UTC | ⏳ NOT VOTED |
+| 693 | Nois - Store the Nois Proxy Contract | Mon Dec 11 2023 13:36:58 UTC | ✅ YES |
 | 694 | Sail with the Whale | Thu Dec 14 2023 11:49:11 UTC | ⏳ NOT VOTED |
 
 ---
