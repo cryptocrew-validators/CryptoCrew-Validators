@@ -6,6 +6,7 @@
 | 856 | Funding the first inscription COSS on Cosmos | Thu Dec 14 2023 13:34:47 UTC | 🤷‍♂️ ABSTAIN |
 | 858 | Allocate 900k ATOM as Cosmos Hub Protocol Owned Liquidity in the Osmosis stATOM/ATOM pool | Sat Dec 16 2023 23:57:26 UTC | 🤷‍♂️ ABSTAIN |
 | 860 | Signaling Proposal - Claw back unvested funds from Proposal 104 | Wed Dec 20 2023 23:13:40 UTC | ⏳ NOT VOTED |
+| 861 | Increase Active Set of Validators from 180 to 190 | Mon Dec 25 2023 19:28:20 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -58,4 +59,16 @@ This proposal is a signalling proposal to reclaim the unvested (i.e. still locke
 
 The full proposal with Notional's comments can be found in the Forum:
 https://forum.cosmos.network/t/proposal-draft-signaling-proposal-claw-back-unvested-funds-from-proposal-104/12379/1
+</details>
+
+---
+
+### 🗳 861: Increase Active Set of Validators from 180 to 190
+- Voting Start: Mon Dec 11 2023 19:28:20 UTC
+- Voting End: Mon Dec 25 2023 19:28:20 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+There is currently >700k ATOM sitting just outside of the active set of 180 validators (not including jailed validators). Increasing the active set from 180 to 190 would allow all of this stake to participate in consensus, further decentralizing Cosmos Hub. Additionally, all validators that would be added to the active set should be profitable, incentivizing them to perform properly and add to the security of Cosmos Hub. For those worried about this change decreasing your rewards, an additional 2,000,000 ATOM in the active set would change the APY from 13.98% to 13.86% (and there will be far less than 2,000,000 ATOM added), so any decrease in rewards will be relatively insignificant.
 </details>
