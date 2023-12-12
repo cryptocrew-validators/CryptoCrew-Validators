@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 54 | Pirin v0.4.2 | Tue Dec 12 2023 17:05:12 UTC | ⏳ NOT VOTED |
+| 54 | Pirin v0.4.2 | Tue Dec 12 2023 17:05:12 UTC | ✅ YES |
 
 ---
 
