@@ -18,6 +18,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | nomic-stakenet-3 | transfer | channel-6897 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
@@ -63,7 +64,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | quasar-1 | icqhost | channel-712 |
 | osmosis-1 | pacific-1 | transfer | channel-782 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | icacontroller-osmosis-1.DELEGATION | channel-42 |
@@ -106,4 +107,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | quasar-1 | osmosis-1 | wasm.quasar1ery8l6jquynn9a4cz2pff6khg8c68f7urt33l5n9dng2cwzz4c4qxhm6a2 | channel-35 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
