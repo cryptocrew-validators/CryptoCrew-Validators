@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 33 | Astrovault - POL for Airdrop | Thu Dec 14 2023 19:24:01 UTC | ⏳ NOT VOTED |
-| 34 | [Funding Proposal] The Geccoverse - A TxArt Pilot Project exploring the intersection between Art and Technology from a story-first paradigm | Fri Dec 15 2023 17:01:52 UTC | ⏳ NOT VOTED |
+| 33 | Astrovault - POL for Airdrop | Thu Dec 14 2023 19:24:01 UTC | 🤷‍♂️ ABSTAIN |
+| 34 | [Funding Proposal] The Geccoverse - A TxArt Pilot Project exploring the intersection between Art and Technology from a story-first paradigm | Fri Dec 15 2023 17:01:52 UTC | 🤷‍♂️ ABSTAIN |
 | 35 | Nomos multisig solutions | Wed Dec 20 2023 11:53:39 UTC | ⏳ NOT VOTED |
 
 ---
