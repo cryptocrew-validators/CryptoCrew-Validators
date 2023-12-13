@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 19 | USDC.axl by OmniFLIX Blockchain ✅ | Tue Dec 19 2023 00:01:40 UTC | ⏳ NOT VOTED |
+| 19 | USDC.axl by OmniFLIX Blockchain ✅ | Tue Dec 19 2023 00:01:40 UTC | ABSTAIN |
 
 ---
 
