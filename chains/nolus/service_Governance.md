@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 55 | Pin new contract codes | Thu Dec 14 2023 13:51:01 UTC | ⏳ NOT VOTED |
+| 55 | Pin new contract codes | Thu Dec 14 2023 13:51:01 UTC | ✅ YES |
 
 ---
 
