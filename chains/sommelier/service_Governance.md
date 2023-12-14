@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 104 | [SIPS-097] Co-Incentive Proposal for Sommelier Vault Tokens as Collateral on Sturdy | Fri Dec 15 2023 04:18:15 UTC | ⏳ NOT VOTED |
-| 105 | [SIPS-098] Upcoming Super SOMM Liquidity Mining Incentives Proposal | Fri Dec 15 2023 04:24:12 UTC | ⏳ NOT VOTED |
+| 104 | [SIPS-097] Co-Incentive Proposal for Sommelier Vault Tokens as Collateral on Sturdy | Fri Dec 15 2023 04:18:15 UTC | 🤷‍♂️ ABSTAIN |
+| 105 | [SIPS-098] Upcoming Super SOMM Liquidity Mining Incentives Proposal | Fri Dec 15 2023 04:24:12 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
