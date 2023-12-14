@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 858 | Allocate 900k ATOM as Cosmos Hub Protocol Owned Liquidity in the Osmosis stATOM/ATOM pool | Sat Dec 16 2023 23:57:26 UTC | 🤷‍♂️ ABSTAIN |
-| 860 | Signaling Proposal - Claw back unvested funds from Proposal 104 | Wed Dec 20 2023 23:13:40 UTC | ✅ YES |
+| 860 | Signaling Proposal - Claw back unvested funds from Proposal 104 | Wed Dec 20 2023 23:13:40 UTC | ⏳ NOT VOTED |
 | 861 | Increase Active Set of Validators from 180 to 190 | Mon Dec 25 2023 19:28:20 UTC | ⏳ NOT VOTED |
 | 862 | Cosmos Hub IBC relayer gas cost restitution using FeeGrants | Wed Dec 27 2023 18:55:32 UTC | ⏳ NOT VOTED |
 
