@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
-inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 ```
 
 ### Active IBC channels `injective`:
@@ -22,7 +21,6 @@ inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
-| injective-1 | kava_2222-10 | transfer | channel-143 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
@@ -30,4 +28,3 @@ inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
