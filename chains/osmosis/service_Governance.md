@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 695 | Allow Migration of the Admin Address of Membrane Contracts | Sat Dec 16 2023 12:47:59 UTC | ✅ YES |
+| 695 | Allow Migration of the Admin Address of Membrane Contracts | Sat Dec 16 2023 12:47:59 UTC | ⏳ NOT VOTED |
 | 696 | Osmosis v21 Software Upgrade | Mon Dec 18 2023 11:41:05 UTC | ✅ YES |
 
 ---
