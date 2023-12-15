@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r
 secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
-secret12aeyaxq699k3f4d3733dl5pstw0ulplkcsauts
 ```
 
 ### Active IBC channels `secretnetwork`:
@@ -24,7 +23,6 @@ secret12aeyaxq699k3f4d3733dl5pstw0ulplkcsauts
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | secret-4 | juno-1 | transfer | channel-8 |
-| secret-4 | celestia | transfer | channel-91 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | gravity-bridge-3 | secret-4 | transfer | channel-79 |
@@ -35,4 +33,3 @@ secret12aeyaxq699k3f4d3733dl5pstw0ulplkcsauts
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | phoenix-1 | secret-4 | transfer | channel-3 |
-| celestia | secret-4 | transfer | channel-14 |
