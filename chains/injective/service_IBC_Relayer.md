@@ -23,6 +23,7 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
