@@ -18,6 +18,7 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
@@ -35,8 +36,8 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | empowerchain-1 | transfer | channel-621 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
@@ -54,5 +55,4 @@ cosmos16m48j88mlw2smhc8nyurznt4jl9nqgyqgznphs
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | empowerchain-1 | cosmoshub-4 | transfer | channel-0 |
