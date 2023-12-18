@@ -108,6 +108,7 @@
       "address": "dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
       "operator_account": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
       "relayer_accounts": [
+        "dydx1yghndrffay859ma2ue4pa2cltw640vtadqdfl2",
         "dydx12aeyaxq699k3f4d3733dl5pstw0ulplknv83km"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
@@ -133,8 +134,8 @@
       "address": "celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "operator_account": "celestia138jl42zlxue4wpvnugcdqhxjmyd2vpt69gjdfk",
       "relayer_accounts": [
-        "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da",
-        "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s"
+        "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
+        "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da"
       ],
       "stake_link": "https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "rpc": [],
