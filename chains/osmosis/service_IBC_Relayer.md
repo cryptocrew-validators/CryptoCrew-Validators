@@ -7,17 +7,19 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
+osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
-osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
-osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
+| osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
@@ -63,9 +65,11 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | nomic-stakenet-3 | transfer | channel-6897 |
-| osmosis-1 | noble-1 | transfer | channel-750 |
+| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| stride-1 | osmosis-1 | icacontroller-osmosis-1.DELEGATION | channel-42 |
+| stride-1 | osmosis-1 | icacontroller-osmosis-1.FEE | channel-43 |
+| stride-1 | osmosis-1 | icacontroller-osmosis-1.WITHDRAWAL | channel-44 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
@@ -75,7 +79,6 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | nois-1 | osmosis-1 | transfer | channel-37 |
 | pirin-1 | osmosis-1 | transfer | channel-0 |
 | quasar-1 | osmosis-1 | transfer | channel-1 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
@@ -102,8 +105,3 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | vidulum-1 | osmosis-1 | transfer | channel-0 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
-| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.DELEGATION | channel-42 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.FEE | channel-43 |
-| stride-1 | osmosis-1 | icacontroller-osmosis-1.WITHDRAWAL | channel-44 |
