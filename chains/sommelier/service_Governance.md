@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 107 | [SIPS-100] Turbo SOMM Liquidity Mining Incentives Proposal | Fri Dec 22 2023 17:12:22 UTC | ⏳ NOT VOTED |
-| 108 | [SIPS-101] Real Yield BTC Cellar Incentives | Fri Dec 22 2023 17:13:54 UTC | ⏳ NOT VOTED |
+| 107 | [SIPS-100] Turbo SOMM Liquidity Mining Incentives Proposal | Fri Dec 22 2023 17:12:22 UTC | 🤷‍♂️ ABSTAIN |
+| 108 | [SIPS-101] Real Yield BTC Cellar Incentives | Fri Dec 22 2023 17:13:54 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 

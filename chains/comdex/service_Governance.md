@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 216 | Upgrade to v13.3.0 | Thu Dec 21 2023 19:32:49 UTC | ⏳ NOT VOTED |
+| 216 | Upgrade to v13.3.0 | Thu Dec 21 2023 19:32:49 UTC | ✅ YES |
 
 ---
 
