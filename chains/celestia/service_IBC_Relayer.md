@@ -7,17 +7,18 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da
 celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s
+celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
+celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da
 ```
 
 ### Active IBC channels `celestia`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| celestia | secret-4 | transfer | channel-14 |
 | celestia | osmosis-1 | transfer | channel-2 |
+| celestia | secret-4 | transfer | channel-14 |
 | celestia | neutron-1 | transfer | channel-8 |
-| injective-1 | celestia | transfer | channel-152 |
 | osmosis-1 | celestia | transfer | channel-6994 |
+| injective-1 | celestia | transfer | channel-152 |
 | secret-4 | celestia | transfer | channel-91 |
 | neutron-1 | celestia | transfer | channel-35 |
