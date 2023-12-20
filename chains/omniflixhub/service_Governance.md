@@ -4,6 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 20 | Revive expired chihuahua ibc channel (channel-5) | Tue Dec 26 2023 18:36:02 UTC | ⏳ NOT VOTED |
 | 21 | 💎ATOM Airdrop ✅  | Wed Dec 27 2023 02:41:20 UTC | ⏳ NOT VOTED |
+| 22 | 💎ATOM Airdrop ✅ | Thu Dec 28 2023 15:24:39 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -22,6 +23,17 @@ Revive expired channel between omniflix and chihuahua (channel-5) by substitutin
 ### 🗳 21: 💎ATOM Airdrop ✅ 
 - Voting Start: Tue Dec 19 2023 02:41:20 UTC
 - Voting End: Wed Dec 27 2023 02:41:20 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
+
+---
+
+### 🗳 22: 💎ATOM Airdrop ✅
+- Voting Start: Wed Dec 20 2023 15:24:39 UTC
+- Voting End: Thu Dec 28 2023 15:24:39 UTC
 
 <details>
 <summary>Text hidden (blacklist match)</summary>
