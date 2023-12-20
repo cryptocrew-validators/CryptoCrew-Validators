@@ -21,7 +21,6 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | phoenix-1 | juno-1 | transfer | channel-2 |
 | phoenix-1 | osmosis-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-26 |
 | phoenix-1 | kaiyo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-28 |
-| phoenix-1 | secret-4 | transfer | channel-3 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
 | phoenix-1 | migaloo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-87 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
@@ -38,4 +37,3 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | migaloo-1 | phoenix-1 | transfer | channel-2 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | phoenix-1 | transfer | channel-341 |
-| secret-4 | phoenix-1 | transfer | channel-16 |

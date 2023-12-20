@@ -16,8 +16,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | --------------- | --------------- | ------------ | ------------------- |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
-| secret-4 | phoenix-1 | transfer | channel-16 |
-| secret-4 | gravity-bridge-3 | transfer | channel-17 |
+| secret-4 | chihuahua-1 | transfer | channel-11 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | injective-1 | transfer | channel-23 |
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
@@ -32,5 +31,4 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | kaiyo-1 | secret-4 | transfer | channel-44 |
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| phoenix-1 | secret-4 | transfer | channel-3 |
 | celestia | secret-4 | transfer | channel-14 |
