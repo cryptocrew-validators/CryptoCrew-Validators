@@ -2,27 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 860 | Signaling Proposal - Claw back unvested funds from Proposal 104 | Wed Dec 20 2023 23:13:40 UTC | ✅ YES |
 | 861 | Increase Active Set of Validators from 180 to 190 | Mon Dec 25 2023 19:28:20 UTC | ❌ NO |
 | 862 | Cosmos Hub IBC relayer gas cost restitution using FeeGrants | Wed Dec 27 2023 18:55:32 UTC | 🤷‍♂️ ABSTAIN |
 | 865 | Funding ATOM Accelerator DAO (AADAO) renewal proposal | Sat Dec 30 2023 19:21:22 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 860: Signaling Proposal - Claw back unvested funds from Proposal 104
-- Voting Start: Wed Dec 06 2023 23:13:40 UTC
-- Voting End: Wed Dec 20 2023 23:13:40 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-In Proposal 104, approved on 1 March 2023, Notional was granted 120,000 ATOMs to monitor the Cosmos Hub for security vulnerabilities 365/24/7. The exact on-chain proposal can be found at [here](https://inbloc.org/proposal/104)
-
-This proposal is a signalling proposal to reclaim the unvested (i.e. still locked) funds in the multisig. At the time of this proposal, the amount that is unvested is just over 90,000 Atom. The address of the multisig is [cosmos145hytrc49m0hn6fphp8d5h4xspwkawcuzmx498](https://cosmos.explorers.guru/account/cosmos145hytrc49m0hn6fphp8d5h4xspwkawcuzmx498).
-
-The full proposal with Notional's comments can be found in the Forum:
-https://forum.cosmos.network/t/proposal-draft-signaling-proposal-claw-back-unvested-funds-from-proposal-104/12379/1
-</details>
 
 ---
 
