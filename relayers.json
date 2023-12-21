@@ -3,6 +3,658 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-2",
+      "software": "hermes",
+      "software_version": "hermes 1.5.1+6583d697-dirty",
+      "chains": [
+        {
+          "chain_id": "bitsong-2b",
+          "wallets": [
+            "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "canto_7700-1",
+          "wallets": [
+            "canto10ndlvn6h7rtz8kfy626vzanyc8xely75ryajw9"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "chihuahua-1",
+          "wallets": [
+            "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-11",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-15",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-16",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-39",
+              "port_id": "transfer",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-7",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "cosmoshub-4",
+          "wallets": [
+            "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-207",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-220",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-235",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-281",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-339",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-343",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-358",
+              "port_id": "transfer",
+              "dst_chain_id": "canto_7700-1"
+            },
+            {
+              "channel_id": "channel-566",
+              "port_id": "transfer",
+              "dst_chain_id": "lum-network-1"
+            },
+            {
+              "channel_id": "channel-576",
+              "port_id": "transfer",
+              "dst_chain_id": "chihuahua-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "gravity-bridge-3",
+          "wallets": [
+            "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-107",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-17",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-34",
+              "port_id": "transfer",
+              "dst_chain_id": "chihuahua-1"
+            },
+            {
+              "channel_id": "channel-79",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-88",
+              "port_id": "transfer",
+              "dst_chain_id": "canto_7700-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "injective-1",
+          "wallets": [
+            "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-100",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-102",
+              "port_id": "transfer",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-104",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-8",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-88",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-98",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "juno-1",
+          "wallets": [
+            "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-20",
+              "port_id": "transfer",
+              "dst_chain_id": "stargaze-1"
+            },
+            {
+              "channel_id": "channel-210",
+              "port_id": "transfer",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-47",
+              "port_id": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-48",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-86",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-87",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-88",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-97",
+              "port_id": "wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg",
+              "dst_chain_id": "kaiyo-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "kaiyo-1",
+          "wallets": [
+            "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-31",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-36",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-4",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-43",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-44",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-50",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-54",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-58",
+              "port_id": "transfer",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-7",
+              "port_id": "transfer",
+              "dst_chain_id": "stargaze-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "lum-network-1",
+          "wallets": [
+            "lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-12",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "migaloo-1",
+          "wallets": [
+            "migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "chihuahua-1"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-8",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "odin-mainnet-freya",
+          "wallets": [
+            "odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
+            "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-113",
+              "port_id": "transfer",
+              "dst_chain_id": "chihuahua-1"
+            },
+            {
+              "channel_id": "channel-115",
+              "port_id": "transfer",
+              "dst_chain_id": "lum-network-1"
+            },
+            {
+              "channel_id": "channel-122",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-144",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-169",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-251",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-258",
+              "port_id": "transfer",
+              "dst_chain_id": "odin-mainnet-freya"
+            },
+            {
+              "channel_id": "channel-259",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-341",
+              "port_id": "transfer",
+              "dst_chain_id": "phoenix-1"
+            },
+            {
+              "channel_id": "channel-42",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-476",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            },
+            {
+              "channel_id": "channel-642",
+              "port_id": "transfer",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-73",
+              "port_id": "transfer",
+              "dst_chain_id": "bitsong-2b"
+            },
+            {
+              "channel_id": "channel-75",
+              "port_id": "transfer",
+              "dst_chain_id": "stargaze-1"
+            },
+            {
+              "channel_id": "channel-88",
+              "port_id": "transfer",
+              "dst_chain_id": "secret-4"
+            }
+          ]
+        },
+        {
+          "chain_id": "phoenix-1",
+          "wallets": [
+            "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-114",
+              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
+              "dst_chain_id": "chihuahua-1"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            },
+            {
+              "channel_id": "channel-28",
+              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-86",
+              "port_id": "transfer",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-87",
+              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
+              "dst_chain_id": "migaloo-1"
+            },
+            {
+              "channel_id": "channel-91",
+              "port_id": "wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-98",
+              "port_id": "transfer",
+              "dst_chain_id": "chihuahua-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "secret-4",
+          "wallets": [
+            "secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r",
+            "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-17",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            },
+            {
+              "channel_id": "channel-22",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-23",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-44",
+              "port_id": "wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-46",
+              "port_id": "wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-8",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "stargaze-1",
+          "wallets": [
+            "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-49",
+              "port_id": "transfer",
+              "dst_chain_id": "kaiyo-1"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "juno-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "vidulum-1",
+          "wallets": [
+            "vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-11",
       "software": "hermes",
       "software_version": "hermes 1.5.1+6583d697-dirty",
@@ -1143,713 +1795,6 @@
               "channel_id": "channel-87",
               "port_id": "transfer",
               "dst_chain_id": "comdex-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-2",
-      "software": "hermes",
-      "software_version": "hermes 1.5.1+6583d697-dirty",
-      "chains": [
-        {
-          "chain_id": "bitsong-2b",
-          "wallets": [
-            "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "canto_7700-1",
-          "wallets": [
-            "canto10ndlvn6h7rtz8kfy626vzanyc8xely75ryajw9"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "chihuahua-1",
-          "wallets": [
-            "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-11",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-15",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-16",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-39",
-              "port_id": "transfer",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-7",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "cosmoshub-4",
-          "wallets": [
-            "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-207",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-220",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-235",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-281",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-339",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-343",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-358",
-              "port_id": "transfer",
-              "dst_chain_id": "canto_7700-1"
-            },
-            {
-              "channel_id": "channel-566",
-              "port_id": "transfer",
-              "dst_chain_id": "lum-network-1"
-            },
-            {
-              "channel_id": "channel-576",
-              "port_id": "transfer",
-              "dst_chain_id": "chihuahua-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "gravity-bridge-3",
-          "wallets": [
-            "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-10",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-107",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-17",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-34",
-              "port_id": "transfer",
-              "dst_chain_id": "chihuahua-1"
-            },
-            {
-              "channel_id": "channel-7",
-              "port_id": "transfer",
-              "dst_chain_id": "stargaze-1"
-            },
-            {
-              "channel_id": "channel-79",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-8",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-88",
-              "port_id": "transfer",
-              "dst_chain_id": "canto_7700-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "injective-1",
-          "wallets": [
-            "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-100",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-102",
-              "port_id": "transfer",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-104",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-8",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-88",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-98",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "juno-1",
-          "wallets": [
-            "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-17",
-              "port_id": "transfer",
-              "dst_chain_id": "bitsong-2b"
-            },
-            {
-              "channel_id": "channel-20",
-              "port_id": "transfer",
-              "dst_chain_id": "stargaze-1"
-            },
-            {
-              "channel_id": "channel-210",
-              "port_id": "transfer",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-31",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-43",
-              "port_id": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-47",
-              "port_id": "wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-48",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-86",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-87",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-88",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-97",
-              "port_id": "wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg",
-              "dst_chain_id": "kaiyo-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "kaiyo-1",
-          "wallets": [
-            "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-10",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-31",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-36",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-4",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-43",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-44",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-50",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-54",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-58",
-              "port_id": "transfer",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-7",
-              "port_id": "transfer",
-              "dst_chain_id": "stargaze-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "lum-network-1",
-          "wallets": [
-            "lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-12",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "migaloo-1",
-          "wallets": [
-            "migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-10",
-              "port_id": "transfer",
-              "dst_chain_id": "chihuahua-1"
-            },
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-8",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "odin-mainnet-freya",
-          "wallets": [
-            "odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "wallets": [
-            "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
-            "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-113",
-              "port_id": "transfer",
-              "dst_chain_id": "chihuahua-1"
-            },
-            {
-              "channel_id": "channel-115",
-              "port_id": "transfer",
-              "dst_chain_id": "lum-network-1"
-            },
-            {
-              "channel_id": "channel-122",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-124",
-              "port_id": "transfer",
-              "dst_chain_id": "vidulum-1"
-            },
-            {
-              "channel_id": "channel-144",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            },
-            {
-              "channel_id": "channel-168",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-169",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-251",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-258",
-              "port_id": "transfer",
-              "dst_chain_id": "odin-mainnet-freya"
-            },
-            {
-              "channel_id": "channel-259",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-341",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-42",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-476",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            },
-            {
-              "channel_id": "channel-550",
-              "port_id": "transfer",
-              "dst_chain_id": "canto_7700-1"
-            },
-            {
-              "channel_id": "channel-642",
-              "port_id": "transfer",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-73",
-              "port_id": "transfer",
-              "dst_chain_id": "bitsong-2b"
-            },
-            {
-              "channel_id": "channel-75",
-              "port_id": "transfer",
-              "dst_chain_id": "stargaze-1"
-            },
-            {
-              "channel_id": "channel-88",
-              "port_id": "transfer",
-              "dst_chain_id": "secret-4"
-            }
-          ]
-        },
-        {
-          "chain_id": "phoenix-1",
-          "wallets": [
-            "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-10",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-114",
-              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
-              "dst_chain_id": "chihuahua-1"
-            },
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-26",
-              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-28",
-              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-86",
-              "port_id": "transfer",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-87",
-              "port_id": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
-              "dst_chain_id": "migaloo-1"
-            },
-            {
-              "channel_id": "channel-91",
-              "port_id": "wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-98",
-              "port_id": "transfer",
-              "dst_chain_id": "chihuahua-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "secret-4",
-          "wallets": [
-            "secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r",
-            "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-11",
-              "port_id": "transfer",
-              "dst_chain_id": "chihuahua-1"
-            },
-            {
-              "channel_id": "channel-22",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-23",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-44",
-              "port_id": "wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-46",
-              "port_id": "wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-8",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "stargaze-1",
-          "wallets": [
-            "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-49",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "juno-1"
-            },
-            {
-              "channel_id": "channel-6",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            }
-          ]
-        },
-        {
-          "chain_id": "vidulum-1",
-          "wallets": [
-            "vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
             }
           ]
         }
