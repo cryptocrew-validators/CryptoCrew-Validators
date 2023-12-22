@@ -34,3 +34,4 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | migaloo-1 | phoenix-1 | transfer | channel-2 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | phoenix-1 | transfer | channel-341 |
+| secret-4 | phoenix-1 | transfer | channel-16 |
