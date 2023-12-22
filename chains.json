@@ -185,6 +185,7 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
+        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
@@ -399,6 +400,7 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "relayer_accounts": [
+        "persistence1yghndrffay859ma2ue4pa2cltw640vta24973e",
         "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
       ],
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
