@@ -3,9 +3,9 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 20 | Revive expired chihuahua ibc channel (channel-5) | Tue Dec 26 2023 18:36:02 UTC | ⏳ NOT VOTED |
-| 21 | 💎ATOM Airdrop ✅  | Wed Dec 27 2023 02:41:20 UTC | ⏳ NOT VOTED |
-| 22 | 💎ATOM Airdrop ✅ | Thu Dec 28 2023 15:24:39 UTC | ⏳ NOT VOTED |
-| 23 | 💎ATOM Airdrop ✅  | Sun Dec 31 2023 04:00:48 UTC | ⏳ NOT VOTED |
+| 21 | 💎ATOM Airdrop ✅  | Wed Dec 27 2023 02:41:20 UTC | ABSTAIN |
+| 22 | 💎ATOM Airdrop ✅ | Thu Dec 28 2023 15:24:39 UTC | ABSTAIN |
+| 23 | 💎ATOM Airdrop ✅  | Sun Dec 31 2023 04:00:48 UTC | ABSTAIN |
 
 ---
 
