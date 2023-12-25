@@ -2,21 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 861 | Increase Active Set of Validators from 180 to 190 | Mon Dec 25 2023 19:28:20 UTC | ❌ NO |
 | 862 | Cosmos Hub IBC relayer gas cost restitution using FeeGrants | Wed Dec 27 2023 18:55:32 UTC | 🤷‍♂️ ABSTAIN |
 | 865 | Funding ATOM Accelerator DAO (AADAO) renewal proposal | Sat Dec 30 2023 19:21:22 UTC | 🤷‍♂️ ABSTAIN |
-
----
-
-### 🗳 861: Increase Active Set of Validators from 180 to 190
-- Voting Start: Mon Dec 11 2023 19:28:20 UTC
-- Voting End: Mon Dec 25 2023 19:28:20 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-There is currently >700k ATOM sitting just outside of the active set of 180 validators (not including jailed validators). Increasing the active set from 180 to 190 would allow all of this stake to participate in consensus, further decentralizing Cosmos Hub. Additionally, all validators that would be added to the active set should be profitable, incentivizing them to perform properly and add to the security of Cosmos Hub. For those worried about this change decreasing your rewards, an additional 2,000,000 ATOM in the active set would change the APY from 13.98% to 13.86% (and there will be far less than 2,000,000 ATOM added), so any decrease in rewards will be relatively insignificant.
-</details>
 
 ---
 
