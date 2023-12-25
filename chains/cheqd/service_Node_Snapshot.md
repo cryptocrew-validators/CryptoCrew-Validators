@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 cheqd-noded version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11245411.tar.lz4)** | Mon Dec 25 2023 03:29:24 UTC | `cheqd-mainnet-1` | 97G | 11245411 | `2ae7cf74740272952a339e8a985fdcfab4c01c9a9c6766dd7abcb5e81ea5ef33` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11230727.tar.lz4)** | Sun Dec 24 2023 02:01:18 UTC | `cheqd-mainnet-1` | 94G | 11230727 | `9ff81ed28f6eb202b7fa85f4de4fc06a473a364f510eab78af1759af039c0bbb` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11216005.tar.lz4)** | Sat Dec 23 2023 03:51:10 UTC | `cheqd-mainnet-1` | 97G | 11216005 | `761c8489e33ecf4868ba944cd1f25ae10a0b132deda375460fc72dbeb6e9ef0a` |
 
 ---
 
@@ -12,7 +12,7 @@ cheqd-noded version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11230727.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11245411.tar.lz4"
 cd $HOME/.cheqdnode
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11230727.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11245411.tar.lz4"
 cd $HOME/.cheqdnode
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
