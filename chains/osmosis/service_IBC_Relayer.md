@@ -19,6 +19,7 @@ osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | agoric-3 | transfer | channel-320 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
@@ -58,7 +59,7 @@ osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | nomic-stakenet-3 | transfer | channel-6897 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
@@ -94,4 +95,3 @@ osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | icacontroller-osmosis-1.DELEGATION | channel-42 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
