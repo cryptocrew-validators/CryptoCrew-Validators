@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 300 | Settle BTC/USDTkv perp market | Sat Dec 30 2023 10:54:08 UTC | ⏳ NOT VOTED |
-| 301 | Settle ETH/USDTkv perp market | Sat Dec 30 2023 10:54:25 UTC | ⏳ NOT VOTED |
+| 300 | Settle BTC/USDTkv perp market | Sat Dec 30 2023 10:54:08 UTC | ABSTAIN |
+| 301 | Settle ETH/USDTkv perp market | Sat Dec 30 2023 10:54:25 UTC | ABSTAIN |
 | 302 | Burn INJ Domain Name Revenue | Sat Dec 30 2023 14:42:33 UTC | ⏳ NOT VOTED |
 
 ---
