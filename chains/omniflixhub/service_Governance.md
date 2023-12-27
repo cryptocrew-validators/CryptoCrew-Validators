@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 22 | 💎ATOM Airdrop ✅ | Thu Dec 28 2023 15:24:39 UTC | ABSTAIN |
 | 23 | 💎ATOM Airdrop ✅  | Sun Dec 31 2023 04:00:48 UTC | ABSTAIN |
-| 24 | 💎ATOM Airdrop ✅ | Wed Jan 03 2024 22:55:16 UTC | ⏳ NOT VOTED |
+| 24 | 💎ATOM Airdrop ✅ | Wed Jan 03 2024 22:55:16 UTC | ABSTAIN |
 
 ---
 
