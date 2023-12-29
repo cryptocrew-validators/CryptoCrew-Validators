@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 865 | Funding ATOM Accelerator DAO (AADAO) renewal proposal | Sat Dec 30 2023 19:21:22 UTC | 🤷‍♂️ ABSTAIN |
+| 865 | Funding ATOM Accelerator DAO (AADAO) renewal proposal | Sat Dec 30 2023 19:21:22 UTC | ⏳ NOT VOTED |
 
 ---
 
