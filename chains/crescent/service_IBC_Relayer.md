@@ -14,4 +14,6 @@ cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | crescent-1 | agoric-3 | transfer | channel-11 |
+| crescent-1 | mars-1 | transfer | channel-35 |
 | agoric-3 | crescent-1 | transfer | channel-2 |
+| mars-1 | crescent-1 | transfer | channel-5 |
