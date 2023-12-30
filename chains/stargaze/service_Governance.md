@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 239 | Stargaze Thirdening: Staking Supplement Funding | Sun Dec 31 2023 15:17:21 UTC | ⏳ NOT VOTED |
+| 239 | Stargaze Thirdening: Staking Supplement Funding | Sun Dec 31 2023 15:17:21 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
