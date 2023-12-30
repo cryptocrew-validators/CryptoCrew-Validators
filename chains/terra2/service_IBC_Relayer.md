@@ -27,6 +27,7 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | injective-1 | phoenix-1 | transfer | channel-104 |
+| juno-1 | phoenix-1 | transfer | channel-153 |
 | juno-1 | phoenix-1 | transfer | channel-86 |
 | kaiyo-1 | phoenix-1 | transfer | channel-36 |
 | kaiyo-1 | phoenix-1 | transfer | channel-4 |
