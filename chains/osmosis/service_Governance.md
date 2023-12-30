@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 701 | Create Volume Splitting Gauges for Celestia Pairings | Mon Jan 01 2024 14:33:28 UTC | ⏳ NOT VOTED |
+| 701 | Create Volume Splitting Gauges for Celestia Pairings | Mon Jan 01 2024 14:33:28 UTC | ABSTAIN |
 
 ---
 
