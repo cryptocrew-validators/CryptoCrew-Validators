@@ -16,4 +16,3 @@ cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp
 | crescent-1 | agoric-3 | transfer | channel-11 |
 | crescent-1 | osmosis-1 | transfer | channel-9 |
 | agoric-3 | crescent-1 | transfer | channel-2 |
-| osmosis-1 | crescent-1 | transfer | channel-297 |
