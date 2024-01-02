@@ -17,5 +17,4 @@ kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | kava_2222-10 | injective-1 | transfer | channel-122 |
 | kava_2222-10 | akashnet-2 | transfer | channel-5 |
-| cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
