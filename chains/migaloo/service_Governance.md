@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 20 |  Increase the reward weight for ASH to 0.5% | Wed Jan 03 2024 14:05:45 UTC | ⏳ NOT VOTED |
+| 20 |  Increase the reward weight for ASH to 0.5% | Wed Jan 03 2024 14:05:45 UTC | ABSTAIN |
 
 ---
 
