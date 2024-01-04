@@ -3,8 +3,8 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 306 | Adjust funding rate limit for perpetual markets on Injective Exchange dApps | Sun Jan 07 2024 10:11:08 UTC | ABSTAIN |
-| 307 | Update min price tick and min quantity tick for 4 markets on Injective Exchange dApps | Sun Jan 07 2024 12:57:41 UTC | ⏳ NOT VOTED |
-| 308 | Trade and Earn Epochs 112-119 Rewards Pool Update for Injective Exchange dApps  | Sun Jan 07 2024 12:58:53 UTC | ⏳ NOT VOTED |
+| 307 | Update min price tick and min quantity tick for 4 markets on Injective Exchange dApps | Sun Jan 07 2024 12:57:41 UTC | ABSTAIN |
+| 308 | Trade and Earn Epochs 112-119 Rewards Pool Update for Injective Exchange dApps  | Sun Jan 07 2024 12:58:53 UTC | ABSTAIN |
 
 ---
 
