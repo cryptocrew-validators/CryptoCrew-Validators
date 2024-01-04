@@ -7,6 +7,7 @@
 | 61 | Whitelist nolus1t74ve2d6vk7t9adpqu4yuf4jc57n8dxyzu995f as the third price feeder for the Neutron Astroport Oracle smart contract | Fri Jan 05 2024 14:26:13 UTC | ⏳ NOT VOTED |
 | 62 | Whitelist nolus18eu0qer2ajwyurhg2vt3cd5v7h5uavmxmv6aux as the fourth price feeder for the Neutron Astroport Oracle smart contract | Fri Jan 05 2024 14:26:24 UTC | ⏳ NOT VOTED |
 | 63 | Whitelist nolus1t09az506kccdypx692gvnqrkr3p5le2fc8leyv as the fifth price feeder for the Neutron Astroport Oracle smart contract | Fri Jan 05 2024 14:26:30 UTC | ⏳ NOT VOTED |
+| 64 | Pin new contract codes | Fri Jan 05 2024 14:32:37 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -66,4 +67,16 @@
 <summary>Proposal Text</summary>
  
 # Whitelist nolus1t09az506kccdypx692gvnqrkr3p5le2fc8leyv as the fifth price feeder for the Neutron Astroport Oracle smart contractnn## SummarynOracle market data price feeders are an essential part of the Nolus core architecture which uses its own Oracle system. Each price feeding service is an independent lightweight off-chain component that retrieves prices from configured price providers for a set of denomination pairs. With the latest Astroport integration on Neutron, there are now two providers from which the Oracle system of Nolus can retrieve prices - Osmosis and Neutron. The price feeders utilize a variant of the Exponential Moving Average (EMA) algorithm for the price calculation of any given cryptocurrency pair. Through the use of this algorithm, one can put additional weights on more recently observed prices for a given period. To read more about the role of the price feeders in Nolus, have a look at the [documentation](https://hub.nolus.io/en_US/technical-documentation/oracles-alarms).nnBy voting YES on this proposal, you agree to whitelist the fifth price feeder for the Astroport Oracle smart contract. Each service is located in a different geolocation and is configured to push a price every 60 seconds.nn## Source codenEach price feeding service is built from the [oracle-price-feeder](https://github.com/nolus-protocol/oracle-price-feeder) repository. You can find the configuration for a feeder running on mainnet [here](https://github.com/nolus-protocol/oracle-price-feeder/blob/main/configurations/market-data-feeder.main.toml).
+</details>
+
+---
+
+### 🗳 64: Pin new contract codes
+- Voting Start: Thu Jan 04 2024 14:32:37 UTC
+- Voting End: Fri Jan 05 2024 14:32:37 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+Proposal #27 allowed to extend the store code permissions such that an additional wallet address by the Nolus team is able to store code on-chain without the need to go through governance proposal. In that way, there needs to be only one proposal for migration afterwards. As a result, the proposal count was reduced significantly which makes it easier for the community to track the version of the smart contracts. On the other hand, this meant that contracts that are stored on-chain via this additional address, remain unpinned. nnCode pinning is a mechanism that allows contract code IDs to be pinned to memory. This way code does not have to be loaded to memory on each execution which in turn reduces the gas requirement for each transaction involving that contract. This would make the follow-up smart contract migration proposal to be submitted for much less gas than it would cost without the contracts being pinned. nnBy voting YES to this proposal you agree to pin the contract IDs of the newly stored contracts from version v0.4.0 of the smart contracts as well as the Rewards Dispatcher contract from v0.4.1. These include one Platform core contract (Rewards Dispatcher) as well as Protocol contracts (Leaser, LPP, Oracle, Profit and Lease). Due to the Astroport integration, there are two independent sets of Protocol contracts - one for Osmosis and one for Neutron. This makes 14 contracts to be pinned in total. A follow-up proposal would be submitted to unpin unused contract codes.
 </details>
