@@ -345,6 +345,24 @@
       "chain_id": "archway-1"
     },
     {
+      "name": "agoric",
+      "prettyName": "Agoric",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/agoric/logo_agoric.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/agoric/logo_agoric.png",
+      "symbol": "BLD",
+      "denom": "ubld",
+      "decimals": "6",
+      "address": "agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj",
+      "operator_account": "agoric1s8kfsaa8g45ucwkkthl9ccagmecmj4uxaye72n",
+      "relayer_accounts": [],
+      "stake_link": "https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "agoric",
+      "chain_id": "agoric-3"
+    },
+    {
       "name": "mars",
       "prettyName": "Mars",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.svg",
