@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 26 | 💎FLIX / ATOM Airdrop ✅ | Fri Jan 05 2024 22:26:05 UTC | ⏳ NOT VOTED |
-| 27 | 💎ATOM Airdrop ✅ | Sun Jan 07 2024 16:22:55 UTC | ⏳ NOT VOTED |
+| 26 | 💎FLIX / ATOM Airdrop ✅ | Fri Jan 05 2024 22:26:05 UTC | ABSTAIN |
+| 27 | 💎ATOM Airdrop ✅ | Sun Jan 07 2024 16:22:55 UTC | ABSTAIN |
 
 ---
 
