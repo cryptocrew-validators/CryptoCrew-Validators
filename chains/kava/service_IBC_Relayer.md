@@ -8,6 +8,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt
+kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
 ```
 
 ### Active IBC channels `kava`:
@@ -19,4 +20,5 @@ kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt
 | kava_2222-10 | akashnet-2 | transfer | channel-5 |
 | akashnet-2 | kava_2222-10 | transfer | channel-37 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| injective-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
