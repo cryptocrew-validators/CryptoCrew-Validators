@@ -2,35 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 65 | Unpin old inactive contract codes | Fri Jan 05 2024 14:47:16 UTC | ✅ YES |
 | 66 | Add NLS and stATOM to the Neutron Oracle | Sat Jan 06 2024 14:28:55 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 65: Unpin old inactive contract codes
-- Voting Start: Thu Jan 04 2024 14:47:16 UTC
-- Voting End: Fri Jan 05 2024 14:47:16 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Code pinning is a mechanism that allows contract code IDs to be pinned to memory. This way code does not have to be loaded to memory on each execution which in turn reduces the gas requirement for each transaction involving that contract. With each new migration, new code IDs need to be stored on-chain. These effectively replace the old ones which are not used. The old IDs which have already been pinned, remain that way and cost the node providers memory which, even though small, may compound over time, as new contracts are being stored and pinned on-chain.nnBy voting YES to this proposal you agree to unpin the code IDs of old contracts that are not active anymore. After this proposal has passed, the pinned code IDs should be as follows (14 in total): 
-
-n* 43 - Admin 
-n* 44 - Time Alarms 
-n* 45 - Treasury 
-n* 47 - Leaser (Osmosis) 
-n* 48 - LPP (Osmosis) 
-n* 49 - Oracle (Osmosis) 
-n* 50 - Profit (Osmosis) 
-n* 51 - Lease (Osmosis) 
-n* 57 - Rewards Dispatcher 
-n* 58 - Leaser (Neutron) 
-n* 59 - Lease (Neutron) 
-n* 60 - LPP (Neutron) 
-n* 61 - Oracle (Neutron) 
-n* 62 - Profit (Neutron)
-</details>
 
 ---
 
