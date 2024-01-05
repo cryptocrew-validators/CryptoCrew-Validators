@@ -28,7 +28,6 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | phoenix-1 | chihuahua-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-114 |
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
-| secret-4 | chihuahua-1 | transfer | channel-11 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
 | omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
