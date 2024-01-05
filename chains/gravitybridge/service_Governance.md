@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 221 | Add MEME Metadata to Gravity Bridge | Wed Jan 10 2024 10:52:51 UTC | ⏳ NOT VOTED |
+| 221 | Add MEME Metadata to Gravity Bridge | Wed Jan 10 2024 10:52:51 UTC | ✅ YES |
 
 ---
 
