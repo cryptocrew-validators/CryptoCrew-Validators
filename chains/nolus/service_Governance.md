@@ -2,20 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 64 | Pin new contract codes | Fri Jan 05 2024 14:32:37 UTC | ✅ YES |
 | 65 | Unpin old inactive contract codes | Fri Jan 05 2024 14:47:16 UTC | ✅ YES |
-
----
-
-### 🗳 64: Pin new contract codes
-- Voting Start: Thu Jan 04 2024 14:32:37 UTC
-- Voting End: Fri Jan 05 2024 14:32:37 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Proposal #27 allowed to extend the store code permissions such that an additional wallet address by the Nolus team is able to store code on-chain without the need to go through governance proposal. In that way, there needs to be only one proposal for migration afterwards. As a result, the proposal count was reduced significantly which makes it easier for the community to track the version of the smart contracts. On the other hand, this meant that contracts that are stored on-chain via this additional address, remain unpinned. nnCode pinning is a mechanism that allows contract code IDs to be pinned to memory. This way code does not have to be loaded to memory on each execution which in turn reduces the gas requirement for each transaction involving that contract. This would make the follow-up smart contract migration proposal to be submitted for much less gas than it would cost without the contracts being pinned. nnBy voting YES to this proposal you agree to pin the contract IDs of the newly stored contracts from version v0.4.0 of the smart contracts as well as the Rewards Dispatcher contract from v0.4.1. These include one Platform core contract (Rewards Dispatcher) as well as Protocol contracts (Leaser, LPP, Oracle, Profit and Lease). Due to the Astroport integration, there are two independent sets of Protocol contracts - one for Osmosis and one for Neutron. This makes 14 contracts to be pinned in total. A follow-up proposal would be submitted to unpin unused contract codes.
-</details>
+| 66 | Add NLS and stATOM to the Neutron Oracle | Sat Jan 06 2024 14:28:55 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -42,4 +30,23 @@ n* 59 - Lease (Neutron)
 n* 60 - LPP (Neutron) 
 n* 61 - Oracle (Neutron) 
 n* 62 - Profit (Neutron)
+</details>
+
+---
+
+### 🗳 66: Add NLS and stATOM to the Neutron Oracle
+- Voting Start: Fri Jan 05 2024 14:28:55 UTC
+- Voting End: Sat Jan 06 2024 14:28:55 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+# Add NLS and stATOM to the Neutron Oraclen## SummarynWith the instantiation of a new set of protocol smart contracts for the Astroport integration on Neutron, every new asset whose price is to be provided to the system, needs to be included in the Oracle swap tree belonging to that specific integration. This proposal aims to add NLS to the swap tree. This is especially necessary for the NLS incentives distribution as they require a reported on-chain price for NLS so that rewards can be calculated and distributed once every 12 hours. In addition, stATOM is to be added to the tree. Below the current breakdown in terms of liquidity of the stATOM/ATOM pool on Astroport: 
+
+n* Standard Pool stATOM/ATOM (4.77M USD) 
+
+nnThis proposal also introduces a new asset to the Oracle swap tree, namely DYDX. DYDX is the native token of the dYdX chain. dYdX is a decentralized self-custodial trading platform for perps. The DYDX token is used primarily for securing and governing the proof-of-stake layer 1 blockchain on which the perp protocol is deployed. Details about DYDX liquidity on Astroport on Neutron: 
+
+n* Passive Concentrated Liquidity (PCL) Pool axlUSDC/DYDX (1.09M USD) 
+nnBy voting YES on this proposal, you agree to make these adjustments to the Oracle swap tree and allow the protocol to utilize the paths above to facilitate the lease-relevant transactions on the Neutron blockchain.
 </details>
