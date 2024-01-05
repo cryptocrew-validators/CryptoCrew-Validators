@@ -7,6 +7,7 @@
 | 308 | Trade and Earn Epochs 112-119 Rewards Pool Update for Injective Exchange dApps  | Sun Jan 07 2024 12:58:53 UTC | ABSTAIN |
 | 309 | null | Tue Jan 09 2024 14:10:19 UTC | ABSTAIN |
 | 310 | null | Tue Jan 09 2024 14:09:50 UTC | ABSTAIN |
+| 313 | null | Tue Jan 09 2024 21:18:31 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -123,6 +124,18 @@ null
 ### 🗳 310: null
 - Voting Start: Fri Jan 05 2024 14:09:50 UTC
 - Voting End: Tue Jan 09 2024 14:09:50 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+null
+</details>
+
+---
+
+### 🗳 313: null
+- Voting Start: Fri Jan 05 2024 21:18:31 UTC
+- Voting End: Tue Jan 09 2024 21:18:31 UTC
 
 <details>
 <summary>Proposal Text</summary>
