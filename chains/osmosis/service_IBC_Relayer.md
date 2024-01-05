@@ -22,6 +22,7 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
@@ -62,10 +63,10 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | nomic-stakenet-3 | transfer | channel-6897 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |
 | osmosis-1 | core-1 | transfer | channel-4 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
@@ -96,7 +97,6 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | vidulum-1 | osmosis-1 | transfer | channel-0 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
