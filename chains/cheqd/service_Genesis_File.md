@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/cheqd/genesis.json)**
 ---
 
-- last updated: Thu Jan 04 2024 02:10:57
+- last updated: Fri Jan 05 2024 03:14:53
 - chain id: `cheqd-mainnet-1`
 
 ## Instructions
