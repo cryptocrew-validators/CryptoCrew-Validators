@@ -354,7 +354,9 @@
       "decimals": "6",
       "address": "agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj",
       "operator_account": "agoric1s8kfsaa8g45ucwkkthl9ccagmecmj4uxaye72n",
-      "relayer_accounts": [],
+      "relayer_accounts": [
+        "agoric12aeyaxq699k3f4d3733dl5pstw0ulplkggt2x6"
+      ],
       "stake_link": "https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj",
       "rpc": [],
       "rest": [],
@@ -693,8 +695,8 @@
       "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
       "relayer_accounts": [
-        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5",
-        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
+        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh",
+        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
       ],
       "stake_link": "https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "restake": {
