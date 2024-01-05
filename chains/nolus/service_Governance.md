@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 66 | Add NLS and stATOM to the Neutron Oracle | Sat Jan 06 2024 14:28:55 UTC | ⏳ NOT VOTED |
+| 66 | Add NLS and stATOM to the Neutron Oracle | Sat Jan 06 2024 14:28:55 UTC | ✅ YES |
 
 ---
 
