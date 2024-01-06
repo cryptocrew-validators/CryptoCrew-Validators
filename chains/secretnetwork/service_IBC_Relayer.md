@@ -34,4 +34,3 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | phoenix-1 | secret-4 | transfer | channel-3 |
-| celestia | secret-4 | transfer | channel-14 |
