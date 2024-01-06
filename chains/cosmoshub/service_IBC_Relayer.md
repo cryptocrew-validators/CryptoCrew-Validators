@@ -24,6 +24,7 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | cosmoshub-4 | gravity-bridge-3 | transfer | channel-281 |
+| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
@@ -33,7 +34,6 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
-| cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | cosmoshub-4 | canto_7700-1 | transfer | channel-358 |
 | cosmoshub-4 | lum-network-1 | transfer | channel-566 |

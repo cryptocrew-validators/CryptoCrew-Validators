@@ -14,4 +14,5 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
+| juno-1 | evmos_9001-2 | wasm.juno1zh4d42vxl9nv26htvu28k86vmy0tfusngdlknk7z37mkylkke2lslqzv6m | channel-205 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
