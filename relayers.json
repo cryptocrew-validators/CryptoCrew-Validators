@@ -154,6 +154,11 @@
               "dst_chain_id": "gravity-bridge-3"
             },
             {
+              "channel_id": "channel-292",
+              "port_id": "transfer",
+              "dst_chain_id": "evmos_9001-2"
+            },
+            {
               "channel_id": "channel-306",
               "port_id": "transfer",
               "dst_chain_id": "omniflixhub-1"
@@ -267,6 +272,11 @@
               "channel_id": "channel-20",
               "port_id": "transfer",
               "dst_chain_id": "stargaze-1"
+            },
+            {
+              "channel_id": "channel-205",
+              "port_id": "wasm.juno1zh4d42vxl9nv26htvu28k86vmy0tfusngdlknk7z37mkylkke2lslqzv6m",
+              "dst_chain_id": "evmos_9001-2"
             },
             {
               "channel_id": "channel-31",
