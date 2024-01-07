@@ -3,6 +3,86 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-44",
+      "software": "hermes",
+      "software_version": "hermes 1.7.4+1946d944",
+      "chains": [
+        {
+          "chain_id": "akashnet-2",
+          "wallets": [
+            "akash12aeyaxq699k3f4d3733dl5pstw0ulplkhwyj0k",
+            "akash1vh9d09ez64kxg3c9cekqj9em946evtwjf0mr2p",
+            "akash18hx3fcqrvynx9vvpvyv5qym82xz4suw5aa74x6"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-37",
+              "port_id": "transfer",
+              "dst_chain_id": "kava_2222-10"
+            }
+          ]
+        },
+        {
+          "chain_id": "cosmoshub-4",
+          "wallets": [
+            "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
+            "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-277",
+              "port_id": "transfer",
+              "dst_chain_id": "kava_2222-10"
+            }
+          ]
+        },
+        {
+          "chain_id": "kava_2222-10",
+          "wallets": [
+            "kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt",
+            "kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-122",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            },
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "akashnet-2"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
+            "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
+            "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-143",
+              "port_id": "transfer",
+              "dst_chain_id": "kava_2222-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-4",
       "software": "hermes",
       "software_version": "hermes 1.7.4+1946d944",
@@ -1773,91 +1853,6 @@
               "channel_id": "channel-5",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-44",
-      "software": "hermes",
-      "software_version": "hermes 1.7.4+1946d944",
-      "chains": [
-        {
-          "chain_id": "akashnet-2",
-          "wallets": [
-            "akash12aeyaxq699k3f4d3733dl5pstw0ulplkhwyj0k",
-            "akash1vh9d09ez64kxg3c9cekqj9em946evtwjf0mr2p",
-            "akash18hx3fcqrvynx9vvpvyv5qym82xz4suw5aa74x6"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-37",
-              "port_id": "transfer",
-              "dst_chain_id": "kava_2222-10"
-            }
-          ]
-        },
-        {
-          "chain_id": "cosmoshub-4",
-          "wallets": [
-            "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
-            "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-277",
-              "port_id": "transfer",
-              "dst_chain_id": "kava_2222-10"
-            }
-          ]
-        },
-        {
-          "chain_id": "kava_2222-10",
-          "wallets": [
-            "kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt",
-            "kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-122",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            },
-            {
-              "channel_id": "channel-134",
-              "port_id": "transfer",
-              "dst_chain_id": "core-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "akashnet-2"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "wallets": [
-            "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
-            "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
-            "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-143",
-              "port_id": "transfer",
-              "dst_chain_id": "kava_2222-10"
             }
           ]
         }
