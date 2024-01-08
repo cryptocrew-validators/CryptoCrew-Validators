@@ -4,8 +4,8 @@
 |-------------|----------------|-----------------|-------|
 | 309 | null | Tue Jan 09 2024 14:10:19 UTC | ABSTAIN |
 | 310 | null | Tue Jan 09 2024 14:09:50 UTC | ABSTAIN |
-| 313 | null | Tue Jan 09 2024 21:18:31 UTC | ⏳ NOT VOTED |
-| 314 | null | Wed Jan 10 2024 14:32:22 UTC | ⏳ NOT VOTED |
+| 313 | null | Tue Jan 09 2024 21:18:31 UTC | ABSTAIN |
+| 314 | null | Wed Jan 10 2024 14:32:22 UTC | ABSTAIN |
 
 ---
 
