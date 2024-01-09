@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 67 | Set up a DEX for the Neutron Leaser | Tue Jan 09 2024 16:23:31 UTC | ✅ YES |
-| 68 | Set up a DEX for the Neutron Profit | Tue Jan 09 2024 16:24:11 UTC | ⏳ NOT VOTED |
+| 68 | Set up a DEX for the Neutron Profit | Tue Jan 09 2024 16:24:11 UTC | ✅ YES |
 
 ---
 
