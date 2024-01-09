@@ -2,7 +2,19 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
+| 867 | Validator incentivization | Tue Jan 23 2024 14:40:48 UTC | ⏳ NOT VOTED |
 | 870 | 💎ATOM Airdrop ✅ 2024 New Version! ⭐ | Mon Jan 22 2024 13:10:20 UTC | ABSTAIN |
+
+---
+
+### 🗳 867: Validator incentivization
+- Voting Start: Tue Jan 09 2024 14:40:48 UTC
+- Voting End: Tue Jan 23 2024 14:40:48 UTC
+
+<details>
+<summary>Text hidden (blacklist match)</summary>
+ 
+</details>
 
 ---
 
