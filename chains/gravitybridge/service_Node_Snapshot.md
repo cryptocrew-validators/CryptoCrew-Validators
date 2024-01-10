@@ -4,7 +4,7 @@ gravity version: `v1.11.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_9995723.tar.lz4)** | Tue Jan 09 2024 11:58:40 UTC | `gravity-bridge-3` | 913M | 9995723 | `8510920d94cd4ec83253a2b2c3a7f25ade22bd80ae356828aa7ca9ce8aa1c42e` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_9984413.tar.lz4)** | Mon Jan 08 2024 16:19:06 UTC | `gravity-bridge-3` | 911M | 9984413 | `cbf6a01796de6f1f8225d600c0aaba4a35f60f34668f4e9d6382e0a91e76bba6` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_10012049.tar.lz4)** | Wed Jan 10 2024 16:26:53 UTC | `gravity-bridge-3` | 869M | 10012049 | `6d9ffb78a20505de4ea6fa8cb1045dbf81a0010d11c81d67946cd54354bfac55` |
 
 ---
 
@@ -12,7 +12,7 @@ gravity version: `v1.11.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_9995723.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_10012049.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_9995723.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_10012049.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
