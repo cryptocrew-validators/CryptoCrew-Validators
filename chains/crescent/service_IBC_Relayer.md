@@ -13,4 +13,7 @@ cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp
 ### Active IBC channels `crescent`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| crescent-1 | osmosis-1 | transfer | channel-9 |
+| crescent-1 | agoric-3 | transfer | channel-11 |
+| crescent-1 | stride-1 | transfer | channel-29 |
+| agoric-3 | crescent-1 | transfer | channel-2 |
+| stride-1 | crescent-1 | transfer | channel-51 |
