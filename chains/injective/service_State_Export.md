@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [injective-1 state export](https://dl.ccvalidators.com/SERVICE/injective/injective-1_export_57078500.json)**
+**Download: [injective-1 state export](https://dl.ccvalidators.com/SERVICE/injective/injective-1_export_57080480.json)**
 ---
 
-- last updated: Thu Jan 11 2024 18:28:54
+- last updated: Thu Jan 11 2024 18:51:28
 - chain id: `injective-1`
-- export height: `57078500`
+- export height: `57080480`
 - use for: airdrops, local tests, chain recovery
