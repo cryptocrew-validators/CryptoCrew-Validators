@@ -48,16 +48,16 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
+        "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
+        "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
+        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
         "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
         "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
         "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
         "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
         "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
-        "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk",
-        "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
-        "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
-        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj"
+        "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "restake": {
@@ -139,10 +139,10 @@
       "address": "celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "operator_account": "celestia138jl42zlxue4wpvnugcdqhxjmyd2vpt69gjdfk",
       "relayer_accounts": [
-        "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
-        "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk",
         "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da",
-        "celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac"
+        "celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac",
+        "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
+        "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
       ],
       "stake_link": "https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "rpc": [],
@@ -307,10 +307,10 @@
       "address": "injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
       "operator_account": "inj1nq37nq79w2j76xj8qhjzcn6vh0wlx0qka9t867",
       "relayer_accounts": [
-        "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm",
-        "inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0",
         "inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv",
-        "inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp"
+        "inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp",
+        "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm",
+        "inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0"
       ],
       "stake_link": "https://hub.injective.network/validators/injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
       "rpc": [
