@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 migalood version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4967175.tar.lz4)** | Wed Jan 10 2024 01:01:54 UTC | `migaloo-1` | 586M | 4967175 | `1883900c7054475ef44f4efa409cf81c62a9d7b09b19ebbd3ed9121099a4a922` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4967109.tar.lz4)** | Wed Jan 10 2024 00:55:45 UTC | `migaloo-1` | 571M | 4967109 | `51d8f4f183dbecc45d26ccaf310d344510389b0e94beeb0ce435d2e19cc91bf0` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4997384.tar.lz4)** | Fri Jan 12 2024 00:58:30 UTC | `migaloo-1` | 632M | 4997384 | `bbfc8fe1dfa371f169d0f65320433e722463365e8bce3ed8ca902ba32857e301` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4997380.tar.lz4)** | Fri Jan 12 2024 00:58:34 UTC | `migaloo-1` | 512M | 4997380 | `` |
 
 ---
 
@@ -12,7 +12,7 @@ migalood version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4967175.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4997384.tar.lz4"
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4967175.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_4997384.tar.lz4"
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
