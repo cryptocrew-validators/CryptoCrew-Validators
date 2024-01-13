@@ -33,4 +33,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
