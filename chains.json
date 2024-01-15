@@ -139,10 +139,10 @@
       "address": "celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "operator_account": "celestia138jl42zlxue4wpvnugcdqhxjmyd2vpt69gjdfk",
       "relayer_accounts": [
-        "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da",
-        "celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac",
         "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
-        "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
+        "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk",
+        "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da",
+        "celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac"
       ],
       "stake_link": "https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "rpc": [],
@@ -192,8 +192,7 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
-        "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u",
-        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa"
+        "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "rpc": [
