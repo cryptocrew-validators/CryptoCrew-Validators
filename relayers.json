@@ -3,6 +3,44 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-11",
+      "software": "hermes",
+      "software_version": "hermes 1.5.1+6583d697-dirty",
+      "chains": [
+        {
+          "chain_id": "core-1",
+          "wallets": [
+            "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-38",
+              "port_id": "transfer",
+              "dst_chain_id": "gravity-bridge-3"
+            }
+          ]
+        },
+        {
+          "chain_id": "gravity-bridge-3",
+          "wallets": [
+            "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-112",
+              "port_id": "transfer",
+              "dst_chain_id": "comdex-1"
+            },
+            {
+              "channel_id": "channel-24",
+              "port_id": "transfer",
+              "dst_chain_id": "core-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-1",
       "software": "hermes",
       "software_version": "hermes 1.5.1+6583d697-dirty",
@@ -1975,44 +2013,6 @@
               "channel_id": "channel-0",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-11",
-      "software": "hermes",
-      "software_version": "hermes 1.5.1+6583d697-dirty",
-      "chains": [
-        {
-          "chain_id": "core-1",
-          "wallets": [
-            "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-38",
-              "port_id": "transfer",
-              "dst_chain_id": "gravity-bridge-3"
-            }
-          ]
-        },
-        {
-          "chain_id": "gravity-bridge-3",
-          "wallets": [
-            "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-112",
-              "port_id": "transfer",
-              "dst_chain_id": "comdex-1"
-            },
-            {
-              "channel_id": "channel-24",
-              "port_id": "transfer",
-              "dst_chain_id": "core-1"
             }
           ]
         }
