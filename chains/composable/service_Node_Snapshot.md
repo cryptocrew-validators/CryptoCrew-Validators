@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 centaurid version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3317452.tar.lz4)** | Sat Jan 13 2024 00:05:34 UTC | `centauri-1` | 610M | 3317452 | `2f312f0ef0400a634658487e7823cbf247af14dcaa3ceffef5cbfc78bd6144b8` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3303331.tar.lz4)** | Fri Jan 12 2024 01:43:56 UTC | `centauri-1` | 757M | 3303331 | `2ad579fc815bd6a1940fb385245b3028a5ec0bb1783da447d18ab6a71b5b353b` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3348703.tar.lz4)** | Mon Jan 15 2024 01:47:23 UTC | `centauri-1` | 700M | 3348703 | `a18e2f00ce9a7d951266758ddb387d4d955182986a54ca8da6566fcc29579616` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3332346.tar.lz4)** | Sat Jan 13 2024 23:41:46 UTC | `centauri-1` | 517M | 3332346 | `4283705c395ef59f1449803b2ef68c2a27816d163c89da2447021dd08e4d724f` |
 
 ---
 
@@ -12,7 +12,7 @@ centaurid version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3317452.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3348703.tar.lz4"
 cd $HOME/.banksy
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm wasm_client_data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3317452.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/composable/centauri-1_3348703.tar.lz4"
 cd $HOME/.banksy
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm wasm_client_data
