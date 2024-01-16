@@ -28,7 +28,7 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | canto_7700-1 | transfer | channel-99 |
-| injective-1 | kava_2222-10 | transfer | channel-143 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | canto_7700-1 | injective-1 | transfer | channel-8 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
@@ -39,4 +39,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
