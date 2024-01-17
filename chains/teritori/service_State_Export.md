@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [teritori-1 state export](https://dl.ccvalidators.com/SERVICE/teritori/teritori-1_export_7010318.json)**
+**Download: [teritori-1 state export](https://dl.ccvalidators.com/SERVICE/teritori/teritori-1_export_7025135.json)**
 ---
 
-- last updated: Tue Jan 16 2024 23:45:03
+- last updated: Wed Jan 17 2024 23:43:14
 - chain id: `teritori-1`
-- export height: `7010318`
+- export height: `7025135`
 - use for: airdrops, local tests, chain recovery
