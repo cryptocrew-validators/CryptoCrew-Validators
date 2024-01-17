@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
-kujira12aeyaxq699k3f4d3733dl5pstw0ulplktatdmx
 ```
 
 ### Active IBC channels `kujira`:
@@ -34,7 +33,6 @@ kujira12aeyaxq699k3f4d3733dl5pstw0ulplktatdmx
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
-| kaiyo-1 | kava_2222-10 | transfer | channel-95 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-18 |
@@ -52,4 +50,3 @@ kujira12aeyaxq699k3f4d3733dl5pstw0ulplktatdmx
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | omniflixhub-1 | kaiyo-1 | transfer | channel-26 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
