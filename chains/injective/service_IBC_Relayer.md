@@ -7,15 +7,16 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
-inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
+inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
+inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 ```
 
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| injective-1 | celestia | transfer | channel-152 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
@@ -27,7 +28,6 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | canto_7700-1 | transfer | channel-99 |
-| injective-1 | celestia | transfer | channel-152 |
 | canto_7700-1 | injective-1 | transfer | channel-8 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
