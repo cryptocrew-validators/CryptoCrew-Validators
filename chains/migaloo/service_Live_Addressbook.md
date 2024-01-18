@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/migaloo/addrbook.json)**
 ---
 
-- last updated: Thu Jan 18 2024 00:54:19
+- last updated: Thu Jan 18 2024 01:00:10
 - chain id: `migaloo-1`
 
-- total peers (network scan): 193
+- total peers (network scan): 198
 
 ## Instructions
 ```sh
