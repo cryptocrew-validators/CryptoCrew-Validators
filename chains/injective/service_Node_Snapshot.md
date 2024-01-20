@@ -3,9 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Sat Jan 20 2024 00:45:09 UTC | `injective-1` | 17G |  | `c8cb77544c7d8aab9a4da02ed0761e8e328be6ad5bf6e1aa19733018423f629f` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_57904279.tar.lz4)** | Sat Jan 20 2024 00:46:55 UTC | `injective-1` | 4.0G | 57904279 | `` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_57903551.tar.lz4)** | Sat Jan 20 2024 00:45:49 UTC | `injective-1` | 14G | 57903551 | `7502d7322c33a926914b53f7491dfdc18b8f4ae8962d7744e2eb3ebaba6fb091` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_57904694.tar.lz4)** | Sat Jan 20 2024 00:51:45 UTC | `injective-1` | 4.0G | 57904694 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_57904279.tar.lz4)** | Sat Jan 20 2024 00:51:04 UTC | `injective-1` | 8.8G | 57904279 | `6e471a90bbb53ed4c5b5d921704819e79b613c34c802bc62f8ca708288a61ef6` |
 
 ---
 
@@ -13,7 +12,7 @@ injectived version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_57903551.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_57904279.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -29,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_57903551.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_57904279.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
