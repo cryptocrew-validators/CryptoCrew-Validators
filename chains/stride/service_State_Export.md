@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [stride-1 state export](https://dl.ccvalidators.com/SERVICE/stride/stride-1_export_7303343.json)**
+**Download: [stride-1 state export](https://dl.ccvalidators.com/SERVICE/stride/stride-1_export_7317242.json)**
 ---
 
-- last updated: Fri Jan 19 2024 13:16:57
+- last updated: Sat Jan 20 2024 11:52:54
 - chain id: `stride-1`
-- export height: `7303343`
+- export height: `7317242`
 - use for: airdrops, local tests, chain recovery
