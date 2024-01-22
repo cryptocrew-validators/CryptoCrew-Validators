@@ -4,9 +4,9 @@
 |-------------|----------------|-----------------|-------|
 | 321 | null | Mon Jan 22 2024 15:02:02 UTC | ABSTAIN |
 | 322 | null | Tue Jan 23 2024 04:28:29 UTC | ABSTAIN |
-| 323 | null | Tue Jan 23 2024 12:52:51 UTC | ⏳ NOT VOTED |
-| 324 | Adjust Trade & Earn reward points | Tue Jan 23 2024 16:14:53 UTC | ⏳ NOT VOTED |
-| 325 | Disbursement of OLP rewards for epoch ended on 25 December 2023 | Fri Jan 26 2024 09:13:56 UTC | ⏳ NOT VOTED |
+| 323 | null | Tue Jan 23 2024 12:52:51 UTC | ABSTAIN |
+| 324 | Adjust Trade & Earn reward points | Tue Jan 23 2024 16:14:53 UTC | ABSTAIN |
+| 325 | Disbursement of OLP rewards for epoch ended on 25 December 2023 | Fri Jan 26 2024 09:13:56 UTC | ABSTAIN |
 
 ---
 
