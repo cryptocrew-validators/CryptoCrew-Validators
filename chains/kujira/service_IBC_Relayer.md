@@ -7,6 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 ```
@@ -14,6 +15,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 ### Active IBC channels `kujira`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| kaiyo-1 | neutron-1 | transfer | channel-75 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | juno-1 | transfer | channel-1 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
@@ -33,6 +35,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | secret-4 | transfer | channel-44 |
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
+| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
