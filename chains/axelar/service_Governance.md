@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 192 | Axelar regional communities Dec23-Jan24 | Mon Jan 22 2024 15:44:44 UTC | ⏳ NOT VOTED |
+| 192 | Axelar regional communities Dec23-Jan24 | Mon Jan 22 2024 15:44:44 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
