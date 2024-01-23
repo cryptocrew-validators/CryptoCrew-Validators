@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 67 | Signaling proposal for new collateral: stkATOM for Inter Protocol [PSM/Vaults] | Thu Jan 25 2024 06:12:23 UTC | ⏳ NOT VOTED |
+| 67 | Signaling proposal for new collateral: stkATOM for Inter Protocol [PSM/Vaults] | Thu Jan 25 2024 06:12:23 UTC | ✅ YES |
 
 ---
 
