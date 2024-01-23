@@ -2,21 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 323 | null | Tue Jan 23 2024 12:52:51 UTC | ABSTAIN |
 | 324 | Adjust Trade & Earn reward points | Tue Jan 23 2024 16:14:53 UTC | ABSTAIN |
 | 325 | Disbursement of OLP rewards for epoch ended on 25 December 2023 | Fri Jan 26 2024 09:13:56 UTC | ABSTAIN |
-
----
-
-### 🗳 323: null
-- Voting Start: Fri Jan 19 2024 12:52:51 UTC
-- Voting End: Tue Jan 23 2024 12:52:51 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-null
-</details>
 
 ---
 
