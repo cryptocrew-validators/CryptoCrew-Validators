@@ -2,28 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 324 | Adjust Trade & Earn reward points | Tue Jan 23 2024 16:14:53 UTC | ABSTAIN |
 | 325 | Disbursement of OLP rewards for epoch ended on 25 December 2023 | Fri Jan 26 2024 09:13:56 UTC | ABSTAIN |
-
----
-
-### 🗳 324: Adjust Trade & Earn reward points
-- Voting Start: Fri Jan 19 2024 16:14:53 UTC
-- Voting End: Tue Jan 23 2024 16:14:53 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal, if passed, will adjust the Trade & Earn reward points for the epoch that ended on January 10.
-
-The reward points for the following addresses will be adjusted to zero: inj1cm86ly3qpml9zagtuhn64twy7mnxgdt8s6tt5p
-
-The community has presented evidence that these addresses have unfairly received Trade & Earn rewards through malicious behavior.
-
-For more details, refer to the governance forum post: https://gov.injective.network/discussion/14879-wash-trading
-
-Disclaimer: I am a team member at Injective Labs.
-</details>
 
 ---
 
