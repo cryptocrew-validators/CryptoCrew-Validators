@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Tue Jan 23 2024 00:10:38 UTC | `injective-1` | 9.0G |  | `e7a1bd49a1898ba9cc49af9d332ab9bb2fc97b63160a8b35e19c4c9a43b3f4b0` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58223067.tar.lz4)** | Tue Jan 23 2024 00:10:38 UTC | `injective-1` | 1.0G | 58223067 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Tue Jan 23 2024 00:11:50 UTC | `injective-1` | 9.0G |  | `13e11af571e17d8a832d099d4193f8c2b7b10b849d46897c4b2d4ef20d045f10` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58223067.tar.lz4)** | Tue Jan 23 2024 00:12:28 UTC | `injective-1` | 4.0G | 58223067 | `` |
 
 ---
 
