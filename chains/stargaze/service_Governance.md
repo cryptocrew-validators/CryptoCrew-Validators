@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 245 | Funding Proposal for PLStaking: A Soft-Staking Platform | Fri Jan 26 2024 07:16:26 UTC | ⏳ NOT VOTED |
+| 245 | Funding Proposal for PLStaking: A Soft-Staking Platform | Fri Jan 26 2024 07:16:26 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
