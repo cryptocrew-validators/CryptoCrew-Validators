@@ -3,8 +3,10 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58322452.tar.lz4)** | Wed Jan 24 2024 01:10:19 UTC | `injective-1` | 18G | 58322452 | `ab09746328003965e8e38f7f7c1a058cc9692590a0b04410b7abea66f0da187f` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58322123.tar.lz4)** | Wed Jan 24 2024 01:05:42 UTC | `injective-1` | 8.8G | 58322123 | `f214c6992762f3a0b424a6d4b77633abd07b11e25435a3bdc333129f48d63d41` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Wed Jan 24 2024 06:07:24 UTC | `injective-1` | 2.5G |  | `0c2cf5358342bc7091e2979836d51f7373d3d9e01c42f6d316365071475ab38f` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Wed Jan 24 2024 06:07:24 UTC | `injective-1` | 2.6G |  | `0c2cf5358342bc7091e2979836d51f7373d3d9e01c42f6d316365071475ab38f` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58345065.tar.lz4)** | Wed Jan 24 2024 06:06:40 UTC | `injective-1` | 9.8G | 58345065 | `e2bc9bb114d11f559a402889e9ed71735312c6817ceaebc2571bd8425310b9ca` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58345065.tar.lz4)** | Wed Jan 24 2024 06:06:40 UTC | `injective-1` | 9.8G | 58345065 | `e2bc9bb114d11f559a402889e9ed71735312c6817ceaebc2571bd8425310b9ca` |
 
 ---
 
@@ -12,7 +14,7 @@ injectived version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_58322452.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +30,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_58322452.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
