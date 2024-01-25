@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 325 | Disbursement of OLP rewards for epoch ended on 25 December 2023 | Fri Jan 26 2024 09:13:56 UTC | ABSTAIN |
+| 325 | Disbursement of OLP rewards for epoch ended on 25 December 2023 | Fri Jan 26 2024 09:13:56 UTC | ⏳ NOT VOTED |
 | 326 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Sun Jan 28 2024 02:58:11 UTC | ⏳ NOT VOTED |
 | 327 | Upload Stax NFT and Splitter Contract Wasm Code | Mon Jan 29 2024 07:47:30 UTC | ⏳ NOT VOTED |
 
