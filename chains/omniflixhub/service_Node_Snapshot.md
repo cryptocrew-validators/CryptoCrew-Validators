@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 omniflixhubd version: `v2.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10451180.tar.lz4)** | Thu Jan 25 2024 05:00:53 UTC | `omniflixhub-1` | 3.3G | 10451180 | `e5a00dd7a174de4e56815d46019051658fdadf6cbd6547416fdad89d9a713870` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10436382.tar.lz4)** | Wed Jan 24 2024 05:15:02 UTC | `omniflixhub-1` | 3.3G | 10436382 | `a2fbafc38ee12654c1b07ab126f136d871c98ba505b77d607bb61c80933a19a3` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10422711.tar.lz4)** | Tue Jan 23 2024 04:57:15 UTC | `omniflixhub-1` | 3.2G | 10422711 | `630c4d0af73afbcd91da0c4fe2338de0f8671a2156a380f5a91d2e9f77e13383` |
 
 ---
 
@@ -12,7 +12,7 @@ omniflixhubd version: `v2.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10436382.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10451180.tar.lz4"
 cd $HOME/.omniflixhub
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10436382.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_10451180.tar.lz4"
 cd $HOME/.omniflixhub
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
