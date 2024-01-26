@@ -5,7 +5,7 @@
 | 871 | Update Client: Revive client to Realio | Mon Jan 29 2024 06:32:39 UTC | ✅ YES |
 | 872 | 💎ATOM Airdrop ✅ 2024 New Version! ⭐ | Mon Jan 29 2024 16:08:47 UTC | ABSTAIN |
 | 873 | 💎ATOM Airdrop ✅ 2024 New Version! ⭐ | Thu Feb 01 2024 12:42:18 UTC | ABSTAIN |
-| 874 | 💎ATOM Airdrop ✅ 2024 New Update! ⭐ | Thu Feb 08 2024 11:56:15 UTC | ⏳ NOT VOTED |
+| 874 | 💎ATOM Airdrop ✅ 2024 New Update! ⭐ | Thu Feb 08 2024 11:56:15 UTC | ABSTAIN |
 
 ---
 
