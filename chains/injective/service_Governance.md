@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 326 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Sun Jan 28 2024 02:58:11 UTC | ⏳ NOT VOTED |
+| 326 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Sun Jan 28 2024 02:58:11 UTC | ABSTAIN |
 | 327 | Upload Stax NFT and Splitter Contract Wasm Code | Mon Jan 29 2024 07:47:30 UTC | ⏳ NOT VOTED |
 | 328 | Disbursement of OLP rewards for epoch ended on 22 January 2024 | Tue Jan 30 2024 13:13:50 UTC | ⏳ NOT VOTED |
 | 329 | DOJO/INJ Spot Market Launch | Tue Jan 30 2024 13:22:54 UTC | ⏳ NOT VOTED |
