@@ -64,7 +64,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |
 | osmosis-1 | core-1 | transfer | channel-4 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -107,4 +106,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
