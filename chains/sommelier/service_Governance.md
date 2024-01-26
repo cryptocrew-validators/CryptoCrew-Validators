@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 111 | [SIPS-104] Authorize the Morpho ETH Maximizer Cellar | Sun Jan 28 2024 10:12:27 UTC | ⏳ NOT VOTED |
+| 111 | [SIPS-104] Authorize the Morpho ETH Maximizer Cellar | Sun Jan 28 2024 10:12:27 UTC | ✅ YES |
 | 112 | [SIPS-105] Authorize the Turbo CRVUSD Cellar | Sun Jan 28 2024 10:15:19 UTC | ✅ YES |
 | 113 | [SIPS-109] Authorize the Yield Maxi USDC Cellar | Sun Jan 28 2024 10:24:20 UTC | ✅ YES |
 | 114 | [SIPS-110] MaxMorphoETH Incentives Proposal | Sun Jan 28 2024 10:42:50 UTC | 🤷‍♂️ ABSTAIN |
