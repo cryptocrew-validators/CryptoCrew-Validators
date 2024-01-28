@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 226 | Round2 Gravity Growth and Sustainability Grant | Mon Jan 29 2024 23:44:42 UTC | ⏳ NOT VOTED |
+| 226 | Round2 Gravity Growth and Sustainability Grant | Mon Jan 29 2024 23:44:42 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
