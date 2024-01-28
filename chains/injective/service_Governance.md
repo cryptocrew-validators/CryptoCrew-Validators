@@ -2,33 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 326 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Sun Jan 28 2024 02:58:11 UTC | ABSTAIN |
 | 327 | Upload Stax NFT and Splitter Contract Wasm Code | Mon Jan 29 2024 07:47:30 UTC | ABSTAIN |
 | 328 | Disbursement of OLP rewards for epoch ended on 22 January 2024 | Tue Jan 30 2024 13:13:50 UTC | ABSTAIN |
 | 329 | DOJO/INJ Spot Market Launch | Tue Jan 30 2024 13:22:54 UTC | ABSTAIN |
 | 330 | null | Wed Jan 31 2024 20:21:31 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 326: Trade & Earn Multiplier Updates on Injective Exchange dApps
-- Voting Start: Wed Jan 24 2024 02:58:11 UTC
-- Voting End: Sun Jan 28 2024 02:58:11 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-To support trading activity in new markets across exchange dApps built on Injective, we propose boosting the T&E multipliers for the JUP/USDT PERP and ZRO/USDT PERP markets to 50x, while resetting the multipliers for other markets. This will keep the T&E multiplier boosts meaningful rather than diluting the impact of the boosts between several markets.
-
-By voting YES on this proposal, you agree to update T&E multipliers based on the description above.
-
-By voting NO on the proposal, you do not support updating the T&E multipliers based on the description above.
-
-By voting NO WITH VETO, you find this proposal to be (1) spam, i.e., irrelevant to the Injective ecosystem, (2) disproportionately infringes on minority interests, or (3) violates or encourages violation of the rules of engagement as currently set out by Injective governance. If the number of ‘NoWithVeto’ votes is greater than a third of total votes, the proposal is rejected and the 500 INJ deposit is burned.
-
-By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.
-
-Disclosure: I am a member of the Injective Labs team.
-</details>
 
 ---
 
