@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 328 | Disbursement of OLP rewards for epoch ended on 22 January 2024 | Tue Jan 30 2024 13:13:50 UTC | ABSTAIN |
 | 329 | DOJO/INJ Spot Market Launch | Tue Jan 30 2024 13:22:54 UTC | ABSTAIN |
-| 330 | null | Wed Jan 31 2024 20:21:31 UTC | ⏳ NOT VOTED |
+| 330 | null | Wed Jan 31 2024 20:21:31 UTC | ABSTAIN |
 
 ---
 
