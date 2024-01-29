@@ -2,22 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 327 | Upload Stax NFT and Splitter Contract Wasm Code | Mon Jan 29 2024 07:47:30 UTC | ABSTAIN |
 | 328 | Disbursement of OLP rewards for epoch ended on 22 January 2024 | Tue Jan 30 2024 13:13:50 UTC | ABSTAIN |
 | 329 | DOJO/INJ Spot Market Launch | Tue Jan 30 2024 13:22:54 UTC | ABSTAIN |
 | 330 | null | Wed Jan 31 2024 20:21:31 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 327: Upload Stax NFT and Splitter Contract Wasm Code
-- Voting Start: Thu Jan 25 2024 07:47:30 UTC
-- Voting End: Mon Jan 29 2024 07:47:30 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-Background:n Stax has developed a sophisticated NFT contract ecosystem, featuring a framework that incorporates a unique revenue-sharing mechanism. This system is designed to distribute funds fairly among community members. The funds come from profits with the addition of casino mini-games like coinflip, pending a separate proposal for mainnet deployment.n n Summary:n This proposal suggests integrating the Stax NFT Contract and Splitter Contract into the Injective Protocol. These contracts are designed for automated, trustless, and transparent revenue distribution within the Stax community. Both contracts have undergone thorough testing on the testnet, demonstrating their reliability. The Talis team has verified that all features of the NFT contract work as expected.n n Contract Specifications:n n Stax NFT Contractn - Purpose: Manages NFT issuance and integrates a revenue-sharing mechanism to support a sustainable ecosystem.n - Key Features: Advanced NFT management, revenue distribution mechanism.n - Current Status: Tested on testnet and ready for deployment with Talis.n n Splitter Contractn - Purpose: Allocates revenues from coinflip games and other blockchain activities to specific wallets, ensuring fair and transparent distribution.n - Key Features: Efficient fund distribution, supports multiple recipients.n - Current Status: Tested on testnet.n n Technical Details:n - Release Version: stax-nft-v1.0.0n - Code Repository: [GitHub Repository](https://github.com/staxNFT/stax-nft)n - Compiler Used: cosmwasm/optimizer:0.15.0n - Checksum: [Provided in checksums.txt]n For detailed information, please visit the Stax website and review the codebase on GitHub.n n TL;DRn - Stax introduces a novel approach to the NFT sector by combining 3D generative art and revenue sharing mechanism with casino-style mini-games. n n -This proposal aims to integrate the Stax NFT Contract and Splitter Contract with the Injective Protocol to provide a transparent and trustless infrastructure, enabling community members to utilize INJ in innovative ways.n n -By voting YES on this proposal, you agree to uploading Stax's NFT and Splitter Wasm Contracts code as described in this proposal.n n -By voting NO on the proposal, you do not support uploading Stax's NFT and Splitter Wasm Contracts code as described in this proposal.n n n -By voting NO WITH VETO, you find this proposal to be spam/irrelevant/malicious to governance, and contribute to burning 100 INJ deposit if NoWithVeto votes are greater than ⅓ of the total voting power.n n -By voting ABSTAIN, you wish to contribute to quorum while formally declining to vote either for or against the proposal.n n Links:n n - [Stax on Injective Protocol](https://inj.stax.live/#/)n - [GitHub Repository](https://github.com/staxNFT/stax-nft)n - [Stax Twitter](https://twitter.com/stax_nft)n - [Stax Discord](https://discord.gg/jexPxngaWa)n 
-</details>
 
 ---
 
