@@ -3,9 +3,9 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58908480.tar.lz4)** | Mon Jan 29 2024 18:29:22 UTC | `injective-1` | 2.0G | 58908480 | `` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58908043.tar.lz4)** | Mon Jan 29 2024 18:29:22 UTC | `injective-1` | 4.0G | 58908043 | `` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58907625.tar.lz4)** | Mon Jan 29 2024 18:28:43 UTC | `injective-1` | 9.0G | 58907625 | `4dcf5c8bb3e3537cc3102f3f7b52f555ff9c96a6db9d6351954905c18a1a423d` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58908648.tar.lz4)** | Mon Jan 29 2024 18:38:17 UTC | `injective-1` | 8.0G | 58908648 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58908480.tar.lz4)** | Mon Jan 29 2024 18:38:17 UTC | `injective-1` | 8.0G | 58908480 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58908043.tar.lz4)** | Mon Jan 29 2024 18:37:32 UTC | `injective-1` | 9.0G | 58908043 | `1aafb6ee3cf35ff64e22194c87e525a0949a33a8588f53d5147c0c39cf0781fb` |
 
 ---
 
@@ -13,7 +13,7 @@ injectived version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_58907625.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_58908043.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -29,7 +29,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_58907625.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_58908043.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
