@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/lumnetwork/genesis.json)**
 ---
 
-- last updated: Sat Jan 27 2024 05:46:45
+- last updated: Mon Jan 29 2024 05:50:59
 - chain id: `lum-network-1`
 
 ## Instructions
