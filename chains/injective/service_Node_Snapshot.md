@@ -1,3 +1,10 @@
+## Node Snapshot
+CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
+injectived version: `latest`
+| DOWNLOAD | date | chain id | size | height | checksum |
+| -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Mon Jan 29 2024 06:09:39 UTC | `injective-1` | 13G |  | `40e8831f84c2f77bcb837f640eadf5f145462bb66059cfb461310e3126996e01` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_58856633.tar.lz4)** | Mon Jan 29 2024 06:10:29 UTC | `injective-1` | 4.0G | 58856633 | `` |
 
 ---
 
