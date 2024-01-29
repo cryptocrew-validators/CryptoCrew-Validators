@@ -16,10 +16,10 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| injective-1 | celestia | transfer | channel-152 |
 | injective-1 | kava_2222-10 | transfer | channel-143 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
-| injective-1 | celestia | transfer | channel-152 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
 | injective-1 | phoenix-1 | transfer | channel-104 |
