@@ -22,6 +22,7 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
@@ -37,7 +38,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
@@ -69,6 +69,7 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
@@ -86,7 +87,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
