@@ -26,4 +26,3 @@ persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
 | cosmoshub-4 | core-1 | icahost | channel-428 |
 | juno-1 | core-1 | transfer | channel-33 |
 | osmosis-1 | core-1 | transfer | channel-4 |
-| kava_2222-10 | core-1 | transfer | channel-134 |
