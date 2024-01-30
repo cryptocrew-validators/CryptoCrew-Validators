@@ -13,14 +13,14 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
+        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq",
         "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u",
         "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
         "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02",
-        "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy",
-        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
-        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq"
+        "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "restake": {
@@ -48,12 +48,12 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
-        "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
         "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
         "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
+        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
+        "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
         "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
         "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
@@ -247,6 +247,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
+        "kujira12aeyaxq699k3f4d3733dl5pstw0ulplktatdmx",
         "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
         "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
         "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh"
