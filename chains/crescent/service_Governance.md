@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 293 | Re-vote: 2024 version  | Sat Feb 03 2024 22:56:28 UTC | ⏳ NOT VOTED |
+| 293 | Re-vote: 2024 version  | Sat Feb 03 2024 22:56:28 UTC | ABSTAIN |
 
 ---
 
