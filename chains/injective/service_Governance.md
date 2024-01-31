@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 330 | null | Wed Jan 31 2024 20:21:31 UTC | ABSTAIN |
 | 331 | Parameter Updates for Markets on Injective Exchange dApps | Sat Feb 03 2024 23:20:12 UTC | ⏳ NOT VOTED |
-| 332 | Upload Stax Coinflip Contract Wasm Code | Sun Feb 04 2024 05:35:11 UTC | ⏳ NOT VOTED |
+| 332 | Upload Stax Coinflip Contract Wasm Code | Sun Feb 04 2024 05:35:11 UTC | ABSTAIN |
 | 333 | null | Sun Feb 04 2024 06:45:49 UTC | ⏳ NOT VOTED |
 
 ---
