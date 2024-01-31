@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 115 | [SIPS-111] Authorize the Turbo DIVETH Cellar | Wed Jan 31 2024 16:28:58 UTC | ✅ YES |
+| 115 | [SIPS-111] Authorize the Turbo DIVETH Cellar | Wed Jan 31 2024 16:28:58 UTC | ⏳ NOT VOTED |
 | 116 | [SIPS-112] Authorize the Turbo ETHX Cellar | Wed Jan 31 2024 16:56:02 UTC | ✅ YES |
 | 117 | [SIPS-113] Co-Incentives Proposal for Turbo ETHX | Thu Feb 01 2024 17:07:52 UTC | ⏳ NOT VOTED |
 | 118 | [SIPS-107] Authorize the Turbo EETH V2 Cellar | Thu Feb 01 2024 17:11:10 UTC | ⏳ NOT VOTED |
