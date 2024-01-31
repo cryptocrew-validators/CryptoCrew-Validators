@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 68 | null | Sat Feb 03 2024 17:49:14 UTC | ABSTAIN |
 | 69 | null | Sun Feb 04 2024 08:56:42 UTC | ABSTAIN |
-| 70 | null | Sun Feb 04 2024 10:10:45 UTC | ⏳ NOT VOTED |
+| 70 | null | Sun Feb 04 2024 10:10:45 UTC | ABSTAIN |
 
 ---
 
