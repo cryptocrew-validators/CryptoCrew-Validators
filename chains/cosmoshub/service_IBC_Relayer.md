@@ -14,7 +14,6 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
-cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 ```
 
 ### Active IBC channels `cosmoshub`:
@@ -35,26 +34,21 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 | cosmoshub-4 | lum-network-1 | transfer | channel-566 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | cosmoshub-4 | lum-network-1 | icahost | channel-607 |
-| cosmoshub-4 | core-1 | transfer | channel-190 |
-| cosmoshub-4 | omniflixhub-1 | transfer | channel-306 |
-| cosmoshub-4 | comdex-1 | transfer | channel-400 |
-| cosmoshub-4 | core-1 | icahost | channel-428 |
+| comdex-1 | cosmoshub-4 | transfer | channel-37 |
+| core-1 | cosmoshub-4 | transfer | channel-24 |
+| core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
+| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
+| gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | bitsong-2b | cosmoshub-4 | transfer | channel-1 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
-| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
-| gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | lum-network-1 | cosmoshub-4 | icacontroller-pool.2.prizepool | channel-16 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
-| comdex-1 | cosmoshub-4 | transfer | channel-37 |
-| core-1 | cosmoshub-4 | transfer | channel-24 |
-| core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
-| omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
-| omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |

@@ -15,18 +15,16 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
-| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
 | comdex-1 | juno-1 | transfer | channel-18 |
-| comdex-1 | kaiyo-1 | transfer | channel-31 |
+| comdex-1 | evmos_9001-2 | transfer | channel-35 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
-| laozi-mainnet | comdex-1 | oracle | channel-96 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
-| chihuahua-1 | comdex-1 | transfer | channel-37 |
+| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
 | core-1 | comdex-1 | transfer | channel-71 |
-| cosmoshub-4 | comdex-1 | transfer | channel-400 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-21 |
+| evmos_9001-2 | comdex-1 | transfer | channel-26 |
 | juno-1 | comdex-1 | transfer | channel-36 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
+| laozi-mainnet | comdex-1 | oracle | channel-96 |
+| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
