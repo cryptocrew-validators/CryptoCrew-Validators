@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
+inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 ```
@@ -16,9 +16,8 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| injective-1 | gravity-bridge-3 | transfer | channel-100 |
-| injective-1 | celestia | transfer | channel-152 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
+| injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
 | injective-1 | phoenix-1 | transfer | channel-104 |
 | injective-1 | phoenix-1 | wasm.inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq | channel-105 |
@@ -28,13 +27,14 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | canto_7700-1 | transfer | channel-99 |
-| evmos_9001-2 | injective-1 | transfer | channel-10 |
-| kaiyo-1 | injective-1 | transfer | channel-54 |
-| osmosis-1 | injective-1 | transfer | channel-122 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
+| injective-1 | celestia | transfer | channel-152 |
 | canto_7700-1 | injective-1 | transfer | channel-8 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
+| evmos_9001-2 | injective-1 | transfer | channel-10 |
+| kaiyo-1 | injective-1 | transfer | channel-54 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
+| osmosis-1 | injective-1 | transfer | channel-122 |
 | phoenix-1 | injective-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-116 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
