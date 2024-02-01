@@ -8,8 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
-persistence12aeyaxq699k3f4d3733dl5pstw0ulplk5e0xcg
-persistence18hx3fcqrvynx9vvpvyv5qym82xz4suw5724p3y
 ```
 
 ### Active IBC channels `persistence`:
@@ -21,9 +19,8 @@ persistence18hx3fcqrvynx9vvpvyv5qym82xz4suw5724p3y
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | core-1 | comdex-1 | transfer | channel-71 |
-| core-1 | kava_2222-10 | transfer | channel-129 |
+| kava_2222-10 | core-1 | transfer | channel-134 |
 | gravity-bridge-3 | core-1 | transfer | channel-24 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | juno-1 | core-1 | transfer | channel-33 |
 | osmosis-1 | core-1 | transfer | channel-4 |
-| kava_2222-10 | core-1 | transfer | channel-134 |
