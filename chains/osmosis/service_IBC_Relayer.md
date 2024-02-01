@@ -7,6 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
@@ -16,12 +17,14 @@ osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
-osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
@@ -43,7 +46,6 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |
 | osmosis-1 | core-1 | transfer | channel-4 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
@@ -65,8 +67,9 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
+| laozi-mainnet | osmosis-1 | transfer | channel-83 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
@@ -87,7 +90,6 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
 | vidulum-1 | osmosis-1 | transfer | channel-0 |
-| comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
@@ -104,5 +106,3 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| laozi-mainnet | osmosis-1 | transfer | channel-83 |
