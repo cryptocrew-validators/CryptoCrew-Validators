@@ -15,4 +15,3 @@ dydx12aeyaxq699k3f4d3733dl5pstw0ulplknv83km
 | --------------- | --------------- | ------------ | ------------------- |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
-| neutron-1 | dydx-mainnet-1 | transfer | channel-48 |
