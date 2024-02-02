@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 874 | 💎ATOM Airdrop ✅ 2024 New Update! ⭐ | Thu Feb 08 2024 11:56:15 UTC | ABSTAIN |
 | 875 | 💎ATOM Airdrop ✅ New Deluxe version✨ | Tue Feb 13 2024 00:22:35 UTC | ABSTAIN |
-| 876 | New dApps on Atom ⚛️ - Stay up to date! ☀️ | Thu Feb 15 2024 10:14:15 UTC | ⏳ NOT VOTED |
+| 876 | New dApps on Atom ⚛️ - Stay up to date! ☀️ | Thu Feb 15 2024 10:14:15 UTC | ABSTAIN |
 
 ---
 
