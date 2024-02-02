@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 empowerd version: `v2.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3377901.tar.lz4)** | Fri Feb 02 2024 10:32:29 UTC | `empowerchain-1` | 681M | 3377901 | `a13c327c790af58d79b91d86c5cbf0d9fc5a20018cc6fea2707fbbb7fd714c51` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3356058.tar.lz4)** | Thu Feb 01 2024 00:39:35 UTC | `empowerchain-1` | 332M | 3356058 | `6ea2e2547e955019de10226fcdd27bed096ef9b59c54d863f66c5b32e419f36e` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3341644.tar.lz4)** | Wed Jan 31 2024 02:18:17 UTC | `empowerchain-1` | 684M | 3341644 | `aa33af12a07a0660188185289f60fb70e690e6b4d96666fd0aa044c4988f8b4b` |
 
 ---
 
@@ -12,7 +12,7 @@ empowerd version: `v2.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3356058.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3377901.tar.lz4"
 cd $HOME/.empowerchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3356058.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_3377901.tar.lz4"
 cd $HOME/.empowerchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
