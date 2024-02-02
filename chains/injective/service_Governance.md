@@ -6,9 +6,9 @@
 | 332 | Upload Stax Coinflip Contract Wasm Code | Sun Feb 04 2024 05:35:11 UTC | ABSTAIN |
 | 333 | null | Sun Feb 04 2024 06:45:49 UTC | ABSTAIN |
 | 334 | Launch OP/USDT PERP and ARB/USDT PERP Markets, Relaunch OSMO/USDT PERP Market for Injective Exchange dApps | Sun Feb 04 2024 16:11:33 UTC | ABSTAIN |
-| 335 | null | Sun Feb 04 2024 18:19:06 UTC | ⏳ NOT VOTED |
-| 336 | null | Sun Feb 04 2024 18:25:09 UTC | ⏳ NOT VOTED |
-| 337 | null | Sun Feb 04 2024 18:27:43 UTC | ⏳ NOT VOTED |
+| 335 | null | Sun Feb 04 2024 18:19:06 UTC | ABSTAIN |
+| 336 | null | Sun Feb 04 2024 18:25:09 UTC | ABSTAIN |
+| 337 | null | Sun Feb 04 2024 18:27:43 UTC | ABSTAIN |
 | 338 | null | Sun Feb 04 2024 22:34:26 UTC | ⏳ NOT VOTED |
 | 339 | Update JUP/USDT PERP Oracle on Injective Exchange dApps | Mon Feb 05 2024 15:18:05 UTC | ⏳ NOT VOTED |
 
