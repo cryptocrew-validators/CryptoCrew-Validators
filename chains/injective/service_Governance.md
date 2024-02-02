@@ -9,8 +9,8 @@
 | 335 | null | Sun Feb 04 2024 18:19:06 UTC | ABSTAIN |
 | 336 | null | Sun Feb 04 2024 18:25:09 UTC | ABSTAIN |
 | 337 | null | Sun Feb 04 2024 18:27:43 UTC | ABSTAIN |
-| 338 | null | Sun Feb 04 2024 22:34:26 UTC | ⏳ NOT VOTED |
-| 339 | Update JUP/USDT PERP Oracle on Injective Exchange dApps | Mon Feb 05 2024 15:18:05 UTC | ⏳ NOT VOTED |
+| 338 | null | Sun Feb 04 2024 22:34:26 UTC | ABSTAIN |
+| 339 | Update JUP/USDT PERP Oracle on Injective Exchange dApps | Mon Feb 05 2024 15:18:05 UTC | ABSTAIN |
 
 ---
 
