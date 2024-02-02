@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 249 | Stargaze LiquidityDAO Proposal | Sat Feb 03 2024 15:50:41 UTC | 🤷‍♂️ ABSTAIN |
-| 250 | Collection Creation Fee Update | Sun Feb 04 2024 18:46:56 UTC | ⏳ NOT VOTED |
+| 250 | Collection Creation Fee Update | Sun Feb 04 2024 18:46:56 UTC | ✅ YES |
 
 ---
 
