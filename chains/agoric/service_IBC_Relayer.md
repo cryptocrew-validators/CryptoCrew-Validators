@@ -14,5 +14,4 @@ agoric12aeyaxq699k3f4d3733dl5pstw0ulplkggt2x6
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
-| crescent-1 | agoric-3 | transfer | channel-11 |
 | osmosis-1 | agoric-3 | transfer | channel-320 |
