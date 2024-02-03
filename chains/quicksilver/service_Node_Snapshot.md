@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 quicksilverd version: `v1.4.6`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5772818.tar.lz4)** | Thu Feb 01 2024 11:43:48 UTC | `quicksilver-2` | 893M | 5772818 | `a3c3f59cdbb94a1d981ec2da06bca3a9d0b221ac336e63f5ce6b5823ca0c9161` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5758238.tar.lz4)** | Wed Jan 31 2024 12:12:55 UTC | `quicksilver-2` | 1011M | 5758238 | `20496686c4477420d2ca633e4911423c9b35a20ff693aafe5f434f0cd09701ba` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5802606.tar.lz4)** | Sat Feb 03 2024 11:42:48 UTC | `quicksilver-2` | 825M | 5802606 | `7e54b7d3d6ea9200ac13c0935fc95a364c2ec7bd354271a2094e974d8dd57ac7` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5788958.tar.lz4)** | Fri Feb 02 2024 13:44:50 UTC | `quicksilver-2` | 1.2G | 5788958 | `a535cc7a2591a08ac7ad1823b42ea89f700150dfef4e24ac01d6f21a68d59cf4` |
 
 ---
 
@@ -12,7 +12,7 @@ quicksilverd version: `v1.4.6`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5772818.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5802606.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5772818.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_5802606.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
