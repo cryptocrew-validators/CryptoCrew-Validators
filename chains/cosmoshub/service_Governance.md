@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 874 | 💎ATOM Airdrop ✅ 2024 New Update! ⭐ | Thu Feb 08 2024 11:56:15 UTC | ⏳ NOT VOTED |
+| 874 | 💎ATOM Airdrop ✅ 2024 New Update! ⭐ | Thu Feb 08 2024 11:56:15 UTC | ABSTAIN |
 | 875 | 💎ATOM Airdrop ✅ New Deluxe version✨ | Tue Feb 13 2024 00:22:35 UTC | ABSTAIN |
 | 876 | New dApps on Atom ⚛️ - Stay up to date! ☀️ | Thu Feb 15 2024 10:14:15 UTC | ABSTAIN |
 | 877 | Substitute IBC light client for doravota | Fri Feb 16 2024 16:49:01 UTC | ✅ YES |
