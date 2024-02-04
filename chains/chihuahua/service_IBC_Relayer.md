@@ -18,13 +18,13 @@ chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
-| comdex-1 | chihuahua-1 | transfer | channel-61 |
-| omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| osmosis-1 | chihuahua-1 | transfer | channel-11348 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
 | migaloo-1 | chihuahua-1 | transfer | channel-10 |
+| osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | phoenix-1 | chihuahua-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-114 |
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
 | secret-4 | chihuahua-1 | transfer | channel-11 |
+| comdex-1 | chihuahua-1 | transfer | channel-61 |
+| omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
+| osmosis-1 | chihuahua-1 | transfer | channel-11348 |
