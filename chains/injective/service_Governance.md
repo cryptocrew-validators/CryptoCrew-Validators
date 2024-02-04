@@ -2,20 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 338 | null | Sun Feb 04 2024 22:34:26 UTC | ABSTAIN |
 | 339 | Update JUP/USDT PERP Oracle on Injective Exchange dApps | Mon Feb 05 2024 15:18:05 UTC | ABSTAIN |
-
----
-
-### 🗳 338: null
-- Voting Start: Wed Jan 31 2024 22:34:26 UTC
-- Voting End: Sun Feb 04 2024 22:34:26 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-null
-</details>
 
 ---
 
