@@ -45,6 +45,7 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
         "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
         "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
@@ -53,7 +54,6 @@
         "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
         "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
         "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
@@ -82,8 +82,8 @@
       "address": "junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
       "operator_account": "juno1ncu32g0lzhk0epzdar7smd3qv9da2n8wcxcuw0",
       "relayer_accounts": [
-        "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq",
-        "juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r"
+        "juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r",
+        "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq"
       ],
       "stake_link": "https://wallet.keplr.app/chains/juno?modal=validator&chain=juno-1&validator_address=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
       "restake": {
@@ -243,8 +243,8 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
-        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
-        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594"
+        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
+        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
@@ -276,8 +276,8 @@
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
       "relayer_accounts": [
-        "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j",
-        "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
+        "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt",
+        "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j"
       ],
       "stake_link": "https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "restake": {
@@ -305,8 +305,8 @@
       "address": "injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
       "operator_account": "inj1nq37nq79w2j76xj8qhjzcn6vh0wlx0qka9t867",
       "relayer_accounts": [
-        "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm",
         "inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0",
+        "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm",
         "inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv",
         "inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp"
       ],
@@ -451,8 +451,8 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
-        "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
-        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
+        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw",
+        "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "restake": {
@@ -690,8 +690,8 @@
       "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
       "relayer_accounts": [
-        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5",
-        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
+        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh",
+        "gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5"
       ],
       "stake_link": "https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
       "restake": {
