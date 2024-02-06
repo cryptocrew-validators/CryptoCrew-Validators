@@ -4,8 +4,8 @@ injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Tue Feb 06 2024 06:58:43 UTC | `injective-1` | 9.5G |  | `f2d87eb267abcdff30168d97d69d025cba89ae1bfa22ad4ab0f9a05d0f2d4319` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59694234.tar.lz4)** | Tue Feb 06 2024 06:59:08 UTC | `injective-1` | 1.0G | 59694234 | `` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59693645.tar.lz4)** | Tue Feb 06 2024 06:59:08 UTC | `injective-1` | 8.0G | 59693645 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59694234.tar.lz4)** | Tue Feb 06 2024 06:59:23 UTC | `injective-1` | 1.0G | 59694234 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59693645.tar.lz4)** | Tue Feb 06 2024 06:59:23 UTC | `injective-1` | 12G | 59693645 | `` |
 
 ---
 
