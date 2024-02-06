@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/stargaze/addrbook.json)**
 ---
 
-- last updated: Mon Feb 05 2024 05:07:45
+- last updated: Tue Feb 06 2024 06:51:45
 - chain id: `stargaze-1`
-- available peers: 311
-- total peers (network scan): 1118
+
+- total peers (network scan): 1063
 
 ## Instructions
 ```sh
