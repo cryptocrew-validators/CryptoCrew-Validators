@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 340 | Launch LINK/USDT PERP and DOGE/USDT PERP Markets, Relaunch BONK/USDT PERP Market for Injective Exchange dApps | Fri Feb 09 2024 16:23:51 UTC | ⏳ NOT VOTED |
+| 340 | Launch LINK/USDT PERP and DOGE/USDT PERP Markets, Relaunch BONK/USDT PERP Market for Injective Exchange dApps | Fri Feb 09 2024 16:23:51 UTC | ABSTAIN |
 | 341 | Upload Injective Native Quadratic Funding Smart Contract | Sat Feb 10 2024 08:32:36 UTC | ⏳ NOT VOTED |
 
 ---
