@@ -4,7 +4,7 @@ injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_.tar.lz4)** | Tue Feb 06 2024 06:58:43 UTC | `injective-1` | 9.5G |  | `f2d87eb267abcdff30168d97d69d025cba89ae1bfa22ad4ab0f9a05d0f2d4319` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59694234.tar.lz4)** | Tue Feb 06 2024 07:02:52 UTC | `injective-1` | 4.0G | 59694234 | `` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59694234.tar.lz4)** | Tue Feb 06 2024 07:22:59 UTC | `injective-1` | 19G | 59694234 | `e12d837ab6e3b96bf475f0be37b1cbac3219e9a42c5a89fe437826171aaa4a6a` |
 | **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/injective-1_59693645.tar.lz4)** | Tue Feb 06 2024 07:02:09 UTC | `injective-1` | 9.4G | 59693645 | `f90ca8e27920c61bc1d2f80cfbbe054b3c232275b0362c3f0a53c6111db2d2f6` |
 
 ---
@@ -13,7 +13,7 @@ injectived version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_59693645.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_59694234.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -29,7 +29,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_59693645.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/injective/injective-1_59694234.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
