@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 119 | Sommelier v7 - Multichain + Multistrategist + Protocol Revenue Distribution | Wed Feb 07 2024 02:10:54 UTC | ⏳ NOT VOTED |
+| 119 | Sommelier v7 - Multichain + Multistrategist + Protocol Revenue Distribution | Wed Feb 07 2024 02:10:54 UTC | ✅ YES |
 
 ---
 
