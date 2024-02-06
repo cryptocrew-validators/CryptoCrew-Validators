@@ -23,4 +23,3 @@ persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
 | comdex-1 | core-1 | transfer | channel-57 |
 | juno-1 | core-1 | transfer | channel-33 |
 | osmosis-1 | core-1 | transfer | channel-4 |
-| kava_2222-10 | core-1 | transfer | channel-134 |
