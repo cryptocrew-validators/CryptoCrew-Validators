@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 29 | OmniFlix Hub v2.1 upgrade proposal | Fri Feb 09 2024 07:16:56 UTC | ABSTAIN |
-| 30 | null | Wed Feb 14 2024 22:26:50 UTC | ⏳ NOT VOTED |
+| 30 | null | Wed Feb 14 2024 22:26:50 UTC | ABSTAIN |
 
 ---
 
