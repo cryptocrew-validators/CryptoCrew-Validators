@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 121 | [SIPS-115] Proposal to Add osETH and eETH Markets to MaxMorphoETH | Sat Feb 10 2024 18:52:48 UTC | ⏳ NOT VOTED |
+| 121 | [SIPS-115] Proposal to Add osETH and eETH Markets to MaxMorphoETH | Sat Feb 10 2024 18:52:48 UTC | ABSTAIN |
 
 ---
 
