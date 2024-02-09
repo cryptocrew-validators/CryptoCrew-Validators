@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 341 | Upload Injective Native Quadratic Funding Smart Contract | Sat Feb 10 2024 08:32:36 UTC | ABSTAIN |
-| 342 | Adjust Trade and Earn Reward Points for Epoch Ended Jan 31 2024 | Mon Feb 12 2024 19:53:44 UTC | ⏳ NOT VOTED |
+| 342 | Adjust Trade and Earn Reward Points for Epoch Ended Jan 31 2024 | Mon Feb 12 2024 19:53:44 UTC | ABSTAIN |
 
 ---
 
