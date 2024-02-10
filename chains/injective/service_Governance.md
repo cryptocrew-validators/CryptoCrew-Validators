@@ -2,20 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 341 | Upload Injective Native Quadratic Funding Smart Contract | Sat Feb 10 2024 08:32:36 UTC | ABSTAIN |
 | 342 | Adjust Trade and Earn Reward Points for Epoch Ended Jan 31 2024 | Mon Feb 12 2024 19:53:44 UTC | ABSTAIN |
-
----
-
-### 🗳 341: Upload Injective Native Quadratic Funding Smart Contract
-- Voting Start: Tue Feb 06 2024 08:32:36 UTC
-- Voting End: Sat Feb 10 2024 08:32:36 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-DoraHacks is proposing the deployment of a Quadratic Funding contract natively on Injective, allowing Injective's ecosystem loyal community members to have a voice in supporting projects they value. The DoraHacks team together with the Injective Foundation would facilitate multiple Quadratic Funding rounds, enabling the distribution of community contributions and matching funds to Injective ecosystem projects. For more information refer to forum post: https://gov.injective.network/discussion/15042-deploying-injective-native-quadratic-funding-smart-contract
-</details>
 
 ---
 
