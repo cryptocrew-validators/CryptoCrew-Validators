@@ -4,7 +4,7 @@
 |-------------|----------------|-----------------|-------|
 | 875 | 💎ATOM Airdrop ✅ New Deluxe version✨ | Tue Feb 13 2024 00:22:35 UTC | ABSTAIN |
 | 876 | New dApps on Atom ⚛️ - Stay up to date! ☀️ | Thu Feb 15 2024 10:14:15 UTC | ABSTAIN |
-| 877 | Substitute IBC light client for doravota | Fri Feb 16 2024 16:49:01 UTC | ⏳ NOT VOTED |
+| 877 | Substitute IBC light client for doravota | Fri Feb 16 2024 16:49:01 UTC | ✅ YES |
 | 878 | New dApps on Atom ⚛️ - Get Atom Airdrop! ☀️ | Mon Feb 19 2024 09:28:07 UTC | ABSTAIN |
 | 879 | New Atom Liquidity ⚛️ - 💎ATOM Airdrop ✅ | Sat Feb 24 2024 11:46:50 UTC | ABSTAIN |
 
