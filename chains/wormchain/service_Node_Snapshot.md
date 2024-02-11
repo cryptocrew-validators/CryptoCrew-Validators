@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-wormchaind version: `v2.23.0`
+wormchaind version: `v2.23.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/wormchain_5965220.tar.lz4)** | Fri Dec 01 2023 01:02:10 UTC | `wormchain` | 900M | 5965220 | `9ddbab114d83c0491e16884bc74166c2a9020b983fb1750a8015e19c3797a859` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/$CHAIN_NAME/wormchain_5957788.tar.lz4)** | Thu Nov 30 2023 13:02:11 UTC | `wormchain` | 867M | 5957788 | `536c89c90113b4a5c786583f4d2af9474f915771eee26db01124b19600dea475` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_7031613.tar.lz4)** | Sun Feb 11 2024 13:11:20 UTC | `wormchain` | 2.7G | 7031613 | `193b1fe12b9ffc70703952f872abd489729b25531a279f8016b9a708fbd587a9` |
+| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_7031449.tar.lz4)** | Sun Feb 11 2024 12:55:12 UTC | `wormchain` | 3.6G | 7031449 | `fbca5a8351af18194866fe709601f4fe03318c0d8b028d94b56328a517a82344` |
 
 ---
 
@@ -12,13 +12,13 @@ wormchaind version: `v2.23.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_5965220.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_7031613.tar.lz4"
 cd $HOME/.wormchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget $URL
 wget $URL.sha256
-diff -s <(sha256sum $(basename $URL) | awk '{print $1}') <(cat $(basename $URL).sha256)
+echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
 lz4 -d $(basename $URL) | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_5965220.tar.lz4"
+URL="https://dl.ccvalidators.com/SNAPSHOTS/wormchain/wormchain_7031613.tar.lz4"
 cd $HOME/.wormchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
