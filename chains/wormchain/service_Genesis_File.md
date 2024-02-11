@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/wormchain/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/wormchain/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 13:54:07
+- last updated: Sun Feb 11 2024 13:58:46
 - chain id: `wormchain`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop wormchaind
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/wormchain/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/wormchain/genesis.json"
 wget -4 $URL -P $HOME/.wormchain/config/genesis.json
 
 # Start the node
