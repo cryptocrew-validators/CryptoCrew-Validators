@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/mars/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/mars/addrbook.json)**
 ---
 
-- last updated: Sat Feb 10 2024 13:22:56
+- last updated: Sun Feb 11 2024 18:38:13
 - chain id: `mars-1`
-- available peers: 467
-- total peers (network scan): 1000
+- available peers: 282
+- total peers (network scan): 1066
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop marsd
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/mars/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/mars/addrbook.json"
 wget -4 $URL -P $HOME/.mars/config/addrbook.json
 
 # Start the node
