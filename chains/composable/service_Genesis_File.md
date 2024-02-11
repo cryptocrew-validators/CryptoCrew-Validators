@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/composable/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/composable/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 00:13:43
+- last updated: Sun Feb 11 2024 23:44:35
 - chain id: `centauri-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop centaurid
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/composable/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/composable/genesis.json"
 wget -4 $URL -P $HOME/.banksy/config/genesis.json
 
 # Start the node
