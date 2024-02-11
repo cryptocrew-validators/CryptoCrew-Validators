@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/omniflixhub/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/omniflixhub/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 04:58:42
+- last updated: Sun Feb 11 2024 16:03:44
 - chain id: `omniflixhub-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop omniflixhubd
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/omniflixhub/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/omniflixhub/genesis.json"
 wget -4 $URL -P $HOME/.omniflixhub/config/genesis.json
 
 # Start the node
