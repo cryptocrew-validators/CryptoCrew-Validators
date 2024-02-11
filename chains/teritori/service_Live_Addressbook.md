@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/teritori/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/teritori/addrbook.json)**
 ---
 
-- last updated: Sat Feb 10 2024 23:45:31
+- last updated: Sun Feb 11 2024 23:41:41
 - chain id: `teritori-1`
-- available peers: 912
-- total peers (network scan): 345
+- available peers: 233
+- total peers (network scan): 350
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop teritorid
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/teritori/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/teritori/addrbook.json"
 wget -4 $URL -P $HOME/.teritorid/config/addrbook.json
 
 # Start the node
