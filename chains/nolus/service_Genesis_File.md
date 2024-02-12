@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/nolus/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/nolus/genesis.json)**
 ---
 
-- last updated: Sat Feb 10 2024 01:53:38
+- last updated: Mon Feb 12 2024 01:53:22
 - chain id: `pirin-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop nolusd
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/nolus/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/nolus/genesis.json"
 wget -4 $URL -P $HOME/.nolus/config/genesis.json
 
 # Start the node
