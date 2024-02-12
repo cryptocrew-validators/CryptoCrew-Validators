@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/quicksilver/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 12:05:15
+- last updated: Mon Feb 12 2024 11:45:41
 - chain id: `quicksilver-2`
-- available peers: 1075
-- total peers (network scan): 1075
+
+- total peers (network scan): 1083
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop quicksilverd
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/quicksilver/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/addrbook.json"
 wget -4 $URL -P $HOME/.quicksilverd/config/addrbook.json
 
 # Start the node
