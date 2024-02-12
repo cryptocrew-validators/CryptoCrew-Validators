@@ -3,8 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 cheqd-noded version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11945530.tar.lz4)** | Sun Feb 11 2024 03:30:33 UTC | `cheqd-mainnet-1` | 112G | 11945530 | `ddf9c676b8c0375198238b8c42b15820fb54eba7235817d2fda66b7e43b02667` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11931253.tar.lz4)** | Sat Feb 10 2024 02:03:16 UTC | `cheqd-mainnet-1` | 105G | 11931253 | `f8a5a4288a0df1a5354dbea0a3dfb236a0e54893da62ef8193fad22e00240a19` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11960076.tar.lz4)** | Mon Feb 12 2024 02:17:42 UTC | `cheqd-mainnet-1` | 106G | 11960076 | `c73e56d91cf3505484c60b476a0a1bc92912e131f03d1edc75441cf15b721665` |
 
 ---
 
@@ -12,7 +11,7 @@ cheqd-noded version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11945530.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11960076.tar.lz4"
 cd $HOME/.cheqdnode
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11945530.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cheqd/cheqd-mainnet-1_11960076.tar.lz4"
 cd $HOME/.cheqdnode
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -45,7 +44,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://dl.ccvalidators.com/SNAPSHOTS/cheqd/download_snapshot.sh | bash
+curl -sSL https://dl-eu2.ccvalidators.com/SNAPSHOTS/cheqd/download_snapshot.sh | bash
 ```
 ---
 
