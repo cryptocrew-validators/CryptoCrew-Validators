@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/gravitybridge/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/gravitybridge/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 11:59:07
+- last updated: Mon Feb 12 2024 16:24:30
 - chain id: `gravity-bridge-3`
-- available peers: 175
-- total peers (network scan): 909
+- available peers: 43
+- total peers (network scan): 922
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop gravity
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/gravitybridge/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/gravitybridge/addrbook.json"
 wget -4 $URL -P $HOME/.gravity/config/addrbook.json
 
 # Start the node
