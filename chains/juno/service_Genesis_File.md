@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/juno/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/juno/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 12:13:58
+- last updated: Mon Feb 12 2024 12:27:37
 - chain id: `juno-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop junod
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/juno/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/juno/genesis.json"
 wget -4 $URL -P $HOME/.juno/config/genesis.json
 
 # Start the node
