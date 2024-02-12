@@ -3,8 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 kava version: `v0.25.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8538802.tar.lz4)** | Sun Feb 11 2024 07:17:35 UTC | `kava_2222-10` | 15G | 8538802 | `4ad81ef79ada83b1f7839affe002dfcc8215a5ed6a560bf95739c90aceb6bf0a` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8533890.tar.lz4)** | Sat Feb 10 2024 23:05:01 UTC | `kava_2222-10` | 15G | 8533890 | `58a19cfd3f86261af110431c0473fc8363e8e788def870b8a1369d7ba4d8dc00` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8561606.tar.lz4)** | Mon Feb 12 2024 22:47:44 UTC | `kava_2222-10` | 16G | 8561606 | `6d04ba6e83ea1b4ec56322ee7cdf5a4acfe444a2c64f1419f51f706b83b545b9` |
 
 ---
 
@@ -12,7 +11,7 @@ kava version: `v0.25.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8538802.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8561606.tar.lz4"
 cd $HOME/.kava
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8538802.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kava/kava_2222-10_8561606.tar.lz4"
 cd $HOME/.kava
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -45,7 +44,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://dl.ccvalidators.com/SNAPSHOTS/kava/download_snapshot.sh | bash
+curl -sSL https://dl-eu2.ccvalidators.com/SNAPSHOTS/kava/download_snapshot.sh | bash
 ```
 ---
 
