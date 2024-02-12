@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [wormchain state export](https://dl-eu2.ccvalidators.com/SERVICE/wormchain/wormchain_export_7033452.json)**
+**Download: [wormchain state export](https://dl-eu2.ccvalidators.com/SERVICE/wormchain/wormchain_export_7046956.json)**
 ---
 
-- last updated: Sun Feb 11 2024 16:16:53
+- last updated: Mon Feb 12 2024 14:18:02
 - chain id: `wormchain`
-- export height: `7033452`
+- export height: `7046956`
 - use for: airdrops, local tests, chain recovery
