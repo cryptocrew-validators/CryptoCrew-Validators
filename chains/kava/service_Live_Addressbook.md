@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/kava/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/kava/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 07:20:31
+- last updated: Mon Feb 12 2024 22:50:35
 - chain id: `kava_2222-10`
-- available peers: 1085
-- total peers (network scan): 1085
+- available peers: 1064
+- total peers (network scan): 1064
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop kava
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/kava/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/kava/addrbook.json"
 wget -4 $URL -P $HOME/.kava/config/addrbook.json
 
 # Start the node

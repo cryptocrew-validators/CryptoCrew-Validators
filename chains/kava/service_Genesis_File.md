@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/kava/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/kava/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 07:20:31
+- last updated: Mon Feb 12 2024 22:50:35
 - chain id: `kava_2222-10`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop kava
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/kava/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/kava/genesis.json"
 wget -4 $URL -P $HOME/.kava/config/genesis.json
 
 # Start the node
