@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/migaloo/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/migaloo/addrbook.json)**
 ---
 
-- last updated: Sat Feb 10 2024 01:04:02
+- last updated: Mon Feb 12 2024 01:01:18
 - chain id: `migaloo-1`
 
-- total peers (network scan): 207
+- total peers (network scan): 209
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop migalood
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/migaloo/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/migaloo/addrbook.json"
 wget -4 $URL -P $HOME/.migalood/config/addrbook.json
 
 # Start the node
