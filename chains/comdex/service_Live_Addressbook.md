@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/comdex/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/comdex/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 13:42:01
+- last updated: Mon Feb 12 2024 12:11:59
 - chain id: `comdex-1`
-- available peers: 216
-- total peers (network scan): 216
+
+- total peers (network scan): 768
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop comdex
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/comdex/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/comdex/addrbook.json"
 wget -4 $URL -P $HOME/.comdex/config/addrbook.json
 
 # Start the node
