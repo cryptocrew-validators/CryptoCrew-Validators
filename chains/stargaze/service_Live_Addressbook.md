@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/stargaze/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/stargaze/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 07:04:00
+- last updated: Mon Feb 12 2024 07:06:51
 - chain id: `stargaze-1`
-- available peers: 235
-- total peers (network scan): 1098
+- available peers: 352
+- total peers (network scan): 1082
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop starsd
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/stargaze/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/stargaze/addrbook.json"
 wget -4 $URL -P $HOME/.starsd/config/addrbook.json
 
 # Start the node

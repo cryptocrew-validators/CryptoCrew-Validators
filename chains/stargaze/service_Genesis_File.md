@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/stargaze/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/stargaze/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 07:04:00
+- last updated: Mon Feb 12 2024 07:06:51
 - chain id: `stargaze-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop starsd
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/stargaze/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/stargaze/genesis.json"
 wget -4 $URL -P $HOME/.starsd/config/genesis.json
 
 # Start the node
