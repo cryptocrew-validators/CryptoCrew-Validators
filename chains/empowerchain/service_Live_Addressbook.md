@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/empowerchain/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/empowerchain/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 02:20:25
+- last updated: Mon Feb 12 2024 10:34:18
 - chain id: `empowerchain-1`
-- available peers: 230
-- total peers (network scan): 180
+- available peers: 249
+- total peers (network scan): 182
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop empowerd
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/empowerchain/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/empowerchain/addrbook.json"
 wget -4 $URL -P $HOME/.empowerchain/config/addrbook.json
 
 # Start the node
