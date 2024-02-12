@@ -3,8 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 kujirad version: `v0.9.3-1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17187829.tar.lz4)** | Sat Feb 10 2024 13:42:04 UTC | `kaiyo-1` | 15G | 17187829 | `980a06b9788b64abe2496051aa9ac7f4bf014384399414831b7a0d326955f1de` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17149289.tar.lz4)** | Thu Feb 08 2024 13:33:16 UTC | `kaiyo-1` | 15G | 17149289 | `490228307d3bd416562004e1486e06e7d8fefc02fbf8ed8f6fb05d3a96ffaef7` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17226512.tar.lz4)** | Mon Feb 12 2024 13:25:54 UTC | `kaiyo-1` | 15G | 17226512 | `21e8a9a03efb36cf01ebb3956e39db37f3415f1727352549aeac04b1cbef8d17` |
 
 ---
 
@@ -12,7 +11,7 @@ kujirad version: `v0.9.3-1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17187829.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17226512.tar.lz4"
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17187829.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_17226512.tar.lz4"
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -40,7 +39,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
 ```sh
-URL="https://dl.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_wasm.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_wasm.tar.lz4"
 cd $HOME/.kujira
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
@@ -52,7 +51,7 @@ wget -O - $URL | lz4 -d | tar -xvf -
 
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://dl.ccvalidators.com/SNAPSHOTS/kujira/download_snapshot.sh | bash
+curl -sSL https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/download_snapshot.sh | bash
 ```
 ---
 
