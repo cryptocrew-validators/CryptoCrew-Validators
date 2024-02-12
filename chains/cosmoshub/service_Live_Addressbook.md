@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/cosmoshub/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/cosmoshub/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 11:53:38
+- last updated: Mon Feb 12 2024 12:29:57
 - chain id: `cosmoshub-4`
-
-- total peers (network scan): 1177
+- available peers: 1430
+- total peers (network scan): 1430
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop gaiad
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/cosmoshub/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/cosmoshub/addrbook.json"
 wget -4 $URL -P $HOME/.gaia/config/addrbook.json
 
 # Start the node
