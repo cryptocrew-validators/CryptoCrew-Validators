@@ -3,8 +3,8 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 122 | [SIPS-116] Authorize the Real Yield ETH Cellar on Arbitrum | Wed Feb 14 2024 01:13:51 UTC | ABSTAIN |
-| 123 | [SIPS-117] Incentives Proposal for Real Yield ETH Arbitrum | Wed Feb 14 2024 17:57:18 UTC | ⏳ NOT VOTED |
-| 124 | [SIPS-118] Real Yield BTC Cellar Incentives | Wed Feb 14 2024 22:48:39 UTC | ⏳ NOT VOTED |
+| 123 | [SIPS-117] Incentives Proposal for Real Yield ETH Arbitrum | Wed Feb 14 2024 17:57:18 UTC | ABSTAIN |
+| 124 | [SIPS-118] Real Yield BTC Cellar Incentives | Wed Feb 14 2024 22:48:39 UTC | ABSTAIN |
 
 ---
 

@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 223 | Proposal to increase Comdex transaction fees by 25x | Wed Feb 14 2024 05:58:27 UTC | ⏳ NOT VOTED |
+| 223 | Proposal to increase Comdex transaction fees by 25x | Wed Feb 14 2024 05:58:27 UTC | ABSTAIN |
 
 ---
 
