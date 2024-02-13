@@ -1,10 +1,9 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-neutrond version: `v1.0.4`
+neutrond version: `v2.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_4497947.tar.lz4)** | Wed Nov 15 2023 14:07:37 UTC | `neutron-1` | 4.2G | 4497947 | `2408cfe8db9c4a007ed1aa498b13f432c642bbae220f90b2b239c9f7c33e49e6` |
-| **[DOWNLOAD](https://dl.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_4445615.tar.lz4)** | Mon Nov 13 2023 13:08:49 UTC | `neutron-1` | 3.4G | 4445615 | `1db5b20dcda1f3ed485f469ec9681328c40c5b95bba23de6f1e87a9fd462193a` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7116407.tar.lz4)** | Tue Feb 13 2024 12:26:54 UTC | `neutron-1` | 2.9G | 7116407 | `e79f667ba3f81e0d2ee6ea7173b8f2f62e13ead83c3a440108d67f995d2632dd` |
 
 ---
 
@@ -12,7 +11,7 @@ neutrond version: `v1.0.4`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_4497947.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7116407.tar.lz4"
 cd $HOME/.neutrond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_4497947.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7116407.tar.lz4"
 cd $HOME/.neutrond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -40,7 +39,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
 ```sh
-URL="https://dl.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_wasm.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_wasm.tar.lz4"
 cd $HOME/.neutrond
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
@@ -52,7 +51,7 @@ wget -O - $URL | lz4 -d | tar -xvf -
 
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://dl.ccvalidators.com/SNAPSHOTS/neutron/download_snapshot.sh | bash
+curl -sSL https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/download_snapshot.sh | bash
 ```
 ---
 
