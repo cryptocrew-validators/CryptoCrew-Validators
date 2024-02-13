@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/emoney/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/emoney/addrbook.json)**
 ---
 
-- last updated: Sun Feb 11 2024 11:19:18
+- last updated: Tue Feb 13 2024 11:28:03
 - chain id: `emoney-3`
-- available peers: 44
-- total peers (network scan): 44
+- available peers: 219
+- total peers (network scan): 42
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop emd
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/emoney/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/emoney/addrbook.json"
 wget -4 $URL -P $HOME/.emd/config/addrbook.json
 
 # Start the node
