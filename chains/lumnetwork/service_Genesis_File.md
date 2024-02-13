@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/lumnetwork/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/lumnetwork/genesis.json)**
 ---
 
-- last updated: Sun Feb 11 2024 05:43:16
+- last updated: Tue Feb 13 2024 05:42:10
 - chain id: `lum-network-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop lumd
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/lumnetwork/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/lumnetwork/genesis.json"
 wget -4 $URL -P $HOME/.lumd/config/genesis.json
 
 # Start the node
