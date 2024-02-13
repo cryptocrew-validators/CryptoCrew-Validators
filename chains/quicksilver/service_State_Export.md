@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [quicksilver-2 state export](https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/quicksilver-2_export_5935279.json)**
+**Download: [quicksilver-2 state export](https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/quicksilver-2_export_5950055.json)**
 ---
 
-- last updated: Mon Feb 12 2024 11:45:41
+- last updated: Tue Feb 13 2024 11:51:36
 - chain id: `quicksilver-2`
-- export height: `5935279`
+- export height: `5950055`
 - use for: airdrops, local tests, chain recovery
