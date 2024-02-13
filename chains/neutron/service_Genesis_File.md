@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/neutron/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/neutron/genesis.json)**
 ---
 
-- last updated: Wed Nov 15 2023 14:28:32
+- last updated: Tue Feb 13 2024 12:34:47
 - chain id: `neutron-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop neutrond
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/neutron/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/neutron/genesis.json"
 wget -4 $URL -P $HOME/.neutrond/config/genesis.json
 
 # Start the node

@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/neutron/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/neutron/addrbook.json)**
 ---
 
-- last updated: Wed Nov 15 2023 14:28:32
+- last updated: Tue Feb 13 2024 12:34:47
 - chain id: `neutron-1`
-- available peers: 236
-- total peers (network scan): 1034
+
+- total peers (network scan): 2281
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop neutrond
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/neutron/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/neutron/addrbook.json"
 wget -4 $URL -P $HOME/.neutrond/config/addrbook.json
 
 # Start the node
