@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 252 | A new public RPC experience for Stargaze | Fri Feb 16 2024 15:07:20 UTC | ⏳ NOT VOTED |
+| 252 | A new public RPC experience for Stargaze | Fri Feb 16 2024 15:07:20 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
