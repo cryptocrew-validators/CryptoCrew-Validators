@@ -16,6 +16,7 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| injective-1 | kava_2222-10 | transfer | channel-143 |
 | injective-1 | celestia | transfer | channel-152 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
@@ -27,6 +28,7 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
@@ -35,4 +37,3 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | phoenix-1 | injective-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-116 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | secret-4 | injective-1 | transfer | channel-23 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |

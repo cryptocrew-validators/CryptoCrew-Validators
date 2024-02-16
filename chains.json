@@ -13,6 +13,8 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
+        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq",
         "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
@@ -449,9 +451,7 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "relayer_accounts": [
-        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm",
-        "persistence12aeyaxq699k3f4d3733dl5pstw0ulplk5e0xcg",
-        "persistence18hx3fcqrvynx9vvpvyv5qym82xz4suw5724p3y"
+        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
       ],
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "rpc": [
