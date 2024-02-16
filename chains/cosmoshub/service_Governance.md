@@ -2,23 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 877 | Substitute IBC light client for doravota | Fri Feb 16 2024 16:49:01 UTC | ✅ YES |
 | 878 | New dApps on Atom ⚛️ - Get Atom Airdrop! ☀️ | Mon Feb 19 2024 09:28:07 UTC | ABSTAIN |
 | 879 | New Atom Liquidity ⚛️ - 💎ATOM Airdrop ✅ | Sat Feb 24 2024 11:46:50 UTC | ABSTAIN |
 | 880 | Signaling Proposal: Update instructions for ATOM POL 3 | Wed Feb 28 2024 18:10:15 UTC | ⏳ NOT VOTED |
 | 881 | 💥 Bitcoin Meets Atom ⚛️ - Enter Security Aggregation! ⭐ | Thu Feb 29 2024 10:34:20 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 877: Substitute IBC light client for doravota
-- Voting Start: Fri Feb 02 2024 16:49:01 UTC
-- Voting End: Fri Feb 16 2024 16:49:01 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-After a hard fork of the doravota chain `vota-ash`, related to a recently discovered issue in [Cosmos-SDK v0.47](https://github.com/cosmos/cosmos-sdk/issues/19321), all IBC lights on counterparty chains have frozen. During the hard fork, only 4 empty blocks were removed and no transactions were invalidated. This proposal substitutes the previously used IBC light client for doravota. The passing of this proposal is necessary to unblock IBC channels between the two chains that rely on the subject client.
-</details>
 
 ---
 
