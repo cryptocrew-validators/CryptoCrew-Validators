@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 23 | Enable wBTC Restaking | Sat Feb 17 2024 18:04:49 UTC | ABSTAIN |
+| 23 | Enable wBTC Restaking | Sat Feb 17 2024 18:04:49 UTC | ⏳ NOT VOTED |
 
 ---
 
