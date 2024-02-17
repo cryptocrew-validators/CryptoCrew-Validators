@@ -2,9 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 125 | [SIPS-120] Authorize the Real Yield USD 2.0 Cellar | Sun Feb 18 2024 04:07:25 UTC | ⏳ NOT VOTED |
-| 126 | [SIPS-121] Authorize the Yield Maxi USDT Cellar | Sun Feb 18 2024 04:13:17 UTC | ⏳ NOT VOTED |
-| 127 | [SIPS-122] Authorize the Real Yield USD Cellar on Arbitrum | Sun Feb 18 2024 04:22:44 UTC | ⏳ NOT VOTED |
+| 125 | [SIPS-120] Authorize the Real Yield USD 2.0 Cellar | Sun Feb 18 2024 04:07:25 UTC | ABSTAIN |
+| 126 | [SIPS-121] Authorize the Yield Maxi USDT Cellar | Sun Feb 18 2024 04:13:17 UTC | ABSTAIN |
+| 127 | [SIPS-122] Authorize the Real Yield USD Cellar on Arbitrum | Sun Feb 18 2024 04:22:44 UTC | ABSTAIN |
 
 ---
 
