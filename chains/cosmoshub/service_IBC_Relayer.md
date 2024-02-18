@@ -33,6 +33,7 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
@@ -48,4 +49,3 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
