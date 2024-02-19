@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 227 | Recover user funds stuck in community pool | Tue Feb 20 2024 20:02:41 UTC | 🤷‍♂️ ABSTAIN |
+| 227 | Recover user funds stuck in community pool | Tue Feb 20 2024 20:02:41 UTC | ⏳ NOT VOTED |
 
 ---
 
