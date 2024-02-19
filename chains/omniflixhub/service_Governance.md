@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 31 | OmniFlix Hub v3 Software Upgrade | Wed Feb 21 2024 19:27:08 UTC | ⏳ NOT VOTED |
+| 31 | OmniFlix Hub v3 Software Upgrade | Wed Feb 21 2024 19:27:08 UTC | ABSTAIN |
 
 ---
 
