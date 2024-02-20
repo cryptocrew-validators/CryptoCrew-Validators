@@ -2,9 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 128 | [SIPS-125] Real Yield ETH Cellar Incentives | Wed Feb 21 2024 04:44:53 UTC | ⏳ NOT VOTED |
-| 129 | [SIPS-126] Turbo EETH V2 Cellar Incentives | Wed Feb 21 2024 04:49:21 UTC | ⏳ NOT VOTED |
-| 130 | [SIPS-127] Incentives Proposal for Real Yield USD Arbitrum | Wed Feb 21 2024 04:52:23 UTC | ⏳ NOT VOTED |
+| 128 | [SIPS-125] Real Yield ETH Cellar Incentives | Wed Feb 21 2024 04:44:53 UTC | ABSTAIN |
+| 129 | [SIPS-126] Turbo EETH V2 Cellar Incentives | Wed Feb 21 2024 04:49:21 UTC | ABSTAIN |
+| 130 | [SIPS-127] Incentives Proposal for Real Yield USD Arbitrum | Wed Feb 21 2024 04:52:23 UTC | ABSTAIN |
 
 ---
 
