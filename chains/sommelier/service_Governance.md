@@ -2,10 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 132 | Add Base chain configuration | Thu Feb 22 2024 22:07:37 UTC | ⏳ NOT VOTED |
-| 133 | Add BNB chain configuration | Thu Feb 22 2024 22:07:54 UTC | ⏳ NOT VOTED |
-| 134 | Add Optimism chain configuration | Thu Feb 22 2024 22:08:17 UTC | ⏳ NOT VOTED |
-| 135 | Add Polygon PoS chain configuration | Thu Feb 22 2024 22:08:34 UTC | ⏳ NOT VOTED |
+| 132 | Add Base chain configuration | Thu Feb 22 2024 22:07:37 UTC | ABSTAIN |
+| 133 | Add BNB chain configuration | Thu Feb 22 2024 22:07:54 UTC | ABSTAIN |
+| 134 | Add Optimism chain configuration | Thu Feb 22 2024 22:08:17 UTC | ABSTAIN |
+| 135 | Add Polygon PoS chain configuration | Thu Feb 22 2024 22:08:34 UTC | ABSTAIN |
 
 ---
 
