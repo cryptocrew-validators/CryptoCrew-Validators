@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 37 | Transfer 6M ARCH to Liquidity Council mSig | Tue Feb 27 2024 16:13:03 UTC | ⏳ NOT VOTED |
+| 37 | Transfer 6M ARCH to Liquidity Council mSig | Tue Feb 27 2024 16:13:03 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
