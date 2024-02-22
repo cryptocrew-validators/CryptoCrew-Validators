@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 8 | Upgrade v1.3.1 | Fri Feb 23 2024 13:26:03 UTC | ⏳ NOT VOTED |
+| 8 | Upgrade v1.3.1 | Fri Feb 23 2024 13:26:03 UTC | ABSTAIN |
 
 ---
 

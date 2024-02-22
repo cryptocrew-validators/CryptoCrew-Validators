@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 225 | Proposal to Implement CMDX transaction fee burn mechanism on-chain. | Fri Feb 23 2024 11:26:21 UTC | ⏳ NOT VOTED |
+| 225 | Proposal to Implement CMDX transaction fee burn mechanism on-chain. | Fri Feb 23 2024 11:26:21 UTC | ABSTAIN |
 
 ---
 
