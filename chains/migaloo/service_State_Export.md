@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [migaloo-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/migaloo/migaloo-1_export_5589963.json)**
+**Download: [migaloo-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/migaloo/migaloo-1_export_5620410.json)**
 ---
 
-- last updated: Tue Feb 20 2024 01:01:52
+- last updated: Thu Feb 22 2024 00:58:53
 - chain id: `migaloo-1`
-- export height: `5589963`
+- export height: `5620410`
 - use for: airdrops, local tests, chain recovery
