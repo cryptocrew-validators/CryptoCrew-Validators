@@ -5,6 +5,7 @@
 | 347 | null | Mon Feb 26 2024 18:52:22 UTC | ABSTAIN |
 | 348 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Mon Feb 26 2024 18:56:27 UTC | ABSTAIN |
 | 349 | Adjust Trade and Earn Reward Points for Epoch Ended Feb 14 2024 | Tue Feb 27 2024 16:35:09 UTC | ⏳ NOT VOTED |
+| 350 | Upload NFT Injstaking Contractrn | Tue Feb 27 2024 19:27:26 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -40,4 +41,16 @@ To support trading activity in new markets across exchange dApps built on Inject
 <summary>Proposal Text</summary>
  
 This proposal, if passed, will adjust the Trade & Earn reward points for the epoch that ended on Feb 14, 2024.nnThe reward points for the following addresses will be adjusted to zero:ninj1jlqe93ep0lvq46cfr5zwt4lpejtmeh75hed7j6ninj1juwjcjk9az47cgc40npz2sz82md994gkpgdasrninj130vm0md8dpm6xe3mt6x0q5d2eg56jh7xaawkgtninj1kraelmfp05c3cvzfk5eqhsjehhcsnwhngcrmfrninj1jd6w5fpufg6vuaulkyyjnstlz5ljl0necmhkfpnnThe community has presented evidence that these addresses have unfairly received Trade & Earn rewards through malicious behavior.nn*Disclosure: I am a team member at Injective Labs*
+</details>
+
+---
+
+### 🗳 350: Upload NFT Injstaking Contractrn
+- Voting Start: Fri Feb 23 2024 19:27:26 UTC
+- Voting End: Tue Feb 27 2024 19:27:26 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+This proposal intends to upload the NFT Injstaking Contract for use by NFT Injstaking. It is created for the NFT Injstaking platform and will be available to use for any NFT projects on the Injective blockchain.rnMore details & Forum here: https://gov.injective.network/discussion/15418-upload-nft-injstaking-contract
 </details>
