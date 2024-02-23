@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 347 | null | Mon Feb 26 2024 18:52:22 UTC | ⏳ NOT VOTED |
+| 347 | null | Mon Feb 26 2024 18:52:22 UTC | ABSTAIN |
 | 348 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Mon Feb 26 2024 18:56:27 UTC | ⏳ NOT VOTED |
 
 ---
