@@ -2,22 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 879 | New Atom Liquidity ⚛️ - 💎ATOM Airdrop ✅ | Sat Feb 24 2024 11:46:50 UTC | ABSTAIN |
 | 880 | Signaling Proposal: Update instructions for ATOM POL 3 | Wed Feb 28 2024 18:10:15 UTC | ✅ YES |
 | 881 | 💥 Bitcoin Meets Atom ⚛️ - Enter Security Aggregation! ⭐ | Thu Feb 29 2024 10:34:20 UTC | ABSTAIN |
 | 882 | 💎ATOM Airdrop ✅ - New dApps on Atom ⭐ | Mon Mar 04 2024 08:04:55 UTC | ABSTAIN |
 | 883 | New Cosmos $ATOM Fork ⚛️ - AtomOne is READY! ⭐ | Sat Mar 09 2024 09:18:30 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 879: New Atom Liquidity ⚛️ - 💎ATOM Airdrop ✅
-- Voting Start: Sat Feb 10 2024 11:46:50 UTC
-- Voting End: Sat Feb 24 2024 11:46:50 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
