@@ -6,6 +6,7 @@
 | 348 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Mon Feb 26 2024 18:56:27 UTC | ABSTAIN |
 | 349 | Adjust Trade and Earn Reward Points for Epoch Ended Feb 14 2024 | Tue Feb 27 2024 16:35:09 UTC | ⏳ NOT VOTED |
 | 350 | Upload NFT Injstaking Contractrn | Tue Feb 27 2024 19:27:26 UTC | ⏳ NOT VOTED |
+| 351 | Disbursement of OLP rewards for epoch ended on 19 February 2024 | Wed Feb 28 2024 19:54:24 UTC | ⏳ NOT VOTED |
 
 ---
 
@@ -53,4 +54,16 @@ This proposal, if passed, will adjust the Trade & Earn reward points for the epo
 <summary>Proposal Text</summary>
  
 This proposal intends to upload the NFT Injstaking Contract for use by NFT Injstaking. It is created for the NFT Injstaking platform and will be available to use for any NFT projects on the Injective blockchain.rnMore details & Forum here: https://gov.injective.network/discussion/15418-upload-nft-injstaking-contract
+</details>
+
+---
+
+### 🗳 351: Disbursement of OLP rewards for epoch ended on 19 February 2024
+- Voting Start: Sat Feb 24 2024 19:54:24 UTC
+- Voting End: Wed Feb 28 2024 19:54:24 UTC
+
+<details>
+<summary>Proposal Text</summary>
+ 
+If passed, this proposal confirms the final Open Liquidity Program market maker performance of epoch 29 as well as the distribution of 48812.179 INJ tokens, of which 28812.196 INJ are the OLP vested amount from epoch 26, and 19999.983 INJ are 50% of the OLP rewards allocated to epoch 29. The remaining OLP rewards of epoch 29 will be disbursed along with the rewards disbursement of epoch 32. The recipient must still be an active participant of the program in order to receive future disbursements. For a further breakdown of rewards refer to the IPFS link: https://cloudflare-ipfs.com/ipfs/QmTSbdmvUjcnxaPHzHic6dfKX9aaLqqrfzwtcahYmqNtVf
 </details>
