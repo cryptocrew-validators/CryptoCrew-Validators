@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 2 | Increase the Active Validator Set to 125 | Mon Feb 26 2024 13:10:47 UTC | ⏳ NOT VOTED |
+| 2 | Increase the Active Validator Set to 125 | Mon Feb 26 2024 13:10:47 UTC | ABSTAIN |
 
 ---
 
