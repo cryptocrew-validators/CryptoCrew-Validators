@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/osmosis/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/osmosis/genesis.json)**
 ---
 
-- last updated: Sun Sep 03 2023 13:19:45
+- last updated: Mon Feb 26 2024 12:49:29
 - chain id: `osmosis-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop osmosisd
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/osmosis/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/osmosis/genesis.json"
 wget -4 $URL -P $HOME/.osmosisd/config/genesis.json
 
 # Start the node
