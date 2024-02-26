@@ -5,8 +5,8 @@
 | 347 | null | Mon Feb 26 2024 18:52:22 UTC | ABSTAIN |
 | 348 | Trade & Earn Multiplier Updates on Injective Exchange dApps | Mon Feb 26 2024 18:56:27 UTC | ABSTAIN |
 | 349 | Adjust Trade and Earn Reward Points for Epoch Ended Feb 14 2024 | Tue Feb 27 2024 16:35:09 UTC | ABSTAIN |
-| 350 | Upload NFT Injstaking Contractrn | Tue Feb 27 2024 19:27:26 UTC | ⏳ NOT VOTED |
-| 351 | Disbursement of OLP rewards for epoch ended on 19 February 2024 | Wed Feb 28 2024 19:54:24 UTC | ⏳ NOT VOTED |
+| 350 | Upload NFT Injstaking Contractrn | Tue Feb 27 2024 19:27:26 UTC | ABSTAIN |
+| 351 | Disbursement of OLP rewards for epoch ended on 19 February 2024 | Wed Feb 28 2024 19:54:24 UTC | ABSTAIN |
 
 ---
 

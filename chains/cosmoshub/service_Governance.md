@@ -5,7 +5,7 @@
 | 880 | Signaling Proposal: Update instructions for ATOM POL 3 | Wed Feb 28 2024 18:10:15 UTC | ✅ YES |
 | 881 | 💥 Bitcoin Meets Atom ⚛️ - Enter Security Aggregation! ⭐ | Thu Feb 29 2024 10:34:20 UTC | ABSTAIN |
 | 882 | 💎ATOM Airdrop ✅ - New dApps on Atom ⭐ | Mon Mar 04 2024 08:04:55 UTC | ABSTAIN |
-| 883 | New Cosmos $ATOM Fork ⚛️ - AtomOne is READY! ⭐ | Sat Mar 09 2024 09:18:30 UTC | ⏳ NOT VOTED |
+| 883 | New Cosmos $ATOM Fork ⚛️ - AtomOne is READY! ⭐ | Sat Mar 09 2024 09:18:30 UTC | ABSTAIN |
 
 ---
 
