@@ -2,22 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 349 | Adjust Trade and Earn Reward Points for Epoch Ended Feb 14 2024 | Tue Feb 27 2024 16:35:09 UTC | ABSTAIN |
 | 350 | Upload NFT Injstaking Contractrn | Tue Feb 27 2024 19:27:26 UTC | ABSTAIN |
 | 351 | Disbursement of OLP rewards for epoch ended on 19 February 2024 | Wed Feb 28 2024 19:54:24 UTC | ABSTAIN |
 | 352 | null | Fri Mar 01 2024 22:19:01 UTC | ABSTAIN |
-
----
-
-### 🗳 349: Adjust Trade and Earn Reward Points for Epoch Ended Feb 14 2024
-- Voting Start: Fri Feb 23 2024 16:35:09 UTC
-- Voting End: Tue Feb 27 2024 16:35:09 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-This proposal, if passed, will adjust the Trade & Earn reward points for the epoch that ended on Feb 14, 2024.nnThe reward points for the following addresses will be adjusted to zero:ninj1jlqe93ep0lvq46cfr5zwt4lpejtmeh75hed7j6ninj1juwjcjk9az47cgc40npz2sz82md994gkpgdasrninj130vm0md8dpm6xe3mt6x0q5d2eg56jh7xaawkgtninj1kraelmfp05c3cvzfk5eqhsjehhcsnwhngcrmfrninj1jd6w5fpufg6vuaulkyyjnstlz5ljl0necmhkfpnnThe community has presented evidence that these addresses have unfairly received Trade & Earn rewards through malicious behavior.nn*Disclosure: I am a team member at Injective Labs*
-</details>
 
 ---
 
