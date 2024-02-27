@@ -2,9 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 136 | [SIPS-119, 123, 124] Authorize the Turbo rsETH, ezETH, and RYETH 2.0 Cellars | Wed Feb 28 2024 04:53:34 UTC | ⏳ NOT VOTED |
-| 137 | [SIPS-128] Turbo RSETH Cellar Incentives | Wed Feb 28 2024 04:57:50 UTC | ⏳ NOT VOTED |
-| 138 | [SIPS-129] Turbo EZETH Cellar Incentives | Wed Feb 28 2024 05:00:07 UTC | ⏳ NOT VOTED |
+| 136 | [SIPS-119, 123, 124] Authorize the Turbo rsETH, ezETH, and RYETH 2.0 Cellars | Wed Feb 28 2024 04:53:34 UTC | ABSTAIN |
+| 137 | [SIPS-128] Turbo RSETH Cellar Incentives | Wed Feb 28 2024 04:57:50 UTC | ABSTAIN |
+| 138 | [SIPS-129] Turbo EZETH Cellar Incentives | Wed Feb 28 2024 05:00:07 UTC | ABSTAIN |
 
 ---
 
