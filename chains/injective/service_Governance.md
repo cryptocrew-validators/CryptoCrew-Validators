@@ -5,7 +5,7 @@
 | 349 | Adjust Trade and Earn Reward Points for Epoch Ended Feb 14 2024 | Tue Feb 27 2024 16:35:09 UTC | ABSTAIN |
 | 350 | Upload NFT Injstaking Contractrn | Tue Feb 27 2024 19:27:26 UTC | ABSTAIN |
 | 351 | Disbursement of OLP rewards for epoch ended on 19 February 2024 | Wed Feb 28 2024 19:54:24 UTC | ABSTAIN |
-| 352 | null | Fri Mar 01 2024 22:19:01 UTC | ⏳ NOT VOTED |
+| 352 | null | Fri Mar 01 2024 22:19:01 UTC | ABSTAIN |
 
 ---
 
