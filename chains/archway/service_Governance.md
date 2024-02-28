@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 39 | Fast, Reliable and Scalable Public RPC Powered by Lava | Wed Mar 06 2024 12:47:22 UTC | ⏳ NOT VOTED |
+| 39 | Fast, Reliable and Scalable Public RPC Powered by Lava | Wed Mar 06 2024 12:47:22 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
