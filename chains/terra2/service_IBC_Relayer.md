@@ -30,6 +30,7 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
 | phoenix-1 | chihuahua-1 | transfer | channel-98 |
 | phoenix-1 | neutron-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-167 |
+| kava_2222-10 | phoenix-1 | transfer | channel-129 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | injective-1 | phoenix-1 | transfer | channel-104 |
 | injective-1 | phoenix-1 | transfer | channel-118 |
