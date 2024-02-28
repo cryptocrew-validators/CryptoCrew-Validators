@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 139 | [SIPS-130] Co-Incentives Proposal for Turbo CRVUSD | Fri Mar 01 2024 03:51:08 UTC | ⏳ NOT VOTED |
-| 140 | [SIPS-131] Authorize the Real Yield ETH Cellar on Optimism | Fri Mar 01 2024 04:01:32 UTC | ⏳ NOT VOTED |
+| 139 | [SIPS-130] Co-Incentives Proposal for Turbo CRVUSD | Fri Mar 01 2024 03:51:08 UTC | ABSTAIN |
+| 140 | [SIPS-131] Authorize the Real Yield ETH Cellar on Optimism | Fri Mar 01 2024 04:01:32 UTC | ABSTAIN |
 
 ---
 
