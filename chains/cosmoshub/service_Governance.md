@@ -2,21 +2,9 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 881 | 💥 Bitcoin Meets Atom ⚛️ - Enter Security Aggregation! ⭐ | Thu Feb 29 2024 10:34:20 UTC | ABSTAIN |
 | 882 | 💎ATOM Airdrop ✅ - New dApps on Atom ⭐ | Mon Mar 04 2024 08:04:55 UTC | ABSTAIN |
 | 883 | New Cosmos $ATOM Fork ⚛️ - AtomOne is READY! ⭐ | Sat Mar 09 2024 09:18:30 UTC | ABSTAIN |
 | 884 | 💎ATOM Airdrop ✅ - New Cosmos $ATOM Fork is ready! ⭐ | Wed Mar 13 2024 21:46:31 UTC | ⏳ NOT VOTED |
-
----
-
-### 🗳 881: 💥 Bitcoin Meets Atom ⚛️ - Enter Security Aggregation! ⭐
-- Voting Start: Thu Feb 15 2024 10:34:20 UTC
-- Voting End: Thu Feb 29 2024 10:34:20 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
