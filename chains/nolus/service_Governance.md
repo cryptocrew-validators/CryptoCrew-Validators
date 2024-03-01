@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 90 | null | Sat Mar 02 2024 11:32:55 UTC | ⏳ NOT VOTED |
+| 90 | null | Sat Mar 02 2024 11:32:55 UTC | ABSTAIN |
 
 ---
 
