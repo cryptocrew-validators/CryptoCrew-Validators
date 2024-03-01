@@ -163,6 +163,7 @@
       "address": "dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
       "relayer_accounts": [
+        "dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n",
         "dym15md2qvgma8lnvqv67w0umu2paqkqkhegth42d3"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dymension?tab=staking&modal=validator&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
@@ -264,6 +265,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
+        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh",
         "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
         "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
       ],
@@ -393,7 +395,7 @@
       "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
       "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
       "relayer_accounts": [
-        "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh"
+        "mars1yghndrffay859ma2ue4pa2cltw640vtaey652x"
       ],
       "stake_link": "https://station.terra.money/validator/marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
       "restake": {
@@ -551,8 +553,7 @@
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
       "relayer_accounts": [
         "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa",
-        "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7",
-        "chihuahua1yghndrffay859ma2ue4pa2cltw640vta8vwr7l"
+        "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
       ],
       "stake_link": "https://restake.app/chihuahua/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "rpc": [],
@@ -623,7 +624,6 @@
       "address": "nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "operator_account": "nolus1nryk8vpd75d2nvld2hej0nfal64qm3wp2mtatv",
       "relayer_accounts": [
-        "nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac",
         "nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f"
       ],
       "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",

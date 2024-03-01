@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
-chihuahua1yghndrffay859ma2ue4pa2cltw640vta8vwr7l
 ```
 
 ### Active IBC channels `chihuahua`:
@@ -23,7 +22,6 @@ chihuahua1yghndrffay859ma2ue4pa2cltw640vta8vwr7l
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
-| chihuahua-1 | neutron-1 | transfer | channel-76 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
