@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 9 | The Governance Mission 2 | Sat Mar 02 2024 12:56:48 UTC | ABSTAIN |
+| 9 | The Governance Mission 2 | Sat Mar 02 2024 12:56:48 UTC | ⏳ NOT VOTED |
 
 ---
 
