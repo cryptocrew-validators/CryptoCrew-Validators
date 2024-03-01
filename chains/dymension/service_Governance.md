@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 4 | AMM Incentive #1 | Mon Mar 04 2024 18:48:14 UTC | ⏳ NOT VOTED |
+| 4 | AMM Incentive #1 | Mon Mar 04 2024 18:48:14 UTC | ABSTAIN |
 
 ---
 
