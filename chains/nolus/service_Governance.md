@@ -2,26 +2,13 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 88 | null | Fri Mar 01 2024 11:22:28 UTC | ABSTAIN |
-| 89 | null | Fri Mar 01 2024 11:23:08 UTC | ABSTAIN |
+| 90 | null | Sat Mar 02 2024 11:32:55 UTC | ⏳ NOT VOTED |
 
 ---
 
-### 🗳 88: null
-- Voting Start: Thu Feb 29 2024 11:22:28 UTC
-- Voting End: Fri Mar 01 2024 11:22:28 UTC
-
-<details>
-<summary>Proposal Text</summary>
- 
-null
-</details>
-
----
-
-### 🗳 89: null
-- Voting Start: Thu Feb 29 2024 11:23:08 UTC
-- Voting End: Fri Mar 01 2024 11:23:08 UTC
+### 🗳 90: null
+- Voting Start: Fri Mar 01 2024 11:32:55 UTC
+- Voting End: Sat Mar 02 2024 11:32:55 UTC
 
 <details>
 <summary>Proposal Text</summary>
