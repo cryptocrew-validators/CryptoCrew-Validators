@@ -7,6 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+chihuahua1yghndrffay859ma2ue4pa2cltw640vta8vwr7l
 chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 ```
@@ -14,6 +15,7 @@ chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 ### Active IBC channels `chihuahua`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| chihuahua-1 | neutron-1 | transfer | channel-76 |
 | chihuahua-1 | juno-1 | transfer | channel-11 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |

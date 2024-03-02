@@ -14,4 +14,3 @@ mars1yghndrffay859ma2ue4pa2cltw640vtaey652x
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | mars-1 | neutron-1 | transfer | channel-37 |
-| neutron-1 | mars-1 | transfer | channel-16 |

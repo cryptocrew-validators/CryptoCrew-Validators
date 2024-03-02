@@ -163,8 +163,7 @@
       "address": "dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
       "relayer_accounts": [
-        "dym15md2qvgma8lnvqv67w0umu2paqkqkhegth42d3",
-        "dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n"
+        "dym15md2qvgma8lnvqv67w0umu2paqkqkhegth42d3"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dymension?tab=staking&modal=validator&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "rpc": [],
@@ -214,6 +213,7 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
+        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
@@ -266,8 +266,7 @@
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
         "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
-        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
-        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh"
+        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
@@ -552,6 +551,7 @@
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
       "relayer_accounts": [
+        "chihuahua1yghndrffay859ma2ue4pa2cltw640vta8vwr7l",
         "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa",
         "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
       ],
