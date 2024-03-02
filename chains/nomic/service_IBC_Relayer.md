@@ -14,5 +14,4 @@ nomic1f269n4mrg0s8tqveny9huulyamvdv97nnaxhm3
 ### Active IBC channels `nomic`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
 | osmosis-1 | nomic-stakenet-3 | transfer | channel-6897 |
