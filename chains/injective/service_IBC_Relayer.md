@@ -31,7 +31,6 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
 | phoenix-1 | injective-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-116 |
 | phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |

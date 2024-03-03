@@ -22,6 +22,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
@@ -38,7 +39,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | nomic-stakenet-3 | transfer | channel-6897 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | vidulum-1 | transfer | channel-124 |
 | osmosis-1 | juno-1 | transfer | channel-169 |
@@ -68,6 +68,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | quasar-1 | icahost | channel-744 |
 | osmosis-1 | quasar-1 | icahost | channel-746 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
@@ -83,7 +84,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
