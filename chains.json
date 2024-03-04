@@ -265,8 +265,7 @@
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
         "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
-        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
-        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh"
+        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
@@ -551,6 +550,7 @@
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
       "relayer_accounts": [
+        "chihuahua1yghndrffay859ma2ue4pa2cltw640vta8vwr7l",
         "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa",
         "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
       ],
