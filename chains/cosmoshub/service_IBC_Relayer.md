@@ -7,17 +7,18 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
-cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla
 cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02
 cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
+cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
+cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 ```
 
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | core-1 | transfer | channel-190 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -35,8 +36,8 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | lum-network-1 | transfer | channel-566 |
 | cosmoshub-4 | lum-network-1 | icahost | channel-607 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
@@ -54,5 +55,4 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
