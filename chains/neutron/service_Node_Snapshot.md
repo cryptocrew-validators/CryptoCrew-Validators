@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 neutrond version: `v2.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7815366.tar.lz4)** | Tue Mar 05 2024 12:22:55 UTC | `neutron-1` | 3.2G | 7815366 | `a0e3c99bc6dfadba53a654abc3f8abb117ba21f9c5380c9c7476c9265f670247` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7782444.tar.lz4)** | Mon Mar 04 2024 12:39:14 UTC | `neutron-1` | 3.1G | 7782444 | `0436a2349e8dfda6d04b2d81f91785e41dacf50d8e5de564a3897611b79d59b2` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7748779.tar.lz4)** | Sun Mar 03 2024 12:28:46 UTC | `neutron-1` | 3.1G | 7748779 | `16587f2f856dab6fc8b9b18b5edb0434051e2b516e684ec2f5bd24c4233dfde5` |
 
 ---
 
@@ -12,7 +12,7 @@ neutrond version: `v2.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7782444.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7815366.tar.lz4"
 cd $HOME/.neutrond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7782444.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/neutron/neutron-1_7815366.tar.lz4"
 cd $HOME/.neutrond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
