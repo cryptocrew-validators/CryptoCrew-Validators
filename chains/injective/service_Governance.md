@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 353 | Update min price tick and min quantity tick for USDe/USDT market on Injective Exchange dApps | Wed Mar 06 2024 03:22:39 UTC | ⏳ NOT VOTED |
+| 353 | Update min price tick and min quantity tick for USDe/USDT market on Injective Exchange dApps | Wed Mar 06 2024 03:22:39 UTC | ABSTAIN |
 
 ---
 
