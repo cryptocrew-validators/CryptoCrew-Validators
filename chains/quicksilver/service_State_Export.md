@@ -5,7 +5,7 @@ CryptoCrew provides automatic daily state exports for all chains we validate. St
 **Download: [quicksilver-2 state export](https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/quicksilver-2_export_6160912.json)**
 ---
 
-- last updated: Tue Mar 05 2024 11:43:56
+- last updated: Wed Mar 06 2024 11:44:43
 - chain id: `quicksilver-2`
 - export height: `6160912`
 - use for: airdrops, local tests, chain recovery
