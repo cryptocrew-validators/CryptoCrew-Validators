@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/empowerchain/addrbook.json)**
 ---
 
-- last updated: Tue Mar 05 2024 02:20:33
+- last updated: Wed Mar 06 2024 10:34:20
 - chain id: `empowerchain-1`
-- available peers: 238
-- total peers (network scan): 194
+- available peers: 937
+- total peers (network scan): 200
 
 ## Instructions
 ```sh
