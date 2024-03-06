@@ -3,7 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 quicksilverd version: `v1.4.7`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4)** | Tue Mar 05 2024 11:40:48 UTC | `quicksilver-2` | 1.0G | 6160912 | `dba107eaa06fc3eb481c5b817ba622574ec3e5d32dde26caaab319fd7d80f749` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4)** | Wed Mar 06 2024 11:40:54 UTC | `quicksilver-2` | 1.0G | 6160912 | `0fc17c7628fb178e16d3570c9caaa185cbadb1166a7d4014569f69da9421d507` |
 
 ---
 
