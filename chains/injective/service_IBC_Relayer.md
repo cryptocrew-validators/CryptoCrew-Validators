@@ -26,6 +26,7 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | injective-1 | secret-4 | transfer | channel-88 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | celestia | transfer | channel-152 |
+| neutron-1 | injective-1 | transfer | channel-60 |
 | core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
