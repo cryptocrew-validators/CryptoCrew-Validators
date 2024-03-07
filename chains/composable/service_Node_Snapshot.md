@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 centaurid version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4101339.tar.lz4)** | Tue Mar 05 2024 00:03:56 UTC | `centauri-1` | 1.2G | 4101339 | `356c17f576f40df795f5bb002c7f1c1fffdd4c2427e00cc119d8a3b93d17c34c` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4086114.tar.lz4)** | Sun Mar 03 2024 23:46:49 UTC | `centauri-1` | 896M | 4086114 | `9529d4042a997ebace51ceed8484e3941cafb1daf1fac789c446ee2bafdbda5b` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4131945.tar.lz4)** | Thu Mar 07 2024 00:34:18 UTC | `centauri-1` | 589M | 4131945 | `0a782f98141d2e4e405d48cf0a9ed3eb81f355ec2fa8a66c6136714fac7ca38c` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4116371.tar.lz4)** | Tue Mar 05 2024 23:51:51 UTC | `centauri-1` | 1.3G | 4116371 | `14d5eddabf09998f3dcfc52b5f455adc745a96b8c7d9974751ba6c3416f2db29` |
 
 ---
 
@@ -12,7 +12,7 @@ centaurid version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4101339.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4131945.tar.lz4"
 cd $HOME/.banksy
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm wasm_client_data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4101339.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_4131945.tar.lz4"
 cd $HOME/.banksy
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm wasm_client_data
