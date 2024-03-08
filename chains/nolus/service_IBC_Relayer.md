@@ -16,4 +16,6 @@ nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f
 | --------------- | --------------- | ------------ | ------------------- |
 | pirin-1 | neutron-1 | transfer | channel-3839 |
 | pirin-1 | osmosis-1 | transfer | channel-0 |
+| neutron-1 | pirin-1 | icahost | channel-1404 |
+| neutron-1 | pirin-1 | transfer | channel-44 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
