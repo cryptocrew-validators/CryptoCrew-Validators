@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
-kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 ```
 
 ### Active IBC channels `kujira`:
@@ -33,7 +32,6 @@ kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 | kaiyo-1 | secret-4 | transfer | channel-44 |
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
-| kaiyo-1 | neutron-1 | transfer | channel-75 |
 | kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
