@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [osmosis-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/osmosis/osmosis-1_export_14209737.json)**
+**Download: [osmosis-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/osmosis/osmosis-1_export_14244788.json)**
 ---
 
-- last updated: Sat Mar 09 2024 11:36:58
+- last updated: Mon Mar 11 2024 11:51:43
 - chain id: `osmosis-1`
-- export height: `14209737`
+- export height: `14244788`
 - use for: airdrops, local tests, chain recovery
