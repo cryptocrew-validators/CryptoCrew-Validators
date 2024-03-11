@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-strided version: `v18.0.0`
+strided version: `v19.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8064608.tar.lz4)** | Mon Mar 11 2024 11:11:29 UTC | `stride-1` | 3.7G | 8064608 | `ed332f12b42dbeeac2d08067e93768601c7dae828c7ba77636b544afc2d4f45f` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8050431.tar.lz4)** | Sun Mar 10 2024 11:38:43 UTC | `stride-1` | 4.1G | 8050431 | `2c3c58a54e0c18dc727e4806fbd81e9488b2bcbd79f029e6530cbc4944b4eaea` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8035696.tar.lz4)** | Sat Mar 09 2024 11:30:43 UTC | `stride-1` | 3.9G | 8035696 | `2286ca9c36db7ffe67da3074c27466c9e3baf73e3bf3fec0aaeacbef5d4947fc` |
 
 ---
 
@@ -12,10 +12,10 @@ strided version: `v18.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8050431.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8064608.tar.lz4"
 cd $HOME/.stride
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
-rm -rf data
+rm -rf data wasm
 wget $URL
 wget $URL.sha256
 echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
@@ -28,16 +28,23 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8050431.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8064608.tar.lz4"
 cd $HOME/.stride
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
-rm -rf data
+rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
 
-
+### Optional: Download `wasm` folder only
+In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
+```sh
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_wasm.tar.lz4"
+cd $HOME/.stride
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
+```
 
 
 
