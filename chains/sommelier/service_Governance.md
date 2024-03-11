@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 141 | [SIPS-132] Co-Incentives Proposal for Turbo ETHX | Wed Mar 13 2024 04:02:42 UTC | ⏳ NOT VOTED |
+| 141 | [SIPS-132] Co-Incentives Proposal for Turbo ETHX | Wed Mar 13 2024 04:02:42 UTC | ABSTAIN |
 
 ---
 
