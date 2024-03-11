@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 28 | Osmosis Alliance Creation using ampOsmo | Wed Mar 13 2024 14:32:34 UTC | ⏳ NOT VOTED |
+| 28 | Osmosis Alliance Creation using ampOsmo | Wed Mar 13 2024 14:32:34 UTC | ABSTAIN |
 
 ---
 
