@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 32 | Revive Expired Akash IBC Channel (channel-25) | Tue Mar 19 2024 11:55:54 UTC | ⏳ NOT VOTED |
-| 33 | null | Tue Mar 19 2024 15:49:43 UTC | ⏳ NOT VOTED |
+| 33 | null | Tue Mar 19 2024 15:49:43 UTC | ABSTAIN |
 
 ---
 
