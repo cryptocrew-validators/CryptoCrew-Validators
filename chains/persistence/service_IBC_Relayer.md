@@ -7,12 +7,14 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+persistence1yghndrffay859ma2ue4pa2cltw640vta24973e
 persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
 ```
 
 ### Active IBC channels `persistence`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| core-1 | neutron-1 | transfer | channel-136 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | core-1 | juno-1 | transfer | channel-37 |
