@@ -34,6 +34,7 @@ kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | kaiyo-1 | neutron-1 | transfer | channel-75 |
+| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
@@ -51,4 +52,3 @@ kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | neutron-1 | kaiyo-1 | transfer | channel-3 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
