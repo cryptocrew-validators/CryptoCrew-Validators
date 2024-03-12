@@ -7,8 +7,8 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
+osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
@@ -23,22 +23,26 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| osmosis-1 | lum-network-1 | transfer | channel-115 |
+| osmosis-1 | chihuahua-1 | transfer | channel-11348 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| osmosis-1 | vidulum-1 | transfer | channel-124 |
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
-| osmosis-1 | juno-1 | transfer | channel-169 |
+| osmosis-1 | omniflixhub-1 | transfer | channel-199 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
-| osmosis-1 | phoenix-1 | transfer | channel-341 |
+| osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
+| osmosis-1 | lum-network-1 | transfer | channel-115 |
+| osmosis-1 | vidulum-1 | transfer | channel-124 |
+| osmosis-1 | juno-1 | transfer | channel-169 |
+| osmosis-1 | phoenix-1 | transfer | channel-251 |
+| osmosis-1 | phoenix-1 | transfer | channel-341 |
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | canto_7700-1 | transfer | channel-550 |
 | osmosis-1 | phoenix-1 | transfer | channel-559 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
-| osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
@@ -46,10 +50,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | chihuahua-1 | transfer | channel-11348 |
-| osmosis-1 | omniflixhub-1 | transfer | channel-199 |
-| osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | quasar-1 | icqhost | channel-1142 |
 | osmosis-1 | quasar-1 | icqhost | channel-1156 |
@@ -68,15 +68,20 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | quasar-1 | icahost | channel-744 |
 | osmosis-1 | quasar-1 | icahost | channel-746 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| bitsong-2b | osmosis-1 | transfer | channel-0 |
-| canto_7700-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
+| chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
+| core-1 | osmosis-1 | transfer | channel-6 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
-| injective-1 | osmosis-1 | transfer | channel-8 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| omniflixhub-1 | osmosis-1 | transfer | channel-1 |
+| stargaze-1 | osmosis-1 | transfer | channel-0 |
+| bitsong-2b | osmosis-1 | transfer | channel-0 |
+| canto_7700-1 | osmosis-1 | transfer | channel-5 |
+| injective-1 | osmosis-1 | transfer | channel-8 |
 | lum-network-1 | osmosis-1 | transfer | channel-3 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
@@ -84,17 +89,12 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | phoenix-1 | osmosis-1 | wasm.terra1d90p5lacfxnqgjxjupu234lxnxyeu8fdeef4d0e0nqy3p30r7gss4myn9x | channel-85 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
-| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | vidulum-1 | osmosis-1 | transfer | channel-0 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| comdex-1 | osmosis-1 | transfer | channel-1 |
-| chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
-| core-1 | osmosis-1 | transfer | channel-6 |
-| omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
