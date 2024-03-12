@@ -5,7 +5,7 @@
 | 884 | 💎ATOM Airdrop ✅ - New Cosmos $ATOM Fork is ready! ⭐ | Wed Mar 13 2024 21:46:31 UTC | ABSTAIN |
 | 886 | New Cosmos $ATOM Fork ⚛️ - AtomOne is READY! ⭐ | Sat Mar 16 2024 10:23:57 UTC | ABSTAIN |
 | 887 | 💎ATOM Airdrop ✅ - New dApps on Atom ⚛️ | Thu Mar 21 2024 22:01:15 UTC | ABSTAIN |
-| 888 | 2024 New Version! ⭐ - New dApps on Atom ⚛️ | Mon Mar 25 2024 19:23:32 UTC | ⏳ NOT VOTED |
+| 888 | 2024 New Version! ⭐ - New dApps on Atom ⚛️ | Mon Mar 25 2024 19:23:32 UTC | ABSTAIN |
 
 ---
 

@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 257 | Stargaze Liquidity DAO - Request for stOSMO from Community Pool | Fri Mar 15 2024 11:28:24 UTC | ⏳ NOT VOTED |
+| 257 | Stargaze Liquidity DAO - Request for stOSMO from Community Pool | Fri Mar 15 2024 11:28:24 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
