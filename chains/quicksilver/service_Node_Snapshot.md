@@ -1,9 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-quicksilverd version: `v1.4.7`
+quicksilverd version: `v1.5.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4)** | Tue Mar 12 2024 11:40:51 UTC | `quicksilver-2` | 1.0G | 6160912 | `08461fa2db24ba9ace38f4f23c6ff7c6ec89a2216278fa2d68f03e9624844b35` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6377026.tar.lz4)** | Wed Mar 13 2024 11:41:20 UTC | `quicksilver-2` | 1.3G | 6377026 | `71dc919164b26068a2ef54c4cdbc44814a562177dd92b31f1f4803e36b426de5` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4)** | Tue Mar 12 2024 11:40:51 UTC | `quicksilver-2` | 779M | 6160912 | `08461fa2db24ba9ace38f4f23c6ff7c6ec89a2216278fa2d68f03e9624844b35` |
 
 ---
 
@@ -11,10 +12,10 @@ quicksilverd version: `v1.4.7`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6377026.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
-rm -rf data
+rm -rf data wasm
 wget $URL
 wget $URL.sha256
 echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
@@ -27,24 +28,24 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6377026.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
-rm -rf data
+rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
 
-
 ### Optional: Download `wasm` folder only
-In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases. Note, on this chain the wasm folder is located within the `data` folder.
+In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
 ```sh
 URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_wasm.tar.lz4"
-cd $HOME/.quicksilverd/data
+cd $HOME/.quicksilverd
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 ```
+
 
 
 ## Using the download script
