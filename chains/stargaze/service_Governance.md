@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 257 | Stargaze Liquidity DAO - Request for stOSMO from Community Pool | Fri Mar 15 2024 11:28:24 UTC | 🤷‍♂️ ABSTAIN |
-| 258 | Live Auctions: Whitelist Denoms | Sat Mar 16 2024 17:03:05 UTC | ⏳ NOT VOTED |
+| 258 | Live Auctions: Whitelist Denoms | Sat Mar 16 2024 17:03:05 UTC | ✅ YES |
 
 ---
 
