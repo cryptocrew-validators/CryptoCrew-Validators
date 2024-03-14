@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 quicksilverd version: `v1.5.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6391691.tar.lz4)** | Thu Mar 14 2024 11:42:19 UTC | `quicksilver-2` | 1.5G | 6391691 | `cf29a542c36233497ad999233f8b585138981aee7bca4bd442ec67b3b9b9a759` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6377026.tar.lz4)** | Wed Mar 13 2024 11:41:20 UTC | `quicksilver-2` | 1.3G | 6377026 | `71dc919164b26068a2ef54c4cdbc44814a562177dd92b31f1f4803e36b426de5` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6160912.tar.lz4)** | Tue Mar 12 2024 11:40:51 UTC | `quicksilver-2` | 779M | 6160912 | `08461fa2db24ba9ace38f4f23c6ff7c6ec89a2216278fa2d68f03e9624844b35` |
 
 ---
 
@@ -12,7 +12,7 @@ quicksilverd version: `v1.5.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6377026.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6391691.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6377026.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_6391691.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
