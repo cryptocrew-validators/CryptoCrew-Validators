@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 196 | Axelarators Community Owned Telegram Group and X (Twitter) Account Proposal | Sat Mar 16 2024 01:14:35 UTC | ⏳ NOT VOTED |
+| 196 | Axelarators Community Owned Telegram Group and X (Twitter) Account Proposal | Sat Mar 16 2024 01:14:35 UTC | ❌ NO |
 
 ---
 
