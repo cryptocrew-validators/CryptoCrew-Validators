@@ -5,7 +5,7 @@
 | 886 | New Cosmos $ATOM Fork ⚛️ - AtomOne is READY! ⭐ | Sat Mar 16 2024 10:23:57 UTC | ABSTAIN |
 | 887 | 💎ATOM Airdrop ✅ - New dApps on Atom ⚛️ | Thu Mar 21 2024 22:01:15 UTC | ABSTAIN |
 | 888 | 2024 New Version! ⭐ - New dApps on Atom ⚛️ | Mon Mar 25 2024 19:23:32 UTC | ABSTAIN |
-| 889 | Atom to $1000 🚀 - Price Prediction 2024 ✅ | Thu Mar 28 2024 01:39:30 UTC | ⏳ NOT VOTED |
+| 889 | Atom to $1000 🚀 - Price Prediction 2024 ✅ | Thu Mar 28 2024 01:39:30 UTC | ABSTAIN |
 
 ---
 
