@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [gravity-bridge-3 state export](https://dl-eu2.ccvalidators.com/SERVICE/gravitybridge/gravity-bridge-3_export_10907076.json)**
+**Download: [gravity-bridge-3 state export](https://dl-eu2.ccvalidators.com/SERVICE/gravitybridge/gravity-bridge-3_export_10923514.json)**
 ---
 
-- last updated: Fri Mar 15 2024 12:03:13
+- last updated: Sat Mar 16 2024 16:35:53
 - chain id: `gravity-bridge-3`
-- export height: `10907076`
+- export height: `10923514`
 - use for: airdrops, local tests, chain recovery
