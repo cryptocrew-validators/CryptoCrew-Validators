@@ -35,4 +35,3 @@ evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | stargaze-1 | evmos_9001-2 | transfer | channel-46 |
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
-| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
