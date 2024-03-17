@@ -5,7 +5,7 @@
 | 356 | null | Mon Mar 18 2024 18:15:16 UTC | ABSTAIN |
 | 357 | null | Mon Mar 18 2024 20:10:53 UTC | ABSTAIN |
 | 358 | null | Mon Mar 18 2024 23:23:20 UTC | ABSTAIN |
-| 359 | null | Tue Mar 19 2024 20:08:06 UTC | ⏳ NOT VOTED |
+| 359 | null | Tue Mar 19 2024 20:08:06 UTC | ABSTAIN |
 
 ---
 

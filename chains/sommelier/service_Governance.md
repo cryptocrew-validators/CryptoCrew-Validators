@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 143 | [SIPS-134] Incentives Proposal for Real Yield ETH Arbitrum | Sun Mar 17 2024 15:46:27 UTC | ⏳ NOT VOTED |
+| 143 | [SIPS-134] Incentives Proposal for Real Yield ETH Arbitrum | Sun Mar 17 2024 15:46:27 UTC | ABSTAIN |
 
 ---
 
