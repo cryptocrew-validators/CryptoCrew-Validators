@@ -49,4 +49,3 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | neutron-1 | kaiyo-1 | transfer | channel-3 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
