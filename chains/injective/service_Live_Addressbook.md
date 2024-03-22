@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/injective/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/injective/addrbook.json)**
 ---
 
-- last updated: Thu Mar 21 2024 17:15:16
+- last updated: Fri Mar 22 2024 15:03:40
 - chain id: `injective-1`
 
-- total peers (network scan): 1399
+- total peers (network scan): 1393
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop injectived
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/injective/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/injective/addrbook.json"
 wget -4 $URL -P $HOME/.injectived/config/addrbook.json
 
 # Start the node
