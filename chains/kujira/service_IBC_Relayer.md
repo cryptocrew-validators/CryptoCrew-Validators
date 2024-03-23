@@ -26,6 +26,7 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | juno-1 | transfer | channel-31 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
+| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
@@ -38,4 +39,3 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | neutron-1 | kaiyo-1 | transfer | channel-3 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
