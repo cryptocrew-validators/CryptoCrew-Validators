@@ -40,4 +40,3 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | omniflixhub-1 | juno-1 | transfer | channel-20 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
-| osmosis-1 | juno-1 | transfer | channel-169 |

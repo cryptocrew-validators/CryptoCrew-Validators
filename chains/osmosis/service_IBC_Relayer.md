@@ -16,7 +16,6 @@ osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
 osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
-osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 ```
 
 ### Active IBC channels `osmosis`:
@@ -52,21 +51,22 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | pirin-1 | transfer | channel-783 |
 | osmosis-1 | nois-1 | transfer | channel-8277 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
-| osmosis-1 | juno-1 | transfer | channel-169 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
-| osmosis-1 | migaloo-1 | transfer | channel-642 |
-| osmosis-1 | secret-4 | transfer | channel-88 |
+| bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
+| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
+| injective-1 | osmosis-1 | transfer | channel-8 |
+| kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| phoenix-1 | osmosis-1 | transfer | channel-1 |
+| secret-4 | osmosis-1 | transfer | channel-1 |
+| secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
+| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
-| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
-| kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
-| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
@@ -81,7 +81,3 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | pirin-1 | osmosis-1 | transfer | channel-0 |
 | quasar-1 | osmosis-1 | transfer | channel-1 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| injective-1 | osmosis-1 | transfer | channel-8 |
-| migaloo-1 | osmosis-1 | transfer | channel-5 |
-| phoenix-1 | osmosis-1 | transfer | channel-1 |
-| secret-4 | osmosis-1 | transfer | channel-1 |
