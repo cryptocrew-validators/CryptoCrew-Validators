@@ -25,4 +25,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
