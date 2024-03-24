@@ -26,6 +26,7 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
