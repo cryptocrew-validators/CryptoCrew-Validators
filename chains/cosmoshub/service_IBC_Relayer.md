@@ -32,16 +32,15 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
-| secret-4 | cosmoshub-4 | transfer | channel-0 |
