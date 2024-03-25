@@ -26,6 +26,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
+| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
@@ -37,5 +38,4 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | neutron-1 | kaiyo-1 | transfer | channel-3 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
