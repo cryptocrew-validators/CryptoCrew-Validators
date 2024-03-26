@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [stargaze-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/stargaze/stargaze-1_export_12854490.json)**
+**Download: [stargaze-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/stargaze/stargaze-1_export_12869278.json)**
 ---
 
-- last updated: Mon Mar 25 2024 05:04:19
+- last updated: Tue Mar 26 2024 05:06:08
 - chain id: `stargaze-1`
-- export height: `12854490`
+- export height: `12869278`
 - use for: airdrops, local tests, chain recovery
