@@ -7,11 +7,11 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f
+centauri1yghndrffay859ma2ue4pa2cltw640vtaqnw3mw
 ```
 
-### Active IBC channels `nolus`:
+### Active IBC channels `composable`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| pirin-1 | osmosis-1 | transfer | channel-0 |
-| osmosis-1 | pirin-1 | transfer | channel-783 |
+| centauri-1 | neutron-1 | transfer | channel-18 |
+| neutron-1 | centauri-1 | transfer | channel-17 |
