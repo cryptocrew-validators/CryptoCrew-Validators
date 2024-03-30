@@ -1,12 +1,23 @@
-{
-  "network": "osmosis-1",
-  "height": "",
-  "type": "archive",
-  "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_14247978.tar.lz",
-  "filename": "osmosis-1_14247978.tar.lz",
-  "date": "2024-03-30 17:21 UTC",
-  "database": "goleveldb",
-  "size": "14T",
-  "provider": "CryptoCrew",
-}
+[{
+"network": "osmosis-1",
+"height": "14521190",
+"type": "archive",
+"mirror": "EU",
+"url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_14521190.tar.lz4",
+"filename": "osmosis-1_14521190.tar.lz4",
+"date": "2024-03-30 02:35 UTC",
+"database": "goleveldb",
+"size": "15T",
+"provider": "CryptoCrew"
+},{
+"network": "osmosis-1",
+"height": "",
+"type": "archive",
+"mirror": "EU",
+"url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_14247978.tar.lz",
+"filename": "osmosis-1_14247978.tar.lz",
+"date": "2024-03-30 17:21 UTC",
+"database": "goleveldb",
+"size": "14T",
+"provider": "CryptoCrew"
+}]
