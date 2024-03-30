@@ -4,7 +4,7 @@ osmosisd version: `v23.0.8`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_14521190.tar.lz4)** | Sat Mar 30 2024 02:35:54 UTC | `osmosis-1` | 15T | 14521190 | `archive` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_14247978.tar.lz)** | Sat Mar 30 2024 17:21:20 UTC | `osmosis-1` | 14T |  | `archive` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_14247978.tar.lz4)** | Sat Mar 30 2024 18:05:41 UTC | `osmosis-1` | 14T | 14247978 | `archive` |
 ---
 
 ## Download instructions
