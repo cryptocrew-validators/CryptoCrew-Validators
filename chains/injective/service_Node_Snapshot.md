@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64810083.tar.lz4)** | Mon Apr 01 2024 12:19:41 UTC | `injective-1` | 13G | 64810083 | `45bab0522a4dab4f1942f0ff73b5dca59a9c00f067a01d226c218e913cb0a02d` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64805931.tar.lz4)** | Mon Apr 01 2024 11:19:38 UTC | `injective-1` | 13G | 64805931 | `5149b60ae8f35bf073bf1e42d381ca9d5b828b9fb572429da37b6d29001338b8` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64818286.tar.lz4)** | Mon Apr 01 2024 14:19:37 UTC | `injective-1` | 13G | 64818286 | `831070947f5d9d4a865f17846bad244496c8db46c473ab7d6762c8ebfaa869c7` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64814359.tar.lz4)** | Mon Apr 01 2024 13:19:23 UTC | `injective-1` | 13G | 64814359 | `8245d3b96a1ef9b6a9b0279058ccb634920fcff8ebf02b96869f6364ee5382b6` |
 
 ---
 
@@ -12,7 +12,7 @@ injectived version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64810083.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64818286.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64810083.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_64818286.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
