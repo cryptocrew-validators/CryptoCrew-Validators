@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/cheqd/addrbook.json)**
 ---
 
-- last updated: Thu Apr 04 2024 02:47:26
+- last updated: Fri Apr 05 2024 05:21:49
 - chain id: `cheqd-mainnet-1`
-- available peers: 233
-- total peers (network scan): 233
+- available peers: 244
+- total peers (network scan): 244
 
 ## Instructions
 ```sh
