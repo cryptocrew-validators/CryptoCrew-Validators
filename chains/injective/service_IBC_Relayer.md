@@ -20,6 +20,7 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | migaloo-1 | transfer | channel-102 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
@@ -27,4 +28,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
