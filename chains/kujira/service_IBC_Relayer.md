@@ -28,6 +28,7 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | juno-1 | transfer | channel-31 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
