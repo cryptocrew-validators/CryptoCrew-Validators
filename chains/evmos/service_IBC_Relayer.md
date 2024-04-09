@@ -25,6 +25,7 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 | evmos_9001-2 | juno-1 | transfer | channel-5 |
 | evmos_9001-2 | juno-1 | icahost | channel-66 |
 | evmos_9001-2 | gravity-bridge-3 | transfer | channel-8 |
+| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | comdex-1 | evmos_9001-2 | transfer | channel-35 |
