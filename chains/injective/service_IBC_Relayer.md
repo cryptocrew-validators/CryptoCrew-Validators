@@ -16,6 +16,7 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| injective-1 | kava_2222-10 | transfer | channel-143 |
 | injective-1 | celestia | transfer | channel-152 |
 | injective-1 | cosmoshub-4 | transfer | channel-1 |
 | injective-1 | migaloo-1 | transfer | channel-102 |
@@ -30,4 +31,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
