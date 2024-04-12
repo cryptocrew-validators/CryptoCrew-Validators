@@ -7,21 +7,40 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
+osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
+osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
-osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
-osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
-osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | akashnet-2 | transfer | channel-1 |
+| osmosis-1 | quasar-1 | icqhost | channel-1142 |
+| osmosis-1 | quasar-1 | icqhost | channel-1156 |
+| osmosis-1 | quasar-1 | icqhost | channel-1172 |
+| osmosis-1 | agoric-3 | transfer | channel-320 |
+| osmosis-1 | stride-1 | transfer | channel-326 |
+| osmosis-1 | teritori-1 | transfer | channel-362 |
+| osmosis-1 | mars-1 | transfer | channel-557 |
+| osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
+| osmosis-1 | quasar-1 | transfer | channel-688 |
+| osmosis-1 | celestia | transfer | channel-6994 |
+| osmosis-1 | quasar-1 | icqhost | channel-705 |
+| osmosis-1 | quasar-1 | icqhost | channel-710 |
+| osmosis-1 | quasar-1 | icqhost | channel-712 |
+| osmosis-1 | quasar-1 | icahost | channel-735 |
+| osmosis-1 | quasar-1 | icahost | channel-744 |
+| osmosis-1 | quasar-1 | icahost | channel-746 |
+| osmosis-1 | pirin-1 | transfer | channel-783 |
+| osmosis-1 | nois-1 | transfer | channel-8277 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
@@ -42,19 +61,20 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
-| osmosis-1 | akashnet-2 | transfer | channel-1 |
-| osmosis-1 | quasar-1 | icqhost | channel-1142 |
-| osmosis-1 | quasar-1 | icqhost | channel-1156 |
-| osmosis-1 | quasar-1 | icqhost | channel-1172 |
-| osmosis-1 | agoric-3 | transfer | channel-320 |
-| osmosis-1 | stride-1 | transfer | channel-326 |
-| osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
-| osmosis-1 | celestia | transfer | channel-6994 |
-| osmosis-1 | quasar-1 | icqhost | channel-705 |
-| osmosis-1 | quasar-1 | icqhost | channel-710 |
-| osmosis-1 | quasar-1 | icqhost | channel-712 |
-| osmosis-1 | pirin-1 | transfer | channel-783 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| agoric-3 | osmosis-1 | transfer | channel-1 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
+| celestia | osmosis-1 | transfer | channel-2 |
+| dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
+| mars-1 | osmosis-1 | transfer | channel-1 |
+| nois-1 | osmosis-1 | transfer | channel-37 |
+| pirin-1 | osmosis-1 | transfer | channel-0 |
+| quasar-1 | osmosis-1 | transfer | channel-1 |
+| quasar-1 | osmosis-1 | wasm.quasar1kj8q8g2pmhnagmfepp9jh9g2mda7gzd0m5zdq0s08ulvac8ck4dq9ykfps | channel-32 |
+| quasar-1 | osmosis-1 | wasm.quasar1ma0g752dl0yujasnfs9yrk6uew7d0a2zrgvg62cfnlfftu2y0egqx8e7fv | channel-33 |
+| quasar-1 | osmosis-1 | wasm.quasar1ery8l6jquynn9a4cz2pff6khg8c68f7urt33l5n9dng2cwzz4c4qxhm6a2 | channel-35 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
+| teritori-1 | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
@@ -75,13 +95,4 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| agoric-3 | osmosis-1 | transfer | channel-1 |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
-| celestia | osmosis-1 | transfer | channel-2 |
-| dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
-| mars-1 | osmosis-1 | transfer | channel-1 |
-| pirin-1 | osmosis-1 | transfer | channel-0 |
-| quasar-1 | osmosis-1 | transfer | channel-1 |
-| teritori-1 | osmosis-1 | transfer | channel-0 |
