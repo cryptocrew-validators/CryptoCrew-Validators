@@ -7,25 +7,25 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
+chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 ```
 
 ### Active IBC channels `chihuahua`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
-| chihuahua-1 | secret-4 | transfer | channel-16 |
-| chihuahua-1 | migaloo-1 | transfer | channel-39 |
-| chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | juno-1 | transfer | channel-11 |
+| chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
 | chihuahua-1 | comdex-1 | transfer | channel-37 |
+| chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
-| migaloo-1 | chihuahua-1 | transfer | channel-10 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
+| chihuahua-1 | secret-4 | transfer | channel-16 |
+| chihuahua-1 | migaloo-1 | transfer | channel-39 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |
 | omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
+| osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
+| migaloo-1 | chihuahua-1 | transfer | channel-10 |
