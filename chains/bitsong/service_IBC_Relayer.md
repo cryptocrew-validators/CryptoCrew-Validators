@@ -13,4 +13,4 @@ bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n
 ### Active IBC channels `bitsong`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| bitsong-2b | osmosis-1 | transfer | channel-0 |
+| bitsong-2b | cosmoshub-4 | transfer | channel-1 |
