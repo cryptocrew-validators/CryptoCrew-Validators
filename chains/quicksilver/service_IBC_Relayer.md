@@ -13,4 +13,4 @@ quick12aeyaxq699k3f4d3733dl5pstw0ulplk33e807
 ### Active IBC channels `quicksilver`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| osmosis-1 | quicksilver-2 | transfer | channel-522 |
+| osmosis-1 | quicksilver-2 | icahost | channel-701 |
