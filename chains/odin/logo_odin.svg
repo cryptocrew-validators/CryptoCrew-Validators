@@ -1,1 +1,29 @@
-<svg id="bb2bb7db-f098-4b3d-a35f-8fbbb139f24c" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><defs><style>.f295146a-1154-4448-a625-c1670f7c5698{fill:#fff;}.ebfd8abb-aeb2-4b22-b001-5a18215a677d{fill:#e4ff00;fill-rule:evenodd;}</style></defs><circle class="f295146a-1154-4448-a625-c1670f7c5698" cx="25" cy="25" r="18.6"/><path d="M35.61,14.39A15,15,0,1,0,25,40,15,15,0,0,0,35.61,14.39Z"/><path class="ebfd8abb-aeb2-4b22-b001-5a18215a677d" d="M28.75,21.37H22.4l-4.53-4.53A10.75,10.75,0,0,1,25,14.16a10.83,10.83,0,0,1,8.15,18l-4.4-4.4Z"/><path class="ebfd8abb-aeb2-4b22-b001-5a18215a677d" d="M27.71,28.77H21.35V22.42l-4.53-4.53A10.83,10.83,0,0,0,32.11,33.17Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0c0c0c;
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dadada;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="25" cy="25" r="18.6"/>
+  <path class="cls-2" d="M35.61,14.39c-2.83-2.84-6.6-4.4-10.61-4.4-8.27,0-15,6.74-15,15.01s6.73,15.01,15,15.01c4.01,0,7.77-1.56,10.61-4.4,2.83-2.84,4.39-6.61,4.39-10.61,0-4.01-1.56-7.78-4.39-10.61Z"/>
+  <g>
+    <path class="cls-1" d="M29.5,20.65h-7.62l-5.44-5.44c2.28-2,5.27-3.21,8.56-3.21,7.16,0,13,5.84,13,13,0,3.27-1.22,6.26-3.22,8.55l-5.28-5.28v-7.62Z"/>
+    <path class="cls-1" d="M28.25,29.52h-7.62v-7.62l-5.44-5.44c-1.99,2.29-3.19,5.27-3.19,8.53,0,7.16,5.79,13,13,13,3.26,0,6.24-1.21,8.52-3.2l-5.28-5.28Z"/>
+  </g>
+</svg>
