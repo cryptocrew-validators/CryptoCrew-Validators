@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 kujirad version: `v0.9.3-1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18526155.tar.lz4)** | Sat Apr 20 2024 13:33:54 UTC | `kaiyo-1` | 20G | 18526155 | `16e42f8c99dd512eafa049308d5b4a9541791c1a13298661b5a1261db33fb25d` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18488000.tar.lz4)** | Thu Apr 18 2024 13:40:38 UTC | `kaiyo-1` | 20G | 18488000 | `028497eb21a5de8ed5e75f0e8905a80e83b479dc07665fec219e9af7ced74818` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18449867.tar.lz4)** | Tue Apr 16 2024 13:37:43 UTC | `kaiyo-1` | 19G | 18449867 | `6f6af680324d9df945b9ec44de012334bd16c24ab41f7e041e9bdc99b52b2699` |
 
 ---
 
@@ -12,7 +12,7 @@ kujirad version: `v0.9.3-1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18488000.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18526155.tar.lz4"
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18488000.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_18526155.tar.lz4"
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
