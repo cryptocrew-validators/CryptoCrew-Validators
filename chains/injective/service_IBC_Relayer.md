@@ -23,6 +23,7 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
+| neutron-1 | injective-1 | transfer | channel-60 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | migaloo-1 | injective-1 | transfer | channel-3 |
