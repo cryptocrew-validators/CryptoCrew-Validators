@@ -66,7 +66,7 @@ https://ccvalidators.com
 
 | Chain Name         | Chain ID                 | Validator address                                            | Link                  |
 | ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |
-| `Cosmos Hub` | `cosmoshub-4` | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc` | [delegate ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc) |
+| `Cosmos Hub` | `cosmoshub-4` | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc` | [delegate ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2) |
 | `Osmosis` | `osmosis-1` | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6` | [delegate OSMO](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6) |
 | `Juno` | `juno-1` | `junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k` | [delegate JUNO](https://wallet.keplr.app/chains/juno?modal=validator&chain=juno-1&validator_address=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k) |
 | `dYdX Chain` | `dydx-mainnet-1` | `dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn` | [delegate DYDX](https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn) |
