@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 108 | Nolus Airdrop ⭐ | Tue Apr 23 2024 00:36:57 UTC | ⏳ NOT VOTED |
-| 109 | Nolus Airdrop ✅ | Tue Apr 23 2024 00:37:32 UTC | ⏳ NOT VOTED |
+| 108 | Nolus Airdrop ⭐ | Tue Apr 23 2024 00:36:57 UTC | ABSTAIN |
+| 109 | Nolus Airdrop ✅ | Tue Apr 23 2024 00:37:32 UTC | ABSTAIN |
 
 ---
 
