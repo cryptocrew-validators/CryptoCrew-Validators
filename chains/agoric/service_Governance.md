@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 73 | Agoric Community Pool Spend | Wed Apr 24 2024 18:52:16 UTC | ⏳ NOT VOTED |
+| 73 | Agoric Community Pool Spend | Wed Apr 24 2024 18:52:16 UTC | ABSTAIN |
 
 ---
 
