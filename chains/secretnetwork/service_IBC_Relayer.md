@@ -21,6 +21,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
+| dymension_1100-1 | secret-4 | transfer | channel-35 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | secret-4 | transfer | channel-44 |
 | osmosis-1 | secret-4 | transfer | channel-476 |
