@@ -2,7 +2,6 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 902 | 💎ATOM Airdrop ✅ - Cosmos Hub Proposal ⭐ | Mon Apr 22 2024 14:26:54 UTC | ⏳ NOT VOTED |
 | 903 | ⚡SAGA x Cosmos airdrop⚡ | Tue Apr 23 2024 17:21:48 UTC | ⏳ NOT VOTED |
 | 904 | 💎ATOM Airdrop ✅ - Cosmos Hub Proposal ⭐ | Wed Apr 24 2024 04:28:47 UTC | ABSTAIN |
 | 905 | ⚡SAGA x Cosmos airdrop⚡ | Wed Apr 24 2024 07:55:19 UTC | ABSTAIN |
@@ -13,17 +12,6 @@
 | 910 | ⚡Namada x Cosmos airdrop⚡ | Mon Apr 29 2024 16:51:31 UTC | ABSTAIN |
 | 911 | New dApps on Atom ⚛️ - Try New Version 4.0 ⭐ | Tue Apr 30 2024 18:35:09 UTC | ABSTAIN |
 | 912 | null | Fri May 03 2024 18:32:48 UTC | ABSTAIN |
-
----
-
-### 🗳 902: 💎ATOM Airdrop ✅ - Cosmos Hub Proposal ⭐
-- Voting Start: Mon Apr 08 2024 14:26:54 UTC
-- Voting End: Mon Apr 22 2024 14:26:54 UTC
-
-<details>
-<summary>Text hidden (blacklist match)</summary>
- 
-</details>
 
 ---
 
