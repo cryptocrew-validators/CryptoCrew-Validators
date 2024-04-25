@@ -7,14 +7,13 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-mars1yghndrffay859ma2ue4pa2cltw640vtaey652x
 mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh
+mars1yghndrffay859ma2ue4pa2cltw640vtaey652x
 ```
 
 ### Active IBC channels `mars`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| mars-1 | neutron-1 | transfer | channel-37 |
 | mars-1 | osmosis-1 | transfer | channel-1 |
+| mars-1 | neutron-1 | transfer | channel-37 |
 | neutron-1 | mars-1 | transfer | channel-16 |
-| osmosis-1 | mars-1 | transfer | channel-557 |
