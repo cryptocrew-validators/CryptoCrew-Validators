@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 310 | The proposed allocation | Sat Apr 27 2024 00:32:23 UTC | ⏳ NOT VOTED |
+| 310 | The proposed allocation | Sat Apr 27 2024 00:32:23 UTC | ABSTAIN |
 
 ---
 
