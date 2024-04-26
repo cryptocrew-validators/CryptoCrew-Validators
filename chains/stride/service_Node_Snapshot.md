@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 strided version: `v22.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8706261.tar.lz4)** | Wed Apr 24 2024 11:12:15 UTC | `stride-1` | 4.3G | 8706261 | `ff435f0b81b915f7abdb6525528171bb2b16050e2ffc1144ef5e252900fbfba0` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8692631.tar.lz4)** | Tue Apr 23 2024 11:12:32 UTC | `stride-1` | 4.3G | 8692631 | `4b5c86cb914688380cc081079e36edc6a38044601ecc18560df43f286debc2ec` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8735444.tar.lz4)** | Fri Apr 26 2024 11:12:15 UTC | `stride-1` | 4.2G | 8735444 | `064f592c5f87b93d70952b32bdbdf8539f0bc8170493d2ac4945171ba1671d20` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8720705.tar.lz4)** | Thu Apr 25 2024 11:11:39 UTC | `stride-1` | 4.4G | 8720705 | `40f0216efbfe5d12e49e4e1e43c4e5dda7d77fd0ec5f9ac4949584aca5e8c8fe` |
 
 ---
 
@@ -12,7 +12,7 @@ strided version: `v22.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8706261.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8735444.tar.lz4"
 cd $HOME/.stride
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8706261.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_8735444.tar.lz4"
 cd $HOME/.stride
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
