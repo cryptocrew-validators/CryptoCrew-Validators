@@ -5,7 +5,7 @@
 | 112 | null | Fri Apr 26 2024 13:44:32 UTC | ABSTAIN |
 | 113 | null | Fri Apr 26 2024 13:49:01 UTC | ABSTAIN |
 | 114 | null | Fri Apr 26 2024 13:50:52 UTC | ABSTAIN |
-| 115 | null | Fri Apr 26 2024 13:52:24 UTC | ⏳ NOT VOTED |
+| 115 | null | Fri Apr 26 2024 13:52:24 UTC | ABSTAIN |
 
 ---
 
