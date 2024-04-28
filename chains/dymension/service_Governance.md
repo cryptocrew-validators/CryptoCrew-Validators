@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 14 | Register IBC tokens as virtual ERC-20 contacts | Mon Apr 29 2024 14:28:38 UTC | ⏳ NOT VOTED |
+| 14 | Register IBC tokens as virtual ERC-20 contacts | Mon Apr 29 2024 14:28:38 UTC | ABSTAIN |
 
 ---
 
