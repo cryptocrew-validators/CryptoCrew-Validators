@@ -140,11 +140,11 @@
       "address": "celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "operator_account": "celestia138jl42zlxue4wpvnugcdqhxjmyd2vpt69gjdfk",
       "relayer_accounts": [
+        "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
+        "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk",
         "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da",
         "celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac",
-        "celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d",
-        "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
-        "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
+        "celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d"
       ],
       "stake_link": "https://wallet.keplr.app/chains/celestia?modal=staking&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls&step_id=2",
       "rpc": [],
@@ -400,8 +400,7 @@
       "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
       "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
       "relayer_accounts": [
-        "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh",
-        "mars1yghndrffay859ma2ue4pa2cltw640vtaey652x"
+        "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh"
       ],
       "stake_link": "https://wallet.keplr.app/chains/mars-hub?modal=staking&chain=mars-1&validator_address=marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd&step_id=2",
       "restake": {
@@ -456,8 +455,7 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "relayer_accounts": [
-        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm",
-        "persistence1yghndrffay859ma2ue4pa2cltw640vta24973e"
+        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
       ],
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2",
       "rpc": [
@@ -483,8 +481,7 @@
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
-        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw",
-        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v"
+        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
       "restake": {
