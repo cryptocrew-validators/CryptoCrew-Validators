@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 starsd version: `v13.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13368756.tar.lz4)** | Mon Apr 29 2024 04:52:01 UTC | `stargaze-1` | 4.3G | 13368756 | `cd0d5136709332be50949ce9ba06aac28f86307f8af998c31bb8b67341cdc090` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13354032.tar.lz4)** | Sun Apr 28 2024 04:53:42 UTC | `stargaze-1` | 4.3G | 13354032 | `a40ac70f3e9ac0b8259b5648b5eedc012ac31f89e78f377a794a512966bb2845` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13339334.tar.lz4)** | Sat Apr 27 2024 04:52:03 UTC | `stargaze-1` | 4.4G | 13339334 | `063f32bbd4c677cc6d5575ea7214b0f0c2a3a0d090d0ff19ff673abcaa13dd98` |
 
 ---
 
@@ -12,7 +12,7 @@ starsd version: `v13.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13354032.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13368756.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13354032.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_13368756.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
