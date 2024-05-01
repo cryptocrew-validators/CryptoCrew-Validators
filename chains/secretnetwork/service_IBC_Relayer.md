@@ -19,6 +19,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | secret-4 | dymension_1100-1 | transfer | channel-130 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | secret-4 | injective-1 | transfer | channel-23 |
+| secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
