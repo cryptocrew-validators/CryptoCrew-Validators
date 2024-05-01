@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 204 | Reliable and scalable public RPC - powered by Lava | Thu May 02 2024 12:09:53 UTC | 🤷‍♂️ ABSTAIN |
+| 204 | Reliable and scalable public RPC - powered by Lava | Thu May 02 2024 12:09:53 UTC | ⏳ NOT VOTED |
 
 ---
 
