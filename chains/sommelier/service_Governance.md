@@ -2,10 +2,10 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 154 | [SIPS-140] Incentives Proposal for Real Yield ETH Arbitrum | Fri May 03 2024 04:44:30 UTC | ⏳ NOT VOTED |
-| 155 | [SIPS-142] Real Yield ETH Cellar Incentives | Fri May 03 2024 04:49:33 UTC | ⏳ NOT VOTED |
-| 156 | [SIPS-143] Real Yield BTC Cellar Incentives | Fri May 03 2024 04:51:37 UTC | ⏳ NOT VOTED |
-| 157 | [SIPS-144] Incentives Proposal for Real Yield ETH Optimism | Fri May 03 2024 04:54:12 UTC | ⏳ NOT VOTED |
+| 154 | [SIPS-140] Incentives Proposal for Real Yield ETH Arbitrum | Fri May 03 2024 04:44:30 UTC | ABSTAIN |
+| 155 | [SIPS-142] Real Yield ETH Cellar Incentives | Fri May 03 2024 04:49:33 UTC | ABSTAIN |
+| 156 | [SIPS-143] Real Yield BTC Cellar Incentives | Fri May 03 2024 04:51:37 UTC | ABSTAIN |
+| 157 | [SIPS-144] Incentives Proposal for Real Yield ETH Optimism | Fri May 03 2024 04:54:12 UTC | ABSTAIN |
 
 ---
 
