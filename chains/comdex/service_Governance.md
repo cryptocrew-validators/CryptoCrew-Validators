@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 231 | Proposal to add liquidity mining incentives to cSwap pools - Revamped Reward Distribution : Phase 9 | Sat May 04 2024 11:08:31 UTC | ⏳ NOT VOTED |
+| 231 | Proposal to add liquidity mining incentives to cSwap pools - Revamped Reward Distribution : Phase 9 | Sat May 04 2024 11:08:31 UTC | ABSTAIN |
 
 ---
 
