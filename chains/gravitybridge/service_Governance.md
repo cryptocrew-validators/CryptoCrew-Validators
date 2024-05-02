@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 229 | Add AQLA Metadata to Gravity Bridge | Fri May 03 2024 16:53:41 UTC | ❌ NO |
+| 229 | Add AQLA Metadata to Gravity Bridge | Fri May 03 2024 16:53:41 UTC | ⏳ NOT VOTED |
 
 ---
 
