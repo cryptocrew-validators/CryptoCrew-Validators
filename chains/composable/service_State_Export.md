@@ -5,7 +5,7 @@ CryptoCrew provides automatic daily state exports for all chains we validate. St
 **Download: [centauri-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/composable/centauri-1_export_0.json)**
 ---
 
-- last updated: Wed May 01 2024 23:43:11
+- last updated: Fri May 03 2024 23:42:30
 - chain id: `centauri-1`
 - export height: `0`
 - use for: airdrops, local tests, chain recovery
