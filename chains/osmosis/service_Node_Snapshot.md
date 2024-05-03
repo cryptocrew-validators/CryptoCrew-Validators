@@ -4,7 +4,7 @@ osmosisd version: `v24.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15395384.tar.lz4)** | Thu May 02 2024 13:03:31 UTC | `osmosis-1` | 22G | 15395384 | `503d9334e4f2c671202c87a11bacc7e26abd1d0775905320fcee19c3f52ca622` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15341844.tar.lz4)** | Tue Apr 30 2024 13:04:31 UTC | `osmosis-1` | 20G | 15341844 | `75c7979972063b0fde0f43f242259b421608e723c44d2e3c056a9f6725c9e439` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15363001.tar.lz4)** | Fri May 03 2024 08:32:52 UTC | `osmosis-1` | 10G | 15363001 | `00ccd2e1c1bb5eb7a535f1c3a6cf9416b9d8a598ed351f9176b25fb785661cfb` |
 
 ---
 
@@ -12,7 +12,7 @@ osmosisd version: `v24.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15395384.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15363001.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15395384.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_15363001.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
