@@ -16,6 +16,6 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | phoenix-1 | kaiyo-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-28 |
-| neutron-1 | phoenix-1 | wasm.neutron1vt603k95yqramk98wj6sdmx9k9tzwe3w6jpjcu7ddvg7sx3j5jhq7lk5d8 | channel-4266 |
 | migaloo-1 | phoenix-1 | transfer | channel-2 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
+| neutron-1 | phoenix-1 | wasm.neutron1vt603k95yqramk98wj6sdmx9k9tzwe3w6jpjcu7ddvg7sx3j5jhq7lk5d8 | channel-4266 |
