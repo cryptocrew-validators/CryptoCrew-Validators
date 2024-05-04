@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 15 | AMM Incentive #3 | Mon May 06 2024 17:50:41 UTC | ABSTAIN |
+| 15 | AMM Incentive #3 | Mon May 06 2024 17:50:41 UTC | ⏳ NOT VOTED |
 
 ---
 
