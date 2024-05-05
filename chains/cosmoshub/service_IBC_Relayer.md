@@ -20,6 +20,7 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -47,4 +48,3 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
