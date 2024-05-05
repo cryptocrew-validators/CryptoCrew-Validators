@@ -31,4 +31,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
