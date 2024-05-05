@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/comdex/genesis.json)**
 ---
 
-- last updated: Sat May 04 2024 12:02:47
+- last updated: Sun May 05 2024 12:42:13
 - chain id: `comdex-1`
 
 ## Instructions
