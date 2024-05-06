@@ -5,7 +5,7 @@
 | 311 | Replace Terra Classic IBC Client 07-tendermint-0 with 07-tendermint-133 | Wed May 08 2024 03:58:55 UTC | ⏳ NOT VOTED |
 | 312 | Replace Terra Classic IBC Client 07-tendermint-0 with 07-tendermint-133 | Wed May 08 2024 14:51:49 UTC | ABSTAIN |
 | 313 | Replace Terra Classic IBC Client 07-tendermint-0 with 07-tendermint-133 | Wed May 08 2024 14:52:44 UTC | ABSTAIN |
-| 314 | UST $1 Next Week | Wed May 08 2024 14:56:00 UTC | ABSTAIN |
+| 314 | UST $1 Next Week | Wed May 08 2024 14:56:00 UTC | ⏳ NOT VOTED |
 
 ---
 
