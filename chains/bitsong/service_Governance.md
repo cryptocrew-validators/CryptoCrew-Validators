@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 35 | Funding BTSG/ARCH Pool on Astrovault DEX | Tue May 14 2024 08:36:49 UTC | ⏳ NOT VOTED |
+| 35 | Funding BTSG/ARCH Pool on Astrovault DEX | Tue May 14 2024 08:36:49 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
