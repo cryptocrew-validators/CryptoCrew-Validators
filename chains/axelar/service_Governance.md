@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 206 | Interlinked DAO Ecosystem X Proposal | Fri May 10 2024 14:55:36 UTC | ⏳ NOT VOTED |
+| 206 | Interlinked DAO Ecosystem X Proposal | Fri May 10 2024 14:55:36 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
