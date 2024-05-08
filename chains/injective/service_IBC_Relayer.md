@@ -23,7 +23,6 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | injective-1 | evmos_9001-2 | transfer | channel-83 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
-| injective-1 | kava_2222-10 | transfer | channel-143 |
 | canto_7700-1 | injective-1 | transfer | channel-8 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
@@ -32,4 +31,3 @@ inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 | secret-4 | injective-1 | transfer | channel-23 |
 | core-1 | injective-1 | transfer | channel-41 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
