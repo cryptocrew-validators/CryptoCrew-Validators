@@ -35,4 +35,3 @@ evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt
 | kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-23 |
 | stargaze-1 | evmos_9001-2 | transfer | channel-46 |
-| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
