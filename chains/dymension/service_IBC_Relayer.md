@@ -13,4 +13,5 @@ dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n
 ### Active IBC channels `dymension`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
 | secret-4 | dymension_1100-1 | transfer | channel-130 |
