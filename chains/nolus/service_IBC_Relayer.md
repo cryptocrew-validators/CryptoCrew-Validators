@@ -14,5 +14,4 @@ nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | pirin-1 | neutron-1 | transfer | channel-3839 |
-| neutron-1 | pirin-1 | icahost | channel-3221 |
 | neutron-1 | pirin-1 | transfer | channel-44 |
