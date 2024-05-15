@@ -16,8 +16,7 @@ kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
-| kava_2222-10 | pacific-1 | transfer | channel-132 |
+| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
-| evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
+| dymension_1100-1 | kava_2222-10 | transfer | channel-3 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |

@@ -16,3 +16,4 @@ nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac
 | --------------- | --------------- | ------------ | ------------------- |
 | pirin-1 | osmosis-1 | transfer | channel-0 |
 | pirin-1 | neutron-1 | transfer | channel-3839 |
+| osmosis-1 | pirin-1 | transfer | channel-783 |
