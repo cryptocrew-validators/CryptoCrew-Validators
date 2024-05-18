@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [dydx-mainnet-1 state export](https://dl-tyo.ccvalidators.com/SERVICE/dydx/dydx-mainnet-1_export_15805285.json)**
+**Download: [dydx-mainnet-1 state export](https://dl-tyo.ccvalidators.com/SERVICE/dydx/dydx-mainnet-1_export_15895584.json)**
 ---
 
-- last updated: Fri May 17 2024 09:13:42
+- last updated: Sat May 18 2024 09:13:40
 - chain id: `dydx-mainnet-1`
-- export height: `15805285`
+- export height: `15895584`
 - use for: airdrops, local tests, chain recovery
