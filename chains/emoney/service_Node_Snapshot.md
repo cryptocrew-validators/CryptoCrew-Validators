@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 emd version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3165528.tar.lz4)** | Sun May 19 2024 13:18:07 UTC | `emoney-3` | 323M | 3165528 | `522497b80e94cd54b93f1b720a24bd2163a7a9a2e6b73905e600252a1f69e1c2` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3159949.tar.lz4)** | Fri May 17 2024 13:18:08 UTC | `emoney-3` | 328M | 3159949 | `42bf3cc64416c5d2086014f9fc6d9c5fe0bf5179047c8753a1ff42a8308b4a43` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3154099.tar.lz4)** | Wed May 15 2024 11:17:30 UTC | `emoney-3` | 79M | 3154099 | `3aa76b6b88483f86dd75b605e45fde6baf621704fe9dbed28b11e4b9712b7e90` |
 
 ---
 
@@ -12,7 +12,7 @@ emd version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3159949.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3165528.tar.lz4"
 cd $HOME/.emd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3159949.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/emoney/emoney-3_3165528.tar.lz4"
 cd $HOME/.emd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
