@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 270 | Lottery Game Smart Contract | Thu May 23 2024 17:18:55 UTC | ⏳ NOT VOTED |
+| 270 | Lottery Game Smart Contract | Thu May 23 2024 17:18:55 UTC | ABSTAIN |
 
 ---
 
