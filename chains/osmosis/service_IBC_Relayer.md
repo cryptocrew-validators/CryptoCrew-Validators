@@ -51,7 +51,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | quasar-1 | transfer | channel-688 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -80,4 +80,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | pirin-1 | osmosis-1 | transfer | channel-0 |
 | quasar-1 | osmosis-1 | transfer | channel-1 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
