@@ -74,7 +74,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
