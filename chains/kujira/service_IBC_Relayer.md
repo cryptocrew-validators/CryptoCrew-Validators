@@ -7,15 +7,14 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
+kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 ```
 
 ### Active IBC channels `kujira`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| kaiyo-1 | neutron-1 | transfer | channel-75 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | juno-1 | transfer | channel-1 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
@@ -27,9 +26,9 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| kaiyo-1 | neutron-1 | transfer | channel-75 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | secret-4 | transfer | channel-44 |
-| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
@@ -40,6 +39,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
+| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
