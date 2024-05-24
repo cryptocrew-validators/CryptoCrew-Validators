@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 16 | Lock staking rewards for locked up accounts | Fri May 24 2024 19:44:51 UTC | ABSTAIN |
+| 16 | Lock staking rewards for locked up accounts | Fri May 24 2024 19:44:51 UTC | ⏳ NOT VOTED |
 
 ---
 
