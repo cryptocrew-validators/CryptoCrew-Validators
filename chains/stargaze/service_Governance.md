@@ -2,7 +2,7 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 271 | Signaling Prop: Upload Pre-Mint Auction Contract | Fri May 24 2024 21:11:22 UTC | ⏳ NOT VOTED |
+| 271 | Signaling Prop: Upload Pre-Mint Auction Contract | Fri May 24 2024 21:11:22 UTC | ABSTAIN |
 
 ---
 
