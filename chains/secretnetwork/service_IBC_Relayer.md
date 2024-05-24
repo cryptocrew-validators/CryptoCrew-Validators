@@ -24,5 +24,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | secret-4 | transfer | channel-44 |
+| migaloo-1 | secret-4 | transfer | channel-4 |
 | osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
+| phoenix-1 | secret-4 | transfer | channel-3 |
