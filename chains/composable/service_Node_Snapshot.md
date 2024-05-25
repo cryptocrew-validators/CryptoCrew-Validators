@@ -3,7 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 centaurid version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_0.tar.lz4)** | Thu May 23 2024 23:40:09 UTC | `centauri-1` | 1.0G | 0 | `5d5d8fd1f6b99403e02cf8895c48d6fec7583847cf80f7c65295096d0c7ecc28` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/composable/centauri-1_0.tar.lz4)** | Sat May 25 2024 23:40:11 UTC | `centauri-1` | 654M | 0 | `7e81da4a1ae19c76305db02b6614d02d4997b9a9b17d868e9de123f24095c96d` |
 
 ---
 
