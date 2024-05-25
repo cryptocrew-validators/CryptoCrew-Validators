@@ -23,6 +23,7 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | celestia | transfer | channel-152 |
+| neutron-1 | injective-1 | transfer | channel-60 |
 | kava_2222-10 | injective-1 | transfer | channel-122 |
 | canto_7700-1 | injective-1 | transfer | channel-8 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
