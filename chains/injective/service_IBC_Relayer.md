@@ -32,4 +32,3 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | core-1 | injective-1 | transfer | channel-41 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | neutron-1 | injective-1 | transfer | channel-60 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
