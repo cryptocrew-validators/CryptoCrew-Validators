@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/mars/addrbook.json)**
 ---
 
-- last updated: Mon May 27 2024 18:37:28
+- last updated: Tue May 28 2024 13:22:28
 - chain id: `mars-1`
-- available peers: 996
-- total peers (network scan): 996
+- available peers: 250
+- total peers (network scan): 1020
 
 ## Instructions
 ```sh
