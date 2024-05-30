@@ -14,4 +14,3 @@ dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
-| secret-4 | dymension_1100-1 | transfer | channel-130 |

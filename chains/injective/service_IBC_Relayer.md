@@ -17,11 +17,6 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
-| injective-1 | cosmoshub-4 | transfer | channel-1 |
-| injective-1 | migaloo-1 | transfer | channel-102 |
-| injective-1 | osmosis-1 | transfer | channel-8 |
-| injective-1 | evmos_9001-2 | transfer | channel-83 |
-| injective-1 | kaiyo-1 | transfer | channel-98 |
 | injective-1 | celestia | transfer | channel-152 |
 | core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -29,7 +24,3 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | kava_2222-10 | injective-1 | transfer | channel-122 |
-| canto_7700-1 | injective-1 | transfer | channel-8 |
-| migaloo-1 | injective-1 | transfer | channel-3 |
-| phoenix-1 | injective-1 | wasm.terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce | channel-91 |
-| secret-4 | injective-1 | transfer | channel-23 |
