@@ -18,9 +18,9 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | injective-1 | celestia | transfer | channel-152 |
+| kava_2222-10 | injective-1 | transfer | channel-122 |
 | core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
