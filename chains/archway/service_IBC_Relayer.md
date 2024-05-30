@@ -14,3 +14,4 @@ archway1yghndrffay859ma2ue4pa2cltw640vta3jlf42
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | archway-1 | neutron-1 | transfer | channel-61 |
+| neutron-1 | archway-1 | transfer | channel-41 |
