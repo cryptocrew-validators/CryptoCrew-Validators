@@ -8,7 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
-juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 ```
 
 ### Active IBC channels `juno`:
