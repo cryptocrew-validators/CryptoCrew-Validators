@@ -16,4 +16,4 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
+| migaloo-1 | phoenix-1 | transfer | channel-2 |

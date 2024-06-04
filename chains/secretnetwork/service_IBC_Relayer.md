@@ -14,6 +14,10 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 ### Active IBC channels `secretnetwork`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
+| secret-4 | migaloo-1 | transfer | channel-57 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
+| cosmoshub-4 | secret-4 | transfer | channel-235 |
+| migaloo-1 | secret-4 | transfer | channel-4 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
