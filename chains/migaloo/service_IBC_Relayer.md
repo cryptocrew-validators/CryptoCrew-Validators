@@ -14,4 +14,3 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
-| phoenix-1 | migaloo-1 | transfer | channel-86 |
