@@ -13,4 +13,6 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 ### Active IBC channels `migaloo`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| migaloo-1 | phoenix-1 | transfer | channel-0 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
+| phoenix-1 | migaloo-1 | transfer | channel-86 |
