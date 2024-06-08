@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 empowerd version: `v2.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5309589.tar.lz4)** | Thu Jun 06 2024 10:32:19 UTC | `empowerchain-1` | 563M | 5309589 | `1276f259462e3ae8d9de9e7ef70f43d15f1eab6706ecfced68ee08228791471d` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5288876.tar.lz4)** | Wed Jun 05 2024 02:18:29 UTC | `empowerchain-1` | 603M | 5288876 | `f011ca52c0c60b2455f23df1b85e35a631653452fbe510784dac9627c1cad26f` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5340511.tar.lz4)** | Sat Jun 08 2024 10:32:19 UTC | `empowerchain-1` | 717M | 5340511 | `5c18ee0a846fd7bd09400333b8956f1fe6beea1e581122877a09fcca60dfe15d` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5319718.tar.lz4)** | Fri Jun 07 2024 02:18:25 UTC | `empowerchain-1` | 576M | 5319718 | `3d295886bc7cf2e3b613243d54dd3241317743bbd4ca0ca32ebf215684d45668` |
 
 ---
 
@@ -12,7 +12,7 @@ empowerd version: `v2.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5309589.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5340511.tar.lz4"
 cd $HOME/.empowerchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5309589.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/empowerchain/empowerchain-1_5340511.tar.lz4"
 cd $HOME/.empowerchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
