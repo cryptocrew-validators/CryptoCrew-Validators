@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
-kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 ```
 
 ### Active IBC channels `kujira`:
@@ -27,7 +26,6 @@ kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 | kaiyo-1 | juno-1 | transfer | channel-31 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
-| kaiyo-1 | neutron-1 | transfer | channel-75 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
@@ -39,4 +37,3 @@ kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
-| neutron-1 | kaiyo-1 | transfer | channel-3 |
