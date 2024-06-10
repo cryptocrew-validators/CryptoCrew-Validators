@@ -16,6 +16,9 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | --------------- | --------------- | ------------ | ------------------- |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
+| secret-4 | kaiyo-1 | transfer | channel-22 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
+| comdex-1 | secret-4 | transfer | channel-65 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
+| kaiyo-1 | secret-4 | transfer | channel-10 |
 | osmosis-1 | secret-4 | transfer | channel-88 |

@@ -14,6 +14,7 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 ### Active IBC channels `comdex`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| comdex-1 | secret-4 | transfer | channel-65 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | comdex-1 | juno-1 | transfer | channel-18 |
 | comdex-1 | gravity-bridge-3 | transfer | channel-23 |
