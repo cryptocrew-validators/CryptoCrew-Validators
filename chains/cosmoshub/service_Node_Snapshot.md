@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gaiad version: `v17.2.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20804197.tar.lz4)** | Mon Jun 10 2024 11:00:41 UTC | `cosmoshub-4` | 14G | 20804197 | `373611d74ca0577524092d323091968c4938b668312bf3a9eb14acc4a36ee2f4` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20789880.tar.lz4)** | Sun Jun 09 2024 10:55:00 UTC | `cosmoshub-4` | 14G | 20789880 | `dfaa34f37f1abb29350ad51715ed4fdb00716bd88f3b4bc5dad713f606885d5e` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20775561.tar.lz4)** | Sat Jun 08 2024 11:01:08 UTC | `cosmoshub-4` | 14G | 20775561 | `a32db1d69ff264dd4eeef3aa82dfafeb9e174b7bde0070b01db139848c7e64d5` |
 
 ---
 
@@ -12,7 +12,7 @@ gaiad version: `v17.2.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20789880.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20804197.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20789880.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_20804197.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
