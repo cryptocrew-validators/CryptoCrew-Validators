@@ -215,6 +215,7 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
+        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
@@ -398,7 +399,6 @@
       "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
       "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
       "relayer_accounts": [
-        "mars1yghndrffay859ma2ue4pa2cltw640vtaey652x",
         "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh"
       ],
       "stake_link": "https://wallet.keplr.app/chains/mars-hub?modal=staking&chain=mars-1&validator_address=marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd&step_id=2",
