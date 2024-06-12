@@ -7,6 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+inj1t6652af4jvlahqrklleg8rac3ufpmeajgeugnd
 inj14nhzw3lnsdkeq5clzqms586mxrf2x74y6skne0
 inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 ```
@@ -14,7 +15,9 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| injective-1 | neutron-1 | transfer | channel-177 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
+| neutron-1 | injective-1 | transfer | channel-60 |
 | kava_2222-10 | injective-1 | transfer | channel-122 |
 | core-1 | injective-1 | transfer | channel-41 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
