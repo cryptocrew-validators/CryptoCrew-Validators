@@ -13,5 +13,4 @@ centauri1yghndrffay859ma2ue4pa2cltw640vtaqnw3mw
 ### Active IBC channels `composable`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| centauri-1 | neutron-1 | transfer | channel-18 |
 | neutron-1 | centauri-1 | transfer | channel-17 |
