@@ -15,5 +15,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | secret-4 | osmosis-1 | transfer | channel-1 |
+| secret-4 | kaiyo-1 | transfer | channel-22 |
 | chihuahua-1 | secret-4 | transfer | channel-16 |
+| kaiyo-1 | secret-4 | transfer | channel-10 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
