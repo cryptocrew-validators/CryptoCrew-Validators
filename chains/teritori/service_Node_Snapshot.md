@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 teritorid version: `v2.0.6`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9249042.tar.lz4)** | Sat Jun 15 2024 23:57:50 UTC | `teritori-1` | 953M | 9249042 | `5e7e46def254d2636dccff87eebc978f803de53bfa5e7c5bf0f670cb430ef536` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9235124.tar.lz4)** | Sat Jun 15 2024 01:39:58 UTC | `teritori-1` | 1.1G | 9235124 | `c41b3bdc924623eedd8f15f60e4c3e109253ca346b41d19717998d76fe26cab6` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9278897.tar.lz4)** | Mon Jun 17 2024 23:50:48 UTC | `teritori-1` | 944M | 9278897 | `d770dd1320c6e1cea9b874ccd288efa7a9cca5adeaea87f43a420f90b4d05649` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9263935.tar.lz4)** | Sun Jun 16 2024 23:52:10 UTC | `teritori-1` | 948M | 9263935 | `7991dd2c9bc6a2d279b7259e747e6b5bc299766ae7e9d164a4d3e0bbfed696a0` |
 
 ---
 
@@ -12,7 +12,7 @@ teritorid version: `v2.0.6`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9249042.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9278897.tar.lz4"
 cd $HOME/.teritorid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9249042.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/teritori/teritori-1_9278897.tar.lz4"
 cd $HOME/.teritorid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
