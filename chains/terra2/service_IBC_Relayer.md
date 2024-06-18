@@ -13,7 +13,8 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 ### Active IBC channels `terra2`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| phoenix-1 | osmosis-1 | transfer | channel-1 |
+| phoenix-1 | osmosis-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-26 |
 | phoenix-1 | migaloo-1 | transfer | channel-86 |
+| kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
