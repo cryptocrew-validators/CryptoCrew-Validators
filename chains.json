@@ -13,14 +13,14 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl",
         "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
         "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02",
         "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy",
         "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
-        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq",
-        "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl"
+        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2",
       "restake": {
@@ -48,8 +48,8 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
-        "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
         "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
+        "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
         "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
         "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
@@ -268,8 +268,8 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
-        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
-        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594"
+        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
+        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
@@ -301,10 +301,10 @@
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
       "relayer_accounts": [
+        "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt",
         "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j",
         "evmos1jd7me7u2hew8cr8422m9yvgldhpv70l0qn3gfu",
-        "evmos1qz5humuak45aj67hmy4at5hykfsvc8453dxyl7",
-        "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
+        "evmos1qz5humuak45aj67hmy4at5hykfsvc8453dxyl7"
       ],
       "stake_link": "https://wallet.keplr.app/chains/evmos?modal=staking&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0&step_id=2",
       "restake": {
@@ -479,9 +479,9 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
+        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw",
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
-        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
-        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
       "restake": {
@@ -557,8 +557,8 @@
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "operator_account": "chihuahua166ks8xvs36m0ggyxwavv7rj4d9nqwthgnrgrrm",
       "relayer_accounts": [
-        "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7",
-        "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa"
+        "chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa",
+        "chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7"
       ],
       "stake_link": "https://wallet.keplr.app/chains/chihuahua?modal=staking&chain=chihuahua-1&validator_address=chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8&step_id=2",
       "rpc": [],
