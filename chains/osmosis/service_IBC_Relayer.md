@@ -22,6 +22,7 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
@@ -43,8 +44,8 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -70,7 +71,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | phoenix-1 | osmosis-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-26 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
