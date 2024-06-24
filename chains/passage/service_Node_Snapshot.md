@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 passage version: `v2.4.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/passage/passage-2_8883700.tar.lz4)** | Mon Jun 24 2024 07:17:36 UTC | `passage-2` | 377M | 8883700 | `dd1d74643255076c5ccda8dc0d32056c20060cabbce2e61c6ffd396f23044871` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/passage/passage-2_8823618.tar.lz4)** | Thu Jun 20 2024 05:39:32 UTC | `passage-2` | 349M | 8823618 | `e3fc726b3028ccbb928513fc8c88c1701a8a7bb1a81cd37102eee7d65ea21f5d` |
 
 ---
@@ -11,7 +12,7 @@ passage version: `v2.4.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/passage/passage-2_8867812.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/passage/passage-2_8883700.tar.lz4"
 cd $HOME/.passage
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -27,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/passage/passage-2_8867812.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/passage/passage-2_8883700.tar.lz4"
 cd $HOME/.passage
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
