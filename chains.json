@@ -13,6 +13,7 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
         "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02",
@@ -44,10 +45,6 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
-        "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
-        "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
-        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
         "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
@@ -256,8 +253,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
-        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
-        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh"
+        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
@@ -464,6 +460,7 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
+        "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw",
         "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
