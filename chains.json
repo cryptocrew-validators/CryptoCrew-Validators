@@ -13,6 +13,8 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
+        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq",
         "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2",
@@ -152,8 +154,7 @@
       "address": "dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
       "relayer_accounts": [
-        "dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w",
-        "dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n"
+        "dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau&step_id=2",
       "rpc": [],
