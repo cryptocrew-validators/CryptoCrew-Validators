@@ -20,4 +20,3 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kaiyo-1 | injective-1 | transfer | channel-54 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| neutron-1 | injective-1 | transfer | channel-60 |
