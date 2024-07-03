@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 junod version: `v22.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17645682.tar.lz4)** | Wed Jul 03 2024 11:33:39 UTC | `juno-1` | 8.8G | 17645682 | `3ca732fe6e479cdc83d37dff3ac02053cd35b6d8db748d2b56dea04e94d8effb` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17594851.tar.lz4)** | Mon Jul 01 2024 11:35:23 UTC | `juno-1` | 8.8G | 17594851 | `7dba3ef0d244a22f68ad4971848834f6cf4424d3544857efc4d5ae532b3d6498` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17544012.tar.lz4)** | Sat Jun 29 2024 11:33:52 UTC | `juno-1` | 10G | 17544012 | `d9905e018a3c783a91fb626d422c6a026e2c92d869ef4d68176b35d094852e01` |
 
 ---
 
@@ -12,7 +12,7 @@ junod version: `v22.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17594851.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17645682.tar.lz4"
 cd $HOME/.juno
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17594851.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_17645682.tar.lz4"
 cd $HOME/.juno
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
