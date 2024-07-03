@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-quicksilverd version: `v1.5.6`
+quicksilverd version: `v1.6.1-hf`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8002007.tar.lz4)** | Mon Jul 01 2024 11:41:31 UTC | `quicksilver-2` | 1.9G | 8002007 | `e68dd07feba0c92682fa9828534d8504cba0065b5f03d76147871e8ace3d7ccb` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_7987208.tar.lz4)** | Sun Jun 30 2024 11:42:03 UTC | `quicksilver-2` | 2.0G | 7987208 | `337e719a5fca888ba32ad0a2bb559d99ab1947ee0f91e4110982480f83caa65a` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8030446.tar.lz4)** | Wed Jul 03 2024 11:41:29 UTC | `quicksilver-2` | 2.0G | 8030446 | `c5979613d8a733fa3cfd9eff21c316bd567ec94d0d458849f4e57bd2a7baa0da` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8015628.tar.lz4)** | Tue Jul 02 2024 11:42:04 UTC | `quicksilver-2` | 2.0G | 8015628 | `aa0813330f0f9e7635b0d41518886084984b966972ec0a6b8a242fe8a9727106` |
 
 ---
 
@@ -12,7 +12,7 @@ quicksilverd version: `v1.5.6`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8002007.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8030446.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8002007.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_8030446.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
