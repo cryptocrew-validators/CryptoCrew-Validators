@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dydxprotocold version: `v5.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19540161.tar.lz4)** | Wed Jul 03 2024 09:15:04 UTC | `dydx-mainnet-1` | 18G | 19540161 | `a1f0dbfbe83f5299e892adfd09eac2f5fbaef4acbdceddcf37b114c929ef9d8e` |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19460661.tar.lz4)** | Tue Jul 02 2024 09:13:52 UTC | `dydx-mainnet-1` | 18G | 19460661 | `3977076da03c641b76c93aa9f9f32ea03b9a1b20b62122472816b98f371176a1` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19694708.tar.lz4)** | Fri Jul 05 2024 09:15:44 UTC | `dydx-mainnet-1` | 20G | 19694708 | `5a4340da345c4f1b7b643f49a1b513a80b2f0209b1236492514ae5764783f304` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19618036.tar.lz4)** | Thu Jul 04 2024 09:14:11 UTC | `dydx-mainnet-1` | 19G | 19618036 | `1389d3ce50b7fa607d190b87b3f2c84375440b4a32df1d69a027b8ef1dd11dad` |
 
 ---
 
@@ -12,7 +12,7 @@ dydxprotocold version: `v5.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19540161.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19694708.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19540161.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_19694708.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
