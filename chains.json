@@ -46,9 +46,7 @@
       "relayer_accounts": [
         "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
         "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
-        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
+        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -130,6 +128,9 @@
       "address": "celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls",
       "operator_account": "celestia138jl42zlxue4wpvnugcdqhxjmyd2vpt69gjdfk",
       "relayer_accounts": [
+        "celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da",
+        "celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac",
+        "celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d",
         "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
         "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
       ],
@@ -383,7 +384,7 @@
       "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
       "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
       "relayer_accounts": [
-        "mars1yghndrffay859ma2ue4pa2cltw640vtaey652x"
+        "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh"
       ],
       "stake_link": "https://wallet.keplr.app/chains/mars-hub?modal=staking&chain=mars-1&validator_address=marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd&step_id=2",
       "restake": {
