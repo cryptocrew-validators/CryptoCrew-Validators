@@ -35,6 +35,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
