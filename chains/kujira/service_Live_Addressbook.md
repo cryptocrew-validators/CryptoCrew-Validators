@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/kujira/addrbook.json)**
 ---
 
-- last updated: Wed Jul 10 2024 11:52:54
+- last updated: Fri Jul 12 2024 11:41:59
 - chain id: `kaiyo-1`
-- available peers: 282
-- total peers (network scan): 482
+- available peers: 428
+- total peers (network scan): 428
 
 ## Instructions
 ```sh
