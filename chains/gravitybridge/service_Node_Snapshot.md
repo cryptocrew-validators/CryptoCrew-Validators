@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gravity version: `v1.11.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12607624.tar.lz4)** | Sun Jul 14 2024 16:19:26 UTC | `gravity-bridge-3` | 854M | 12607624 | `17fd3ca2f8dc9be0e307927748494db189da8498ce99a897db37b03cab6dae35` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12590756.tar.lz4)** | Sat Jul 13 2024 11:52:17 UTC | `gravity-bridge-3` | 805M | 12590756 | `911083464e3ff1bc0396374f6340c2b34fef4e73eab05f7d77ede6770d417df5` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12636061.tar.lz4)** | Tue Jul 16 2024 16:16:49 UTC | `gravity-bridge-3` | 836M | 12636061 | `c11fbfa3d6877e2edbee078056eb3e3048d844eb1f42f8feeef3c59610854200` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12619269.tar.lz4)** | Mon Jul 15 2024 11:56:59 UTC | `gravity-bridge-3` | 856M | 12619269 | `07420cbe33cf2c09de967402e7144ff6eca9ad50955f2e6dafa5908d18af3b9a` |
 
 ---
 
@@ -12,7 +12,7 @@ gravity version: `v1.11.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12607624.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12636061.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12607624.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_12636061.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
