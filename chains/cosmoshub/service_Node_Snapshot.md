@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-gaiad version: `v17.3.0`
+gaiad version: `v18.1.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21342368.tar.lz4)** | Thu Jul 18 2024 11:02:03 UTC | `cosmoshub-4` | 16G | 21342368 | `fa2a079d3549f6519b5ee6af9ff1340daf8c83e52989d9df8d342012994c5aec` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21328397.tar.lz4)** | Wed Jul 17 2024 10:56:15 UTC | `cosmoshub-4` | 16G | 21328397 | `67db97c8d65b3855c7abc0423ac3caa8953230cf1924f53adccdb4bf98293990` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21314162.tar.lz4)** | Tue Jul 16 2024 11:01:09 UTC | `cosmoshub-4` | 16G | 21314162 | `fb99477318aeac0a323477ecb06ebf1f9aacb3a0adb49e47f824ad43a6f8364e` |
 
 ---
 
@@ -12,10 +12,10 @@ gaiad version: `v17.3.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21328397.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21342368.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
-rm -rf data
+rm -rf data wasm
 wget $URL
 wget $URL.sha256
 echo $(cat $(basename $URL.sha256)) $(basename $URL) | sha256sum --check
@@ -28,16 +28,23 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21328397.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_21342368.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
-rm -rf data
+rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
 
-
+### Optional: Download `wasm` folder only
+In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
+```sh
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_wasm.tar.lz4"
+cd $HOME/.gaia
+rm -rf wasm
+wget -O - $URL | lz4 -d | tar -xvf -
+```
 
 
 
