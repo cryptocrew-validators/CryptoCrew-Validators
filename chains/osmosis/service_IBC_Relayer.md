@@ -7,12 +7,15 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
@@ -23,10 +26,9 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | core-1 | transfer | channel-4 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
-| comdex-1 | osmosis-1 | transfer | channel-1 |
 | core-1 | osmosis-1 | transfer | channel-6 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | gravity-bridge-3 | osmosis-1 | transfer | channel-10 |
