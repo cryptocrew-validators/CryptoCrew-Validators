@@ -97,10 +97,7 @@
       "decimals": "18",
       "address": "dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
       "operator_account": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
-      "relayer_accounts": [
-        "dydx12aeyaxq699k3f4d3733dl5pstw0ulplknv83km",
-        "dydx18hx3fcqrvynx9vvpvyv5qym82xz4suw5elaklh"
-      ],
+      "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/dydx?modal=staking&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn&step_id=2",
       "rpc": [
         "https://dydx-rpc.lavenderfive.com:443"
@@ -355,10 +352,7 @@
       "decimals": "6",
       "address": "agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj",
       "operator_account": "agoric1s8kfsaa8g45ucwkkthl9ccagmecmj4uxaye72n",
-      "relayer_accounts": [
-        "agoric12aeyaxq699k3f4d3733dl5pstw0ulplkggt2x6",
-        "agoric18hx3fcqrvynx9vvpvyv5qym82xz4suw5zm3d0k"
-      ],
+      "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/agoric?modal=staking&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj&step_id=2",
       "rpc": [],
       "rest": [],
@@ -376,10 +370,7 @@
       "decimals": "6",
       "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
       "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
-      "relayer_accounts": [
-        "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh",
-        "mars1yghndrffay859ma2ue4pa2cltw640vtaey652x"
-      ],
+      "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/mars-hub?modal=staking&chain=mars-1&validator_address=marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd&step_id=2",
       "restake": {
         "address": "",
@@ -604,9 +595,7 @@
       "decimals": "6",
       "address": "nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "operator_account": "nolus1nryk8vpd75d2nvld2hej0nfal64qm3wp2mtatv",
-      "relayer_accounts": [
-        "nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f"
-      ],
+      "relayer_accounts": [],
       "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "rpc": [],
       "rest": [],
@@ -662,9 +651,7 @@
       "coingecko_id": "quicksilver",
       "chain_id": "quicksilver-2",
       "trade_url": "https://app.osmosis.zone",
-      "relayer_accounts": [
-        "quick12aeyaxq699k3f4d3733dl5pstw0ulplk33e807"
-      ]
+      "relayer_accounts": []
     },
     {
       "name": "bandchain",
@@ -854,9 +841,7 @@
       "coingecko_id": "teritori",
       "chain_id": "teritori-1",
       "trade_url": "https://frontier.osmosis.zone",
-      "relayer_accounts": [
-        "tori12aeyaxq699k3f4d3733dl5pstw0ulplkcp7udu"
-      ]
+      "relayer_accounts": []
     },
     {
       "name": "lumnetwork",
