@@ -13,6 +13,7 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | core-1 | transfer | channel-190 |
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
@@ -23,6 +24,7 @@ cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
+| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
