@@ -146,9 +146,7 @@
       "decimals": "18",
       "address": "dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
-      "relayer_accounts": [
-        "dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n"
-      ],
+      "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau&step_id=2",
       "rpc": [],
       "rest": [],

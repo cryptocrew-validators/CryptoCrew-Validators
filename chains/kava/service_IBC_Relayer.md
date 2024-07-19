@@ -10,6 +10,11 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
+| kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
 | kava_2222-10 | pacific-1 | transfer | channel-132 |
+| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
+| kava_2222-10 | secret-4 | transfer | channel-148 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| dymension_1100-1 | kava_2222-10 | transfer | channel-3 |
+| evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
