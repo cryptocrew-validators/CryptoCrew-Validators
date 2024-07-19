@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/loyal/addrbook.json)**
 ---
 
-- last updated: Thu Jul 18 2024 04:38:54
+- last updated: Fri Jul 19 2024 04:39:12
 - chain id: `loyal-main-02`
-- available peers: 15
-- total peers (network scan): 177
+- available peers: 119
+- total peers (network scan): 176
 
 ## Instructions
 ```sh
