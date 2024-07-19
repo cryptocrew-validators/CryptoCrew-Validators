@@ -13,7 +13,6 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
-        "cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
         "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02",
@@ -246,7 +245,6 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
-        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594",
         "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
@@ -597,7 +595,9 @@
       "decimals": "6",
       "address": "nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "operator_account": "nolus1nryk8vpd75d2nvld2hej0nfal64qm3wp2mtatv",
-      "relayer_accounts": [],
+      "relayer_accounts": [
+        "nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac"
+      ],
       "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "rpc": [],
       "rest": [],
