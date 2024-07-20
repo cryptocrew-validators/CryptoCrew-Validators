@@ -774,6 +774,24 @@
       ]
     },
     {
+      "name": "akash",
+      "prettyName": "Akash",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/akash/logo_akash.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/akash/logo_akash.png",
+      "symbol": "AKT",
+      "denom": "uakt",
+      "decimals": "6",
+      "address": "akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g",
+      "operator_account": "akash1f9f5eccuuhzdw4uwde92ee40eke9fadhxmvphz",
+      "stake_link": "https://wallet.keplr.app/?tab=staking&modal=validator&chain=akashnet-2&validator_address=akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g&step_id=2",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "akash-network",
+      "chain_id": "akashnet-2",
+      "trade_url": "https://app.osmosis.zone"
+    },
+    {
       "name": "sommelier",
       "prettyName": "Sommelier",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/sommelier/logo_sommelier.svg",
@@ -817,32 +835,6 @@
       "relayer_accounts": [
         "empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw"
       ]
-    },
-    {
-      "name": "teritori",
-      "prettyName": "Teritori",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/teritori/logo_teritori.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/teritori/logo_teritori.png",
-      "symbol": "TORI",
-      "denom": "utori",
-      "decimals": "6",
-      "address": "torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct",
-      "operator_account": "tori1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0ckncg2x",
-      "stake_link": "https://explorer.teritori.com/teritori/staking/torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct",
-      "restake": {
-        "address": "tori1305e92ng6a9pdh3ttc3ld459ckxupxt34cd2ph",
-        "run_time": "every 6 hours",
-        "runs_daily": 24,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/o2Sh5Rbh-2/TORI.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "teritori",
-      "chain_id": "teritori-1",
-      "trade_url": "https://frontier.osmosis.zone",
-      "relayer_accounts": []
     },
     {
       "name": "lumnetwork",
@@ -919,27 +911,6 @@
       "apr": "",
       "coingecko_id": "",
       "chain_id": "perun-1"
-    },
-    {
-      "name": "vidulum",
-      "prettyName": "Vidulum",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/vidulum/logo_vidulum.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/vidulum/logo_vidulum.png",
-      "symbol": "VDL",
-      "denom": "uvdl",
-      "decimals": "6",
-      "address": "vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
-      "operator_account": "vdl1z4me3j5s77q2xl4r5d773lahusxfpmgyhcrfsh",
-      "relayer_accounts": [
-        "vdl1yvejj22t78s2vfk7slty2d7fs5lkc8rnk0p4g6"
-      ],
-      "stake_link": "https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj",
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "vidulum",
-      "chain_id": "vidulum-1",
-      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "odin",
