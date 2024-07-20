@@ -97,13 +97,12 @@ https://ccvalidators.com
 | `Crescent Hub` | `crescent-1` | `crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se` | [delegate CRE](https://restake.app/crescent/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se) |
 | `E-Money` | `emoney-3` | `emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh` | [delegate NGM](https://restake.app/emoney/emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh) |
 | `Nomic Stakenet` | `nomic-stakenet-3` | `nomicvaloper1j30mgmf5hggd8y0n8gccg7fmkrf0zv6q9chl2g` | [delegate NOM](https://app.nomic.io/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info) |
+| `Akash` | `akashnet-2` | `akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g` | [delegate AKT](https://wallet.keplr.app/?tab=staking&modal=validator&chain=akashnet-2&validator_address=akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g&step_id=2) |
 | `Sommelier` | `sommelier-3` | `sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd` | [delegate SOMM](https://wallet.keplr.app/chains/sommelier?modal=staking&chain=sommelier-3&validator_address=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd&step_id=2) |
 | `Empowerchain` | `empowerchain-1` | `empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh` | [delegate MPWR](https://ping.pub/empower/staking/empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh) |
-| `Teritori` | `teritori-1` | `torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct` | [delegate TORI](https://explorer.teritori.com/teritori/staking/torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct) |
 | `Lum Network` | `lum-network-1` | `lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5` | [delegate LUM](https://restake.app/lumnetwork/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5) |
 | `Bitsong` | `bitsong-2b` | `bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda` | [delegate BTSG](https://restake.app/bitsong/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda) |
 | `Chain 4 Energy` | `perun-1` | `c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae` | [delegate C4E](https://restake.app/chain4energy/c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae) |
-| `Vidulum` | `vidulum-1` | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj` | [delegate VDL](https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
 | `Odin` | `odin-mainnet-freya` | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z` | [delegate ODIN](https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
