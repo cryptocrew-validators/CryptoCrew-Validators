@@ -1,0 +1,55 @@
+{
+  "name": "✅ CryptoCrew Validators #IBCgang",
+  "$schema": "./relayers.schema.json",
+  "relayers": [
+    {
+      "relayer_name": "relayer-zone-55",
+      "software": "hermes",
+      "software_version": "hermes 1.8.2+06dfbafb",
+      "chains": [
+        {
+          "chain_id": "axelar-dojo-1",
+          "wallets": [
+            "axelar1yghndrffay859ma2ue4pa2cltw640vtaqh495u"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-78",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "celestia",
+          "wallets": [
+            "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
+            "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-8",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "neutron-1",
+          "wallets": [
+            "neutron1yghndrffay859ma2ue4pa2cltw640vtaqx2096",
+            "neutron19l3pq6kg07fa4x7t88urx45t6gk2hl83v7gm4d",
+            "neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-35",
+              "port_id": "transfer",
+              "dst_chain_id": "celestia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
