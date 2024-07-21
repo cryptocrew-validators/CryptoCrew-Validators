@@ -1,0 +1,12 @@
+{
+  "network": "akashnet-2",
+  "height": "17265605",
+  "type": "58ce05fbbbb87ae33877362f28967bfc3cb3566fb2cad171d4b2506e3c6d3a66",
+  "mirror": "EU",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_17265605.tar.lz4",
+  "filename": "akashnet-2_17265605.tar.lz4",
+  "date": "2024-07-21 10:29",
+  "database": "goleveldb",
+  "size": "13G",
+  "provider": "CryptoCrew"
+}
