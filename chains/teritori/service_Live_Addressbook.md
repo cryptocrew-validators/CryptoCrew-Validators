@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/teritori/addrbook.json)**
 ---
 
-- last updated: Fri Jul 19 2024 23:51:13
+- last updated: Sun Jul 21 2024 01:53:01
 - chain id: `teritori-1`
-- available peers: 820
-- total peers (network scan): 486
+- available peers: 456
+- total peers (network scan): 438
 
 ## Instructions
 ```sh
