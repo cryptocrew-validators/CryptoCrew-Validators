@@ -1,0 +1,12 @@
+{
+  "network": "xion-mainnet-1",
+  "height": "1911824",
+  "type": "2e2e208e3bd07bbcab2f3cf51a31545c949ffba4f0d299ca6af1142d80a86710",
+  "mirror": "EU",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_1911824.tar.lz4",
+  "filename": "xion-mainnet-1_1911824.tar.lz4",
+  "date": "2024-07-21 11:50",
+  "database": "goleveldb",
+  "size": "164M",
+  "provider": "CryptoCrew"
+}
