@@ -13,4 +13,4 @@ empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw
 ### Active IBC channels `empowerchain`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| osmosis-1 | empowerchain-1 | transfer | channel-1411 |
+| empowerchain-1 | osmosis-1 | transfer | channel-1 |
