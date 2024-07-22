@@ -18,6 +18,7 @@ stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | stargaze-1 | juno-1 | transfer | channel-5 |
 | stargaze-1 | gravity-bridge-3 | transfer | channel-6 |
+| neutron-1 | stargaze-1 | transfer | channel-18 |
 | evmos_9001-2 | stargaze-1 | transfer | channel-13 |
 | gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
