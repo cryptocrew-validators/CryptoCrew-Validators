@@ -23,4 +23,3 @@ stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| neutron-1 | stargaze-1 | transfer | channel-18 |
