@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-strided version: `v22.0.0`
+strided version: `v23.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10051181.tar.lz4)** | Tue Jul 23 2024 11:12:57 UTC | `stride-1` | 5.4G | 10051181 | `34a36941e1e0a02bc2834e43c88e6beb86d7780f3c47d811b56f635787c106a4` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10034026.tar.lz4)** | Mon Jul 22 2024 11:13:11 UTC | `stride-1` | 5.3G | 10034026 | `910c0b78d0c623b33859c46afd63df63c791642cb10982d727d68435e21bae51` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10097308.tar.lz4)** | Fri Jul 26 2024 11:13:10 UTC | `stride-1` | 5.1G | 10097308 | `681d4c4e02fa335046c416ec5e90837d199fbcf8664c957e9a069658c82cc176` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10082671.tar.lz4)** | Thu Jul 25 2024 11:12:03 UTC | `stride-1` | 5.2G | 10082671 | `9c63500f0c36dca485b2a689a956779de6e3522d84867ee9c93c8de6ce357a5d` |
 
 ---
 
@@ -12,7 +12,7 @@ strided version: `v22.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10051181.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10097308.tar.lz4"
 cd $HOME/.stride
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10051181.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/stride/stride-1_10097308.tar.lz4"
 cd $HOME/.stride
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
