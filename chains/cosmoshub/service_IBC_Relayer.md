@@ -8,10 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
-cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla
-cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
-cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02
-cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 ```
 
 ### Active IBC channels `cosmoshub`:
@@ -27,7 +23,6 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | comdex-1 | transfer | channel-400 |
 | cosmoshub-4 | core-1 | icahost | channel-428 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
