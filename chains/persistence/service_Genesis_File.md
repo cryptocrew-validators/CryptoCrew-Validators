@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/persistence/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/persistence/genesis.json)**
 ---
 
-- last updated: Sun Oct 29 2023 11:46:20
+- last updated: Sat Jul 27 2024 11:39:27
 - chain id: `core-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop persistenceCore
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/persistence/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/persistence/genesis.json"
 wget -4 $URL -P $HOME/.persistenceCore/config/genesis.json
 
 # Start the node

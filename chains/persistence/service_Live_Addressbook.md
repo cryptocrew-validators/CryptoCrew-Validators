@@ -3,13 +3,13 @@
 CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utilize [Tenderseed](https://github.com/binaryholdings/tenderseed) to ensure all provided peers have open P2P slots available.
 
 ---
-**Download: [addrbook.json](https://dl.ccvalidators.com/SERVICE/persistence/addrbook.json)**
+**Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/persistence/addrbook.json)**
 ---
 
-- last updated: Sun Oct 29 2023 11:46:20
+- last updated: Sat Jul 27 2024 11:39:27
 - chain id: `core-1`
-- available peers: 161
-- total peers (network scan): 236
+- available peers: 1003
+- total peers (network scan): 286
 
 ## Instructions
 ```sh
@@ -17,7 +17,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 sudo systemctl stop persistenceCore
 
 # Download addrbook file
-URL="https://dl.ccvalidators.com/SERVICE/persistence/addrbook.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/persistence/addrbook.json"
 wget -4 $URL -P $HOME/.persistenceCore/config/addrbook.json
 
 # Start the node
