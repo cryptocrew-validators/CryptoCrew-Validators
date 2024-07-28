@@ -41,7 +41,7 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz"
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -243,7 +243,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
-        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh"
+        "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
@@ -420,8 +420,7 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "relayer_accounts": [
-        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm",
-        "persistence1yghndrffay859ma2ue4pa2cltw640vta24973e"
+        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
       ],
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2",
       "rpc": [
@@ -564,7 +563,8 @@
       "address": "comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "operator_account": "comdex10d87jx68zygmwagu9ggzxpept07zs7nmtk7qam",
       "relayer_accounts": [
-        "comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8"
+        "comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8",
+        "comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g"
       ],
       "stake_link": "https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "restake": {
