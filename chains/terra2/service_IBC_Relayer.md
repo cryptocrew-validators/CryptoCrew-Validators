@@ -14,4 +14,3 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | phoenix-1 | neutron-1 | transfer | channel-229 |
-| neutron-1 | phoenix-1 | transfer | channel-25 |
