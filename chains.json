@@ -41,8 +41,8 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
+        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -421,8 +421,8 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "relayer_accounts": [
-        "persistence1yghndrffay859ma2ue4pa2cltw640vta24973e",
-        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
+        "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm",
+        "persistence1yghndrffay859ma2ue4pa2cltw640vta24973e"
       ],
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2",
       "rpc": [
