@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [cosmoshub-4 state export](https://dl-eu2.ccvalidators.com/SERVICE/cosmoshub/cosmoshub-4_export_21500881.json)**
+**Download: [cosmoshub-4 state export](https://dl-eu2.ccvalidators.com/SERVICE/cosmoshub/cosmoshub-4_export_21515329.json)**
 ---
 
-- last updated: Mon Jul 29 2024 11:07:14
+- last updated: Tue Jul 30 2024 11:15:47
 - chain id: `cosmoshub-4`
-- export height: `21500881`
+- export height: `21515329`
 - use for: airdrops, local tests, chain recovery
