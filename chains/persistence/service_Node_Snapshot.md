@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 persistenceCore version: `v11.14.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17755954.tar.lz4)** | Mon Jul 29 2024 11:36:11 UTC | `core-1` | 895M | 17755954 | `1962779906016681696813189abe44cfe51879ba9835ee55dd296d077f9a11a0` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17741517.tar.lz4)** | Sun Jul 28 2024 11:38:38 UTC | `core-1` | 836M | 17741517 | `dd19427efedc20b42654e9276c99dee4903d2eaf77a72c277ecbc1132dcb6c19` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17784841.tar.lz4)** | Wed Jul 31 2024 11:36:13 UTC | `core-1` | 1.1G | 17784841 | `79a7c95d3c4f9bc4d7d05a05bc2fffe84cad86bff115abe36fffaba008e71be1` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17770410.tar.lz4)** | Tue Jul 30 2024 11:38:54 UTC | `core-1` | 1.1G | 17770410 | `2ab5b876a2f9dbaa12378893f8d2fd241bb466c90dc679f732e4a4b2d7479d50` |
 
 ---
 
@@ -12,7 +12,7 @@ persistenceCore version: `v11.14.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17755954.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17784841.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17755954.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/persistence/core-1_17784841.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
