@@ -7,6 +7,9 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
+osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
+osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ```
@@ -14,6 +17,12 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | akashnet-2 | transfer | channel-1 |
+| osmosis-1 | agoric-3 | transfer | channel-320 |
+| osmosis-1 | stride-1 | transfer | channel-326 |
+| osmosis-1 | quasar-1 | transfer | channel-688 |
+| osmosis-1 | celestia | transfer | channel-6994 |
+| osmosis-1 | pirin-1 | transfer | channel-783 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
@@ -26,6 +35,17 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
+| agoric-3 | osmosis-1 | transfer | channel-1 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
+| celestia | osmosis-1 | transfer | channel-2 |
+| mars-1 | osmosis-1 | transfer | channel-1 |
+| pirin-1 | osmosis-1 | transfer | channel-0 |
+| quasar-1 | osmosis-1 | transfer | channel-1 |
+| quicksilver-2 | osmosis-1 | transfer | channel-2 |
+| stride-1 | osmosis-1 | icacontroller-osmosis-1.FEE | channel-43 |
+| stride-1 | osmosis-1 | icacontroller-osmosis-1.WITHDRAWAL | channel-44 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
+| teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
