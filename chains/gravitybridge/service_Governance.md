@@ -3,7 +3,7 @@
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
 | 232 | Setup Althea L1 IBC Auto-Forwarding | Sat Aug 03 2024 17:57:03 UTC | ✅ YES |
-| 233 | Add Althea L1 Metadata to Gravity Bridge | Sat Aug 03 2024 17:55:52 UTC | ⏳ NOT VOTED |
+| 233 | Add Althea L1 Metadata to Gravity Bridge | Sat Aug 03 2024 17:55:52 UTC | ✅ YES |
 
 ---
 
