@@ -25,4 +25,3 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | omniflixhub-1 | chihuahua-1 | transfer | channel-5 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | chihuahua-1 | transfer | channel-11348 |
-| neutron-1 | chihuahua-1 | transfer | channel-51 |
