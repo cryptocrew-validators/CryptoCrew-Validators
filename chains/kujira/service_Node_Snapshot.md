@@ -4,7 +4,6 @@ kujirad version: `v1.1.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_20972202.tar.lz4)** | Tue Jul 30 2024 11:43:11 UTC | `kaiyo-1` | 23G | 20972202 | `ded6d4c5cdcabde8fa9e657ce774e6df68192cc85720501aafc0a50dd0755e1e` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_20905001.tar.lz4)** | Sun Jul 28 2024 11:39:56 UTC | `kaiyo-1` | 23G | 20905001 | `ccee3d5c26516931bfd1cddff5df8ae3553dd8d1af1c42e1439c5ded2efd271e` |
 
 ---
 
@@ -12,7 +11,7 @@ kujirad version: `v1.1.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_20972202.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_21073105.tar.lz4"
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_20972202.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/kujira/kaiyo-1_21073105.tar.lz4"
 cd $HOME/.kujira
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
