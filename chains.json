@@ -232,7 +232,8 @@
       "address": "kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu",
       "operator_account": "kava1esyc9s7n782hw4xktzvrcf609st6emmleafhyt",
       "relayer_accounts": [
-        "kava1yghndrffay859ma2ue4pa2cltw640vtacvhsf6"
+        "kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt",
+        "kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8"
       ],
       "stake_link": "https://wallet.keplr.app/chains/kava?modal=staking&chain=kava_2222-10&validator_address=kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu&step_id=2",
       "restake": {
@@ -293,6 +294,8 @@
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
       "relayer_accounts": [
+        "evmos1jd7me7u2hew8cr8422m9yvgldhpv70l0qn3gfu",
+        "evmos1qz5humuak45aj67hmy4at5hykfsvc8453dxyl7",
         "evmos1nsd5f7vek8skzqhwxl6vfp07ee893aw3guf2tt"
       ],
       "stake_link": "https://wallet.keplr.app/chains/evmos?modal=staking&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0&step_id=2",
