@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 celestia-appd version: `v1.9.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2050011.tar.lz4)** | Mon Aug 05 2024 17:29:57 UTC | `celestia` | 4.4G | 2050011 | `8efd9d31269eec3d0c6db0811d1b79183fb89ccc238da60c471cd2db45590293` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2021186.tar.lz4)** | Thu Aug 01 2024 17:28:58 UTC | `celestia` | 288K | 2021186 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2014039.tar.lz4)** | Wed Jul 31 2024 17:29:11 UTC | `celestia` | 8.3M | 2014039 | `` |
 
@@ -12,7 +13,7 @@ celestia-appd version: `v1.9.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2042702.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2050011.tar.lz4"
 cd $HOME/.celestia-app
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +29,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2042702.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_2050011.tar.lz4"
 cd $HOME/.celestia-app
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
