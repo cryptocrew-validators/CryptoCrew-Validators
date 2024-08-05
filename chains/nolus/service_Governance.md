@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 137 | null | Mon Aug 05 2024 08:53:55 UTC | ⏳ NOT VOTED |
-| 138 | null | Mon Aug 05 2024 08:54:58 UTC | ⏳ NOT VOTED |
+| 137 | null | Mon Aug 05 2024 08:53:55 UTC | ABSTAIN |
+| 138 | null | Mon Aug 05 2024 08:54:58 UTC | ABSTAIN |
 
 ---
 
