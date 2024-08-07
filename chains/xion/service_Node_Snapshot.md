@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 xiond version: `v9.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2178083.tar.lz4)** | Wed Aug 07 2024 11:50:10 UTC | `xion-mainnet-1` | 215M | 2178083 | `ca98e044cb3cda69f97894c7e8cf1bc3bfde36f73e4422a2dfce51a4df9e4ae0` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2162226.tar.lz4)** | Tue Aug 06 2024 11:45:11 UTC | `xion-mainnet-1` | 212M | 2162226 | `158d328746422fea84ce3e319b550b8763a5031677708d5cc06b3225f82be8d2` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2146437.tar.lz4)** | Mon Aug 05 2024 11:50:11 UTC | `xion-mainnet-1` | 219M | 2146437 | `20e00755e8666a8a8b54758f16c42dbdd13a85dc8e743e97fd9094b2627d4dfa` |
 
 ---
 
@@ -12,7 +12,7 @@ xiond version: `v9.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2162226.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2178083.tar.lz4"
 cd $HOME/.xiond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2162226.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2178083.tar.lz4"
 cd $HOME/.xiond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
