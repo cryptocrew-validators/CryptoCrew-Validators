@@ -1,11 +1,11 @@
 {
   "network": "Avail DA Mainnet",
-  "height": "147547",
-  "type": "4bfab42f7737954e67de3d477cac1444b8eba5152ba9c38d6884602081c5a87b",
+  "height": "147553",
+  "type": "9968067d4d1c8dacd01af7bd07d7c0527be7034e82d749bfd947c2a0974777b4",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_147547.tar.lz4",
-  "filename": "Avail_DA_Mainnet_147547.tar.lz4",
-  "date": "2024-08-07 12:35",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_147553.tar.lz4",
+  "filename": "Avail_DA_Mainnet_147553.tar.lz4",
+  "date": "2024-08-07 12:37",
   "database": "goleveldb",
   "size": "684M",
   "provider": "CryptoCrew"
