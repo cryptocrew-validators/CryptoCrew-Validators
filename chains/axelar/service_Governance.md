@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 215 | Multichain Nation: Podcast Grant Proposal | Fri Aug 09 2024 21:20:21 UTC | ⏳ NOT VOTED |
-| 216 | Axelarators Telegram Group and Ecosystem X Account: 6-Month Program Renewal Proposal | Sat Aug 10 2024 09:41:21 UTC | ⏳ NOT VOTED |
+| 215 | Multichain Nation: Podcast Grant Proposal | Fri Aug 09 2024 21:20:21 UTC | 🤷‍♂️ ABSTAIN |
+| 216 | Axelarators Telegram Group and Ecosystem X Account: 6-Month Program Renewal Proposal | Sat Aug 10 2024 09:41:21 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
