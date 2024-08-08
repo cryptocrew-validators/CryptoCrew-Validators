@@ -8,7 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 cosmos15md2qvgma8lnvqv67w0umu2paqkqkhege2evgl
-cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla
 cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm
 cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02
@@ -32,13 +31,14 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| canto_7700-1 | cosmoshub-4 | transfer | channel-2 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | comdex-1 | cosmoshub-4 | transfer | channel-37 |
 | core-1 | cosmoshub-4 | transfer | channel-24 |
 | core-1 | cosmoshub-4 | icacontroller-lscosmos_pstake_reward_account | channel-53 |
 | evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | gravity-bridge-3 | cosmoshub-4 | transfer | channel-17 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-0 |
 | omniflixhub-1 | cosmoshub-4 | transfer | channel-12 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |

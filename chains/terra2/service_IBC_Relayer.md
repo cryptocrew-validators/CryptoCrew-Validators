@@ -15,6 +15,7 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
+| phoenix-1 | migaloo-1 | transfer | channel-86 |
 | phoenix-1 | neutron-1 | transfer | channel-229 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
+| migaloo-1 | phoenix-1 | transfer | channel-0 |
 | neutron-1 | phoenix-1 | transfer | channel-25 |

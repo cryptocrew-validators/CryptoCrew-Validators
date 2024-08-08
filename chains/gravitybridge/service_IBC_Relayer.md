@@ -8,7 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
-gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5
 ```
 
 ### Active IBC channels `gravitybridge`:
@@ -24,7 +23,7 @@ gravity1yvejj22t78s2vfk7slty2d7fs5lkc8rnhmr2q5
 | gravity-bridge-3 | evmos_9001-2 | transfer | channel-65 |
 | gravity-bridge-3 | stargaze-1 | transfer | channel-7 |
 | gravity-bridge-3 | juno-1 | transfer | channel-8 |
-| gravity-bridge-3 | canto_7700-1 | transfer | channel-88 |
+| canto_7700-1 | gravity-bridge-3 | transfer | channel-0 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | comdex-1 | gravity-bridge-3 | transfer | channel-23 |
