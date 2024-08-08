@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://dl.ccvalidators.com/SERVICE/terra2/genesis.json)**
+**Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/terra2/genesis.json)**
 ---
 
-- last updated: Wed Oct 04 2023 12:48:27
+- last updated: Thu Aug 08 2024 22:03:49
 - chain id: `phoenix-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop terrad
 
 # Download genesis file
-URL="https://dl.ccvalidators.com/SERVICE/terra2/genesis.json"
+URL="https://dl-eu2.ccvalidators.com/SERVICE/terra2/genesis.json"
 wget -4 $URL -P $HOME/.terra/config/genesis.json
 
 # Start the node
