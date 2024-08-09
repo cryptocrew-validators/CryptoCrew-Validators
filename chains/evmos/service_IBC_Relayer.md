@@ -27,7 +27,6 @@ evmos1qz5humuak45aj67hmy4at5hykfsvc8453dxyl7
 | evmos_9001-2 | juno-1 | icahost | channel-66 |
 | evmos_9001-2 | gravity-bridge-3 | transfer | channel-8 |
 | evmos_9001-2 | kava_2222-10 | transfer | channel-83 |
-| osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | comdex-1 | evmos_9001-2 | transfer | channel-35 |
 | cosmoshub-4 | evmos_9001-2 | transfer | channel-292 |
 | gravity-bridge-3 | evmos_9001-2 | transfer | channel-65 |
@@ -35,5 +34,6 @@ evmos1qz5humuak45aj67hmy4at5hykfsvc8453dxyl7
 | juno-1 | evmos_9001-2 | transfer | channel-70 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-22 |
 | kaiyo-1 | evmos_9001-2 | transfer | channel-23 |
+| osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | stargaze-1 | evmos_9001-2 | transfer | channel-46 |
 | kava_2222-10 | evmos_9001-2 | transfer | channel-117 |
