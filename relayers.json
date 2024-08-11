@@ -3,6 +3,62 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-5",
+      "software": "hermes",
+      "software_version": "",
+      "chains": [
+        {
+          "chain_id": "cosmoshub-4",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-141",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "noble-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-750",
+              "port_id": "transfer",
+              "dst_chain_id": "noble-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "stride-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-5",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-2",
       "software": "hermes",
       "software_version": "hermes 1.8.2+06dfbafb4",
@@ -1079,62 +1135,6 @@
               "channel_id": "channel-874",
               "port_id": "transfer",
               "dst_chain_id": "neutron-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-5",
-      "software": "hermes",
-      "software_version": "",
-      "chains": [
-        {
-          "chain_id": "cosmoshub-4",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-141",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "noble-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-0",
-              "port_id": "transfer",
-              "dst_chain_id": "cosmoshub-4"
-            },
-            {
-              "channel_id": "channel-750",
-              "port_id": "transfer",
-              "dst_chain_id": "noble-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "stride-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
             }
           ]
         }
