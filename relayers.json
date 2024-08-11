@@ -3,6 +3,94 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-55",
+      "software": "hermes",
+      "software_version": "",
+      "chains": [
+        {
+          "chain_id": "axelar-dojo-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-78",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "celestia",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-8",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "cosmoshub-4",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-569",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "neutron-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-10",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-dojo-1"
+            },
+            {
+              "channel_id": "channel-30",
+              "port_id": "transfer",
+              "dst_chain_id": "noble-1"
+            },
+            {
+              "channel_id": "channel-35",
+              "port_id": "transfer",
+              "dst_chain_id": "celestia"
+            }
+          ]
+        },
+        {
+          "chain_id": "noble-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-18",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [],
+          "channels": [
+            {
+              "channel_id": "channel-874",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-5",
       "software": "hermes",
       "software_version": "",
@@ -1069,72 +1157,6 @@
               "channel_id": "channel-6",
               "port_id": "transfer",
               "dst_chain_id": "gravity-bridge-3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-55",
-      "software": "hermes",
-      "software_version": "",
-      "chains": [
-        {
-          "chain_id": "celestia",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-8",
-              "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "kaiyo-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-75",
-              "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "neutron-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-10",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "kaiyo-1"
-            },
-            {
-              "channel_id": "channel-35",
-              "port_id": "transfer",
-              "dst_chain_id": "celestia"
-            },
-            {
-              "channel_id": "channel-60",
-              "port_id": "transfer",
-              "dst_chain_id": "injective-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "wallets": [],
-          "channels": [
-            {
-              "channel_id": "channel-874",
-              "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
             }
           ]
         }
