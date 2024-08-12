@@ -2,8 +2,8 @@
 
 | Proposal ID | Proposal Title | Voting End Time | VOTED |
 |-------------|----------------|-----------------|-------|
-| 217 | Axelar Brazilian and Spanish Community - 1 Year Continuity and Expansion Plan | Mon Aug 12 2024 20:58:12 UTC | ⏳ NOT VOTED |
-| 218 | Final & Revised Proposal to Revamp and Improve Axelar Network Documentation | Thu Aug 15 2024 08:05:05 UTC | ⏳ NOT VOTED |
+| 217 | Axelar Brazilian and Spanish Community - 1 Year Continuity and Expansion Plan | Mon Aug 12 2024 20:58:12 UTC | 🤷‍♂️ ABSTAIN |
+| 218 | Final & Revised Proposal to Revamp and Improve Axelar Network Documentation | Thu Aug 15 2024 08:05:05 UTC | 🤷‍♂️ ABSTAIN |
 
 ---
 
