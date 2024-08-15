@@ -128,6 +128,13 @@
         "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
       ],
       "stake_link": "https://wallet.keplr.app/chains/celestia?modal=staking&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls&step_id=2",
+      "restake": {
+        "address": "celestia1305e92ng6a9pdh3ttc3ld459ckxupxt3xxtnq2",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/gb2boNg2-2/TIA.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -147,6 +154,13 @@
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
       "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau&step_id=2",
+      "restake": {
+        "address": "dym1t8e0n59ta6dnf38vqel7ydme9tajvjegqf0xtw",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/fr7r82rG-2/DYM.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -335,6 +349,13 @@
         "archway1yghndrffay859ma2ue4pa2cltw640vta3jlf42"
       ],
       "stake_link": "https://archway.disperze.network/validators/archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq",
+      "restake": {
+        "address": "archway1305e92ng6a9pdh3ttc3ld459ckxupxt3z8x8ss",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/sQXpdbCq-2/ARCH.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -353,6 +374,13 @@
       "operator_account": "agoric1s8kfsaa8g45ucwkkthl9ccagmecmj4uxaye72n",
       "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/agoric?modal=staking&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj&step_id=2",
+      "restake": {
+        "address": "agoric1gty9k5slhwn7tv6kr36738vce0a6usyh8gwj80",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/JdcT3C9p-2/BLD.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -371,18 +399,8 @@
       "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
       "relayer_accounts": [],
       "stake_link": "https://wallet.keplr.app/chains/mars-hub?modal=staking&chain=mars-1&validator_address=marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd&step_id=2",
-      "restake": {
-        "address": "",
-        "run_time": "",
-        "runs_daily": 0,
-        "minimum_reward": 100000,
-        "status_url_svg": ""
-      },
       "rpc": [],
       "rest": [],
-      "services": [
-        "snapshot"
-      ],
       "apr": "",
       "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
       "chain_id": "mars-1",
@@ -400,11 +418,11 @@
       "operator_account": "axelar1zg3g70xsxc28jw7ed36nxh7x70s22ufrw52xpe",
       "stake_link": "https://wallet.keplr.app/chains/axelar?modal=staking&chain=axelar-dojo-1&validator_address=axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk&step_id=2",
       "restake": {
-        "address": "",
-        "run_time": "",
-        "runs_daily": 0,
+        "address": "axelar1305e92ng6a9pdh3ttc3ld459ckxupxt3nzvt3x",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
         "minimum_reward": 100000,
-        "status_url_svg": ""
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/tzJyAEQX-2/AXL.svg"
       },
       "rpc": [],
       "rest": [],
@@ -598,6 +616,13 @@
         "nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac"
       ],
       "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
+      "restake": {
+        "address": "nolus1305e92ng6a9pdh3ttc3ld459ckxupxt3pu2ucz",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 1000000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/cTRXK4_3-2/NLS.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -606,22 +631,29 @@
       "trade_url": "https://app.osmosis.zone"
     },
     {
-      "name": "composable",
-      "prettyName": "Composable Finance",
+      "name": "Picasso",
+      "prettyName": "Picasso",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/composable/logo_composable.png",
       "symbol": "PICA",
       "denom": "upica",
       "decimals": "12",
-      "address": "centaurivaloper1p86dkzgthapcqkgymq70qvjnt4exf09hf308pu",
-      "operator_account": "centauri1p86dkzgthapcqkgymq70qvjnt4exf09hnk9lu9",
+      "address": "picavaloper1p86dkzgthapcqkgymq70qvjnt4exf09hveykjf",
+      "operator_account": "pica1p86dkzgthapcqkgymq70qvjnt4exf09hvqtxu3",
       "relayer_accounts": [
-        "centauri1yghndrffay859ma2ue4pa2cltw640vtaqnw3mw"
+        "pica1yghndrffay859ma2ue4pa2cltw640vtal9qgm6"
       ],
-      "stake_link": "https://ping.pub/Composable/staking/centaurivaloper1p86dkzgthapcqkgymq70qvjnt4exf09hf308pu",
+      "stake_link": "https://ping.pub/picasso/staking/picavaloper1p86dkzgthapcqkgymq70qvjnt4exf09hveykjf",
+      "restake": {
+        "address": "pica1305e92ng6a9pdh3ttc3ld459ckxupxt3vsex7q",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 1000000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/-ZJFQ-uE-2/PICA.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
-      "coingecko_id": "",
+      "coingecko_id": "picasso",
       "chain_id": "centauri-1"
     },
     {
@@ -637,8 +669,8 @@
       "stake_link": "https://wallet.keplr.app/chains/quicksilver?modal=staking&chain=quicksilver-2&validator_address=quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58&step_id=2",
       "restake": {
         "address": "quick1305e92ng6a9pdh3ttc3ld459ckxupxt3ug23r4",
-        "run_time": "every 10 minutes",
-        "runs_daily": 144,
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/Q47MvdlD-2/QCK.svg"
       },
@@ -668,6 +700,13 @@
         "band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c"
       ],
       "stake_link": "https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz",
+      "restake": {
+        "address": "band14ygyx52d28trruaglsgs8wvalzefgh9jhfrwpd",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/AGecplI4-2/BAND.svg"
+      },      
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -767,6 +806,7 @@
       "rest": [],
       "commission": "0.05",
       "apr": "",
+      "coingecko_id": "",
       "chain_id": "nomic-stakenet-3",
       "relayer_accounts": [
         "nomic1yghndrffay859ma2ue4pa2cltw640vtacpshvh",
@@ -784,6 +824,13 @@
       "address": "akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g",
       "operator_account": "akash1f9f5eccuuhzdw4uwde92ee40eke9fadhxmvphz",
       "stake_link": "https://wallet.keplr.app/?tab=staking&modal=validator&chain=akashnet-2&validator_address=akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g&step_id=2",
+      "restake": {
+        "address": "akash1305e92ng6a9pdh3ttc3ld459ckxupxt36hhyra",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/6WBf3o5n-2/AKT.svg"
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -926,6 +973,13 @@
         "odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk"
       ],
       "stake_link": "https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
+      "restake": {
+        "address": "odin1305e92ng6a9pdh3ttc3ld459ckxupxt3nvuqkd",
+        "run_time": "every 6 hours",
+        "runs_daily": 4,
+        "minimum_reward": 100000,
+        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/THrlfRdu-2/ODIN.svg"
+      },      
       "rpc": [
         "http://34.79.179.216:26657"
       ],
