@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 injectived version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_81945822.tar.lz4)** | Wed Aug 14 2024 03:11:42 UTC | `injective-1` | 6.7G | 81945822 | `0a499effdedf7439abe12aa3e762f42fd79b8b0df9969705db3ce8f04b4ba91d` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_81843489.tar.lz4)** | Tue Aug 13 2024 09:12:38 UTC | `injective-1` | 6.7G | 81843489 | `fbbf6e2dc8f854d9a2bdf6f36abf4b298a765bd60dbd993713d000b1efe6dd77` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_82114069.tar.lz4)** | Thu Aug 15 2024 09:51:26 UTC | `injective-1` | 7.5G | 82114069 | `59f092c0af0738377fac212367e15a40581bbd31205f5c8f03980baa3b4e9c0f` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_82010888.tar.lz4)** | Wed Aug 14 2024 15:34:42 UTC | `injective-1` | 3.8G | 82010888 | `` |
 
 ---
 
@@ -12,7 +12,7 @@ injectived version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_81945822.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_82114069.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_81945822.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/injective/injective-1_82114069.tar.lz4"
 cd $HOME/.injectived
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
