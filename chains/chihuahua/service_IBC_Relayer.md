@@ -22,6 +22,7 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | chihuahua-1 | omniflixhub-1 | transfer | channel-17 |
 | chihuahua-1 | comdex-1 | transfer | channel-37 |
 | chihuahua-1 | osmosis-1 | wasm.chihuahua1jwkag4yvhyj9fuddtkygvavya8hmdjuzmgxwg9vp3lw9twv6lrcq9mgl52 | channel-73 |
+| migaloo-1 | chihuahua-1 | transfer | channel-10 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | gravity-bridge-3 | chihuahua-1 | transfer | channel-34 |

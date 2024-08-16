@@ -739,7 +739,7 @@
         "runs_daily": 4,
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/AGecplI4-2/BAND.svg"
-      },      
+      },
       "rpc": [],
       "rest": [],
       "apr": "",
@@ -1018,7 +1018,7 @@
         "runs_daily": 4,
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/THrlfRdu-2/ODIN.svg"
-      },      
+      },
       "rpc": [
         "http://34.79.179.216:26657"
       ],

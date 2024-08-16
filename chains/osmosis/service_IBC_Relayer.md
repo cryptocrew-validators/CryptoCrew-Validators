@@ -22,11 +22,13 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | juno-1 | transfer | channel-169 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
-| osmosis-1 | secret-4 | transfer | channel-476 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
+| osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
@@ -37,7 +39,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
 | osmosis-1 | omniflixhub-1 | transfer | channel-199 |
 | osmosis-1 | core-1 | transfer | channel-4 |
-| osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | agoric-3 | transfer | channel-320 |
