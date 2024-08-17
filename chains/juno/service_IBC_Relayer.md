@@ -15,10 +15,9 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | osmosis-1 | transfer | channel-0 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
 | juno-1 | phoenix-1 | transfer | channel-153 |
-| juno-1 | migaloo-1 | transfer | channel-210 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | juno-1 | evmos_9001-2 | wasm.juno1zh4d42vxl9nv26htvu28k86vmy0tfusngdlknk7z37mkylkke2lslqzv6m | channel-205 |
 | juno-1 | osmosis-1 | transfer | channel-271 |
@@ -32,11 +31,10 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | chihuahua-1 | juno-1 | transfer | channel-11 |
-| cosmoshub-4 | juno-1 | transfer | channel-207 |
-| osmosis-1 | juno-1 | transfer | channel-169 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | comdex-1 | juno-1 | transfer | channel-18 |
 | core-1 | juno-1 | transfer | channel-37 |
+| cosmoshub-4 | juno-1 | transfer | channel-207 |
 | evmos_9001-2 | juno-1 | transfer | channel-41 |
 | evmos_9001-2 | juno-1 | transfer | channel-5 |
 | evmos_9001-2 | juno-1 | icahost | channel-66 |

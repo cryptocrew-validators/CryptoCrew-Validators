@@ -17,12 +17,12 @@ evmos1qz5humuak45aj67hmy4at5hykfsvc8453dxyl7
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
-| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | evmos_9001-2 | injective-1 | transfer | channel-10 |
 | evmos_9001-2 | stargaze-1 | transfer | channel-13 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-17 |
 | evmos_9001-2 | kaiyo-1 | transfer | channel-18 |
 | evmos_9001-2 | comdex-1 | transfer | channel-26 |
+| evmos_9001-2 | cosmoshub-4 | transfer | channel-3 |
 | evmos_9001-2 | juno-1 | transfer | channel-41 |
 | evmos_9001-2 | juno-1 | transfer | channel-5 |
 | evmos_9001-2 | juno-1 | icahost | channel-66 |
