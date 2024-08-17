@@ -169,6 +169,7 @@
       "address": "dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
       "relayer_accounts": [
+        "dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n",
         "dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau&step_id=2",
@@ -495,8 +496,8 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
-        "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
         "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
+        "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
         "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
