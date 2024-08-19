@@ -662,9 +662,10 @@
       "trade_url": "https://app.osmosis.zone"
     },
     {
-      "name": "Picasso",
+      "name": "composable",
       "prettyName": "Picasso",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/composable/logo_composable.png",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/composable/logo_composable.svg",
       "symbol": "PICA",
       "denom": "upica",
       "decimals": "12",
