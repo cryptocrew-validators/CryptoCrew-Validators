@@ -27,7 +27,6 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | gravity-bridge-3 | juno-1 | transfer | channel-8 |
 | canto_7700-1 | gravity-bridge-3 | transfer | channel-0 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
-| osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
 | chihuahua-1 | gravity-bridge-3 | transfer | channel-15 |
 | comdex-1 | gravity-bridge-3 | transfer | channel-23 |
@@ -35,4 +34,5 @@ gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh
 | evmos_9001-2 | gravity-bridge-3 | transfer | channel-8 |
 | injective-1 | gravity-bridge-3 | transfer | channel-100 |
 | juno-1 | gravity-bridge-3 | transfer | channel-31 |
+| osmosis-1 | gravity-bridge-3 | transfer | channel-144 |
 | stargaze-1 | gravity-bridge-3 | transfer | channel-6 |
