@@ -15,9 +15,10 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | osmosis-1 | transfer | channel-0 |
-| juno-1 | phoenix-1 | transfer | channel-153 |
-| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
+| juno-1 | phoenix-1 | transfer | channel-153 |
+| juno-1 | migaloo-1 | transfer | channel-210 |
+| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | juno-1 | evmos_9001-2 | wasm.juno1zh4d42vxl9nv26htvu28k86vmy0tfusngdlknk7z37mkylkke2lslqzv6m | channel-205 |
 | juno-1 | osmosis-1 | transfer | channel-271 |

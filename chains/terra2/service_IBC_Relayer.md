@@ -20,4 +20,3 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
 | migaloo-1 | phoenix-1 | transfer | channel-2 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
