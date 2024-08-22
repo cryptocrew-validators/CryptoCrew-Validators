@@ -17,8 +17,8 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
+| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | core-1 | comdex-1 | transfer | channel-71 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | laozi-mainnet | comdex-1 | oracle | channel-96 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
