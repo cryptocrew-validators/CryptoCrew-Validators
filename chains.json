@@ -1049,6 +1049,25 @@
       "coingecko_id": "radix",
       "chain_id": "olymipa",
       "trade_url": "https://trading.bitfinex.com/t/XRD:USD"
+    },
+    {
+      "name": "avail",
+      "prettyName": "Avail",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/avail/logo_avail.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/avail/logo_avail.png",
+      "symbol": "AVAIL",
+      "denom": "avail",
+      "decimals": "18",
+      "address": "5HB3SEzH6cP5BE4S6rwhXoji7wy1VQkDX7kb4yQ92TPGhgwF",
+      "operator_account": "5HB3SEzH6cP5BE4S6rwhXoji7wy1VQkDX7kb4yQ92TPGhgwF",
+      "relayer_accounts": [],
+      "stake_link": "https://explorer.avail.so/#/staking",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "avail",
+      "chain_id": "mainnet",
+      "trade_url": "https://www.coinbase.com/price/avail"
     }
   ]
 }
