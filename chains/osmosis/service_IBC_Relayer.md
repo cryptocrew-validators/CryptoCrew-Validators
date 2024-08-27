@@ -45,7 +45,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | quasar-1 | transfer | channel-688 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
@@ -79,4 +78,3 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | stride-1 | osmosis-1 | icacontroller-osmosis-1.FEE | channel-43 |
 | stride-1 | osmosis-1 | icacontroller-osmosis-1.WITHDRAWAL | channel-44 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
