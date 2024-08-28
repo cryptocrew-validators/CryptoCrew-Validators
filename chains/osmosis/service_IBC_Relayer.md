@@ -7,6 +7,9 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
+osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
+osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
@@ -14,14 +17,12 @@ osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
-osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
-osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
-osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 ```
 
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
@@ -45,6 +46,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | quasar-1 | transfer | channel-688 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
