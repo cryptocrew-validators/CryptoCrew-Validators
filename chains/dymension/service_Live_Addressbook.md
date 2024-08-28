@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/dymension/addrbook.json)**
 ---
 
-- last updated: Tue Aug 27 2024 16:56:09
+- last updated: Wed Aug 28 2024 16:57:55
 - chain id: `dymension_1100-1`
-- available peers: 1809
-- total peers (network scan): 1069
+- available peers: 243
+- total peers (network scan): 1099
 
 ## Instructions
 ```sh
