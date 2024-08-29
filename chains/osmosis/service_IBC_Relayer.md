@@ -34,7 +34,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
@@ -45,6 +44,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | quasar-1 | transfer | channel-688 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -60,7 +60,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
