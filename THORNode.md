@@ -1,3 +1,5 @@
+![CryptoCrew X THORChain](./chains/thorchain/thorchain-x-cryptocrew.jpg)
+
 # CryptoCrew - Support THORChain IBC Infrastructure
 
 Bond Providers are officially invited to onboard CryptoCrew Validators as ecosystem infrastructure contributors for IBC Relayer Services.
