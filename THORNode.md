@@ -31,7 +31,7 @@ Our mission is to integrate THORChain with the wider Interchain Ecosystem, offer
 
 By offering your Bond as a Bond Provider, you can directly fund CryptoCrew IBC Relayer Operations on THORChain. We strive to offer high coverage & reliability and will issue a 3-monthly Service Report ([example](https://forum.persistence.one/t/collaboration-with-cryptocrew-for-guaranteed-relayer-slas/317/22)) on this discord thread. 
 
-We’re accepting flexible bond offers for bonds >50k RUNE, but reserve the right to decline offers we deem too low. A sensible number could be anything north of 15%. Exit conditions are flexible too. If we don’t receive enough bond we simply can’t offer our services. As a reference, our IBC relayers are priced between 5-20k USD per month, depending on the type of setup and number of counterparty chains included. 
+We’re accepting flexible bond offers for bonds >50k RUNE, but reserve the right to decline offers we deem too low. A sensible number could be anything equal to or north of 20%. Exit conditions are flexible too. If we don’t receive enough bond we simply can’t offer our services. As a reference, our IBC relayers are priced between 5-20k USD per month, depending on the type of setup and number of counterparty chains included. 
 
 Furthermore we’re excited to announce that `jp.thor` has provided the initial bond for our node as part of the RUJI 9.
 
