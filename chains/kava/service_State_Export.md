@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [kava_2222-10 state export](https://dl-eu2.ccvalidators.com/SERVICE/kava/kava_2222-10_export_11477302.json)**
+**Download: [kava_2222-10 state export](https://dl-eu2.ccvalidators.com/SERVICE/kava/kava_2222-10_export_11482737.json)**
 ---
 
-- last updated: Fri Aug 30 2024 23:38:49
+- last updated: Sat Aug 31 2024 07:14:29
 - chain id: `kava_2222-10`
-- export height: `11477302`
+- export height: `11482737`
 - use for: airdrops, local tests, chain recovery
