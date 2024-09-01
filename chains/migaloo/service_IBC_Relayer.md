@@ -18,4 +18,5 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | migaloo-1 | secret-4 | transfer | channel-4 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
+| juno-1 | migaloo-1 | transfer | channel-210 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
