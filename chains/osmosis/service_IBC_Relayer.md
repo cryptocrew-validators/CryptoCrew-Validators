@@ -39,7 +39,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | evmos_9001-2 | transfer | channel-204 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
@@ -66,7 +65,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
