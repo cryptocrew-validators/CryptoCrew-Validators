@@ -1,12 +1,12 @@
 {
   "network": "xion-mainnet-1",
-  "height": "2746338",
-  "type": "054fdeabb07c33427e2814ffc6465a57d73b9a0d025b5a230eaf3020ef7ccbf7",
+  "height": "2763738",
+  "type": "ecdbeef12aeba43d43ad0de989479a3561c87a955fff8244c528828eafa523f8",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2746338.tar.lz4",
-  "filename": "xion-mainnet-1_2746338.tar.lz4",
-  "date": "2024-09-09 11:50",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_2763738.tar.lz4",
+  "filename": "xion-mainnet-1_2763738.tar.lz4",
+  "date": "2024-09-10 11:45",
   "database": "goleveldb",
-  "size": "341M",
+  "size": "344M",
   "provider": "CryptoCrew"
 }
