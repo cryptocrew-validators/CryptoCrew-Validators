@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gaiad version: `vSNAPSHOT-4106e7a673da18b518fd81231a8e8b99bbf0fd0d`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22207980.tar.lz4)** | Mon Sep 16 2024 11:30:56 UTC | `cosmoshub-4` | 192G | 22207980 | `d36086f3ddeba18330e11d2b8eddbdc6f43f5d0aa3ee7a6d41273e84bb79d8fe` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22193616.tar.lz4)** | Sun Sep 15 2024 11:19:36 UTC | `cosmoshub-4` | 185G | 22193616 | `48f6bd9549aa3a9166d4b4b89dbcdf72508ac9b8c1d3f2ede2e7f2087e596663` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22207980.tar.lz4)** | Tue Sep 17 2024 10:02:59 UTC | `cosmoshub-4` | 192G | 22207980 | `d36086f3ddeba18330e11d2b8eddbdc6f43f5d0aa3ee7a6d41273e84bb79d8fe` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22193616.tar.lz4)** | Tue Sep 17 2024 10:02:59 UTC | `cosmoshub-4` | 185G | 22193616 | `48f6bd9549aa3a9166d4b4b89dbcdf72508ac9b8c1d3f2ede2e7f2087e596663` |
 
 ---
 
@@ -12,7 +12,7 @@ gaiad version: `vSNAPSHOT-4106e7a673da18b518fd81231a8e8b99bbf0fd0d`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22207980.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22222464.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22207980.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22222464.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
