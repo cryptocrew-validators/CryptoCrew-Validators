@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 nolusd version: `v0.6.3`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7246165.tar.lz4)** | Tue Sep 17 2024 00:50:50 UTC | `pirin-1` | 412M | 7246165 | `5461aed54c0b545ac57e3737f4d82667187e01a33777c6a80edfc72932fcaa50` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7226566.tar.lz4)** | Mon Sep 16 2024 01:51:31 UTC | `pirin-1` | 583M | 7226566 | `0290f5cc01a6838439ae025be3a1ab8660810f3b9d91b0207756c8d69d9d24f2` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7246165.tar.lz4)** | Tue Sep 17 2024 10:02:59 UTC | `pirin-1` | 412M | 7246165 | `5461aed54c0b545ac57e3737f4d82667187e01a33777c6a80edfc72932fcaa50` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7226566.tar.lz4)** | Tue Sep 17 2024 10:02:59 UTC | `pirin-1` | 583M | 7226566 | `0290f5cc01a6838439ae025be3a1ab8660810f3b9d91b0207756c8d69d9d24f2` |
 
 ---
 
@@ -12,7 +12,7 @@ nolusd version: `v0.6.3`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7246165.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7267435.tar.lz4"
 cd $HOME/.nolus
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7246165.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_7267435.tar.lz4"
 cd $HOME/.nolus
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
