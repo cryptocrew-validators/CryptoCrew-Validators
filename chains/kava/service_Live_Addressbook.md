@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/kava/addrbook.json)**
 ---
 
-- last updated: Tue Sep 17 2024 07:15:17
+- last updated: Wed Sep 18 2024 23:55:34
 - chain id: `kava_2222-10`
-- available peers: 1058
-- total peers (network scan): 1058
+
+- total peers (network scan): 1028
 
 ## Instructions
 ```sh
