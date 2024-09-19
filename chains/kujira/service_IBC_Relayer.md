@@ -24,6 +24,7 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
+| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
 | juno-1 | kaiyo-1 | transfer | channel-87 |
