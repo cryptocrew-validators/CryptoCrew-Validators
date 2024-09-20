@@ -36,7 +36,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | agoric-3 | transfer | channel-320 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
@@ -66,7 +65,6 @@ osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | omniflixhub-1 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
