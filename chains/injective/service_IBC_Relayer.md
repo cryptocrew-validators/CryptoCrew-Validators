@@ -15,4 +15,3 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | injective-1 | transfer | channel-122 |
-| neutron-1 | injective-1 | transfer | channel-60 |
