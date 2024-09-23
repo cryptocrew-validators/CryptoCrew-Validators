@@ -16,7 +16,6 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | --------------- | --------------- | ------------ | ------------------- |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | juno-1 | transfer | channel-2 |
-| kaiyo-1 | omniflixhub-1 | transfer | channel-70 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
@@ -24,12 +23,10 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | gravity-bridge-3 | transfer | channel-50 |
 | kaiyo-1 | stargaze-1 | transfer | channel-7 |
-| comdex-1 | kaiyo-1 | transfer | channel-31 |
-| gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
-| juno-1 | kaiyo-1 | transfer | channel-87 |
+| juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
-| osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
+| gravity-bridge-3 | kaiyo-1 | transfer | channel-107 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
