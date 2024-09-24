@@ -22,6 +22,7 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
@@ -35,8 +36,8 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -54,6 +55,5 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |

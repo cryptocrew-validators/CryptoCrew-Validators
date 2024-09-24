@@ -24,9 +24,7 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
