@@ -14,6 +14,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | stargaze-1 | transfer | channel-20 |
+| juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | chihuahua-1 | juno-1 | transfer | channel-11 |
