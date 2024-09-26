@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [comdex-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/comdex/comdex-1_export_14901616.json)**
+**Download: [comdex-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/comdex/comdex-1_export_14929631.json)**
 ---
 
-- last updated: Tue Sep 24 2024 11:40:52
+- last updated: Thu Sep 26 2024 11:42:14
 - chain id: `comdex-1`
-- export height: `14901616`
+- export height: `14929631`
 - use for: airdrops, local tests, chain recovery
