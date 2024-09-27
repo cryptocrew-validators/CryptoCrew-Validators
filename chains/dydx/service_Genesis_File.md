@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-tyo.ccvalidators.com/SERVICE/dydx/genesis.json)**
 ---
 
-- last updated: Thu Sep 26 2024 09:32:33
+- last updated: Fri Sep 27 2024 09:44:18
 - chain id: `dydx-mainnet-1`
 
 ## Instructions
