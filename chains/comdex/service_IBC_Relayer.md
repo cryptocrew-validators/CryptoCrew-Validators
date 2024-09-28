@@ -14,12 +14,12 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 ### Active IBC channels `comdex`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
-| comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
+| laozi-mainnet | comdex-1 | oracle | channel-96 |
+| osmosis-1 | comdex-1 | transfer | channel-87 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | chihuahua-1 | comdex-1 | transfer | channel-37 |
 | core-1 | comdex-1 | transfer | channel-71 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
-| laozi-mainnet | comdex-1 | oracle | channel-96 |
-| osmosis-1 | comdex-1 | transfer | channel-87 |
