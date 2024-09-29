@@ -20,4 +20,3 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | juno-1 | kaiyo-1 | transfer | channel-88 |
 | juno-1 | kaiyo-1 | wasm.juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg | channel-97 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
-| phoenix-1 | kaiyo-1 | transfer | channel-10 |

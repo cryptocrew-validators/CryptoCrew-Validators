@@ -15,4 +15,3 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | --------------- | --------------- | ------------ | ------------------- |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
-| phoenix-1 | migaloo-1 | transfer | channel-86 |
