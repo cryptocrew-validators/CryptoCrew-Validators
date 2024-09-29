@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [omniflixhub-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/omniflixhub/omniflixhub-1_export_14113640.json)**
+**Download: [omniflixhub-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/omniflixhub/omniflixhub-1_export_14135451.json)**
 ---
 
-- last updated: Sat Sep 28 2024 04:59:17
+- last updated: Sun Sep 29 2024 16:06:45
 - chain id: `omniflixhub-1`
-- export height: `14113640`
+- export height: `14135451`
 - use for: airdrops, local tests, chain recovery
