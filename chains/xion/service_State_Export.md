@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [xion-mainnet-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/xion/xion-mainnet-1_export_3109737.json)**
+**Download: [xion-mainnet-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/xion/xion-mainnet-1_export_3128484.json)**
 ---
 
-- last updated: Sun Sep 29 2024 11:52:04
+- last updated: Mon Sep 30 2024 11:47:10
 - chain id: `xion-mainnet-1`
-- export height: `3109737`
+- export height: `3128484`
 - use for: airdrops, local tests, chain recovery
