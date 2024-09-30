@@ -7,12 +7,10 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-terra12aeyaxq699k3f4d3733dl5pstw0ulplku3n45v
-terra18hx3fcqrvynx9vvpvyv5qym82xz4suw5kzfjaq
+terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 ```
 
 ### Active IBC channels `terra2`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
-| osmosis-1 | phoenix-1 | transfer | channel-251 |
+| phoenix-1 | osmosis-1 | transfer | channel-1 |
