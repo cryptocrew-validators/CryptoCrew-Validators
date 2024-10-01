@@ -14,9 +14,9 @@ persistence1yghndrffay859ma2ue4pa2cltw640vta24973e
 ### Active IBC channels `persistence`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| core-1 | gravity-bridge-3 | transfer | channel-38 |
 | core-1 | comdex-1 | transfer | channel-71 |
 | core-1 | neutron-1 | transfer | channel-136 |
-| core-1 | gravity-bridge-3 | transfer | channel-38 |
+| gravity-bridge-3 | core-1 | transfer | channel-24 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | neutron-1 | core-1 | transfer | channel-49 |
-| gravity-bridge-3 | core-1 | transfer | channel-24 |
