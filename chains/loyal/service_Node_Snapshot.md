@@ -4,7 +4,7 @@ loyald version: `v0.25.3`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_9974550.tar.lz4)** | Sun Sep 29 2024 04:36:31 UTC | `loyal-main-02` | 33M | 9974550 | `6ece768a55525d31f16678f10ba887e00572e1fe3d12ba36b6f5fa293cf64431` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_9944809.tar.lz4)** | Fri Sep 27 2024 05:08:58 UTC | `loyal-main-02` | 33M | 9944809 | `b5644d2a5ce77c88f9824a8caf9bc631ef96ba85925f224f6bb3445074c4cbcb` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_10004640.tar.lz4)** | Tue Oct 01 2024 04:36:26 UTC | `loyal-main-02` | 33M | 10004640 | `65a7672a84e67933b90cd185d4943a546f1edd9ac4bda84a67a3e6d02e9f03b2` |
 
 ---
 
@@ -12,7 +12,7 @@ loyald version: `v0.25.3`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_9974550.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_10004640.tar.lz4"
 cd $HOME/.loyal
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_9974550.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_10004640.tar.lz4"
 cd $HOME/.loyal
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
