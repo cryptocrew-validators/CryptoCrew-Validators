@@ -16,4 +16,3 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | phoenix-1 | neutron-1 | transfer | channel-229 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
-| kava_2222-10 | phoenix-1 | transfer | channel-138 |
