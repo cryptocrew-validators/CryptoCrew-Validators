@@ -19,4 +19,3 @@ stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| neutron-1 | stargaze-1 | transfer | channel-18 |
