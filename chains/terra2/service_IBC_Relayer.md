@@ -18,6 +18,4 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | phoenix-1 | neutron-1 | transfer | channel-229 |
-| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
-| migaloo-1 | phoenix-1 | transfer | channel-0 |
 | neutron-1 | phoenix-1 | transfer | channel-25 |
