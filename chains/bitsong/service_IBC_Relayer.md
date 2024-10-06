@@ -14,4 +14,3 @@ bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
-| osmosis-1 | bitsong-2b | transfer | channel-73 |
