@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [akashnet-2 state export](https://dl-eu2.ccvalidators.com/SERVICE/akash/akashnet-2_export_18352078.json)**
+**Download: [akashnet-2 state export](https://dl-eu2.ccvalidators.com/SERVICE/akash/akashnet-2_export_18366210.json)**
 ---
 
-- last updated: Sat Oct 05 2024 09:57:02
+- last updated: Sun Oct 06 2024 09:57:42
 - chain id: `akashnet-2`
-- export height: `18352078`
+- export height: `18366210`
 - use for: airdrops, local tests, chain recovery
