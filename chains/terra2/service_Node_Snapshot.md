@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 terrad version: `v2.12.5`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12398579.tar.lz4)** | Mon Oct 07 2024 12:37:15 UTC | `phoenix-1` | 8.9G | 12398579 | `67d8b8c71243049d6a1d139820be3dfd40eb6b3c7e91c8885690b5e0ed618470` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12384911.tar.lz4)** | Sun Oct 06 2024 12:36:37 UTC | `phoenix-1` | 8.9G | 12384911 | `e25287682b0f154b8ea463b951d77b76eb6ced72bf9ae7e1a041b2f752383ccf` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12371251.tar.lz4)** | Sat Oct 05 2024 12:36:55 UTC | `phoenix-1` | 8.9G | 12371251 | `c55a10e9932d77aa15c5a6d41ade543e432ba1e6a302ed104f402d0ffbd5adf1` |
 
 ---
 
@@ -12,7 +12,7 @@ terrad version: `v2.12.5`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12384911.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12398579.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12384911.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_12398579.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
