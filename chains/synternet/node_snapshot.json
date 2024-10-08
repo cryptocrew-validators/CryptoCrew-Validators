@@ -1,0 +1,12 @@
+{
+  "network": "synternet-1",
+  "height": "1640750",
+  "type": "44a5b380fa48c9d91c0d36d6f1e8e07ecd5d1723e4b686f44529ff3ebe5e5442",
+  "mirror": "EU",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_1640750.tar.lz4",
+  "filename": "synternet-1_1640750.tar.lz4",
+  "date": "2024-10-08 15:15",
+  "database": "goleveldb",
+  "size": "36M",
+  "provider": "CryptoCrew"
+}
