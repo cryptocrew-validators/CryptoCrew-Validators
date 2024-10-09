@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="18.27" y1="-286.35" x2="32.13" y2="-296.46" gradientTransform="translate(0 -266.26) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff4e4d"/>
+      <stop offset=".5" stop-color="#cd00cd"/>
+      <stop offset="1" stop-color="#7f00ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M-201.18-47.57c-2.83-2.84-6.6-4.4-10.61-4.4-8.27,0-15,6.74-15,15.01s6.73,15.01,15,15.01c4.01,0,7.77-1.56,10.61-4.4,2.83-2.84,4.39-6.61,4.39-10.61,0-4.01-1.56-7.78-4.39-10.61Z" fill="#000"/>
+  <g>
+    <path d="M25,6.4h0c10.27,0,18.6,8.33,18.6,18.6h0c0,10.27-8.33,18.6-18.6,18.6h0c-10.27,0-18.6-8.33-18.6-18.6h0C6.4,14.73,14.73,6.4,25,6.4Z" fill="#fff" stroke-width="0"/>
+    <path d="M21.98,15.09c.81-.8,1.88-1.25,3.02-1.25s2.21.44,3.02,1.25c.8.81,1.25,1.87,1.25,3.01s-.44,2.21-1.25,3.01l-3.02,3.01-3.02-3.01c-.8-.81-1.25-1.87-1.25-3.01s.44-2.21,1.25-3.01ZM28.88,21.98c1.66-1.66,4.37-1.66,6.03,0h0c1.66,1.66,1.66,4.37,0,6.03-1.66,1.66-4.37,1.66-6.03,0l-3.02-3.01,3.02-3.01ZM25,25.87l-3.02,3.01c-.8.8-1.25,1.87-1.25,3.01s.44,2.21,1.25,3.01c.8.8,1.88,1.25,3.02,1.25s2.21-.44,3.02-1.25c.8-.8,1.25-1.87,1.25-3.01s-.44-2.21-1.25-3.01l-3.02-3.01ZM15.09,28.01c-1.66-1.66-1.66-4.37,0-6.03h0c1.66-1.66,4.37-1.66,6.03,0l3.02,3.01-3.02,3.01c-1.66,1.66-4.37,1.66-6.03,0Z" fill="url(#linear-gradient)" fill-rule="evenodd" stroke-width="0"/>
+  </g>
+  <metadata>
+    <sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+      <slices/>
+      <sliceSourceBounds x="86.66" y="-312.77" width="1755.13" height="531.43" bottomLeftOrigin="true"/>
+    </sfw>
+  </metadata>
+</svg>
