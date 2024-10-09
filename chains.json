@@ -305,34 +305,6 @@
       "trade_url": "https://fin.kujira.network/trade/kujira193dzcmy7lwuj4eda3zpwwt9ejal00xva0vawcvhgsyyp5cfh6jyq66wfrf"
     },
     {
-      "name": "evmos",
-      "prettyName": "Evmos",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/evmos/logo_evmos.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/evmos/logo_evmos.png",
-      "symbol": "EVMOS",
-      "denom": "atevmos",
-      "decimals": "18",
-      "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
-      "operator_account": "evmos1qhazu8zleyn5chrkxymewx3xw5guq2vmhw3j7j",
-      "relayer_accounts": [
-        "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j"
-      ],
-      "stake_link": "https://wallet.keplr.app/chains/evmos?modal=staking&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0&step_id=2",
-      "restake": {
-        "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/f-9rsLXT-2/EVMOS.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "evmos",
-      "chain_id": "evmos_9001-2",
-      "trade_url": "https://www.huobi.com/en-us/trade/evmos_usdt?invite_code=d8c53"
-    },
-    {
       "name": "injective",
       "prettyName": "Injective",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/injective/logo_injective.svg",
@@ -411,51 +383,6 @@
       "apr": "",
       "coingecko_id": "agoric",
       "chain_id": "agoric-3"
-    },
-    {
-      "name": "mars",
-      "prettyName": "Mars",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mars/logo_mars.png",
-      "symbol": "MARS",
-      "denom": "umars",
-      "decimals": "6",
-      "address": "marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd",
-      "operator_account": "mars1t7jn0208cmk5xky0vhvd0pzec3zuv9z56zcklg",
-      "relayer_accounts": [
-        "mars12aeyaxq699k3f4d3733dl5pstw0ulplk8gsvrh"
-      ],
-      "stake_link": "https://wallet.keplr.app/chains/mars-hub?modal=staking&chain=mars-1&validator_address=marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd&step_id=2",
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-      "chain_id": "mars-1",
-      "trade_url": "https://app.osmosis.zone"
-    },
-    {
-      "name": "axelar",
-      "prettyName": "Axelar",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/axelar/logo_axelar.png",
-      "symbol": "AXL",
-      "denom": "uaxl",
-      "decimals": "6",
-      "address": "axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk",
-      "operator_account": "axelar1zg3g70xsxc28jw7ed36nxh7x70s22ufrw52xpe",
-      "stake_link": "https://wallet.keplr.app/chains/axelar?modal=staking&chain=axelar-dojo-1&validator_address=axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk&step_id=2",
-      "restake": {
-        "address": "axelar1305e92ng6a9pdh3ttc3ld459ckxupxt3nzvt3x",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/tzJyAEQX-2/AXL.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "axelar",
-      "trade_url": "https://pro.coinbase.com/trade/WAXL-USD"
     },
     {
       "name": "persistence",
