@@ -1029,6 +1029,29 @@
       "trade_url": "https://frontier.osmosis.zone"
     },
     {
+      "name": "synternet",
+      "prettyName": "Synternet",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/synternet/logo_synternet.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/synternet/logo_synternet.png",
+      "symbol": "SYNT",
+      "denom": "usynt",
+      "decimals": "6",
+      "address": "syntvaloper1nmwup0ckjs696wqnuja3nufhplx4xsh2c3a9fq",
+      "operator_account": "synt1nmwup0ckjs696wqnuja3nufhplx4xsh25vlp7v",
+      "relayer_accounts": [],
+      "stake_link": "https://restake.app/synternet/syntvaloper1nmwup0ckjs696wqnuja3nufhplx4xsh2c3a9fq",
+      "rpc": [
+        "https://rpc.synternet.com:443"
+      ],
+      "rest": [
+        "https://api.synternet.com:443"
+      ],
+      "apr": "",
+      "coingecko_id": "synternet-synt",
+      "chain_id": "synternet-1",
+      "trade_url": "https://www.kucoin.com/trade/SYNT-USDT"
+    },
+    {
       "name": "radix",
       "prettyName": "Radix",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/radix/logo_radix.svg",
