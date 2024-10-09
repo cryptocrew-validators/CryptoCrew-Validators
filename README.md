@@ -104,6 +104,7 @@ https://ccvalidators.com
 | `Bitsong` | `bitsong-2b` | `bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda` | [delegate BTSG](https://restake.app/bitsong/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda) |
 | `Chain 4 Energy` | `perun-1` | `c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae` | [delegate C4E](https://restake.app/chain4energy/c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae) |
 | `Odin` | `odin-mainnet-freya` | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z` | [delegate ODIN](https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
+| `Synternet` | `synternet-1` | `syntvaloper1nmwup0ckjs696wqnuja3nufhplx4xsh2c3a9fq` | [delegate SYNT](https://restake.app/synternet/syntvaloper1nmwup0ckjs696wqnuja3nufhplx4xsh2c3a9fq) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8) |
 | `Avail` | `mainnet` | `5HB3SEzH6cP5BE4S6rwhXoji7wy1VQkDX7kb4yQ92TPGhgwF` | [delegate AVAIL](https://explorer.avail.so/#/staking) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
