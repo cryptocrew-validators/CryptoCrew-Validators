@@ -32,7 +32,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
@@ -47,7 +46,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
