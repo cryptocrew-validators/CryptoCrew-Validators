@@ -13,5 +13,4 @@ band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c
 ### Active IBC channels `bandchain`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| laozi-mainnet | comdex-1 | oracle | channel-96 |
 | comdex-1 | laozi-mainnet | bandoracleV1 | channel-43 |
