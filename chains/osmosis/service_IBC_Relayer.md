@@ -38,7 +38,6 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | comdex-1 | transfer | channel-87 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
@@ -63,5 +62,4 @@ osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
