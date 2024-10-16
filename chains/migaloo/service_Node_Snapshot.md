@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 migalood version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9181294.tar.lz4)** | Mon Oct 14 2024 00:59:12 UTC | `migaloo-1` | 868M | 9181294 | `efa7355a71de118f04c62f6056f12667df73e951f6be1d07d834504425f933f8` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9181277.tar.lz4)** | Mon Oct 14 2024 00:57:27 UTC | `migaloo-1` | 868M | 9181277 | `a73fd4d31745c1eb0514dd614b7d7b96e6d9d24e5eba5a41f3543fbe4790460e` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9211778.tar.lz4)** | Wed Oct 16 2024 01:10:30 UTC | `migaloo-1` | 801M | 9211778 | `bee187dc22a2503646a3beda41eae4964b85708db4826527febfeafd23e7a87f` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9181294.tar.lz4)** | Tue Oct 15 2024 12:25:27 UTC | `migaloo-1` | 868M | 9181294 | `efa7355a71de118f04c62f6056f12667df73e951f6be1d07d834504425f933f8` |
 
 ---
 
@@ -12,7 +12,7 @@ migalood version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9181294.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9211778.tar.lz4"
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9181294.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9211778.tar.lz4"
 cd $HOME/.migalood
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
