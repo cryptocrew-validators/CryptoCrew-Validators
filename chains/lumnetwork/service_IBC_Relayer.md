@@ -15,3 +15,4 @@ lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg
 | --------------- | --------------- | ------------ | ------------------- |
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | lum-network-1 | osmosis-1 | transfer | channel-3 |
+| osmosis-1 | lum-network-1 | transfer | channel-115 |
