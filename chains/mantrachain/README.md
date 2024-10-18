@@ -1,6 +1,6 @@
 # Mantrachain Service Directory
 
-This directory contains important files and information for the Mantrachain service, including snapshots, live peers, genesis files, and more. Use the links below to access the relevant files.
+This directory contains important files and information for Mantrachain mainnet, including snapshots, live peers, genesis files, and more. Use the links below to access the relevant files.
 
 ## Files
 
