@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/comdex/addrbook.json)**
 ---
 
-- last updated: Fri Oct 18 2024 11:42:31
+- last updated: Sat Oct 19 2024 11:43:08
 - chain id: `comdex-1`
-- available peers: 273
-- total peers (network scan): 273
+- available peers: 215
+- total peers (network scan): 258
 
 ## Instructions
 ```sh
