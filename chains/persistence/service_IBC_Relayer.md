@@ -13,7 +13,7 @@ persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm
 ### Active IBC channels `persistence`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| core-1 | comdex-1 | transfer | channel-71 |
 | core-1 | gravity-bridge-3 | transfer | channel-38 |
-| comdex-1 | core-1 | transfer | channel-57 |
+| core-1 | comdex-1 | transfer | channel-71 |
 | gravity-bridge-3 | core-1 | transfer | channel-24 |
+| comdex-1 | core-1 | transfer | channel-57 |
