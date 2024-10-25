@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gaiad version: `v20.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22748845.tar.lz4)** | Wed Oct 23 2024 14:32:26 UTC | `cosmoshub-4` | 213G | 22748845 | `c1e1d3d3f970f88b003bceb2d737e5bada648e1b954587442b2de613895fae3c` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22732311.tar.lz4)** | Tue Oct 22 2024 12:23:51 UTC | `cosmoshub-4` | 429G | 22732311 | `1cee83d2bfc732dee7a2007c268f082dd4ca623b1d4853ef1c35debd9478d1c1` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22778038.tar.lz4)** | Fri Oct 25 2024 14:34:30 UTC | `cosmoshub-4` | 227G | 22778038 | `63a569b7987875234371975acbead53179120bba21ba6be317c35e33753d39ff` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22761554.tar.lz4)** | Thu Oct 24 2024 12:42:20 UTC | `cosmoshub-4` | 458G | 22761554 | `65dc1294169790fbf61b172375c69e81b33085ba33c930673893721d4eb25ace` |
 
 ---
 
@@ -12,7 +12,7 @@ gaiad version: `v20.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22748845.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22778038.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22748845.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_22778038.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
