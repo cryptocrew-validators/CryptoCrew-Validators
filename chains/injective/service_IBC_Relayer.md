@@ -13,4 +13,4 @@ inj1t6652af4jvlahqrklleg8rac3ufpmeajgeugnd
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
+| neutron-1 | injective-1 | transfer | channel-60 |
