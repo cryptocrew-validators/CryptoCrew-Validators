@@ -15,10 +15,6 @@ osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk
 osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
 osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
-osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
-osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
-osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
-osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 ```
 
 ### Active IBC channels `osmosis`:
@@ -34,8 +30,8 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | noble-1 | transfer | channel-750 |
+| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| noble-1 | osmosis-1 | transfer | channel-1 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
@@ -61,5 +57,3 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
-| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| noble-1 | osmosis-1 | transfer | channel-1 |
