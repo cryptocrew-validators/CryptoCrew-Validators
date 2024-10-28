@@ -19,7 +19,7 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | comdex-1 | core-1 | transfer | channel-57 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
 | comdex-1 | secret-4 | transfer | channel-65 |
+| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | chihuahua-1 | comdex-1 | transfer | channel-37 |
 | core-1 | comdex-1 | transfer | channel-71 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
-| gravity-bridge-3 | comdex-1 | transfer | channel-112 |
