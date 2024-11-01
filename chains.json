@@ -200,7 +200,7 @@
       "address": "mantravaloper1maxq9hma5h89ham2uvtfmv9uqujfratjyfchph",
       "operator_account": "mantra1maxq9hma5h89ham2uvtfmv9uqujfratjqjeedj",
       "relayer_accounts": [],
-      "stake_link": "",
+      "stake_link": "https://wallet.keplr.app/chains/mantra?modal=staking&chain=mantra-1&validator_address=mantravaloper1maxq9hma5h89ham2uvtfmv9uqujfratjyfchph&step_id=2",
       "rpc": [],
       "rest": [],
       "apr": "",
