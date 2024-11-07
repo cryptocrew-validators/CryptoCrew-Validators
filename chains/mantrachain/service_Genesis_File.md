@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/mantrachain/genesis.json)**
 ---
 
-- last updated: Wed Nov 06 2024 08:13:57
+- last updated: Thu Nov 07 2024 08:13:54
 - chain id: `mantra-1`
 
 ## Instructions
