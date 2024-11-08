@@ -15,6 +15,6 @@ akash18hx3fcqrvynx9vvpvyv5qym82xz4suw5aa74x6
 ### Active IBC channels `akash`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
 | akashnet-2 | kava_2222-10 | transfer | channel-37 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
 | kava_2222-10 | akashnet-2 | transfer | channel-5 |
