@@ -14,4 +14,3 @@ band16m48j88mlw2smhc8nyurznt4jl9nqgyq3dnr0c
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
-| osmosis-1 | laozi-mainnet | transfer | channel-148 |
