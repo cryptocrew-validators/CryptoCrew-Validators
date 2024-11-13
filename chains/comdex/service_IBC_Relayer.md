@@ -8,7 +8,6 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 Active Relayer Accounts:
 ```
 comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8
-comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2
 comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 ```
 
@@ -17,12 +16,10 @@ comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g
 | --------------- | --------------- | ------------ | ------------------- |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | comdex-1 | secret-4 | transfer | channel-65 |
-| comdex-1 | neutron-1 | transfer | channel-89 |
 | comdex-1 | juno-1 | transfer | channel-18 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | comdex-1 | core-1 | transfer | channel-57 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
-| neutron-1 | comdex-1 | transfer | channel-73 |
 | gravity-bridge-3 | comdex-1 | transfer | channel-112 |
 | chihuahua-1 | comdex-1 | transfer | channel-37 |
 | core-1 | comdex-1 | transfer | channel-71 |
