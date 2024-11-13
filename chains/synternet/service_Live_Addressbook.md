@@ -6,7 +6,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/synternet/addrbook.json)**
 ---
 
-- last updated: Tue Nov 12 2024 15:16:56
+- last updated: Wed Nov 13 2024 15:16:52
 - chain id: `synternet-1`
 - available peers: 28
 - total peers (network scan): 28
