@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/osmosis/genesis.json)**
 ---
 
-- last updated: Tue Nov 12 2024 15:47:19
+- last updated: Thu Nov 14 2024 15:51:45
 - chain id: `osmosis-1`
 
 ## Instructions
