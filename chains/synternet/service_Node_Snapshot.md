@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 syntd version: `v0.19.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2239629.tar.lz4)** | Fri Nov 15 2024 15:15:09 UTC | `synternet-1` | 299M | 2239629 | `8c4760678521ef31c9fa0980d0eb67d7ad7dbfd733d278710f211a18319a009d` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2223744.tar.lz4)** | Thu Nov 14 2024 15:15:11 UTC | `synternet-1` | 285M | 2223744 | `cb29b23d8f81357e00a7cc156f4d751bea5b0ffb9cc0160180b41bed7b2608db` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2207925.tar.lz4)** | Wed Nov 13 2024 15:15:09 UTC | `synternet-1` | 295M | 2207925 | `cfdfc16e81debdfbcf43ba93d4f4c1eae0863eb99cf580e28de8861cd7c90de2` |
 
 ---
 
@@ -12,7 +12,7 @@ syntd version: `v0.19.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2223744.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2239629.tar.lz4"
 cd $HOME/.amber
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2223744.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/synternet/synternet-1_2239629.tar.lz4"
 cd $HOME/.amber
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
