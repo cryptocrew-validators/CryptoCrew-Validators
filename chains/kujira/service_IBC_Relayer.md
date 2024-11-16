@@ -23,7 +23,6 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
-| kava_2222-10 | kaiyo-1 | transfer | channel-116 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
