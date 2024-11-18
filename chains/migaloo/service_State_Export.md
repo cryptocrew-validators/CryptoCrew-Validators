@@ -5,7 +5,7 @@ CryptoCrew provides automatic daily state exports for all chains we validate. St
 **Download: [migaloo-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/migaloo/migaloo-1_export_9643748.json)**
 ---
 
-- last updated: Sat Nov 16 2024 00:48:16
+- last updated: Mon Nov 18 2024 00:56:17
 - chain id: `migaloo-1`
 - export height: `9643748`
 - use for: airdrops, local tests, chain recovery
