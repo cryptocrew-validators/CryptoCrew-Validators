@@ -3,7 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 migalood version: `latest`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9643748.tar.lz4)** | Sat Nov 16 2024 00:45:57 UTC | `migaloo-1` | 1.0G | 9643748 | `88329f80bb092eddd3e08e3c9b5ae87092ed39b557bf16bfc75dea94661f8fd4` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/migaloo/migaloo-1_9643748.tar.lz4)** | Mon Nov 18 2024 00:45:56 UTC | `migaloo-1` | 1.0G | 9643748 | `654da9b912b26f827ef629d5739b9b4317f2bb2e03fc7ca3b568df7e2d05050f` |
 
 ---
 
