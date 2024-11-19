@@ -17,4 +17,3 @@ terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | migaloo-1 | phoenix-1 | transfer | channel-0 |
-| kava_2222-10 | phoenix-1 | transfer | channel-138 |
