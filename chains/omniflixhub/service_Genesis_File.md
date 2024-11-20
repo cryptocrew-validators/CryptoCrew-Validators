@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/omniflixhub/genesis.json)**
 ---
 
-- last updated: Tue Nov 19 2024 16:11:25
+- last updated: Wed Nov 20 2024 05:03:29
 - chain id: `omniflixhub-1`
 
 ## Instructions
