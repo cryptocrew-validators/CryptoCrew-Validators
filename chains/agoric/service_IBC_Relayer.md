@@ -15,3 +15,4 @@ agoric18hx3fcqrvynx9vvpvyv5qym82xz4suw5zm3d0k
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
+| osmosis-1 | agoric-3 | transfer | channel-320 |
