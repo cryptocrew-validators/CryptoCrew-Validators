@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/omniflixhub/addrbook.json)**
 ---
 
-- last updated: Wed Nov 20 2024 05:03:29
+- last updated: Thu Nov 21 2024 16:13:05
 - chain id: `omniflixhub-1`
-- available peers: 191
-- total peers (network scan): 115
+- available peers: 113
+- total peers (network scan): 113
 
 ## Instructions
 ```sh
