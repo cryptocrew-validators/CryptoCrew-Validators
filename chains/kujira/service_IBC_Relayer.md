@@ -15,13 +15,16 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| kaiyo-1 | secret-4 | transfer | channel-10 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| kaiyo-1 | phoenix-1 | transfer | channel-5 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | juno-1 | transfer | channel-2 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
+| secret-4 | kaiyo-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-46 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | juno-1 | kaiyo-1 | transfer | channel-87 |
