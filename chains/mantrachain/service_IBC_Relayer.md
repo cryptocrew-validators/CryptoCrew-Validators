@@ -14,4 +14,3 @@ mantra12aeyaxq699k3f4d3733dl5pstw0ulplk37r34k
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | mantra-1 | injective-1 | transfer | channel-2 |
-| injective-1 | mantra-1 | transfer | channel-363 |
