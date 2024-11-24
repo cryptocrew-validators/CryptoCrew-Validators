@@ -13,12 +13,12 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
-        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
-        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
         "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02",
-        "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy"
+        "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy",
+        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
+        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2",
       "restake": {
@@ -46,6 +46,10 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
+        "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
+        "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
+        "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
+        "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk",
         "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
         "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
         "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
@@ -53,11 +57,7 @@
         "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
         "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv",
         "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
-        "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
-        "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
-        "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
-        "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk"
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -250,8 +250,7 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
-        "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u",
-        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa"
+        "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "rpc": [
@@ -305,6 +304,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
+        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh",
         "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
         "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594"
       ],
@@ -444,6 +444,7 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
         "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
@@ -593,6 +594,7 @@
       "address": "nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "operator_account": "nolus1nryk8vpd75d2nvld2hej0nfal64qm3wp2mtatv",
       "relayer_accounts": [
+        "nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac",
         "nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f"
       ],
       "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
