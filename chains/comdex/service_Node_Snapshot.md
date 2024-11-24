@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 comdex version: `v14.1.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15726445.tar.lz4)** | Fri Nov 22 2024 11:38:41 UTC | `comdex-1` | 3.6G | 15726445 | `d537122cf77cfb2b8e085f10f0c7032d9c8109f67d58801f25d6c9740f024a0d` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15712384.tar.lz4)** | Thu Nov 21 2024 11:39:17 UTC | `comdex-1` | 3.6G | 15712384 | `0bfcdb3a5eac204c6ef64aead745a7820702345a5a18d6a2395a8254eb7e22c1` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15754228.tar.lz4)** | Sun Nov 24 2024 11:38:37 UTC | `comdex-1` | 3.7G | 15754228 | `4857136395c9c1f60838dcc2e41dc32c4663370cdbb4d8750961fcd8861d118e` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15740318.tar.lz4)** | Sat Nov 23 2024 11:39:38 UTC | `comdex-1` | 3.3G | 15740318 | `bd1e9ce8ea69b6ca9d97b5b4e470dd76fcfbc0205f3f6678983153a54438980b` |
 
 ---
 
@@ -12,7 +12,7 @@ comdex version: `v14.1.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15726445.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15754228.tar.lz4"
 cd $HOME/.comdex
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15726445.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/comdex/comdex-1_15754228.tar.lz4"
 cd $HOME/.comdex
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
