@@ -16,10 +16,10 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | --------------- | --------------- | ------------ | ------------------- |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| kaiyo-1 | phoenix-1 | transfer | channel-36 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | juno-1 | transfer | channel-2 |
-| migaloo-1 | kaiyo-1 | transfer | channel-8 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
