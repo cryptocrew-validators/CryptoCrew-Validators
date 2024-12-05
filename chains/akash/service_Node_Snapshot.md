@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 akash version: `v0.36.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19193809.tar.lz4)** | Tue Dec 03 2024 09:48:53 UTC | `akashnet-2` | 4.7G | 19193809 | `4998c717cdd8727a421fb5d6d9c47775f7c1d976ccb1a21f1bf6dffa75f6327b` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19179625.tar.lz4)** | Mon Dec 02 2024 09:50:28 UTC | `akashnet-2` | 4.7G | 19179625 | `6b87d859aab780903d732862e010dd8da532d1b3937c1bc1fe77508e08ed8e56` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19222255.tar.lz4)** | Thu Dec 05 2024 09:48:51 UTC | `akashnet-2` | 4.7G | 19222255 | `18c3e08a012152223d9daf94ab96bd573760886c62f9a2220005119e1ae9a2a3` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19208031.tar.lz4)** | Wed Dec 04 2024 09:50:08 UTC | `akashnet-2` | 4.8G | 19208031 | `42dc861cfbcefa9d1caf20fd0386af76575f638c309ffa5c3eb3dad5852eda99` |
 
 ---
 
@@ -12,7 +12,7 @@ akash version: `v0.36.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19193809.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19222255.tar.lz4"
 cd $HOME/.akash
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19193809.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19222255.tar.lz4"
 cd $HOME/.akash
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
