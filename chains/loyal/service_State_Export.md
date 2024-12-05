@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [loyal-main-02 state export](https://dl-eu2.ccvalidators.com/SERVICE/loyal/loyal-main-02_export_10951993.json)**
+**Download: [loyal-main-02 state export](https://dl-eu2.ccvalidators.com/SERVICE/loyal/loyal-main-02_export_10982253.json)**
 ---
 
-- last updated: Tue Dec 03 2024 04:39:24
+- last updated: Thu Dec 05 2024 04:39:04
 - chain id: `loyal-main-02`
-- export height: `10951993`
+- export height: `10982253`
 - use for: airdrops, local tests, chain recovery
