@@ -211,6 +211,27 @@
       "trade_url": "https://www.binance.com/en/trade/OM_USDT"
     },
     {
+      "name": "xion",
+      "prettyName": "Xion",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/xion/logo_xion.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/xion/logo_xion.png",
+      "symbol": "XION",
+      "denom": "uxion",
+      "decimals": "6",
+      "address": "xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67",
+      "operator_account": "xion15vdz44lyndpn0lf7vqqe0rkprnamwxx2a4hsjd",
+      "relayer_accounts": [
+        
+      ],
+      "stake_link": "https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "xion-2",
+      "chain_id": "xion-mainnet-1",
+      "trade_url": "https://app.osmosis.zone/?to=XION"
+    },
+    {
       "name": "secretnetwork",
       "prettyName": "Secret Network",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/secretnetwork/logo_secretnetwork.svg",
