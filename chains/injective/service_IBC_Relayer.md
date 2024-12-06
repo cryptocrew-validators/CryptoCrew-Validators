@@ -15,5 +15,4 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | celestia | transfer | channel-152 |
-| neutron-1 | injective-1 | transfer | channel-60 |
 | mantra-1 | injective-1 | transfer | channel-2 |

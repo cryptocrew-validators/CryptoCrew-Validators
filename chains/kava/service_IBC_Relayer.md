@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt
 kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
-kava1yghndrffay859ma2ue4pa2cltw640vtacvhsf6
 ```
 
 ### Active IBC channels `kava`:
@@ -21,8 +20,6 @@ kava1yghndrffay859ma2ue4pa2cltw640vtacvhsf6
 | kava_2222-10 | phoenix-1 | transfer | channel-138 |
 | kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
 | kava_2222-10 | akashnet-2 | transfer | channel-5 |
-| kava_2222-10 | neutron-1 | transfer | channel-136 |
 | akashnet-2 | kava_2222-10 | transfer | channel-37 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
-| neutron-1 | kava_2222-10 | transfer | channel-36 |
