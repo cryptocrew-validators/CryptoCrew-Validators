@@ -19,11 +19,11 @@ kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
 | kaiyo-1 | comdex-1 | transfer | channel-18 |
 | kaiyo-1 | juno-1 | transfer | channel-2 |
-| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
+| neutron-1 | kaiyo-1 | transfer | channel-3 |
 | comdex-1 | kaiyo-1 | transfer | channel-31 |
 | juno-1 | kaiyo-1 | transfer | channel-87 |
 | juno-1 | kaiyo-1 | transfer | channel-88 |
