@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/gravitybridge/addrbook.json)**
 ---
 
-- last updated: Sat Dec 07 2024 13:59:38
+- last updated: Sun Dec 08 2024 16:41:37
 - chain id: `gravity-bridge-3`
-- available peers: 522
-- total peers (network scan): 1316
+- available peers: 1286
+- total peers (network scan): 1309
 
 ## Instructions
 ```sh
