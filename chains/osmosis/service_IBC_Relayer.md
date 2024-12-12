@@ -39,6 +39,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | nois-1 | transfer | channel-8277 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
