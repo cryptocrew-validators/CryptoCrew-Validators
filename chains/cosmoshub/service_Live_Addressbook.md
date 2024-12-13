@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/cosmoshub/addrbook.json)**
 ---
 
-- last updated: Thu Dec 12 2024 12:22:47
+- last updated: Fri Dec 13 2024 16:32:50
 - chain id: `cosmoshub-4`
-
-- total peers (network scan): 1354
+- available peers: 1431
+- total peers (network scan): 1431
 
 ## Instructions
 ```sh
