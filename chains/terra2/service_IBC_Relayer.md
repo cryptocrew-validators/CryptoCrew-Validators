@@ -18,5 +18,5 @@ terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | phoenix-1 | neutron-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-554 |
-| neutron-1 | phoenix-1 | transfer | channel-5389 |
 | kava_2222-10 | phoenix-1 | transfer | channel-138 |
+| neutron-1 | phoenix-1 | transfer | channel-5389 |
