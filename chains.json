@@ -220,7 +220,7 @@
       "relayer_accounts": [],
       "stake_link": "https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67",
       "rpc": [],
-      "rest": [],
+      "rest": ["https://api.xion-mainnet-1.burnt.com"],
       "apr": "",
       "coingecko_id": "xion-2",
       "chain_id": "xion-mainnet-1",
