@@ -18,10 +18,10 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | dungeon-1 | transfer | channel-1200 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
