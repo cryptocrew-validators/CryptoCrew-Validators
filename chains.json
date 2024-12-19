@@ -462,7 +462,7 @@
       "relayer_accounts": [],
       "stake_link": "https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh",
       "rpc": [
-        "https://rpc-fuel-seq.simplystaking.xyz/"
+        "https://rpc-fuel-seq.simplystaking.xyz:443"
       ],
       "rest": [
         "https://rest-fuel-seq.simplystaking.xyz:443"
