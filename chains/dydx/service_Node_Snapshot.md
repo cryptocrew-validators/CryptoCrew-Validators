@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dydxprotocold version: `v7.0.2`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32819730.tar.lz4)** | Thu Dec 19 2024 09:52:18 UTC | `dydx-mainnet-1` | 127G | 32819730 | `bbba6b58c916117561a2f0105a3952220eb35ecbfa6058acabef416eeb6e0905` |
 | **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32742084.tar.lz4)** | Wed Dec 18 2024 09:40:38 UTC | `dydx-mainnet-1` | 127G | 32742084 | `fbbbd38ff8100d3fc9e80356bcd619979bfdd0dc091c3860ce5a144db6cf9246` |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32666964.tar.lz4)** | Tue Dec 17 2024 09:50:47 UTC | `dydx-mainnet-1` | 126G | 32666964 | `65935dc5ae85c37318fc560f5c29c5f3f30cf3478e88cb7357d62e7fba3a417b` |
 
 ---
 
@@ -12,7 +12,7 @@ dydxprotocold version: `v7.0.2`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32742084.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32819730.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32742084.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_32819730.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
