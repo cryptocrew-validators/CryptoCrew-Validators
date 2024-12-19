@@ -429,6 +429,50 @@
       "chain_id": "agoric-3"
     },
     {
+      "name": "penumbra",
+      "prettyName": "Penumbra",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/penumbra/logo_penumbra.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/penumbra/logo_penumbra.png",
+      "symbol": "UM",
+      "denom": "penumbra",
+      "decimals": "6",
+      "address": "penumbravalid1rp3ensht938kegyckygsnu7pjvzj3vvcxys842jywzct7t3nfupslhnpy4",
+      "operator_account": "penumbravalid1rp3ensht938kegyckygsnu7pjvzj3vvcxys842jywzct7t3nfupslhnpy4",
+      "relayer_accounts": [],
+      "stake_link": "https://eclipse.in.net/#/staking",
+      "rpc": [
+        "https://void.s9.gay:443"
+      ],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "penumbra",
+      "chain_id": "mainnet",
+      "trade_url": "https://app.osmosis.zone/?from=ibc/0FA9232B262B89E77D1335D54FB1E1F506A92A7E4B51524B400DC69C68D28372&to=ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+    },
+    {
+      "name": "fuel",
+      "prettyName": "FUEL",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/fuel/logo_fuel.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/fuel/logo_fuel.png",
+      "symbol": "FUEL",
+      "denom": "fuel",
+      "decimals": "9",
+      "address": "fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh",
+      "operator_account": "fuelsequencer1tqvdcnuflw7w59vppp0ya2ue75xcrq6xtx2eul",
+      "relayer_accounts": [],
+      "stake_link": "https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh",
+      "rpc": [
+        "https://rpc-fuel-seq.simplystaking.xyz/"
+      ],
+      "rest": [
+        "https://rest-fuel-seq.simplystaking.xyz:443"
+      ],
+      "apr": "",
+      "coingecko_id": "fuel-network",
+      "chain_id": "seq-mainnet-1",
+      "trade_url": "https://www.bitget.com/spot/FUELUSDT"
+    },
+    {
       "name": "persistence",
       "prettyName": "Persistence",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/persistence/logo_persistence.svg",
