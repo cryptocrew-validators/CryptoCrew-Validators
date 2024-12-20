@@ -325,6 +325,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
+        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh",
         "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk",
         "kujira15md2qvgma8lnvqv67w0umu2paqkqkheggzm594"
       ],
@@ -483,7 +484,6 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "operator_account": "persistence1l9m7l6l8k8g7ss7mgjwjgchpclrt74a24qv6hu",
       "relayer_accounts": [
-        "persistence1yghndrffay859ma2ue4pa2cltw640vta24973e",
         "persistence15md2qvgma8lnvqv67w0umu2paqkqkheghxllxm"
       ],
       "stake_link": "https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2",
@@ -510,7 +510,6 @@
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
-        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
