@@ -441,7 +441,7 @@
       "relayer_accounts": [],
       "stake_link": "https://eclipse.in.net/#/staking",
       "rpc": [
-        "https://void.s9.gay:443"
+        "void.s9.gay:443"
       ],
       "rest": [],
       "apr": "",
