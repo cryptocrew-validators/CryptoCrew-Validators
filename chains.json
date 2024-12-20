@@ -46,6 +46,8 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
+        "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
+        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
         "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
         "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
@@ -55,9 +57,7 @@
         "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
         "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
         "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
-        "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv",
-        "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
-        "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
+        "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -509,8 +509,8 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
-        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
