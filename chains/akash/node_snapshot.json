@@ -1,12 +1,12 @@
 {
   "network": "akashnet-2",
-  "height": "19449178",
-  "type": "af464a51327d413a70773ab83df1d0aeb1f1ee7e30a88eb328bfc6ecf00cef4d",
+  "height": "19463341",
+  "type": "e45e1fa58558f3795d4cde762184ed8692cafe954c4056d0f72617ece0e2fb47",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19449178.tar.lz4",
-  "filename": "akashnet-2_19449178.tar.lz4",
-  "date": "2024-12-21 09:49",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_19463341.tar.lz4",
+  "filename": "akashnet-2_19463341.tar.lz4",
+  "date": "2024-12-22 09:50",
   "database": "goleveldb",
-  "size": "5.2G",
+  "size": "5.1G",
   "provider": "CryptoCrew"
 }
