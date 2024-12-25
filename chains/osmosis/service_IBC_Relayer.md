@@ -31,7 +31,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | stride-1 | icahost | channel-430 |
@@ -40,6 +39,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | nois-1 | transfer | channel-8277 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
@@ -55,7 +55,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
