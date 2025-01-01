@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-junod version: `v25.0.0`
+junod version: `v26.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22496816.tar.lz4)** | Fri Dec 27 2024 11:37:15 UTC | `juno-1` | 9.1G | 22496816 | `a8fb5b81114279feedc1b925cb4d881ac30c0172b26e95babdfeca65073e1107` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22436512.tar.lz4)** | Wed Dec 25 2024 11:36:56 UTC | `juno-1` | 9.1G | 22436512 | `14ca7f8102c18ef369c0c421c49df663789f9ac47a20d4a01ae4641722846fc9` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22647087.tar.lz4)** | Wed Jan 01 2025 11:36:06 UTC | `juno-1` | 9.1G | 22647087 | `c2867c9f467b131a286b84c4edc07fdf45bc29c9b9690264517d082c9fbe47dd` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22616742.tar.lz4)** | Tue Dec 31 2024 11:37:16 UTC | `juno-1` | 9.1G | 22616742 | `370bb8fa366ce70650a284120db0bbb75ce0ce35ee03826c9ebf6e62af26ae79` |
 
 ---
 
@@ -12,7 +12,7 @@ junod version: `v25.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22496816.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22647087.tar.lz4"
 cd $HOME/.juno
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22496816.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/juno/juno-1_22647087.tar.lz4"
 cd $HOME/.juno
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
