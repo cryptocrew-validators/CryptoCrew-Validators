@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/akash/genesis.json)**
 ---
 
-- last updated: Mon Dec 30 2024 10:05:04
+- last updated: Wed Jan 01 2025 10:02:15
 - chain id: `akashnet-2`
 
 ## Instructions
