@@ -1,12 +1,12 @@
 {
   "network": "celestia",
-  "height": "3342044",
-  "type": "35e10c5fe005dcbf891e8a1fbefd5976794504160b941f238576d0744fd92cdf",
+  "height": "3358103",
+  "type": "67c298670f284ba39cb78e0cdd9d5535f32731b777316b896a56e4660cbba4a9",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_3342044.tar.lz4",
-  "filename": "celestia_3342044.tar.lz4",
-  "date": "2025-01-02 17:30",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_3358103.tar.lz4",
+  "filename": "celestia_3358103.tar.lz4",
+  "date": "2025-01-03 17:30",
   "database": "goleveldb",
-  "size": "6.1G",
+  "size": "6.2G",
   "provider": "CryptoCrew"
 }
