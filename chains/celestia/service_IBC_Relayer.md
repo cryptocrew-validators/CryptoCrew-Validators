@@ -7,20 +7,19 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s
+celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da
 celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac
 celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d
-celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s
-celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 ```
 
 ### Active IBC channels `celestia`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| celestia | osmosis-1 | transfer | channel-2 |
-| celestia | neutron-1 | icahost | channel-54 |
 | celestia | neutron-1 | icahost | channel-57 |
 | celestia | neutron-1 | transfer | channel-8 |
-| osmosis-1 | celestia | transfer | channel-6994 |
+| celestia | osmosis-1 | transfer | channel-2 |
 | neutron-1 | celestia | transfer | channel-35 |
-| neutron-1 | celestia | icacontroller-neutron1mtyp7tyq2rt4nk9qe3l3mmun5zy3k84s9ccndt6z7g6rwuyllqlq6kafzy.drop_PUMP | channel-6027 |
+| neutron-1 | celestia | icacontroller-neutron1vqtnu54addf87qp73fnjvqafruzkr2zjgswkhsmsg45t08wla2nqqan0hc.DROP | channel-6028 |
+| osmosis-1 | celestia | transfer | channel-6994 |
