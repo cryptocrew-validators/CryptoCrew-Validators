@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 omniflixhubd version: `v5.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15599299.tar.lz4)** | Sun Jan 05 2025 16:06:48 UTC | `omniflixhub-1` | 12G | 15599299 | `003984499f4b9628e7dcfa6ab86018aab63a4175a5310d273152e1a29cde639f` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15577432.tar.lz4)** | Sat Jan 04 2025 04:57:47 UTC | `omniflixhub-1` | 11G | 15577432 | `83a0ee36305a75ae1172de3bc8aa6e82d67972b8409e35110ea7ae5646faabc6` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15629258.tar.lz4)** | Tue Jan 07 2025 16:05:59 UTC | `omniflixhub-1` | 12G | 15629258 | `d8dd96ef04d5c2711b689d54fd22d14e70274808748a54795a0a0fd09fc7af50` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15607353.tar.lz4)** | Mon Jan 06 2025 04:58:11 UTC | `omniflixhub-1` | 11G | 15607353 | `9e639986fbb6f32a2e649e791da4c9d0e7a9d621e915d034f189ce8957166e78` |
 
 ---
 
@@ -12,7 +12,7 @@ omniflixhubd version: `v5.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15599299.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15629258.tar.lz4"
 cd $HOME/.omniflixhub
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15599299.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/omniflixhub/omniflixhub-1_15629258.tar.lz4"
 cd $HOME/.omniflixhub
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
