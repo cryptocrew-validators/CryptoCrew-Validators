@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 quicksilverd version: `v1.7.5`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10828673.tar.lz4)** | Tue Jan 07 2025 11:41:43 UTC | `quicksilver-2` | 2.7G | 10828673 | `131cf23eb723be6c898611d9f4e15afde37803aecb1243185b84031cab335c47` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10798528.tar.lz4)** | Sun Jan 05 2025 11:41:45 UTC | `quicksilver-2` | 2.7G | 10798528 | `ff5444bfe3e786c25f82f6188414fa4d4bf6353a8d09938cba96d5d716738b28` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10888841.tar.lz4)** | Sat Jan 11 2025 11:41:43 UTC | `quicksilver-2` | 2.7G | 10888841 | `5f3e1416ce897a6427918c08b2b284867515b5b806cdf9a58dc1435ebe618aed` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10858671.tar.lz4)** | Thu Jan 09 2025 11:41:50 UTC | `quicksilver-2` | 2.9G | 10858671 | `a57927deb364f7fb424a18a9f3cb7a1aba75b7c79fc1261526b7e807953dc44a` |
 
 ---
 
@@ -12,7 +12,7 @@ quicksilverd version: `v1.7.5`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10828673.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10888841.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10828673.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_10888841.tar.lz4"
 cd $HOME/.quicksilverd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
