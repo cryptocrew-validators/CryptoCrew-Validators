@@ -17,4 +17,5 @@ migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3
 | migaloo-1 | chihuahua-1 | transfer | channel-10 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | chihuahua-1 | migaloo-1 | transfer | channel-39 |
+| juno-1 | migaloo-1 | transfer | channel-210 |
 | kaiyo-1 | migaloo-1 | transfer | channel-58 |
