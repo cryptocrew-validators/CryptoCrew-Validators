@@ -21,5 +21,4 @@ chihuahua15md2qvgma8lnvqv67w0umu2paqkqkheg6l5zfa
 | chihuahua-1 | comdex-1 | transfer | channel-37 |
 | migaloo-1 | chihuahua-1 | transfer | channel-10 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| neutron-1 | chihuahua-1 | transfer | channel-51 |
 | comdex-1 | chihuahua-1 | transfer | channel-61 |
