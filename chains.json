@@ -46,6 +46,9 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "operator_account": "osmo1h2c47vd943scjlfum6yc5frvu2l279lwgwfh6a",
       "relayer_accounts": [
+        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
+        "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
+        "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv",
         "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
         "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d",
         "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
@@ -54,10 +57,7 @@
         "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk",
         "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
         "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
-        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
-        "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
-        "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv"
+        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -629,8 +629,8 @@
       "address": "comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
       "operator_account": "comdex10d87jx68zygmwagu9ggzxpept07zs7nmtk7qam",
       "relayer_accounts": [
-        "comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2",
         "comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8",
+        "comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2",
         "comdex15md2qvgma8lnvqv67w0umu2paqkqkheg79mw3g"
       ],
       "stake_link": "https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
