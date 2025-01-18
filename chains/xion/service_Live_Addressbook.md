@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/xion/addrbook.json)**
 ---
 
-- last updated: Fri Jan 17 2025 11:56:37
+- last updated: Sat Jan 18 2025 11:52:59
 - chain id: `xion-mainnet-1`
-- available peers: 342
-- total peers (network scan): 112
+- available peers: 324
+- total peers (network scan): 110
 
 ## Instructions
 ```sh
