@@ -1,0 +1,12 @@
+{
+  "network": "mars-1",
+  "height": "10968395",
+  "type": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "mirror": "EU",
+  "url": "https://nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_10968395.tar.lz4",
+  "filename": "mars-1_10968395.tar.lz4",
+  "date": "2025-01-18 13:39",
+  "database": "goleveldb",
+  "size": "598538240B",
+  "provider": "CryptoCrew"
+}
