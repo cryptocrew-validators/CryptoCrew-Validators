@@ -2,10 +2,10 @@
 A Genesis File (`genesis.json`) defines the initial state of a chain. We provide hosted genesis files for all chains we validate.
 
 ---
-**Download: [genesis.json](https://nbg1.your-objectstorage.com/SERVICE/mars/genesis.json)**
+**Download: [genesis.json](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/mars/genesis.json)**
 ---
 
-- last updated: Sat Jan 18 2025 15:11:57
+- last updated: Sat Jan 18 2025 15:41:54
 - chain id: `mars-1`
 
 ## Instructions
@@ -14,7 +14,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 sudo systemctl stop marsd
 
 # Download genesis file
-URL="https://nbg1.your-objectstorage.com/SERVICE/mars/genesis.json"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/mars/genesis.json"
 wget -4 $URL -O $HOME/.mars/config/genesis.json
 
 # Start the node
