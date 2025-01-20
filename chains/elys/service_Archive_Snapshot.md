@@ -1,9 +1,11 @@
 ## Full Archive Snapshot
 CryptoCrew provides full Archive Snapshots for selected chains. These snapshots include the full block history from genesis, including tx_data.
-elysd version: v1.6.0
+elysd version: null
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_883295.tar.lz4)** | Mon Jan 20 2025 10:04:02 UTC | elys-1 | 133638152116B | 883295 | archive |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/_.tar.lz4)** | Mon Jan 20 2025 11:38:02 UTC |  | 4432B |  | archive |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_888836.tar.lz4)** | Mon Jan 20 2025 11:38:03 UTC |  | 4432B | 888836 | archive |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/test.tar.lz4)** | Mon Jan 20 2025 11:25:14 UTC |  | 2004B |  | archive |
 
 ---
 
