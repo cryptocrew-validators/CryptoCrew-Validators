@@ -5,8 +5,8 @@
   "mirror": "EU",
   "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/_.tar.lz4",
   "filename": "_.tar.lz4",
-  "date": "2025-01-20 13:31",
+  "date": "2025-01-20 13:32",
   "database": "goleveldb",
-  "size": "1995B",
+  "size": "417488B",
   "provider": "CryptoCrew"
 }
