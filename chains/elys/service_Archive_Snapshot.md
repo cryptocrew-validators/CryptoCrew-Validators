@@ -3,9 +3,7 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 elysd version: null
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/_.tar.lz4)** | Mon Jan 20 2025 13:32:03 UTC |  | 417488B |  | archive |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_888836.tar.lz4)** | Mon Jan 20 2025 13:32:03 UTC |  | 417488B | 888836 | archive |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/test.tar.lz4)** | Mon Jan 20 2025 11:25:14 UTC |  | 2004B |  | archive |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_.tar.lz4)** | Mon Jan 20 2025 17:33:52 UTC | elys-1 | 10485799933B |  | archive |
 
 ---
 
