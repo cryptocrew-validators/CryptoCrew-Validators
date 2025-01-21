@@ -3,7 +3,7 @@
   "height": "920623",
   "type": "archive",
   "mirror": "EU",
-  "url": "s3://ccv-s3/SNAPSHOTS/archive/elys/elys-1_920623.tar.lz4",
+  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_920623.tar.lz4",
   "filename": "elys-1_920623.tar.lz4",
   "date": "2025-01-21 14:07",
   "database": "goleveldb",
