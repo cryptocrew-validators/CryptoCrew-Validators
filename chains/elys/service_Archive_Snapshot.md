@@ -3,7 +3,7 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 elysd version: v1.6.0
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/s3://ccv-s3/SNAPSHOTS/archive/elys/elys-1_920623.tar.lz4)** | Tue Jan 21 2025 14:07:00 UTC | elys-1 | 130.23GB | 920623 | archive |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_920623.tar.lz4)** | Tue Jan 21 2025 14:07:00 UTC | elys-1 | 130.23GB | 920623 | archive |
 
 ---
 
@@ -11,7 +11,7 @@ elysd version: v1.6.0
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_920623.tar.lz4"
 cd $HOME/.elys
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
