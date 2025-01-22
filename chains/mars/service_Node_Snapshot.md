@@ -1,10 +1,9 @@
 ## Node Snapshot
-CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!
-marsd version: v1.0.1
+CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
+marsd version: `v1.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11034989.tar.lz4)** | Wed Jan 22 2025 12:23:04 UTC | mars-1 | 553.05MB | 11034989 | 2e8f1b4f4b34918196d27f73964136ef773687a14cc90ae12aac0e47401ad243 |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11035443.tar.lz4)** | Wed Jan 22 2025 13:01:43 UTC | mars-1 | 550.92MB | 11035443 | f5f2481febd3cb77a8f831823d6fb79165da04d41aed286cd99d3a15b5d3948c |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/mars/mars-1_11001905.tar.lz4)** | Mon Jan 20 2025 13:20:08 UTC | `mars-1` | 744M | 11001905 | `17f94f0b1ae965327262ca8647d68a8a90e625def61d8a47121e86ab4da5e518` |
 
 ---
 
@@ -12,7 +11,7 @@ marsd version: v1.0.1
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11035443.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mars/mars-1_11035659.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11035443.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mars/mars-1_11035659.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -36,20 +35,25 @@ wget -O - $URL | lz4 -d | tar -xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
-### Optional: Download wasm folder only
-On this chain, the wasm folder is located under data/wasm. If statesync doesn't provide the wasm folder, you can grab it:
+
+
+### Optional: Download `wasm` folder only
+In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases. Note, on this chain the wasm folder is located within the `data` folder.
 ```sh
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_wasm.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mars/mars-1_wasm.tar.lz4"
 cd $HOME/.mars/data
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 ```
+
+
 ## Using the download script
-The download script fully automates the process and preserves validator state. Run:
+
+The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/download_snapshot.sh | bash
+curl -sSL https://dl-eu2.ccvalidators.com/SNAPSHOTS/mars/download_snapshot.sh | bash
 ```
 ---
 
-After extracting, start the daemon:
-`sudo systemctl start marsd`
+After downloading and extracting the snapshot, start the daemon: `sudo systemctl start marsd`
+
