@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 loyald version: `v0.25.3`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11723916.tar.lz4)** | Thu Jan 23 2025 04:37:32 UTC | `loyal-main-02` | 448K | 11723916 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11693629.tar.lz4)** | Tue Jan 21 2025 04:37:27 UTC | `loyal-main-02` | 35M | 11693629 | `e68a90ad2427dc14acedb4417dd1b53bddc8d13749c07268bb72bfcf79340d89` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11663300.tar.lz4)** | Sun Jan 19 2025 04:36:27 UTC | `loyal-main-02` | 33M | 11663300 | `0ca3d27a6f5863cac967acefdbbd8bd4d64097b84f806c8bac7bfc69c12582bd` |
 
 ---
 
@@ -12,7 +12,7 @@ loyald version: `v0.25.3`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11693629.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11723916.tar.lz4"
 cd $HOME/.loyal
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11693629.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/loyal/loyal-main-02_11723916.tar.lz4"
 cd $HOME/.loyal
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
