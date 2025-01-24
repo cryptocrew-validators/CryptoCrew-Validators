@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 marsd version: v1.0.1
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11037170.tar.lz4)** | Wed Jan 22 2025 15:29:03 UTC | mars-1 | 554.76MB | 11037170 | bbf5248c507186f5092aad86f7390b3fe00cdbbfffb79c20d7aa77ce8365aa06 |
 | **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11037520.tar.lz4)** | Wed Jan 22 2025 15:59:03 UTC | mars-1 | 553.11MB | 11037520 | a3d206d0dc89c655aa2e8edd2695935e703c12bd234c60a823aa6f4af3144edd |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11071254.tar.lz4)** | Fri Jan 24 2025 15:59:06 UTC | mars-1 | 595.85MB | 11071254 | 318ea64db3357f2137d6252d7b16e13e380a56c879234e9ddbfa98327f9328ee |
 
 ---
 
@@ -12,7 +12,7 @@ marsd version: v1.0.1
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11037520.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11071254.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11037520.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11071254.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
