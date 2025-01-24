@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/osmosis/addrbook.json)**
 ---
 
-- last updated: Wed Jan 22 2025 13:54:45
+- last updated: Fri Jan 24 2025 13:56:54
 - chain id: `osmosis-1`
-- available peers: 2
-- total peers (network scan): 2
+- available peers: 2101
+- total peers (network scan): 1155
 
 ## Instructions
 ```sh
