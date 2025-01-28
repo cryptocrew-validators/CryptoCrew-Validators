@@ -115,8 +115,7 @@
       "operator_account": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
       "relayer_accounts": [
         "dydx12aeyaxq699k3f4d3733dl5pstw0ulplknv83km",
-        "dydx18hx3fcqrvynx9vvpvyv5qym82xz4suw5elaklh",
-        "dydx1yghndrffay859ma2ue4pa2cltw640vtadqdfl2"
+        "dydx18hx3fcqrvynx9vvpvyv5qym82xz4suw5elaklh"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dydx?modal=staking&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn&step_id=2",
       "rpc": [
@@ -509,6 +508,7 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
         "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
