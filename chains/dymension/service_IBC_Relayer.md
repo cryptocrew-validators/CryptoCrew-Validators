@@ -7,10 +7,10 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-dym1yghndrffay859ma2ue4pa2cltw640vtaky0t6n
+dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w
 ```
 
 ### Active IBC channels `dymension`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
+| dymension_1100-1 | kava_2222-10 | transfer | channel-3 |
