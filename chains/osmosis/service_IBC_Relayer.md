@@ -35,7 +35,6 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
@@ -57,7 +56,6 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |

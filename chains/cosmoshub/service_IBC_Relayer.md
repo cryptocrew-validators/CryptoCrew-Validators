@@ -16,9 +16,11 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | dungeon-1 | transfer | channel-1200 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
+| neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
 | comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
@@ -26,6 +28,3 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | cosmoshub-4 | wasm.neutron1gf7zyyty00exym9q0mpt2kl7qzznuu94ruguafpx9eveplpv9j6sendvld | channel-6292 |
-| neutron-1 | cosmoshub-4 | wasm.neutron1jqk87ra6q6rek6d4z74neqe0e0m85khfmwn5fuefz75df75qf4fs3xuj4q | channel-6306 |
