@@ -31,4 +31,3 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | elys-1 | cosmoshub-4 | consumer | channel-0 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
