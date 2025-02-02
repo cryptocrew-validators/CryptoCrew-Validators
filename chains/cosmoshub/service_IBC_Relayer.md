@@ -16,9 +16,16 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | dungeon-1 | transfer | channel-1200 |
+| cosmoshub-4 | comdex-1 | provider | channel-1263 |
+| cosmoshub-4 | elys-1 | provider | channel-1265 |
+| cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| comdex-1 | cosmoshub-4 | consumer | channel-97 |
+| elys-1 | cosmoshub-4 | consumer | channel-0 |
+| elys-1 | cosmoshub-4 | transfer | channel-1 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
@@ -27,5 +34,3 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
-| comdex-1 | cosmoshub-4 | consumer | channel-97 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
