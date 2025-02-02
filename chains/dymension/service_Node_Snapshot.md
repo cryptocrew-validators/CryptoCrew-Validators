@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dymd version: `v3.2.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5555128.tar.lz4)** | Sun Feb 02 2025 16:59:36 UTC | `dymension_1100-1` | 2.9G | 5555128 | `33f117237e4f5938c6195f1b5022ac9fe44d92e16ea4c76dd00747fca477fc87` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5508291.tar.lz4)** | Thu Jan 30 2025 16:30:17 UTC | `dymension_1100-1` | 2.9G | 5508291 | `dce38d958301163fefc5c2754475604775503c110bd40782a4392b96ccd809d5` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5478436.tar.lz4)** | Tue Jan 28 2025 18:21:08 UTC | `dymension_1100-1` | 3.2G | 5478436 | `7be9f214a76fecb1efc094eaa4f49e8c3f26d3987cb48e267209a94ba1fd619e` |
 
 ---
 
@@ -12,7 +12,7 @@ dymd version: `v3.2.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5508291.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5555128.tar.lz4"
 cd $HOME/.dymension
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5508291.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_5555128.tar.lz4"
 cd $HOME/.dymension
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
