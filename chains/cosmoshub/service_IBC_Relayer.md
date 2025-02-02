@@ -19,12 +19,12 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | dungeon-1 | transfer | channel-1200 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
-| comdex-1 | cosmoshub-4 | consumer | channel-97 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
+| neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
+| comdex-1 | cosmoshub-4 | consumer | channel-97 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
