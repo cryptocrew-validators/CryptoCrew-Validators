@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [pirin-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/nolus/pirin-1_export_10490356.json)**
+**Download: [pirin-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/nolus/pirin-1_export_10512588.json)**
 ---
 
-- last updated: Sat Feb 01 2025 01:54:10
+- last updated: Sun Feb 02 2025 00:14:07
 - chain id: `pirin-1`
-- export height: `10490356`
+- export height: `10512588`
 - use for: airdrops, local tests, chain recovery
