@@ -1102,7 +1102,9 @@
       "relayer_accounts": [],
       "stake_link": "https://explorer.avail.so/#/staking",
       "rpc": [],
-      "rest": [],
+      "rest": [
+        "https://avail.webapi.subscan.io/api"
+      ],
       "apr": "",
       "coingecko_id": "avail",
       "chain_id": "mainnet",
