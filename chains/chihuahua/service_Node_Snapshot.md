@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-chihuahuad version: `v8.0.2`
+chihuahuad version: `v9.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16530847.tar.lz4)** | Mon Feb 03 2025 16:54:37 UTC | `chihuahua-1` | 57G | 16530847 | `8cc5904c84eacdcbd5960733d42c2b2001d48ddaa22365bd36a7ce2873959bf3` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16504585.tar.lz4)** | Sat Feb 01 2025 16:54:11 UTC | `chihuahua-1` | 54G | 16504585 | `16ff04708f54863d180da9a5b7c1441554cd5f28bbe1702df3dae935013a07e4` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16491452.tar.lz4)** | Fri Jan 31 2025 16:53:53 UTC | `chihuahua-1` | 53G | 16491452 | `30baf0aa219c33d1331d36707da0be95d79f8265997c1019ad5448ae12270aab` |
 
 ---
 
@@ -12,7 +12,7 @@ chihuahuad version: `v8.0.2`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16504585.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16530847.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16504585.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_16530847.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
