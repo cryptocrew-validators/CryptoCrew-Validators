@@ -13,4 +13,4 @@ archway1yghndrffay859ma2ue4pa2cltw640vta3jlf42
 ### Active IBC channels `archway`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| archway-1 | neutron-1 | transfer | channel-61 |
+| neutron-1 | archway-1 | wasm.neutron1vna9lw6emt35qmnvlmjqgx02nq69hm67jey55ffx56kv748k750qhq5zcn | channel-5044 |
