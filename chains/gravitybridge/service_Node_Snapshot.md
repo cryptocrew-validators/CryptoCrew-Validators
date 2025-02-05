@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gravity version: `v1.12.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15571624.tar.lz4)** | Mon Feb 03 2025 12:12:09 UTC | `gravity-bridge-3` | 1007M | 15571624 | `da3a74bb143b86228a5034e1b8a3c20b810565f84a58d29da544eec3a01b155d` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15559324.tar.lz4)** | Sun Feb 02 2025 16:15:45 UTC | `gravity-bridge-3` | 932M | 15559324 | `bbcd62527291ee03e1680083cc20c7a6420cb6bada818265ee3086c196b68c15` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15601961.tar.lz4)** | Wed Feb 05 2025 13:51:51 UTC | `gravity-bridge-3` | 1.1G | 15601961 | `1c9dfa488d463e4d471b4b0c8bd8ab48b0be651bc51fc5b6c8a768d63fc8ce5d` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15589551.tar.lz4)** | Tue Feb 04 2025 17:34:19 UTC | `gravity-bridge-3` | 1001M | 15589551 | `482cc65c5548bec781fd37d7747aea21a881ff4681d71dbb992519403c2b06de` |
 
 ---
 
@@ -12,7 +12,7 @@ gravity version: `v1.12.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15571624.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15601961.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15571624.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_15601961.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
