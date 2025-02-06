@@ -112,6 +112,7 @@
       "address": "dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
       "operator_account": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
       "relayer_accounts": [
+        "dydx1yghndrffay859ma2ue4pa2cltw640vtadqdfl2",
         "dydx12aeyaxq699k3f4d3733dl5pstw0ulplknv83km",
         "dydx18hx3fcqrvynx9vvpvyv5qym82xz4suw5elaklh"
       ],
@@ -506,6 +507,7 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
         "stars15md2qvgma8lnvqv67w0umu2paqkqkhegdkw3rw"
       ],
@@ -655,6 +657,7 @@
       "address": "nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
       "operator_account": "nolus1nryk8vpd75d2nvld2hej0nfal64qm3wp2mtatv",
       "relayer_accounts": [
+        "nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac",
         "nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f"
       ],
       "stake_link": "https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3",
