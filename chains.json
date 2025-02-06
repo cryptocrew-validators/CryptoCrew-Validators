@@ -1101,7 +1101,7 @@
       "stake_link": "https://explorer.avail.so/#/staking",
       "rpc": [],
       "rest": [
-        "https://avail.webapi.subscan.io/api"
+        "https://avail.api.subscan.io/api"
       ],
       "apr": "",
       "coingecko_id": "avail",
