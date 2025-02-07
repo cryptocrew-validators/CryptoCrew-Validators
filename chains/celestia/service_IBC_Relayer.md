@@ -14,8 +14,8 @@ celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 ### Active IBC channels `celestia`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| celestia | neutron-1 | icahost | channel-54 |
-| celestia | neutron-1 | transfer | channel-8 |
+| neutron-1 | celestia | transfer | channel-35 |
+| neutron-1 | celestia | icacontroller-neutron1mtyp7tyq2rt4nk9qe3l3mmun5zy3k84s9ccndt6z7g6rwuyllqlq6kafzy.drop_PUMP | channel-6027 |
+| neutron-1 | celestia | icacontroller-neutron1vqtnu54addf87qp73fnjvqafruzkr2zjgswkhsmsg45t08wla2nqqan0hc.DROP | channel-6028 |
 | injective-1 | celestia | transfer | channel-152 |
 | osmosis-1 | celestia | transfer | channel-6994 |
-| neutron-1 | celestia | transfer | channel-35 |
