@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances, and delegations.
 
 ---
-**Download: [mars-1 state export](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/mars/mars-1_export_11373506.json)**
+**Download: [mars-1 state export](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/mars/mars-1_export_11390386.json)**
 ---
 
-- last updated: Tue Feb 11 2025 13:53:24
+- last updated: Wed Feb 12 2025 13:54:13
 - chain id: `mars-1`
-- export height: `11373506`
+- export height: `11390386`
 - use for: airdrops, local tests, chain recovery
