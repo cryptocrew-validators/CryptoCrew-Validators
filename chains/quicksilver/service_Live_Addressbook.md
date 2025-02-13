@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/addrbook.json)**
 ---
 
-- last updated: Tue Feb 11 2025 11:45:06
+- last updated: Thu Feb 13 2025 11:45:09
 - chain id: `quicksilver-2`
 
-- total peers (network scan): 1068
+- total peers (network scan): 1025
 
 ## Instructions
 ```sh
