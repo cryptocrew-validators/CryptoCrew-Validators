@@ -16,6 +16,7 @@ juno15md2qvgma8lnvqv67w0umu2paqkqkheg0c6h0r
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
+| juno-1 | bitsong-2b | transfer | channel-17 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | juno-1 | kaiyo-1 | transfer | channel-87 |
