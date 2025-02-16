@@ -239,8 +239,7 @@
       "operator_account": "secret1au8mn0yhuv765gapwv87tnjceuzlhapgzu0q4a",
       "relayer_accounts": [
         "secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r",
-        "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq",
-        "secret1yghndrffay859ma2ue4pa2cltw640vtaxuhyzp"
+        "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq"
       ],
       "stake_link": "https://wallet.keplr.app/chains/secret-network?modal=staking&chain=secret-4&validator_address=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w&step_id=2",
       "restake": {
