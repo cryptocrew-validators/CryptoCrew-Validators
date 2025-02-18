@@ -15,5 +15,6 @@ celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d
 ### Active IBC channels `celestia`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| neutron-1 | celestia | transfer | channel-35 |
 | injective-1 | celestia | transfer | channel-152 |
 | osmosis-1 | celestia | transfer | channel-6994 |
