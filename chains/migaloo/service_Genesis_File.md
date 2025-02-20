@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/migaloo/genesis.json)**
 ---
 
-- last updated: Tue Feb 18 2025 01:00:31
+- last updated: Thu Feb 20 2025 00:52:53
 - chain id: `migaloo-1`
 
 ## Instructions
