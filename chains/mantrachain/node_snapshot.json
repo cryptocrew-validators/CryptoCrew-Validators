@@ -1,12 +1,12 @@
 {
   "network": "mantra-1",
-  "height": "3257895",
+  "height": "3282627",
   "type": "",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_3257895.tar.lz4",
-  "filename": "mantra-1_3257895.tar.lz4",
-  "date": "2025-02-19 08:13",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_3282627.tar.lz4",
+  "filename": "mantra-1_3282627.tar.lz4",
+  "date": "2025-02-20 08:13",
   "database": "goleveldb",
-  "size": "8.2G",
+  "size": "8.1G",
   "provider": "CryptoCrew"
 }
