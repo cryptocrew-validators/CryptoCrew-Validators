@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/quicksilver/genesis.json)**
 ---
 
-- last updated: Fri Feb 21 2025 11:45:19
+- last updated: Sun Feb 23 2025 11:45:29
 - chain id: `quicksilver-2`
 
 ## Instructions
