@@ -1,12 +1,12 @@
 {
   "network": "mars-1",
-  "height": "11625460",
+  "height": "11642218",
   "type": "",
   "mirror": "EU",
-  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11625460.tar.lz4",
-  "filename": "s3://ccv-s3/SNAPSHOTS/mars/mars-1_11625460.tar.lz4",
-  "date": "2025-02-26 13:51",
+  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11642218.tar.lz4",
+  "filename": "s3://ccv-s3/SNAPSHOTS/mars/mars-1_11642218.tar.lz4",
+  "date": "2025-02-27 13:50",
   "database": "goleveldb",
-  "size": "830.08MB",
+  "size": "718.90MB",
   "provider": "CryptoCrew"
 }
