@@ -15,7 +15,5 @@ kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | pacific-1 | transfer | channel-132 |
-| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
 | dymension_1100-1 | kava_2222-10 | transfer | channel-3 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
