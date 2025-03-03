@@ -20,11 +20,11 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | dungeon-1 | transfer | channel-1200 |
 | cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| neutron-1 | cosmoshub-4 | wasm.neutron1gf7zyyty00exym9q0mpt2kl7qzznuu94ruguafpx9eveplpv9j6sendvld | channel-6292 |
-| elys-1 | cosmoshub-4 | transfer | channel-1 |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
+| neutron-1 | cosmoshub-4 | wasm.neutron1gf7zyyty00exym9q0mpt2kl7qzznuu94ruguafpx9eveplpv9j6sendvld | channel-6292 |
+| elys-1 | cosmoshub-4 | transfer | channel-1 |
+| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
