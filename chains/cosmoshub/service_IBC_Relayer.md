@@ -18,6 +18,7 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | --------------- | --------------- | ------------ | ------------------- |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | lum-network-1 | cosmoshub-4 | transfer | channel-12 |
@@ -25,4 +26,3 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
