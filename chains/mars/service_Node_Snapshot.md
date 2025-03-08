@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 marsd version: v1.0.1
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11759769.tar.lz4)** | Thu Mar 06 2025 13:51:00 UTC | mars-1 | 845.44MB | 11759769 |  |
 | **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11776560.tar.lz4)** | Fri Mar 07 2025 13:50:00 UTC | mars-1 | 682.20MB | 11776560 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11793374.tar.lz4)** | Sat Mar 08 2025 13:51:00 UTC | mars-1 | 848.09MB | 11793374 |  |
 
 ---
 
@@ -12,7 +12,7 @@ marsd version: v1.0.1
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11776560.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11793374.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11776560.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/mars-1_11793374.tar.lz4"
 cd $HOME/.mars
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
