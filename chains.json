@@ -523,30 +523,6 @@
       "trade_url": "https://app.osmosis.zone"
     },
     {
-      "name": "migaloo",
-      "prettyName": "White Whale",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/migaloo/logo_migaloo.png",
-      "symbol": "WHALE",
-      "denom": "uwhale",
-      "decimals": "6",
-      "address": "migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj",
-      "operator_account": "migaloo127nprdxstd5t5wt6frxk3fgj74zdp5memt454e",
-      "relayer_accounts": [
-        "migaloo15md2qvgma8lnvqv67w0umu2paqkqkheg57ska3"
-      ],
-      "stake_link": "https://restake.app/migaloo/migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj",
-      "rpc": [
-        "https://rpc.migaloo.ccvalidators.com:443"
-      ],
-      "rest": [
-        "https://rest.migaloo.ccvalidators.com:443"
-      ],
-      "apr": "",
-      "coingecko_id": "white-whale",
-      "chain_id": "migaloo-1",
-      "trade_url": "https://frontier.osmosis.zone"
-    },
-    {
       "name": "passage",
       "prettyName": "Passage",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/passage/logo_passage.svg",
@@ -756,80 +732,6 @@
       "trade_url": "https://www.binance.com/en/trade/BAND_USDT"
     },
     {
-      "name": "gravitybridge",
-      "prettyName": "Gravity Bridge",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/gravitybridge/logo_gravitybridge.png",
-      "symbol": "GRAV",
-      "denom": "ugraviton",
-      "decimals": "6",
-      "address": "gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus",
-      "operator_account": "gravity1er4804lrn7nu756c9dfg2z7l6288z2d6y5jpky",
-      "relayer_accounts": [
-        "gravity15md2qvgma8lnvqv67w0umu2paqkqkhega6t5dh"
-      ],
-      "stake_link": "https://wallet.keplr.app/chains/gravity-bridge?modal=staking&chain=gravity-bridge-3&validator_address=gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus&step_id=2",
-      "restake": {
-        "address": "gravity1305e92ng6a9pdh3ttc3ld459ckxupxt3nugml0",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/6c0Q9E8C-2/GRAV.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "graviton",
-      "chain_id": "gravity-bridge-3",
-      "trade_url": "https://app.osmosis.zone"
-    },
-    {
-      "name": "crescent",
-      "prettyName": "Crescent Hub",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/crescent/logo_crescent.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/crescent/logo_crescent.png",
-      "symbol": "CRE",
-      "denom": "ucre",
-      "decimals": "6",
-      "address": "crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
-      "operator_account": "cre140cztktnml85tqfyw6qjee506gheg0rdfdhqan",
-      "stake_link": "https://restake.app/crescent/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
-      "restake": {
-        "address": "cre1305e92ng6a9pdh3ttc3ld459ckxupxt3nyfx02",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/cbc3e89i-2/CRE.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "crescent-network",
-      "chain_id": "crescent-1",
-      "trade_url": "https://app.osmosis.zone",
-      "relayer_accounts": [
-        "cre12aeyaxq699k3f4d3733dl5pstw0ulplk7a6srp"
-      ]
-    },
-    {
-      "name": "emoney",
-      "prettyName": "E-Money",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/emoney/logo_emoney.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/emoney/logo_emoney.png",
-      "symbol": "NGM",
-      "denom": "ungm",
-      "decimals": "6",
-      "address": "emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
-      "operator_account": "emoney1ggpn5jtrgf5hhzw79la6k4h9jgcws3er4z7vz6",
-      "stake_link": "https://restake.app/emoney/emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh",
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "e-money",
-      "chain_id": "emoney-3",
-      "trade_url": "https://app.osmosis.zone"
-    },
-    {
       "name": "nomic",
       "prettyName": "Nomic Stakenet",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nomic/logo_nomic.svg",
@@ -930,34 +832,6 @@
       ]
     },
     {
-      "name": "lumnetwork",
-      "prettyName": "Lum Network",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/lumnetwork/logo_lumnetwork.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/lumnetwork/logo_lumnetwork.png",
-      "symbol": "LUM",
-      "denom": "ulum",
-      "decimals": "6",
-      "address": "lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
-      "operator_account": "lum1y69ary732dmngmj2g2e8m2ssedugya4mznxcfs",
-      "relayer_accounts": [
-        "lum1yvejj22t78s2vfk7slty2d7fs5lkc8rnxpvmsg"
-      ],
-      "stake_link": "https://restake.app/lumnetwork/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
-      "restake": {
-        "address": "lum1305e92ng6a9pdh3ttc3ld459ckxupxt3zx820n",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/OiZKSAmI-2/LUM.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "lum-network",
-      "chain_id": "lum-network-1",
-      "trade_url": "https://app.osmosis.zone"
-    },
-    {
       "name": "bitsong",
       "prettyName": "Bitsong",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bitsong/logo_bitsong.svg",
@@ -1004,38 +878,6 @@
       "apr": "",
       "coingecko_id": "",
       "chain_id": "perun-1"
-    },
-    {
-      "name": "odin",
-      "prettyName": "Odin",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/odin/logo_odin.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/odin/logo_odin.png",
-      "symbol": "ODIN",
-      "denom": "loki",
-      "decimals": "6",
-      "address": "odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
-      "operator_account": "odin103yy6yxn7u3tfs25fr4xt4hyfq9h44ydrcndck",
-      "relayer_accounts": [
-        "odin1yvejj22t78s2vfk7slty2d7fs5lkc8rnhth3fk"
-      ],
-      "stake_link": "https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z",
-      "restake": {
-        "address": "odin1305e92ng6a9pdh3ttc3ld459ckxupxt3nvuqkd",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/THrlfRdu-2/ODIN.svg"
-      },
-      "rpc": [
-        "http://34.79.179.216:26657"
-      ],
-      "rest": [
-        "http://34.79.179.216:1317"
-      ],
-      "apr": "",
-      "coingecko_id": "odin-protocol",
-      "chain_id": "odin-mainnet-freya",
-      "trade_url": "https://frontier.osmosis.zone"
     },
     {
       "name": "synternet",
