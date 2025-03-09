@@ -5,7 +5,6 @@ seid version: `v6.0.3`
 | -------- | ---- | -------- | ---- | ------ | ------------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_134525906.tar.lz4)** | Mon Mar 03 2025 09:13:37 UTC | `pacific-1` | 6.8T | 134525906 | `archive` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_133285002.tar.lz4)** | Mon Feb 24 2025 09:01:46 UTC | `pacific-1` | 6.7T | 133285002 | `archive` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_131998436.tar.lz4)** | Mon Feb 17 2025 08:49:16 UTC | `pacific-1` | 6.6T | 131998436 | `archive` |
 ---
 
 ## Download instructions
