@@ -20,6 +20,11 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | comdex-1 | provider | channel-1263 |
 | cosmoshub-4 | elys-1 | provider | channel-1265 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
+| lum-network-1 | cosmoshub-4 | transfer | channel-12 |
+| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
+| secret-4 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
 | neutron-1 | cosmoshub-4 | icacontroller-neutron15v5acjfttf3umzatmj7rqfjy6yzcgekh266ehjsxclvaem0hpd7q9qpscr.DROP | channel-4773 |
@@ -27,8 +32,3 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | elys-1 | cosmoshub-4 | consumer | channel-0 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
-| lum-network-1 | cosmoshub-4 | transfer | channel-12 |
-| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
-| secret-4 | cosmoshub-4 | transfer | channel-0 |
