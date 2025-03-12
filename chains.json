@@ -268,6 +268,8 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
+        "terra12aeyaxq699k3f4d3733dl5pstw0ulplku3n45v",
+        "terra18hx3fcqrvynx9vvpvyv5qym82xz4suw5kzfjaq",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u",
         "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa"
       ],
