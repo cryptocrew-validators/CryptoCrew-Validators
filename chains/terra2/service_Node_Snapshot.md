@@ -5,7 +5,6 @@ terrad version: `v2.15.0`
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14737721.tar.lz4)** | Sun Mar 16 2025 12:36:08 UTC | `phoenix-1` | 11G | 14737721 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14723097.tar.lz4)** | Sat Mar 15 2025 12:36:17 UTC | `phoenix-1` | 11G | 14723097 | `` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14708480.tar.lz4)** | Fri Mar 14 2025 12:36:07 UTC | `phoenix-1` | 11G | 14708480 | `` |
 
 ---
 
@@ -13,7 +12,7 @@ terrad version: `v2.15.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14737721.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14752369.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -29,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14737721.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_14752369.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
