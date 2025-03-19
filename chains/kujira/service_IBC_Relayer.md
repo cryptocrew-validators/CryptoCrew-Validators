@@ -13,10 +13,5 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 ### Active IBC channels `kujira`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
-| kaiyo-1 | migaloo-1 | transfer | channel-58 |
-| osmosis-1 | kaiyo-1 | transfer | channel-259 |
-| phoenix-1 | kaiyo-1 | transfer | channel-10 |
 | secret-4 | kaiyo-1 | transfer | channel-22 |
-| stargaze-1 | kaiyo-1 | transfer | channel-49 |

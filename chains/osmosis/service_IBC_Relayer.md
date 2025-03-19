@@ -17,8 +17,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
 osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk
 osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
-osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw
-osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ```
 
 ### Active IBC channels `osmosis`:
@@ -33,9 +31,14 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| osmosis-1 | kaiyo-1 | transfer | channel-259 |
-| osmosis-1 | secret-4 | transfer | channel-88 |
+| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
+| juno-1 | osmosis-1 | transfer | channel-0 |
+| kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| migaloo-1 | osmosis-1 | transfer | channel-5 |
+| phoenix-1 | osmosis-1 | transfer | channel-1 |
+| secret-4 | osmosis-1 | transfer | channel-1 |
+| secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
+| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
@@ -51,14 +54,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
-| bitsong-2b | osmosis-1 | transfer | channel-0 |
-| chihuahua-1 | osmosis-1 | transfer | channel-7 |
-| juno-1 | osmosis-1 | transfer | channel-0 |
-| juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
-| kaiyo-1 | osmosis-1 | transfer | channel-3 |
-| lum-network-1 | osmosis-1 | transfer | channel-3 |
-| migaloo-1 | osmosis-1 | transfer | channel-5 |
-| phoenix-1 | osmosis-1 | transfer | channel-1 |
-| secret-4 | osmosis-1 | transfer | channel-1 |
-| secret-4 | osmosis-1 | wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4 | channel-44 |
-| stargaze-1 | osmosis-1 | transfer | channel-0 |
