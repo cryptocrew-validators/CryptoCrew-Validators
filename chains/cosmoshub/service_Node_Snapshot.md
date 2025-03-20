@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 gaiad version: `v22.3.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24912708.tar.lz4)** | Thu Mar 20 2025 11:20:15 UTC | `cosmoshub-4` | 135G | 24912708 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24899896.tar.lz4)** | Wed Mar 19 2025 14:57:20 UTC | `cosmoshub-4` | 371G | 24899896 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24883229.tar.lz4)** | Tue Mar 18 2025 11:23:43 UTC | `cosmoshub-4` | 137G | 24883229 | `` |
 
@@ -12,7 +13,7 @@ gaiad version: `v22.3.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24899896.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24912708.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +29,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24899896.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_24912708.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
