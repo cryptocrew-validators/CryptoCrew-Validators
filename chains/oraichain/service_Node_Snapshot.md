@@ -31,7 +31,7 @@ URL="s3://ccv-s3/SNAPSHOTS/oraichain/Oraichain_54072360.tar.lz4"
 cd $HOME/.oraid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
-wget -O - $URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar xvf -
 rm data/priv_validator_state.json
 mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ```
@@ -41,7 +41,7 @@ In some cases you can statesync a wasm chain, but the wasm-folder will not be in
 URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_wasm.tar.lz4"
 cd $HOME/.oraid
 rm -rf wasm
-wget -O - $URL | lz4 -d | tar -xvf -
+wget -O - $URL | lz4 -d | tar xvf -
 ```
 ## Using the download script
 The download script fully automates the process and preserves validator state. Run:
