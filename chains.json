@@ -96,7 +96,7 @@
       "apr": "",
       "coingecko_id": "juno-network",
       "chain_id": "juno-1",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone?to=JUNO"
     },
     {
       "name": "dydx",
@@ -442,7 +442,7 @@
       "apr": "",
       "coingecko_id": "penumbra",
       "chain_id": "mainnet",
-      "trade_url": "https://app.osmosis.zone/?from=ibc/0FA9232B262B89E77D1335D54FB1E1F506A92A7E4B51524B400DC69C68D28372&to=ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+      "trade_url": "https://app.osmosis.zone/?to=UM"
     },
     {
       "name": "fuel",
@@ -518,7 +518,7 @@
       "apr": "",
       "coingecko_id": "stargaze",
       "chain_id": "stargaze-1",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone?to=STARS"
     },
     {
       "name": "passage",
@@ -563,7 +563,7 @@
       "apr": "",
       "coingecko_id": "chihuahua",
       "chain_id": "chihuahua-1",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone?to=HUAHUA"
     },
     {
       "name": "omniflixhub",
@@ -584,7 +584,7 @@
       "apr": "",
       "coingecko_id": "omniflix-network",
       "chain_id": "omniflixhub-1",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone?to=FLIX"
     },
     {
       "name": "comdex",
@@ -612,7 +612,7 @@
       "apr": "",
       "coingecko_id": "comdex",
       "chain_id": "comdex-1",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone/?to=CMDX"
     },
     {
       "name": "nolus",
@@ -641,7 +641,7 @@
       "apr": "",
       "coingecko_id": "",
       "chain_id": "pirin-1",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone/?to=NLS"
     },
     {
       "name": "composable",
@@ -697,7 +697,7 @@
       "apr": "",
       "coingecko_id": "quicksilver",
       "chain_id": "quicksilver-2",
-      "trade_url": "https://app.osmosis.zone",
+      "trade_url": "https://app.osmosis.zone?to=QCK",
       "relayer_accounts": [
         "quick12aeyaxq699k3f4d3733dl5pstw0ulplk33e807"
       ]
@@ -778,7 +778,7 @@
       "apr": "",
       "coingecko_id": "akash-network",
       "chain_id": "akashnet-2",
-      "trade_url": "https://app.osmosis.zone",
+      "trade_url": "https://app.osmosis.zone?to=AKT",
       "relayer_accounts": [
         "akash12aeyaxq699k3f4d3733dl5pstw0ulplkhwyj0k",
         "akash1vh9d09ez64kxg3c9cekqj9em946evtwjf0mr2p",
@@ -808,7 +808,7 @@
       "apr": "",
       "coingecko_id": "sommelier",
       "chain_id": "sommelier-3",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone?to=SOMM"
     },
     {
       "name": "empowerchain",
@@ -856,7 +856,7 @@
       "apr": "",
       "coingecko_id": "bitsong",
       "chain_id": "bitsong-2b",
-      "trade_url": "https://app.osmosis.zone"
+      "trade_url": "https://app.osmosis.zone?to=BTSG"
     },
     {
       "name": "chain4energy",
@@ -900,6 +900,29 @@
       "coingecko_id": "synternet-synt",
       "chain_id": "synternet-1",
       "trade_url": "https://www.kucoin.com/trade/SYNT-USDT"
+    },
+    {
+      "name": "oraichain",
+      "prettyName": "Oraichain",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/oraichain/logo_oraichain.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/oraichain/logo_oraichain.png",
+      "symbol": "ORAI",
+      "denom": "uorai",
+      "decimals": "6",
+      "address": "oraivaloper1hcpav86sv4drafsxjv2ludjhnsegu44t97dvhr",
+      "operator_account": "orai1hcpav86sv4drafsxjv2ludjhnsegu44tv5k9uy",
+      "relayer_accounts": [],
+      "stake_link": "https://restake.app/oraichain/oraivaloper1hcpav86sv4drafsxjv2ludjhnsegu44t97dvhr",
+      "rpc": [
+        "https://rpc.orai.io:443"
+      ],
+      "rest": [
+        "http://lcd.orai.io:443"
+      ],
+      "apr": "",
+      "coingecko_id": "oraichain-token",
+      "chain_id": "Oraichain",
+      "trade_url": "https://app.osmosis.zone/?to=ORAI"
     },
     {
       "name": "radix",
