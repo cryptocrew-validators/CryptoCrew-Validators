@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/oraichain/addrbook.json)**
 ---
 
-- last updated: Thu Mar 20 2025 19:47:48
+- last updated: Fri Mar 21 2025 08:12:17
 - chain id: `Oraichain`
-- available peers: 739
-- total peers (network scan): 823
+- available peers: 801
+- total peers (network scan): 827
 
 ## Instructions
 ```sh
