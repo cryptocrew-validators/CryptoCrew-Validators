@@ -3,8 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 marsd version: v1.0.1
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11970940.tar.lz4)** | Wed Mar 19 2025 13:52:00 UTC | mars-1 | 684.52MB | 11970940 |  |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11986495.tar.lz4)** | Thu Mar 20 2025 13:52:00 UTC | mars-1 | 862.76MB | 11986495 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/mars/s3://ccv-s3/SNAPSHOTS/mars/mars-1_11986495.tar.lz4)** | Fri Mar 21 2025 13:51:00 UTC | mars-1 | 685.27MB | 11986495 |  |
 
 ---
 
