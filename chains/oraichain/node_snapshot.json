@@ -1,0 +1,12 @@
+{
+  "network": "Oraichain",
+  "height": "53982467",
+  "type": "",
+  "mirror": "EU",
+  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/s3://ccv-s3/SNAPSHOTS/archive/oraichain/Oraichain_53982467.tar.lz4",
+  "filename": "s3://ccv-s3/SNAPSHOTS/archive/oraichain/Oraichain_53982467.tar.lz4",
+  "date": "2025-03-20 19:39",
+  "database": "goleveldb",
+  "size": "10.83GB",
+  "provider": "CryptoCrew"
+}
