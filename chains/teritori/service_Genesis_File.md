@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu2.ccvalidators.com/SERVICE/teritori/genesis.json)**
 ---
 
-- last updated: Thu Mar 20 2025 00:05:16
+- last updated: Fri Mar 21 2025 00:01:41
 - chain id: `teritori-1`
 
 ## Instructions
