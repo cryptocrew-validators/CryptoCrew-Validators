@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/stride/addrbook.json)**
 ---
 
-- last updated: Fri Mar 21 2025 11:21:39
+- last updated: Sun Mar 23 2025 11:20:28
 - chain id: `stride-1`
-
-- total peers (network scan): 1108
+- available peers: 1099
+- total peers (network scan): 1099
 
 ## Instructions
 ```sh
