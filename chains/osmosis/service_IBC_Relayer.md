@@ -45,7 +45,6 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | teritori-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
