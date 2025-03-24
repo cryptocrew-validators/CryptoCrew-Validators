@@ -1,12 +1,12 @@
 {
   "network": "elys-1",
-  "height": "2181915",
+  "height": "2342605",
   "type": "archive",
   "mirror": "EU",
-  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_2181915.tar.lz4",
-  "filename": "elys-1_2181915.tar.lz4",
-  "date": "2025-03-17 13:24",
+  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/archive/elys/elys-1_2342605.tar.lz4",
+  "filename": "elys-1_2342605.tar.lz4",
+  "date": "2025-03-24 13:38",
   "database": "goleveldb",
-  "size": "367.34GB",
+  "size": "401.08GB",
   "provider": "CryptoCrew"
 }
