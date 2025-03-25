@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 oraid version: v0.50.8
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54290209.tar.lz4)** | Sun Mar 23 2025 07:58:00 UTC | Oraichain | 7.72GB | 54290209 |  |
 | **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54412945.tar.lz4)** | Mon Mar 24 2025 08:00:00 UTC | Oraichain | 7.84GB | 54412945 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54535714.tar.lz4)** | Tue Mar 25 2025 07:59:00 UTC | Oraichain | 7.96GB | 54535714 |  |
 
 ---
 
@@ -12,7 +12,7 @@ oraid version: v0.50.8
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54412945.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54535714.tar.lz4"
 cd $HOME/.oraid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54412945.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_54535714.tar.lz4"
 cd $HOME/.oraid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
