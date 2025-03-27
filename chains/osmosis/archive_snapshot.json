@@ -1,12 +1,12 @@
 {
   "network": "osmosis-1",
-  "height": "31748937",
+  "height": "32231738",
   "type": "archive",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_31748937.tar.lz4",
-  "filename": "osmosis-1_31748937.tar.lz4",
-  "date": "2025-03-18 11:23",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_32231738.tar.lz4",
+  "filename": "osmosis-1_32231738.tar.lz4",
+  "date": "2025-03-27 13:50",
   "database": "goleveldb",
-  "size": "297G",
+  "size": "20T",
   "provider": "CryptoCrew"
 }
