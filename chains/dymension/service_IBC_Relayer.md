@@ -15,4 +15,3 @@ dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w
 | --------------- | --------------- | ------------ | ------------------- |
 | dymension_1100-1 | kava_2222-10 | transfer | channel-3 |
 | neutron-1 | dymension_1100-1 | transfer | channel-675 |
-| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
