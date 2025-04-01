@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!
-oraid version: v0.50.8
+oraid version: v0.50.9
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55146406.tar.lz4)** | Sun Mar 30 2025 08:01:00 UTC | Oraichain | 8.32GB | 55146406 |  |
 | **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55265357.tar.lz4)** | Mon Mar 31 2025 07:59:00 UTC | Oraichain | 8.31GB | 55265357 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55385402.tar.lz4)** | Tue Apr 01 2025 07:59:00 UTC | Oraichain | 8.64GB | 55385402 |  |
 
 ---
 
@@ -12,7 +12,7 @@ oraid version: v0.50.8
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55265357.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55385402.tar.lz4"
 cd $HOME/.oraid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55265357.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/oraichain/Oraichain_55385402.tar.lz4"
 cd $HOME/.oraid
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
