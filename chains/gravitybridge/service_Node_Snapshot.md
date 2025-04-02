@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-gravity version: `latest`
+gravity version: `v1.12.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16391189.tar.lz4)** | Mon Mar 31 2025 12:04:24 UTC | `gravity-bridge-3` | 963M | 16391189 | `73c18092b61260c06fd87eba2f2fc9e772467f8b38af1d39cf7253391ea30599` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16379463.tar.lz4)** | Sun Mar 30 2025 16:57:19 UTC | `gravity-bridge-3` | 968M | 16379463 | `6bcccad3bba9a3b652286b41b479d8d482d254411e3e733876a54593813d19a1` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16423092.tar.lz4)** | Wed Apr 02 2025 16:34:03 UTC | `gravity-bridge-3` | 994M | 16423092 | `73c631b725c1725d6a6552d9aae7a29a8b21b7235167112e21566a31a8d42713` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16406879.tar.lz4)** | Tue Apr 01 2025 13:51:13 UTC | `gravity-bridge-3` | 979M | 16406879 | `a356ab88eba7ea01d0463f70ec678ae09638516cda8e2208becd807ae55bd41c` |
 
 ---
 
@@ -12,7 +12,7 @@ gravity version: `latest`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16391189.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16423092.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16391189.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/gravitybridge/gravity-bridge-3_16423092.tar.lz4"
 cd $HOME/.gravity
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
