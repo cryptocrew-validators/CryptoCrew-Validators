@@ -48,6 +48,5 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | lum-network-1 | osmosis-1 | transfer | channel-3 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
