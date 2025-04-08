@@ -947,6 +947,49 @@
       "trade_url": "https://www.binance.com/en/trade/NIL_USDT"
     },
     {
+      "name": "near",
+      "prettyName": "NEAR Protocol",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/near/logo_near.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/near/logo_near.png",
+      "symbol": "NEAR",
+      "denom": "near",
+      "decimals": "24",
+      "address": "cryptocrew.poolv1.near",
+      "operator_account": "50c290c1fc4242ba35ce78ec2750b40ad9ccbe2a830a53c645561cb36b82165b",
+      "relayer_accounts": [],
+      "stake_link": "",
+      "rpc": [
+        "https://1rpc.io/near"
+      ],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "near",
+      "chain_id": "mainnet",
+      "trade_url": "https://www.coinbase.com/price/near-protocol"
+    },
+    {
+      "name": "thorchain",
+      "prettyName": "THORChain",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/thorchain/logo_thorchain.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/thorchain/logo_thorchain.png",
+      "symbol": "RUNE",
+      "denom": "",
+      "decimals": "8",
+      "address": "thor10ma7lf07ld98wcm3nvt7uptase4mhrt82rkvg4",
+      "operator_account": "thor1tkn7706tp2js0j4lsgemttmgwt2jym8kngs7en",
+      "stake_link": "https://ccvalidators.com/blog/cryptocrew-support-thorchain-ibc-infrastructure",
+      "rpc": [
+        "https://rpc.ninerealms.com:443"
+      ],
+      "rest": [
+        "https://thornode.ninerealms.com:443"
+      ],
+      "apr": "",
+      "coingecko_id": "thorchain",
+      "chain_id": "thorchain-1",
+      "trade_url": "https://www.binance.com/en/trade/RUNE_USDT"
+    },
+    {
       "name": "radix",
       "prettyName": "Radix",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/radix/logo_radix.svg",
