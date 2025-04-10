@@ -102,6 +102,7 @@ https://ccvalidators.com
 | `Synternet` | `synternet-1` | `syntvaloper1nmwup0ckjs696wqnuja3nufhplx4xsh2c3a9fq` | [delegate SYNT](https://restake.app/synternet/syntvaloper1nmwup0ckjs696wqnuja3nufhplx4xsh2c3a9fq) |
 | `Oraichain` | `Oraichain` | `oraivaloper1hcpav86sv4drafsxjv2ludjhnsegu44t97dvhr` | [delegate ORAI](https://restake.app/oraichain/oraivaloper1hcpav86sv4drafsxjv2ludjhnsegu44t97dvhr) |
 | `Nillion` | `nillion-1` | `nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708` | [delegate NIL](https://restake.app/nillion/nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708) |
+| `Babylon` | `bbn-1` | `bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63` | [delegate BABY](https://wallet.keplr.app/chains/babylon?modal=staking&chain=bbn-1&validator_address=bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63&step_id=2) |
 | `NEAR Protocol` | `mainnet` | `cryptocrew.poolv1.near` | [delegate NEAR](https://app.mynearwallet.com/staking/cryptocrew.poolv1.near/stake) |
 | `THORChain` | `thorchain-1` | `thor10ma7lf07ld98wcm3nvt7uptase4mhrt82rkvg4` | [delegate RUNE](https://ccvalidators.com/blog/cryptocrew-support-thorchain-ibc-infrastructure) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8) |
