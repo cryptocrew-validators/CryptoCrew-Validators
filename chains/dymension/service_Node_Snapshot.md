@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dymd version: `v3.2.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6556839.tar.lz4)** | Mon Apr 07 2025 16:32:20 UTC | `dymension_1100-1` | 3.0G | 6556839 | `8c363a026a268160d44892a3ba389052e82fc962f700c91429c9963b982bf35f` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6542337.tar.lz4)** | Sun Apr 06 2025 18:21:16 UTC | `dymension_1100-1` | 3.2G | 6542337 | `153c344f7bb3eabf0785beea6459dfc13452a51fbb69439d8d198aebda3790e8` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6589296.tar.lz4)** | Wed Apr 09 2025 18:21:22 UTC | `dymension_1100-1` | 3.3G | 6589296 | `c071b7b7ac408f6a5507bcc1c681a046d037994e2a948bfdf071f7ba0f4495f4` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6572556.tar.lz4)** | Tue Apr 08 2025 16:37:31 UTC | `dymension_1100-1` | 2.9G | 6572556 | `c1b175c58d9cc17855ad1886500e72fb8261cbc7a76a1271eb26a6533b1e165a` |
 
 ---
 
@@ -12,7 +12,7 @@ dymd version: `v3.2.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6556839.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6589296.tar.lz4"
 cd $HOME/.dymension
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6556839.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/dymension/dymension_1100-1_6589296.tar.lz4"
 cd $HOME/.dymension
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data

@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 nilchaind version: v0.2.5
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_812570.tar.lz4)** | Sun Apr 06 2025 15:48:00 UTC | nillion-1 | 392.83MB | 812570 |  |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_824853.tar.lz4)** | Mon Apr 07 2025 10:54:00 UTC | nillion-1 | 552.17MB | 824853 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_843460.tar.lz4)** | Tue Apr 08 2025 15:48:00 UTC | nillion-1 | 444.26MB | 843460 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_855778.tar.lz4)** | Wed Apr 09 2025 10:54:00 UTC | nillion-1 | 603.92MB | 855778 |  |
 
 ---
 
@@ -12,7 +12,7 @@ nilchaind version: v0.2.5
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_824853.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_855778.tar.lz4"
 cd $HOME/.nillionapp
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_824853.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_855778.tar.lz4"
 cd $HOME/.nillionapp
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
