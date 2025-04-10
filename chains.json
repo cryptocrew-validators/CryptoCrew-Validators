@@ -947,6 +947,32 @@
       "trade_url": "https://www.binance.com/en/trade/NIL_USDT"
     },
     {
+      "name": "babylon",
+      "prettyName": "Babylon",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/babylon/logo_babylon.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/babylon/logo_babylon.png",
+      "symbol": "BABY",
+      "denom": "ubbn",
+      "decimals": "6",
+      "address": "bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63",
+      "operator_account": "bbn1eunu7l7qfmemdw4xv7apejl28jzgd3t3gc82ks",
+      "relayer_accounts": [
+        "bbn10q672kqy75qchma60j2hw6dd04q7tjj9q2ehjd",
+        "bbn1e6mclsk79nsmathdu2t3lkgazt0szywqave2vs"
+      ],
+      "stake_link": "https://wallet.keplr.app/chains/babylon?modal=staking&chain=bbn-1&validator_address=bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63&step_id=2",
+      "rpc": [
+        "https://babylon-rpc.polkachu.com:443"
+      ],
+      "rest": [
+        "https://babylon-api.polkachu.com:443"
+      ],
+      "apr": "",
+      "coingecko_id": "babylon",
+      "chain_id": "bbn-1",
+      "trade_url": "https://www.okx.com/trade-spot/baby-usdt?channelid=1902090"
+    },
+    {
       "name": "near",
       "prettyName": "NEAR Protocol",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/near/logo_near.svg",
