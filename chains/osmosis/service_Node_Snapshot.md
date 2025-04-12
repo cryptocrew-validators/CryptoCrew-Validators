@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-osmosisd version: `v28.0.5`
+osmosisd version: `v29.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33182028.tar.lz4)** | Tue Apr 08 2025 12:27:08 UTC | `osmosis-1` | 388G | 33182028 | `e791d19003fd46c44408ea3fb5156488ff2b658df804f71318161dbcfcc78dc0` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33052098.tar.lz4)** | Sun Apr 06 2025 14:19:11 UTC | `osmosis-1` | 374G | 33052098 | `7c92b96cac7b04eddc4cbca1a5ce2fbc7712b1ea42f468ed6849aa2f9df753b8` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33446690.tar.lz4)** | Sat Apr 12 2025 14:20:33 UTC | `osmosis-1` | 414G | 33446690 | `f34e98843b06d094dc8caa5f17c3c4f2b5fb93b6ef93d517e075fcf90a4afa48` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33314612.tar.lz4)** | Thu Apr 10 2025 14:29:42 UTC | `osmosis-1` | 402G | 33314612 | `5e7dc24bcc49f038d5a3134b0e414d136b0da904e4472a2b337683d089c6a054` |
 
 ---
 
@@ -12,7 +12,7 @@ osmosisd version: `v28.0.5`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33182028.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33446690.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33182028.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_33446690.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
