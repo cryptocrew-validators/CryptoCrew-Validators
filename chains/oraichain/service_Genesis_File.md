@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/oraichain/genesis.json)**
 ---
 
-- last updated: Thu Apr 10 2025 08:16:55
+- last updated: Sat Apr 12 2025 08:20:32
 - chain id: `Oraichain`
 
 ## Instructions
