@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [mantra-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/mantrachain/mantra-1_export_4523864.json)**
+**Download: [mantra-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/mantrachain/mantra-1_export_4573706.json)**
 ---
 
-- last updated: Fri Apr 11 2025 08:18:22
+- last updated: Sun Apr 13 2025 08:19:51
 - chain id: `mantra-1`
-- export height: `4523864`
+- export height: `4573706`
 - use for: airdrops, local tests, chain recovery
