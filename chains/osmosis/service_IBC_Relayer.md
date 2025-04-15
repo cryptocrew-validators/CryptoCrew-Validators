@@ -14,9 +14,6 @@ osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
 osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
-osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
-osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk
-osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 ```
 
 ### Active IBC channels `osmosis`:
@@ -29,7 +26,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
@@ -48,4 +45,3 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
