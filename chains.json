@@ -214,7 +214,7 @@
       "address": "xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67",
       "operator_account": "xion15vdz44lyndpn0lf7vqqe0rkprnamwxx2a4hsjd",
       "relayer_accounts": [],
-      "stake_link": "https://explorer.burnt.com/xion-mainnet-1/staking/xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67",
+      "stake_link": "https://wallet.keplr.app/chains/xion?modal=staking&chain=xion-mainnet-1&validator_address=xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67&step_id=2",
       "rpc": [],
       "rest": [
         "https://api.xion-mainnet-1.burnt.com"
