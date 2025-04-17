@@ -968,7 +968,36 @@
       "apr": "",
       "coingecko_id": "babylon",
       "chain_id": "bbn-1",
-      "trade_url": "https://www.okx.com/trade-spot/baby-usdt?channelid=1902090"
+      "trade_url": "https://www.binance.com/en/trade/BABY_USDT"
+    },
+    {
+      "name": "neutron",
+      "prettyName": "Neutron",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/neutron/logo_neutron.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/neutron/logo_neutron.png",
+      "symbol": "NTRN",
+      "denom": "untrn",
+      "decimals": "6",
+      "address": "neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k",
+      "operator_account": "neutron1e6rw7a7ngjmn8qjqfymu4en0px7hlr27nusdjj",
+      "relayer_accounts": [
+        "neutron1yvejj22t78s2vfk7slty2d7fs5lkc8rnh5cslm",
+        "neutron1yghndrffay859ma2ue4pa2cltw640vtaqx2096",
+        "neutron1p0ntdj6kt90efugqme9vjk88l2pg7tfhhc9slg",
+        "neutron15md2qvgma8lnvqv67w0umu2paqkqkhega4swjc",
+        "neutron1z44ss28au3vse2ahtcrt7t5q0hk898ca6m5h3l"
+      ],
+      "stake_link": "https://wallet.keplr.app/chains/neutron?modal=staking&chain=neutron-1&validator_address=neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k&step_id=2",
+      "rpc": [
+        "https://neutron-rpc.polkachu.com:443"
+      ],
+      "rest": [
+        "https://neutron-api.polkachu.com:443"
+      ],
+      "apr": "",
+      "coingecko_id": "neutron-3",
+      "chain_id": "neutron-1",
+      "trade_url": "https://www.binance.com/en/trade/NTRN_USDT"
     },
     {
       "name": "near",
@@ -1012,6 +1041,26 @@
       "coingecko_id": "thorchain",
       "chain_id": "thorchain-1",
       "trade_url": "https://www.binance.com/en/trade/RUNE_USDT"
+    },
+    {
+      "name": "lido",
+      "prettyName": "Lido",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/ethereum/logo_ethereum.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/ethereum/logo_ethereum.png",
+      "symbol": "ETH",
+      "denom": "eth",
+      "decimals": "18",
+      "address": "0x4420559d41b04cc68f91ef8b6cc7842a8384c203",
+      "operator_account": "0x4420559d41b04cc68f91ef8b6cc7842a8384c203",
+      "stake_link": "https://stake.lido.fi",
+      "rpc": [],
+      "rest": [
+        "https://eth-api.lido.fi"
+      ],
+      "apr": "",
+      "coingecko_id": "ethereum",
+      "chain_id": "lido",
+      "trade_url": "https://www.binance.com/en/trade/ETH_USDT"
     },
     {
       "name": "radix",
