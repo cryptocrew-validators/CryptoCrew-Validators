@@ -19,13 +19,21 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
+| agoric-3 | osmosis-1 | transfer | channel-1 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
+| celestia | osmosis-1 | transfer | channel-2 |
+| dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
+| mars-1 | osmosis-1 | transfer | channel-1 |
+| pirin-1 | osmosis-1 | transfer | channel-0 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
+| teritori-1 | osmosis-1 | transfer | channel-0 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
@@ -33,15 +41,6 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| agoric-3 | osmosis-1 | transfer | channel-1 |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
-| celestia | osmosis-1 | transfer | channel-2 |
-| dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
-| mars-1 | osmosis-1 | transfer | channel-1 |
-| pirin-1 | osmosis-1 | transfer | channel-0 |
-| quicksilver-2 | osmosis-1 | transfer | channel-2 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
-| teritori-1 | osmosis-1 | transfer | channel-0 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
