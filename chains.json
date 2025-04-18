@@ -13,11 +13,11 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u",
         "cosmos1yghndrffay859ma2ue4pa2cltw640vtayerdla",
         "cosmos1f269n4mrg0s8tqveny9huulyamvdv97n094dgm",
         "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02",
-        "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy",
-        "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u"
+        "cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2",
       "restake": {
@@ -500,8 +500,8 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
-        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
-        "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd"
+        "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd",
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
       "restake": {
@@ -981,11 +981,9 @@
       "address": "neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k",
       "operator_account": "neutron1e6rw7a7ngjmn8qjqfymu4en0px7hlr27nusdjj",
       "relayer_accounts": [
-        "neutron1yvejj22t78s2vfk7slty2d7fs5lkc8rnh5cslm",
         "neutron1yghndrffay859ma2ue4pa2cltw640vtaqx2096",
-        "neutron1p0ntdj6kt90efugqme9vjk88l2pg7tfhhc9slg",
-        "neutron15md2qvgma8lnvqv67w0umu2paqkqkhega4swjc",
-        "neutron1z44ss28au3vse2ahtcrt7t5q0hk898ca6m5h3l"
+        "neutron19l3pq6kg07fa4x7t88urx45t6gk2hl83v7gm4d",
+        "neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s"
       ],
       "stake_link": "https://wallet.keplr.app/chains/neutron?modal=staking&chain=neutron-1&validator_address=neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k&step_id=2",
       "rpc": [
