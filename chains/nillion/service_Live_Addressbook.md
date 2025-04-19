@@ -6,10 +6,9 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/nillion/addrbook.json)**
 ---
 
-- last updated: Fri Apr 18 2025 14:36:12
+- last updated: Sat Apr 19 2025 10:55:57
 - chain id: `nillion-1`
-- available peers: 139
-- total peers (network scan): 79
+- total peers (network scan): 2
 
 ## Instructions
 ```sh
