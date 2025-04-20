@@ -26,7 +26,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
@@ -49,4 +48,3 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
