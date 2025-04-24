@@ -999,6 +999,31 @@
       "trade_url": "https://www.binance.com/en/trade/NTRN_USDT"
     },
     {
+      "name": "initia",
+      "prettyName": "Initia",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/initia/logo_initia.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/initia/logo_initia.png",
+      "symbol": "INIT",
+      "denom": "uinit",
+      "decimals": "6",
+      "address": "initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf",
+      "operator_account": "init15a07mcvjzrgtlf8mpp05r3avy9jvvgu2ueplge",
+      "relayer_accounts": [
+        
+      ],
+      "stake_link": "https://wallet.keplr.app/chains/initia?modal=staking&chain=interwoven-1&validator_address=initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf&step_id=2",
+      "rpc": [
+        "https://rpc.initia.xyz/:443"
+      ],
+      "rest": [
+        "https://api.initia.xyz/:443"
+      ],
+      "apr": "",
+      "coingecko_id": "initia",
+      "chain_id": "interwoven-1",
+      "trade_url": "https://www.binance.com/en/trade/INIT_USDT"
+    },
+    {
       "name": "near",
       "prettyName": "NEAR Protocol",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/near/logo_near.svg",
