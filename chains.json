@@ -1016,7 +1016,7 @@
         "https://rpc.initia.xyz:443"
       ],
       "rest": [
-        "https://api.initia.xyz:443"
+        "https://rest.initia.xyz:443"
       ],
       "apr": "",
       "coingecko_id": "initia",
