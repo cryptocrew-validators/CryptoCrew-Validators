@@ -1013,10 +1013,10 @@
       ],
       "stake_link": "https://wallet.keplr.app/chains/initia?modal=staking&chain=interwoven-1&validator_address=initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf&step_id=2",
       "rpc": [
-        "https://rpc.initia.xyz/:443"
+        "https://rpc.initia.xyz:443"
       ],
       "rest": [
-        "https://api.initia.xyz/:443"
+        "https://api.initia.xyz:443"
       ],
       "apr": "",
       "coingecko_id": "initia",
