@@ -13,5 +13,4 @@ comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2
 ### Active IBC channels `comdex`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | cosmoshub-4 | comdex-1 | provider | channel-1263 |
