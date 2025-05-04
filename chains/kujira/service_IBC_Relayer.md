@@ -16,5 +16,4 @@ kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | phoenix-1 | kaiyo-1 | transfer | channel-10 |
-| secret-4 | kaiyo-1 | transfer | channel-22 |
 | stargaze-1 | kaiyo-1 | transfer | channel-49 |
