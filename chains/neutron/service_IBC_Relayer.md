@@ -16,11 +16,12 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
-| neutron-1 | stargaze-1 | transfer | channel-18 |
+| neutron-1 | phoenix-1 | transfer | channel-25 |
+| neutron-1 | noble-1 | transfer | channel-30 |
+| axelar-dojo-1 | neutron-1 | transfer | channel-78 |
 | celestia | neutron-1 | icahost | channel-54 |
 | celestia | neutron-1 | icahost | channel-57 |
 | celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
-| stargaze-1 | neutron-1 | transfer | channel-191 |
+| noble-1 | neutron-1 | transfer | channel-18 |
+| phoenix-1 | neutron-1 | transfer | channel-229 |
