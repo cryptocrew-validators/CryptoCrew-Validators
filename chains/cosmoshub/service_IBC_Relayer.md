@@ -22,8 +22,8 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | comdex-1 | provider | channel-1263 |
 | cosmoshub-4 | elys-1 | provider | channel-1265 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
+| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | elys-1 | cosmoshub-4 | consumer | channel-0 |
