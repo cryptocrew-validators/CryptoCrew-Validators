@@ -1,11 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-gaiad version: `v23.1.1`
+gaiad version: `v23.2.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25617204.tar.lz4)** | Wed May 07 2025 18:08:15 UTC | `cosmoshub-4` | 1.6T | 25617204 | `875d5e3244a92afa0e76f00be14ba57c0726e3946cee86fd9e12af534e078d78` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25588189.tar.lz4)** | Mon May 05 2025 18:07:21 UTC | `cosmoshub-4` | 1.6T | 25588189 | `a0db76ff3a0d034e9feac5c7e005dd541d00612a4a04194ab404905e406f732c` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25558811.tar.lz4)** | Sat May 03 2025 15:52:09 UTC | `cosmoshub-4` | 717G | 25558811 | `` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25500005.tar.lz4)** | Tue Apr 29 2025 14:17:06 UTC | `cosmoshub-4` | 114G | 25500005 | `` |
 
 ---
 
@@ -13,7 +12,7 @@ gaiad version: `v23.1.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25588189.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25617204.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -29,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25588189.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_25617204.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
