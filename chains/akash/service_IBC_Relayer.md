@@ -18,6 +18,6 @@ akash1f269n4mrg0s8tqveny9huulyamvdv97nz7c23p
 | --------------- | --------------- | ------------ | ------------------- |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | akashnet-2 | elys-1 | transfer | channel-129 |
+| kava_2222-10 | akashnet-2 | transfer | channel-5 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | elys-1 | akashnet-2 | transfer | channel-5 |
-| kava_2222-10 | akashnet-2 | transfer | channel-5 |
