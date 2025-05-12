@@ -1,11 +1,11 @@
 {
   "network": "agoric-3",
-  "height": "19501569",
+  "height": "19603275",
   "type": "archive",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_19501569.tar.lz4",
-  "filename": "agoric-3_19501569.tar.lz4",
-  "date": "2025-05-05 03:21",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_19603275.tar.lz4",
+  "filename": "agoric-3_19603275.tar.lz4",
+  "date": "2025-05-12 03:28",
   "database": "goleveldb",
   "size": "5.0T",
   "provider": "CryptoCrew"
