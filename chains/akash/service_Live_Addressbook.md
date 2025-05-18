@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/akash/addrbook.json)**
 ---
 
-- last updated: Wed May 14 2025 10:21:13
+- last updated: Sun May 18 2025 10:21:48
 - chain id: `akashnet-2`
-- available peers: 1078
-- total peers (network scan): 1078
+- available peers: 927
+- total peers (network scan): 1007
 
 ## Instructions
 ```sh
