@@ -14,5 +14,5 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| evmos_9001-2 | injective-1 | transfer | channel-10 |
 | kava_2222-10 | injective-1 | transfer | channel-122 |
+| evmos_9001-2 | injective-1 | transfer | channel-10 |
