@@ -29,8 +29,8 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | pirin-1 | transfer | channel-783 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
@@ -46,7 +46,6 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | comdex-1 | osmosis-1 | transfer | channel-1 |
 | interwoven-1 | osmosis-1 | transfer | channel-68 |
