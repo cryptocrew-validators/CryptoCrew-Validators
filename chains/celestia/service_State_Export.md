@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [celestia state export](https://dl-eu2.ccvalidators.com/SERVICE/celestia/celestia_export_5554167.json)**
+**Download: [celestia state export](https://dl-eu2.ccvalidators.com/SERVICE/celestia/celestia_export_5570999.json)**
 ---
 
-- last updated: Thu May 22 2025 17:35:21
+- last updated: Fri May 23 2025 17:35:47
 - chain id: `celestia`
-- export height: `5554167`
+- export height: `5570999`
 - use for: airdrops, local tests, chain recovery
