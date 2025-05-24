@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/nolus/addrbook.json)**
 ---
 
-- last updated: Thu May 22 2025 22:56:32
+- last updated: Sat May 24 2025 01:54:16
 - chain id: `pirin-1`
-- available peers: 1005
-- total peers (network scan): 1005
+- available peers: 664
+- total peers (network scan): 664
 
 ## Instructions
 ```sh
