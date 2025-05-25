@@ -19,17 +19,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | stride-1 | transfer | channel-326 |
-| osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
-| osmosis-1 | celestia | transfer | channel-6994 |
-| cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
-| celestia | osmosis-1 | transfer | channel-2 |
-| dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
-| pirin-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
