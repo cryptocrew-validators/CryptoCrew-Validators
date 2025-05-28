@@ -26,6 +26,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
@@ -44,5 +45,3 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | pirin-1 | osmosis-1 | transfer | channel-0 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| interwoven-1 | osmosis-1 | transfer | channel-68 |
