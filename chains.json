@@ -1148,6 +1148,49 @@
       "coingecko_id": "avail",
       "chain_id": "mainnet",
       "trade_url": "https://www.coinbase.com/price/avail"
+    },
+    {
+      "name": "avalanche",
+      "prettyName": "Avalanche",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/avalanche/logo_avalanche.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/avalanche/logo_avalanche.png",
+      "symbol": "AVAX",
+      "denom": "avax",
+      "decimals": "9",
+      "address": "NodeID-E8CBDCxz5E7T2yVUeKEzR3VuJytqobJa9",
+      "operator_account": "",
+      "stake_link": "",
+      "rpc": [
+        "https://api.avax.network/ext/bc/P"
+      ],
+      "rest": [
+      ],
+      "apr": "",
+      "coingecko_id": "avalanche-2",
+      "chain_id": "P-Chain",
+      "trade_url": ""
+    },
+    {
+      "name": "namada",
+      "prettyName": "Namada",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/namada/logo_namada.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/namada/logo_namada.png",
+      "symbol": "NAM",
+      "denom": "unam",
+      "decimals": "6",
+      "address": "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47",
+      "operator_account": "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47",
+      "stake_link": "",
+      "rpc": [
+        "https://namada-mainnet-rpc.mellifera.network"
+      ],
+      "rest": [
+        "https://indexer.namada.tududes.com"
+      ],
+      "apr": "",
+      "coingecko_id": "",
+      "chain_id": "namada.5f5de2dd1b88cba30586420",
+      "trade_url": ""
     }
   ]
 }
