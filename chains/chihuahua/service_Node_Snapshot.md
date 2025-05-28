@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 chihuahuad version: `v9.0.2`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_17760843.tar.lz4)** | Sun Apr 27 2025 17:09:13 UTC | `chihuahua-1` | 152G | 17760843 | `` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_17731044.tar.lz4)** | Fri Apr 25 2025 17:12:09 UTC | `chihuahua-1` | 171G | 17731044 | `37bb3025e9e043a263b78b13ad55feba1e59acd92f39814edb8ce0ed4a37544d` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_18208794.tar.lz4)** | Tue May 27 2025 17:18:35 UTC | `chihuahua-1` | 212G | 18208794 | `0b7c4175af07ce2977995c27e251314d8aadcb2400180b12782252d76b22060e` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_18178855.tar.lz4)** | Sun May 25 2025 17:18:08 UTC | `chihuahua-1` | 209G | 18178855 | `a0d49e67f4daa8f7b47df4df631dfe4fa59a8920a629d4d41e24e028cf151d91` |
 
 ---
 
@@ -12,7 +12,7 @@ chihuahuad version: `v9.0.2`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_17760843.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_18208794.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_17760843.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_18208794.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data

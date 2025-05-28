@@ -1,12 +1,12 @@
 {
   "network": "pacific-1",
-  "height": "143076107",
+  "height": "148382523",
   "type": "archive",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_143076107.tar.lz4",
-  "filename": "pacific-1_143076107.tar.lz4",
-  "date": "2025-04-20 17:27",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_148382523.tar.lz4",
+  "filename": "pacific-1_148382523.tar.lz4",
+  "date": "2025-05-22 09:31",
   "database": "goleveldb",
-  "size": "775G",
+  "size": "7.9T",
   "provider": "CryptoCrew"
 }

@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-xiond version: `v18.0.0`
+xiond version: `v18.0.2`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_7314166.tar.lz4)** | Tue Apr 29 2025 11:51:54 UTC | `xion-mainnet-1` | 12G | 7314166 | `8c81dad29c301088b185671932dacf044e4cb4303dd94b4f56fd4ef0bd2f0d39` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_7237840.tar.lz4)** | Sun Apr 27 2025 11:51:49 UTC | `xion-mainnet-1` | 11G | 7237840 | `` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_8420443.tar.lz4)** | Wed May 28 2025 12:54:19 UTC | `xion-mainnet-1` | 21G | 8420443 | `f8637fc0c646e010a8bea59fccce3e8026b06e0128b63dcc473c4d9042e67256` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_8343456.tar.lz4)** | Mon May 26 2025 11:49:30 UTC | `xion-mainnet-1` | 20G | 8343456 | `68d2860bf00f653ddb9e9c476226131e959c4495d41e111f5d64a88463a03e7a` |
 
 ---
 
@@ -12,7 +12,7 @@ xiond version: `v18.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_7314166.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_8420443.tar.lz4"
 cd $HOME/.xiond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_7314166.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/xion/xion-mainnet-1_8420443.tar.lz4"
 cd $HOME/.xiond
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm

@@ -51,10 +51,7 @@
         "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk",
         "osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7",
         "osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38",
-        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj",
-        "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
-        "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
-        "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv"
+        "osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj"
       ],
       "stake_link": "https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2",
       "restake": {
@@ -110,6 +107,7 @@
       "address": "dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn",
       "operator_account": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
       "relayer_accounts": [
+        "dydx1yghndrffay859ma2ue4pa2cltw640vtadqdfl2",
         "dydx12aeyaxq699k3f4d3733dl5pstw0ulplknv83km",
         "dydx18hx3fcqrvynx9vvpvyv5qym82xz4suw5elaklh"
       ],
@@ -168,7 +166,8 @@
       "address": "dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau",
       "operator_account": "dym192a6ttzqxu9hcmm6lh6nrv9jx7am27j9r4yxrx",
       "relayer_accounts": [
-        "dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w"
+        "dym18hx3fcqrvynx9vvpvyv5qym82xz4suw5zml56w",
+        "dym12aeyaxq699k3f4d3733dl5pstw0ulplkgg9nnz"
       ],
       "stake_link": "https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau&step_id=2",
       "restake": {
@@ -267,7 +266,6 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
-        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
@@ -322,6 +320,7 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
       "relayer_accounts": [
+        "kujira1yghndrffay859ma2ue4pa2cltw640vta43p4jh",
         "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
       ],
       "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
@@ -743,7 +742,7 @@
       "hex_address": "945FB46D34BA10D391F33A3184793BB0D2F13340",
       "stake_link": "https://app.nomic.io/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info",
       "rpc": [
-        "http://138.197.71.46:26657"
+        "https://nomic-rpc.polkachu.com"
       ],
       "rest": [],
       "commission": "0.05",
@@ -1039,10 +1038,8 @@
         "milk1umr5dxd3fesq32ktz3ust5q338jeje3vrpd2e9"
       ],
       "stake_link": "https://restake.app/milkyway/milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8",
-      "rpc": [
-      ],
-      "rest": [
-      ],
+      "rpc": [],
+      "rest": [],
       "apr": "",
       "coingecko_id": "milkyway-2",
       "chain_id": "milkyway-1",
@@ -1119,12 +1116,12 @@
       "symbol": "XRD",
       "denom": "xrd",
       "decimals": "18",
-      "address": "rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md",
+      "address": "validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8",
       "operator_account": "rdx1qspwqnaur60al24f5yk0xuxjnchrr7zcerfneusxuj3mpyc8wfyrrtgde8tmp",
       "stake_link": "https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8",
       "rpc": [],
       "rest": [
-        "https://mainnet-gateway.radixdlt.com:443"
+        "https://mainnet.radixdlt.com:443"
       ],
       "apr": "0.0967",
       "coingecko_id": "radix",
@@ -1151,6 +1148,49 @@
       "coingecko_id": "avail",
       "chain_id": "mainnet",
       "trade_url": "https://www.coinbase.com/price/avail"
+    },
+    {
+      "name": "avalanche",
+      "prettyName": "Avalanche",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/avalanche/logo_avalanche.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/avalanche/logo_avalanche.png",
+      "symbol": "AVAX",
+      "denom": "avax",
+      "decimals": "9",
+      "address": "NodeID-E8CBDCxz5E7T2yVUeKEzR3VuJytqobJa9",
+      "operator_account": "",
+      "stake_link": "",
+      "rpc": [
+        "https://api.avax.network/ext/bc/P"
+      ],
+      "rest": [
+      ],
+      "apr": "",
+      "coingecko_id": "avalanche-2",
+      "chain_id": "P-Chain",
+      "trade_url": ""
+    },
+    {
+      "name": "namada",
+      "prettyName": "Namada",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/namada/logo_namada.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/namada/logo_namada.png",
+      "symbol": "NAM",
+      "denom": "unam",
+      "decimals": "6",
+      "address": "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47",
+      "operator_account": "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47",
+      "stake_link": "",
+      "rpc": [
+        "https://namada-mainnet-rpc.mellifera.network"
+      ],
+      "rest": [
+        "https://indexer.namada.tududes.com"
+      ],
+      "apr": "",
+      "coingecko_id": "",
+      "chain_id": "namada.5f5de2dd1b88cba30586420",
+      "trade_url": ""
     }
   ]
 }
