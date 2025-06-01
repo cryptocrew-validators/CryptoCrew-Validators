@@ -4,7 +4,6 @@ celestia-appd version: `v3.7.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_5705659.tar.lz4)** | Sat May 31 2025 17:31:44 UTC | `celestia` | 6.8G | 5705659 | `9452b3c66df0fad80c8679e1a0080e47e079e4ca0f56fe447e66481d3c835b08` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_5688829.tar.lz4)** | Fri May 30 2025 17:31:47 UTC | `celestia` | 6.9G | 5688829 | `fdaacbf879a91e8389da19a771ccef757b29522dab7d34b0c37ef85069b57118` |
 
 ---
 
@@ -12,7 +11,7 @@ celestia-appd version: `v3.7.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_5705659.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_5722500.tar.lz4"
 cd $HOME/.celestia-app
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_5705659.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_5722500.tar.lz4"
 cd $HOME/.celestia-app
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
