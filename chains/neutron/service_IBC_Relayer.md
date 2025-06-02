@@ -18,6 +18,3 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | celestia | neutron-1 | icahost | channel-54 |
 | celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| interwoven-1 | neutron-1 | icahost | channel-76 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
-| ssc-1 | neutron-1 | transfer | channel-10 |
