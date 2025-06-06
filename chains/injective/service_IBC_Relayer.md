@@ -14,4 +14,6 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| injective-1 | noble-1 | transfer | channel-148 |
 | injective-1 | celestia | transfer | channel-152 |
+| noble-1 | injective-1 | transfer | channel-31 |
