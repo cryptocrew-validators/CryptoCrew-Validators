@@ -22,6 +22,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
@@ -30,6 +31,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
@@ -48,6 +50,5 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
