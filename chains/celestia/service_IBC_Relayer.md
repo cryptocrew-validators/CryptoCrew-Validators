@@ -21,6 +21,7 @@ celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 | celestia | neutron-1 | icahost | channel-54 |
 | celestia | neutron-1 | icahost | channel-57 |
 | celestia | neutron-1 | transfer | channel-8 |
+| elys-1 | celestia | transfer | channel-4 |
 | injective-1 | celestia | transfer | channel-152 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | neutron-1 | celestia | transfer | channel-35 |
