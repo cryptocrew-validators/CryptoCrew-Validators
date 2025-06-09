@@ -29,6 +29,13 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
+| juno-1 | osmosis-1 | transfer | channel-0 |
+| kaiyo-1 | osmosis-1 | transfer | channel-3 |
+| lum-network-1 | osmosis-1 | transfer | channel-3 |
+| migaloo-1 | osmosis-1 | transfer | channel-5 |
+| secret-4 | osmosis-1 | transfer | channel-1 |
+| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
@@ -38,12 +45,5 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | pirin-1 | osmosis-1 | transfer | channel-0 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
 | teritori-1 | osmosis-1 | transfer | channel-0 |
-| evmos_9001-2 | osmosis-1 | transfer | channel-0 |
-| juno-1 | osmosis-1 | transfer | channel-0 |
-| kaiyo-1 | osmosis-1 | transfer | channel-3 |
-| lum-network-1 | osmosis-1 | transfer | channel-3 |
-| migaloo-1 | osmosis-1 | transfer | channel-5 |
-| secret-4 | osmosis-1 | transfer | channel-1 |
-| stargaze-1 | osmosis-1 | transfer | channel-0 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
