@@ -1,12 +1,12 @@
 {
   "network": "mantra-1",
-  "height": "5993997",
-  "type": "",
+  "height": "6019645",
+  "type": "c73d1f8674e927754f8f0fae064a3c72ed4aaf54a77c3983ae22552911b1746f",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_5993997.tar.lz4",
-  "filename": "mantra-1_5993997.tar.lz4",
-  "date": "2025-06-08 09:09",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6019645.tar.lz4",
+  "filename": "mantra-1_6019645.tar.lz4",
+  "date": "2025-06-09 08:18",
   "database": "goleveldb",
-  "size": "14G",
+  "size": "20G",
   "provider": "CryptoCrew"
 }
