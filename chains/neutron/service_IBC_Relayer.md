@@ -16,9 +16,7 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | noble-1 | transfer | channel-30 |
-| celestia | neutron-1 | icahost | channel-54 |
-| celestia | neutron-1 | icahost | channel-57 |
+| neutron-1 | celestia | transfer | channel-35 |
 | celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| dydx-mainnet-1 | neutron-1 | transfer | channel-11 |
 | noble-1 | neutron-1 | transfer | channel-18 |
