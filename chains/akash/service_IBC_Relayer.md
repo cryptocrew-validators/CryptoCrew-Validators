@@ -16,3 +16,4 @@ akash18hx3fcqrvynx9vvpvyv5qym82xz4suw5aa74x6
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
+| osmosis-1 | akashnet-2 | transfer | channel-1 |
