@@ -51,4 +51,3 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
