@@ -31,6 +31,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
