@@ -20,8 +20,8 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | elys-1 | provider | channel-1265 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
+| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | elys-1 | cosmoshub-4 | consumer | channel-0 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
