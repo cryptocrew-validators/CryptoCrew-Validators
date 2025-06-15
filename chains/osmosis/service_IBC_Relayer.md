@@ -29,7 +29,6 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | quicksilver-2 | transfer | channel-522 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
@@ -49,6 +48,5 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
