@@ -3,7 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 nilchaind version: v0.2.5
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_1878642.tar.lz4)** | Sun Jun 15 2025 10:54:00 UTC | nillion-1 | 654.41MB | 1878642 |  |
+| **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_1896867.tar.lz4)** | Mon Jun 16 2025 15:48:00 UTC | nillion-1 | 589.38MB | 1896867 |  |
 | **[DOWNLOAD](https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_996998.tar.lz4)** | Fri Apr 18 2025 14:34:00 UTC | nillion-1 | 164.09MB | 996998 |  |
 
 ---
@@ -12,7 +12,7 @@ nilchaind version: v0.2.5
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_1878642.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_1896867.tar.lz4"
 cd $HOME/.nillionapp
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_1878642.tar.lz4"
+URL="https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_1896867.tar.lz4"
 cd $HOME/.nillionapp
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
