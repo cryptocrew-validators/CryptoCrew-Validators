@@ -15,3 +15,4 @@ dydx18hx3fcqrvynx9vvpvyv5qym82xz4suw5elaklh
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
+| osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
