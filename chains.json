@@ -268,6 +268,7 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
+        "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
@@ -354,9 +355,9 @@
       "address": "injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
       "operator_account": "inj1nq37nq79w2j76xj8qhjzcn6vh0wlx0qka9t867",
       "relayer_accounts": [
+        "inj1t6652af4jvlahqrklleg8rac3ufpmeajgeugnd",
         "inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv",
-        "inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp",
-        "inj1t6652af4jvlahqrklleg8rac3ufpmeajgeugnd"
+        "inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp"
       ],
       "stake_link": "https://wallet.keplr.app/chains/injective?modal=staking&chain=injective-1&validator_address=injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6&step_id=2",
       "rpc": [
@@ -505,6 +506,7 @@
       "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
       "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
       "relayer_accounts": [
+        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v",
         "stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd"
       ],
       "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
