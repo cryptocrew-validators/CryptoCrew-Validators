@@ -16,11 +16,9 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | stargaze-1 | transfer | channel-18 |
-| neutron-1 | phoenix-1 | transfer | channel-25 |
-| neutron-1 | injective-1 | transfer | channel-60 |
+| neutron-1 | celestia | transfer | channel-35 |
+| neutron-1 | celestia | icacontroller-neutron1mtyp7tyq2rt4nk9qe3l3mmun5zy3k84s9ccndt6z7g6rwuyllqlq6kafzy.drop_PUMP | channel-6027 |
+| celestia | neutron-1 | icahost | channel-54 |
+| celestia | neutron-1 | icahost | channel-57 |
+| celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| injective-1 | neutron-1 | transfer | channel-177 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
-| phoenix-1 | neutron-1 | transfer | channel-229 |
-| stargaze-1 | neutron-1 | transfer | channel-191 |

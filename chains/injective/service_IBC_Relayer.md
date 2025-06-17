@@ -9,7 +9,6 @@ Active Relayer Accounts:
 ```
 inj1jd7me7u2hew8cr8422m9yvgldhpv70l0gmhzpv
 inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
-inj1t6652af4jvlahqrklleg8rac3ufpmeajgeugnd
 ```
 
 ### Active IBC channels `injective`:
@@ -17,5 +16,3 @@ inj1t6652af4jvlahqrklleg8rac3ufpmeajgeugnd
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | noble-1 | transfer | channel-148 |
 | injective-1 | celestia | transfer | channel-152 |
-| injective-1 | neutron-1 | transfer | channel-177 |
-| neutron-1 | injective-1 | transfer | channel-60 |
