@@ -22,6 +22,7 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | akashnet-2 | transfer | channel-1 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | stride-1 | icahost | channel-430 |
@@ -32,6 +33,7 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
