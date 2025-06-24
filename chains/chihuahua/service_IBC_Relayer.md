@@ -13,4 +13,9 @@ chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 ### Active IBC channels `chihuahua`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| migaloo-1 | chihuahua-1 | transfer | channel-10 |
+| chihuahua-1 | juno-1 | transfer | channel-11 |
+| chihuahua-1 | secret-4 | transfer | channel-16 |
+| chihuahua-1 | migaloo-1 | transfer | channel-39 |
+| cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
+| phoenix-1 | chihuahua-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-114 |
+| phoenix-1 | chihuahua-1 | transfer | channel-98 |
