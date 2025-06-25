@@ -35,7 +35,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | phoenix-1 | transfer | channel-341 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -50,4 +49,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | lum-network-1 | osmosis-1 | transfer | channel-2 |
 | migaloo-1 | osmosis-1 | transfer | channel-5 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |

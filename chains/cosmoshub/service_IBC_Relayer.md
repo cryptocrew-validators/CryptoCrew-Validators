@@ -24,8 +24,6 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | juno-1 | transfer | channel-207 |
 | cosmoshub-4 | chihuahua-1 | transfer | channel-576 |
 | cosmoshub-4 | lum-network-1 | icahost | channel-607 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
