@@ -15,4 +15,3 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | noble-1 | injective-1 | transfer | channel-31 |
-| kava_2222-10 | injective-1 | transfer | channel-122 |
