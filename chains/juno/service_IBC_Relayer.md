@@ -14,8 +14,4 @@ juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | osmosis-1 | transfer | channel-0 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
-| juno-1 | secret-4 | transfer | channel-48 |
-| cosmoshub-4 | juno-1 | transfer | channel-207 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
-| secret-4 | juno-1 | transfer | channel-8 |
