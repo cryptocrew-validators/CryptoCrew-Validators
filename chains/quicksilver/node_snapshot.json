@@ -1,12 +1,12 @@
 {
   "network": "quicksilver-2",
-  "height": "13356197",
+  "height": "13386007",
   "type": "",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_13356197.tar.lz4",
-  "filename": "quicksilver-2_13356197.tar.lz4",
-  "date": "2025-06-27 12:50",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/quicksilver/quicksilver-2_13386007.tar.lz4",
+  "filename": "quicksilver-2_13386007.tar.lz4",
+  "date": "2025-06-29 11:40",
   "database": "goleveldb",
-  "size": "435G",
+  "size": "375M",
   "provider": "CryptoCrew"
 }
