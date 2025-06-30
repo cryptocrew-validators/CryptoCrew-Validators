@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances, and delegations.
 
 ---
-**Download: [nillion-1 state export](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/nillion/nillion-1_export_2091321.json)**
+**Download: [nillion-1 state export](https://ccv-s3.nbg1.your-objectstorage.com/SERVICE/nillion/nillion-1_export_2109599.json)**
 ---
 
-- last updated: Sun Jun 29 2025 10:55:51
+- last updated: Mon Jun 30 2025 15:49:47
 - chain id: `nillion-1`
-- export height: `2091321`
+- export height: `2109599`
 - use for: airdrops, local tests, chain recovery
