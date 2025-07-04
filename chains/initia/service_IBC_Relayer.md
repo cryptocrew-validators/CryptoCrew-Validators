@@ -13,5 +13,4 @@ init1yghndrffay859ma2ue4pa2cltw640vta20r75l
 ### Active IBC channels `initia`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| interwoven-1 | neutron-1 | transfer | channel-37 |
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
