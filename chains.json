@@ -314,38 +314,6 @@
       "trade_url": "https://www.binance.com/en/trade/KAVA_USDT"
     },
     {
-      "name": "kujira",
-      "prettyName": "Kujira",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kujira/logo_kujira.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/kujira/logo_kujira.png",
-      "symbol": "KUJI",
-      "denom": "ukuji",
-      "decimals": "6",
-      "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
-      "operator_account": "kujira1vsqs0d3y6ufln266r60qvszhps3tmgsxl5rmc0",
-      "relayer_accounts": [
-        "kujira1yvejj22t78s2vfk7slty2d7fs5lkc8rnzrn2gk"
-      ],
-      "stake_link": "https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
-      "restake": {
-        "address": "kujira1305e92ng6a9pdh3ttc3ld459ckxupxt3xycmhd",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/NK59kmk9-2/KUJI.svg"
-      },
-      "rpc": [
-        "https://rpc.kujira.ccvalidators.com:443"
-      ],
-      "rest": [
-        "https://rest.kujira.ccvalidators.com:443"
-      ],
-      "apr": "",
-      "coingecko_id": "kujira",
-      "chain_id": "kaiyo-1",
-      "trade_url": "https://fin.kujira.network/trade/kujira193dzcmy7lwuj4eda3zpwwt9ejal00xva0vawcvhgsyyp5cfh6jyq66wfrf"
-    },
-    {
       "name": "injective",
       "prettyName": "Injective",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/injective/logo_injective.svg",
