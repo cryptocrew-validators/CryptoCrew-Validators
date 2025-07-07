@@ -7,10 +7,10 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
-comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2
+comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8
 ```
 
 ### Active IBC channels `comdex`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| secret-4 | comdex-1 | transfer | channel-63 |
+| comdex-1 | osmosis-1 | transfer | channel-1 |
