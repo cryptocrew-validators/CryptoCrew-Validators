@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 mantrachaind version: `v4.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6845870.tar.lz4)** | Fri Jul 11 2025 08:18:58 UTC | `mantra-1` | 23G | 6845870 | `a8e0ff3384f85ac6e4e493adeba4c39eb9178027a69d55300376de8403525a0c` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6819905.tar.lz4)** | Thu Jul 10 2025 09:39:42 UTC | `mantra-1` | 23G | 6819905 | `e607956691f196002a271a6c24462d3c740aff717e091d5f6377f72519651fd5` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6793905.tar.lz4)** | Wed Jul 09 2025 08:23:14 UTC | `mantra-1` | 23G | 6793905 | `2920e707e3e4a38fbcb0677e901c93316af0621ce69851e73d605a4671a67806` |
 
 ---
 
@@ -12,7 +12,7 @@ mantrachaind version: `v4.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6819905.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6845870.tar.lz4"
 cd $HOME/.mantrachain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6819905.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/mantrachain/mantra-1_6845870.tar.lz4"
 cd $HOME/.mantrachain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
