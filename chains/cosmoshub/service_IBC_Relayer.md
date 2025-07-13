@@ -22,6 +22,6 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 | cosmoshub-4 | comdex-1 | provider | channel-1263 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| juno-1 | cosmoshub-4 | transfer | channel-1 |
 | comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
