@@ -14,4 +14,3 @@ nolus12aeyaxq699k3f4d3733dl5pstw0ulplkv9e25f
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| neutron-1 | pirin-1 | transfer | channel-44 |
