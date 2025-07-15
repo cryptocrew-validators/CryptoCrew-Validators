@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [chihuahua-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/chihuahua/chihuahua-1_export_18910207.json)**
+**Download: [chihuahua-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/chihuahua/chihuahua-1_export_18940185.json)**
 ---
 
-- last updated: Sun Jul 13 2025 17:57:17
+- last updated: Tue Jul 15 2025 17:57:30
 - chain id: `chihuahua-1`
-- export height: `18910207`
+- export height: `18940185`
 - use for: airdrops, local tests, chain recovery
