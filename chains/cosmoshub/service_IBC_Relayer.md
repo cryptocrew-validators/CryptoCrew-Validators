@@ -25,4 +25,3 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| juno-1 | cosmoshub-4 | transfer | channel-1 |
