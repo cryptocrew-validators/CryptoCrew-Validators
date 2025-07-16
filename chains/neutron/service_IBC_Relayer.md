@@ -17,7 +17,12 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
+| neutron-1 | celestia | transfer | channel-35 |
+| neutron-1 | interwoven-1 | icacontroller-neutron1wk9aamp2hy2hd90jhsu6qj7grd6tde43nzuvcchmfvj2880ya5ss9qxdp7.DROP | channel-7029 |
+| celestia | neutron-1 | icahost | channel-57 |
 | celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| interwoven-1 | neutron-1 | transfer | channel-37 |
+| noble-1 | neutron-1 | transfer | channel-18 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
-| phoenix-1 | neutron-1 | transfer | channel-229 |
+| ssc-1 | neutron-1 | transfer | channel-10 |
