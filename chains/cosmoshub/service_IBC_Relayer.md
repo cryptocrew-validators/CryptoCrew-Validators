@@ -16,7 +16,9 @@ cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
