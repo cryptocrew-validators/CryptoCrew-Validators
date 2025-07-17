@@ -16,9 +16,6 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 osmo12aeyaxq699k3f4d3733dl5pstw0ulplkjw69q7
 osmo1qp2jfwdez8f69h470ex9rtcd6truqqg9p2fz38
 osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
-osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
-osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk
-osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 ```
 
 ### Active IBC channels `osmosis`:
@@ -38,7 +35,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | pirin-1 | transfer | channel-783 |
-| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
@@ -51,4 +48,3 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | pirin-1 | osmosis-1 | transfer | channel-0 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
