@@ -33,7 +33,6 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
