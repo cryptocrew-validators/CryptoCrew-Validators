@@ -15,3 +15,4 @@ kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| osmosis-1 | kava_2222-10 | transfer | channel-143 |
