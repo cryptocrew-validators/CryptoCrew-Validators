@@ -15,10 +15,7 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 ### Active IBC channels `neutron`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | neutron-1 | celestia | transfer | channel-35 |
-| neutron-1 | celestia | icacontroller-neutron1mtyp7tyq2rt4nk9qe3l3mmun5zy3k84s9ccndt6z7g6rwuyllqlq6kafzy.drop_PUMP | channel-6027 |
-| axelar-dojo-1 | neutron-1 | transfer | channel-78 |
-| celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| noble-1 | neutron-1 | transfer | channel-18 |
-| phoenix-1 | neutron-1 | transfer | channel-229 |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
