@@ -34,7 +34,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | pirin-1 | transfer | channel-783 |
 | osmosis-1 | lum-network-1 | transfer | channel-115 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
