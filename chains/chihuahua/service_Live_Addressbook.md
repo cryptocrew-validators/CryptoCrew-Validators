@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/chihuahua/addrbook.json)**
 ---
 
-- last updated: Mon Jul 21 2025 17:58:14
+- last updated: Wed Jul 23 2025 18:00:22
 - chain id: `chihuahua-1`
-- available peers: 544
-- total peers (network scan): 544
+- available peers: 300
+- total peers (network scan): 582
 
 ## Instructions
 ```sh
