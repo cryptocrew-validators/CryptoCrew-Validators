@@ -39,7 +39,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | bitsong-2b | transfer | channel-73 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
@@ -52,4 +51,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
