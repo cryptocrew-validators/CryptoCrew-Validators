@@ -13,7 +13,6 @@ cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02
 cosmos19c5dtp3kxl92wpeqpk8pf06rsqqggz935nlrpy
 cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv
 cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
-cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 ```
 
 ### Active IBC channels `cosmoshub`:
@@ -23,9 +22,7 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
-| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
+| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
-| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
