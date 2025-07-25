@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/mantrachain/addrbook.json)**
 ---
 
-- last updated: Thu Jul 24 2025 09:55:11
+- last updated: Fri Jul 25 2025 08:26:50
 - chain id: `mantra-1`
-- available peers: 1046
-- total peers (network scan): 1059
+- available peers: 1463
+- total peers (network scan): 1161
 
 ## Instructions
 ```sh
