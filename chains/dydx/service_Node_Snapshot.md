@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dydxprotocold version: `v8.2.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51240854.tar.lz4)** | Mon Jul 28 2025 10:16:18 UTC | `dydx-mainnet-1` | 293G | 51240854 | `95353a76a598fca336bb7705c88fed4579e56e94035af5bca43966b3cd4579a1` |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51160633.tar.lz4)** | Sun Jul 27 2025 10:47:20 UTC | `dydx-mainnet-1` | 293G | 51160633 | `c7749dd635137a668451c9e159e81fc30e3e19ae560e5ce395e60d75169cb2b6` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51405523.tar.lz4)** | Wed Jul 30 2025 10:17:55 UTC | `dydx-mainnet-1` | 294G | 51405523 | `0f13352269d3ee4cf0e0fe00baf211f11559aee5884dd0c9b07aec4b260acd36` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51323186.tar.lz4)** | Tue Jul 29 2025 10:48:46 UTC | `dydx-mainnet-1` | 294G | 51323186 | `724cc3e9f5fdc7fc773d1328984040885f1a60538dd480e9f22ab2f2d35a94e1` |
 
 ---
 
@@ -12,7 +12,7 @@ dydxprotocold version: `v8.2.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51240854.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51405523.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51240854.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_51405523.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
