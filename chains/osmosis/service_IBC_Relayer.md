@@ -29,6 +29,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
@@ -39,5 +40,3 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| empowerchain-1 | osmosis-1 | transfer | channel-1 |
