@@ -13,4 +13,4 @@ juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 ### Active IBC channels `juno`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| cosmoshub-4 | juno-1 | transfer | channel-207 |
+| juno-1 | osmosis-1 | transfer | channel-0 |
