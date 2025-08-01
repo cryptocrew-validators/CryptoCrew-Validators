@@ -28,10 +28,10 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
