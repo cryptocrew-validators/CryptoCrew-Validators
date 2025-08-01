@@ -3,9 +3,9 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 terrad version: `v2.17.3`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16758912.tar.lz4)** | Fri Aug 01 2025 12:37:25 UTC | `phoenix-1` | 15G | 16758912 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16744416.tar.lz4)** | Thu Jul 31 2025 12:37:52 UTC | `phoenix-1` | 15G | 16744416 | `` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16729729.tar.lz4)** | Wed Jul 30 2025 12:38:56 UTC | `phoenix-1` | 15G | 16729729 | `` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16715044.tar.lz4)** | Tue Jul 29 2025 12:38:36 UTC | `phoenix-1` | 15G | 16715044 | `` |
 
 ---
 
@@ -13,7 +13,7 @@ terrad version: `v2.17.3`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16744416.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16758912.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -29,7 +29,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16744416.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_16758912.tar.lz4"
 cd $HOME/.terra
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
