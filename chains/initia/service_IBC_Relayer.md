@@ -15,4 +15,3 @@ init16m48j88mlw2smhc8nyurznt4jl9nqgyqx5njuj
 | --------------- | --------------- | ------------ | ------------------- |
 | interwoven-1 | osmosis-1 | transfer | channel-68 |
 | osmosis-1 | interwoven-1 | transfer | channel-102122 |
-| neutron-1 | interwoven-1 | icacontroller-neutron1ypfa88sj0n0cqzyv3mh32nqke38xul3cye68c9jyq0y73n4z67zslvr824.drop_PUMP | channel-7028 |

@@ -16,16 +16,12 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
-| neutron-1 | axelar-dojo-1 | transfer | channel-2 |
 | neutron-1 | phoenix-1 | transfer | channel-25 |
 | neutron-1 | noble-1 | transfer | channel-30 |
 | neutron-1 | dydx-mainnet-1 | transfer | channel-48 |
-| neutron-1 | interwoven-1 | icacontroller-neutron1ypfa88sj0n0cqzyv3mh32nqke38xul3cye68c9jyq0y73n4z67zslvr824.drop_PUMP | channel-7028 |
-| axelar-dojo-1 | neutron-1 | transfer | channel-78 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | dydx-mainnet-1 | neutron-1 | transfer | channel-11 |
-| kaiyo-1 | neutron-1 | transfer | channel-75 |
 | noble-1 | neutron-1 | transfer | channel-18 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | phoenix-1 | neutron-1 | transfer | channel-229 |
+| pirin-1 | neutron-1 | transfer | channel-3839 |
+| stargaze-1 | neutron-1 | transfer | channel-191 |
