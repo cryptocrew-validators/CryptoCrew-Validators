@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 celestia-appd version: `v5.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6796974.tar.lz4)** | Mon Aug 04 2025 11:30:04 UTC | `celestia` | 16G | 6796974 | `604760aef900a41d40da0b8874d97c03d838d5bcdd345ff8210b95fa856762cd` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6779966.tar.lz4)** | Sun Aug 03 2025 11:29:54 UTC | `celestia` | 14G | 6779966 | `c3905d74327613052e2e31fa10280314b10d7b8dfaa2ad2d763dc47a512354c7` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6763293.tar.lz4)** | Sat Aug 02 2025 11:29:17 UTC | `celestia` | 12G | 6763293 | `66e3f803af296787b505e760257099c5d802b817c6646b387b0f12e07587e9bc` |
 
 ---
 
@@ -12,7 +12,7 @@ celestia-appd version: `v5.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6779966.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6796974.tar.lz4"
 cd $HOME/.celestia-app
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6779966.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/celestia/celestia_6796974.tar.lz4"
 cd $HOME/.celestia-app
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
