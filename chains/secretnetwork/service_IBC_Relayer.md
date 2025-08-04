@@ -9,12 +9,10 @@ Active Relayer Accounts:
 ```
 secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r
 secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
-secret1yghndrffay859ma2ue4pa2cltw640vtaxuhyzp
 ```
 
 ### Active IBC channels `secretnetwork`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | secret-4 | osmosis-1 | transfer | channel-1 |
-| secret-4 | neutron-1 | transfer | channel-144 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
