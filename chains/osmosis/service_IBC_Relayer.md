@@ -27,7 +27,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | migaloo-1 | transfer | channel-642 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
@@ -40,4 +40,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
