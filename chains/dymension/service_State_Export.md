@@ -2,10 +2,10 @@
 CryptoCrew provides automatic daily state exports for all chains we validate. State export files can be used as genesis files and are a snapshot of the current blockchain state, including all validators, accounts, balances and delegations.
 
 ---
-**Download: [dymension_1100-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/dymension/dymension_1100-1_export_8491282.json)**
+**Download: [dymension_1100-1 state export](https://dl-eu2.ccvalidators.com/SERVICE/dymension/dymension_1100-1_export_8506993.json)**
 ---
 
-- last updated: Fri Aug 08 2025 18:29:50
+- last updated: Sat Aug 09 2025 18:27:34
 - chain id: `dymension_1100-1`
-- export height: `8491282`
+- export height: `8506993`
 - use for: airdrops, local tests, chain recovery
