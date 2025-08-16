@@ -14,4 +14,3 @@ dydx1yghndrffay859ma2ue4pa2cltw640vtadqdfl2
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | dydx-mainnet-1 | neutron-1 | transfer | channel-11 |
-| neutron-1 | dydx-mainnet-1 | transfer | channel-48 |
