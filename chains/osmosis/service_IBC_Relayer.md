@@ -28,6 +28,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
@@ -43,7 +44,5 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
-| interwoven-1 | osmosis-1 | transfer | channel-68 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
