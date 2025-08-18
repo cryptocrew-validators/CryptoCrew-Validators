@@ -29,6 +29,7 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | agoric-3 | transfer | channel-320 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | celestia | transfer | channel-6994 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
@@ -49,4 +50,3 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
