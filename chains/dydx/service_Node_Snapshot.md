@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dydxprotocold version: `v8.2.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_52980067.tar.lz4)** | Sun Aug 17 2025 09:18:30 UTC | `dydx-mainnet-1` | 35G | 52980067 | `048341c7313a8624d3991ad19c8ba3db0a87386d9b07ee9dd48b21f2d9276eb2` |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_52887105.tar.lz4)** | Sat Aug 16 2025 10:25:14 UTC | `dydx-mainnet-1` | 305G | 52887105 | `4501f43362821ff7befb24fe2baff5d06dd2684c2bb2bc708eb11898707f044c` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_53161567.tar.lz4)** | Tue Aug 19 2025 09:20:25 UTC | `dydx-mainnet-1` | 36G | 53161567 | `af0c96e3d384e9d830f1bdef9aff96758e063e0df34cf50c875ec2619f1f1dd6` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_53072420.tar.lz4)** | Mon Aug 18 2025 10:38:10 UTC | `dydx-mainnet-1` | 306G | 53072420 | `69124a4aa0473e5bfc100c5e593e6dafaa2fc04c905e49577c97ca8899250408` |
 
 ---
 
@@ -12,7 +12,7 @@ dydxprotocold version: `v8.2.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_52980067.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_53161567.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_52980067.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_53161567.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
