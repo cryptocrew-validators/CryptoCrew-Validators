@@ -15,3 +15,4 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | celestia | injective-1 | transfer | channel-7 |
+| dymension_1100-1 | injective-1 | transfer | channel-47 |
