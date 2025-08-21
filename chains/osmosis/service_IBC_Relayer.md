@@ -34,7 +34,7 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | agoric-3 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
@@ -56,4 +56,3 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
