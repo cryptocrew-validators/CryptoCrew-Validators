@@ -20,4 +20,3 @@ celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 | celestia | osmosis-1 | transfer | channel-2 |
 | celestia | neutron-1 | transfer | channel-8 |
 | osmosis-1 | celestia | transfer | channel-6994 |
-| elys-1 | celestia | transfer | channel-4 |
