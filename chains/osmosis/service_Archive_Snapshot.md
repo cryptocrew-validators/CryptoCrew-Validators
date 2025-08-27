@@ -3,14 +3,14 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 osmosisd version: `v30.0.0`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_42303028.tar.lz4)** | Thu Aug 21 2025 01:45:13 UTC | `osmosis-1` | 15T | 42303028 | `archive` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_42795548.tar.lz4)** | Wed Aug 27 2025 12:09:13 UTC | `osmosis-1` | 9.7T | 42795548 | `archive` |
 ---
 
 ## Download instructions
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_42303028.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_42795548.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
