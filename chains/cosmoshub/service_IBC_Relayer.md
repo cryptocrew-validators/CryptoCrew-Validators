@@ -19,12 +19,14 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | comdex-1 | provider | channel-1263 |
 | cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
+| neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
 | comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
