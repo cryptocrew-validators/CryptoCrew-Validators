@@ -20,6 +20,6 @@ celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d
 | celestia | neutron-1 | transfer | channel-8 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | celestia | injective-1 | transfer | channel-7 |
-| neutron-1 | celestia | transfer | channel-35 |
 | elys-1 | celestia | transfer | channel-4 |
+| neutron-1 | celestia | transfer | channel-35 |
 | osmosis-1 | celestia | transfer | channel-6994 |
