@@ -27,6 +27,7 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
