@@ -8,14 +8,14 @@
       "software_version": "hermes 1.13.2+65c4cf820",
       "chains": [
         {
-          "chain_id": "axelar-dojo-1",
+          "chain_id": "celestia",
           "wallets": [
-            "axelar1yghndrffay859ma2ue4pa2cltw640vtaqh495u",
-            "axelar1f269n4mrg0s8tqveny9huulyamvdv97nttr9r6"
+            "celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s",
+            "celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk"
           ],
           "channels": [
             {
-              "channel_id": "channel-78",
+              "channel_id": "channel-8",
               "port_id": "transfer",
               "dst_chain_id": "neutron-1"
             }
@@ -72,6 +72,11 @@
           ],
           "channels": [
             {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
               "channel_id": "channel-10",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
@@ -82,28 +87,14 @@
               "dst_chain_id": "secret-4"
             },
             {
-              "channel_id": "channel-30",
+              "channel_id": "channel-48",
               "port_id": "transfer",
-              "dst_chain_id": "noble-1"
+              "dst_chain_id": "dydx-mainnet-1"
             },
             {
-              "channel_id": "channel-5044",
-              "port_id": "wasm.neutron1vna9lw6emt35qmnvlmjqgx02nq69hm67jey55ffx56kv748k750qhq5zcn",
-              "dst_chain_id": "archway-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "noble-1",
-          "wallets": [
-            "noble1yghndrffay859ma2ue4pa2cltw640vtav6k98n",
-            "noble1f269n4mrg0s8tqveny9huulyamvdv97n8xq9s4"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-18",
-              "port_id": "transfer",
-              "dst_chain_id": "neutron-1"
+              "channel_id": "channel-7028",
+              "port_id": "icacontroller-neutron1ypfa88sj0n0cqzyv3mh32nqke38xul3cye68c9jyq0y73n4z67zslvr824.drop_PUMP",
+              "dst_chain_id": "interwoven-1"
             }
           ]
         },
@@ -124,13 +115,13 @@
           ]
         },
         {
-          "chain_id": "phoenix-1",
+          "chain_id": "pirin-1",
           "wallets": [
-            "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa"
+            "nolus1yghndrffay859ma2ue4pa2cltw640vtajfnjac"
           ],
           "channels": [
             {
-              "channel_id": "channel-229",
+              "channel_id": "channel-3839",
               "port_id": "transfer",
               "dst_chain_id": "neutron-1"
             }
