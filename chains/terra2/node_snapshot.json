@@ -1,12 +1,12 @@
 {
   "network": "phoenix-1",
-  "height": "17184501",
+  "height": "17199258",
   "type": "",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_17184501.tar.lz4",
-  "filename": "phoenix-1_17184501.tar.lz4",
-  "date": "2025-08-30 12:32",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/terra2/phoenix-1_17199258.tar.lz4",
+  "filename": "phoenix-1_17199258.tar.lz4",
+  "date": "2025-08-31 12:37",
   "database": "goleveldb",
-  "size": "969M",
+  "size": "18G",
   "provider": "CryptoCrew"
 }
