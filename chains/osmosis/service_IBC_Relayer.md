@@ -33,8 +33,8 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
-| elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
+| nomic-stakenet-3 | osmosis-1 | transfer | channel-1 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
