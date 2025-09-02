@@ -35,14 +35,14 @@
               "dst_chain_id": "elys-1"
             },
             {
+              "channel_id": "channel-1301",
+              "port_id": "icahost",
+              "dst_chain_id": "stride-1"
+            },
+            {
               "channel_id": "channel-141",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-1489",
-              "port_id": "provider",
-              "dst_chain_id": "intento-1"
             }
           ]
         },
@@ -63,14 +63,9 @@
               "dst_chain_id": "noble-1"
             },
             {
-              "channel_id": "channel-5",
+              "channel_id": "channel-4",
               "port_id": "transfer",
-              "dst_chain_id": "akashnet-2"
-            },
-            {
-              "channel_id": "channel-6",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
+              "dst_chain_id": "celestia"
             }
           ]
         },
@@ -79,6 +74,25 @@
           "wallets": [
             "noble1yghndrffay859ma2ue4pa2cltw640vtav6k98n",
             "noble1f269n4mrg0s8tqveny9huulyamvdv97n8xq9s4"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            },
+            {
+              "channel_id": "channel-117",
+              "port_id": "transfer",
+              "dst_chain_id": "elys-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "nomic-stakenet-3",
+          "wallets": [
+            "nomic1yghndrffay859ma2ue4pa2cltw640vtacpshvh",
+            "nomic1f269n4mrg0s8tqveny9huulyamvdv97nnaxhm3"
           ],
           "channels": [
             {
