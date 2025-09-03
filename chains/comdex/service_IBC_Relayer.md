@@ -13,4 +13,4 @@ comdex16m48j88mlw2smhc8nyurznt4jl9nqgyq0d3rw8
 ### Active IBC channels `comdex`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| comdex-1 | osmosis-1 | transfer | channel-1 |
+| cosmoshub-4 | comdex-1 | provider | channel-1263 |
