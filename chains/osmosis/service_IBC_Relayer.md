@@ -22,7 +22,6 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
