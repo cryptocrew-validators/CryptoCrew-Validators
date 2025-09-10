@@ -21,12 +21,14 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
