@@ -1,10 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-dydxprotocold version: `v8.1.0`
+dydxprotocold version: `v9.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_49410399.tar.lz4)** | Mon Jul 07 2025 10:43:43 UTC | `dydx-mainnet-1` | 276G | 49410399 | `ce9a10e29080e218c0ac8ec5ec40061a93d52b45a572fb8b138abd0ad781eebb` |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_49324247.tar.lz4)** | Sun Jul 06 2025 10:13:25 UTC | `dydx-mainnet-1` | 275G | 49324247 | `c8bb9227bf32cbea569b194eabb004f8e2f112aa8e69fbaad1a86d025efa6423` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_54888519.tar.lz4)** | Sun Sep 07 2025 09:22:32 UTC | `dydx-mainnet-1` | 53G | 54888519 | `0312e498b62667c4c1b2cf7cee066441a1b00fc2eef2b17645aee46adbda415c` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_54704985.tar.lz4)** | Fri Sep 05 2025 09:22:45 UTC | `dydx-mainnet-1` | 51G | 54704985 | `ebf8d151e32eb92856b5039a96ca95bffa437065984da01b742dd83cbb5ced3f` |
 
 ---
 
@@ -12,7 +12,7 @@ dydxprotocold version: `v8.1.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_49410399.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_54888519.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_49410399.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_54888519.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
