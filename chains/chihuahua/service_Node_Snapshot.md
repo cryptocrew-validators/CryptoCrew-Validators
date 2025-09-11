@@ -4,7 +4,6 @@ chihuahuad version: `v9.0.5`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_19776600.tar.lz4)** | Tue Sep 09 2025 17:42:25 UTC | `chihuahua-1` | 365G | 19776600 | `bca7af3ed20541d825ede4c8a7878170c18f521935e91ff137f1d8c25f61c238` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_19552941.tar.lz4)** | Mon Aug 25 2025 17:38:48 UTC | `chihuahua-1` | 341G | 19552941 | `87726520f608ca29ec38e83393d7fa9fb28d21ee79f96fb15f2265ce9c094271` |
 
 ---
 
@@ -12,7 +11,7 @@ chihuahuad version: `v9.0.5`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_19776600.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_19806541.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_19776600.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/chihuahua/chihuahua-1_19806541.tar.lz4"
 cd $HOME/.chihuahuad
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
