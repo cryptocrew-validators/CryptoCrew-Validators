@@ -4,7 +4,6 @@ osmosisd version: `v30.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_43838611.tar.lz4)** | Wed Sep 10 2025 13:48:51 UTC | `osmosis-1` | 173G | 43838611 | `7d089dbbf4f7d7f4eb31e6431dcd6990711296055be96ec479b4a9804dc4b509` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_43696822.tar.lz4)** | Mon Sep 08 2025 13:41:06 UTC | `osmosis-1` | 168G | 43696822 | `441d1a9f06a914bf2ed034f78c2c10df443fd3cf1d8b557dab421020473c0b12` |
 
 ---
 
@@ -12,7 +11,7 @@ osmosisd version: `v30.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_43838611.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_43979999.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_43838611.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/osmosis/osmosis-1_43979999.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
