@@ -1,12 +1,12 @@
 {
   "network": "nillion-1",
-  "height": "3238083",
+  "height": "3250259",
   "type": "",
   "mirror": "EU",
-  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_3238083.tar.lz4",
-  "filename": "nillion-1_3238083.tar.lz4",
-  "date": "2025-09-12 15:48",
+  "url": "https://ccv-s3.nbg1.your-objectstorage.com/SNAPSHOTS/nillion/nillion-1_3250259.tar.lz4",
+  "filename": "nillion-1_3250259.tar.lz4",
+  "date": "2025-09-13 10:54",
   "database": "goleveldb",
-  "size": "348.55MB",
+  "size": "410.45MB",
   "provider": "CryptoCrew"
 }
