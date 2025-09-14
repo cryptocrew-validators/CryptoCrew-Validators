@@ -24,21 +24,21 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | laozi-mainnet | transfer | channel-148 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | laozi-mainnet | osmosis-1 | transfer | channel-83 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
