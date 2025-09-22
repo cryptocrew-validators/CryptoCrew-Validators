@@ -7,6 +7,9 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz
+osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk
+osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0
 osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f
 osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f
@@ -21,6 +24,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | intento-1 | transfer | channel-106076 |
@@ -30,6 +34,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
+| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | intento-1 | osmosis-1 | transfer | channel-3 |
@@ -40,7 +45,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
-| axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
