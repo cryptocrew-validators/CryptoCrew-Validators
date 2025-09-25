@@ -21,6 +21,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | intento-1 | transfer | channel-106076 |
 | osmosis-1 | intento-1 | icahost | channel-106078 |
@@ -31,6 +32,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | intento-1 | osmosis-1 | icacontroller-into1tjrsx03974s5q3jkuhnz6tsx3w5z2leau86u4wa7p00qrm6g8kzssz7uq3 | channel-10 |
 | intento-1 | osmosis-1 | transfer | channel-3 |
