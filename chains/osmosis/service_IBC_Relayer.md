@@ -24,6 +24,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | intento-1 | icahost | channel-106078 |
 | osmosis-1 | agoric-3 | transfer | channel-320 |
