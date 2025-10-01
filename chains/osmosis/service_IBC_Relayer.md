@@ -29,7 +29,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |

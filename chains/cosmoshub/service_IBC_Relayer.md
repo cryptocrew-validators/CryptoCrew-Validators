@@ -19,17 +19,18 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 ### Active IBC channels `cosmoshub`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | intento-1 | icahost | channel-1494 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
+| neutron-1 | cosmoshub-4 | icacontroller-neutron1e8x80ytpu5dxghsh4jx5d96dyulvvmfjk0da0flurtfwgq37d8ws7a9du4.drop_PUMP | channel-4772 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | intento-1 | cosmoshub-4 | icacontroller-into154sh4gcax7eyu9pw389gy8pngx07ll30z44d84rh742xxlhv4f5sr68jlv | channel-6 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kaiyo-1 | cosmoshub-4 | transfer | channel-0 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
