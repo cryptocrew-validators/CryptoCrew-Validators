@@ -17,4 +17,3 @@ celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d
 | --------------- | --------------- | ------------ | ------------------- |
 | celestia | osmosis-1 | transfer | channel-2 |
 | celestia | injective-1 | transfer | channel-7 |
-| elys-1 | celestia | transfer | channel-4 |
