@@ -10,8 +10,6 @@ Active Relayer Accounts:
 celestia16m48j88mlw2smhc8nyurznt4jl9nqgyqegz3da
 celestia1qp2jfwdez8f69h470ex9rtcd6truqqg9cmtzac
 celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d
-celestia1yghndrffay859ma2ue4pa2cltw640vta4nja9s
-celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 ```
 
 ### Active IBC channels `celestia`:
@@ -19,5 +17,4 @@ celestia1f269n4mrg0s8tqveny9huulyamvdv97n70yajk
 | --------------- | --------------- | ------------ | ------------------- |
 | celestia | osmosis-1 | transfer | channel-2 |
 | celestia | injective-1 | transfer | channel-7 |
-| celestia | neutron-1 | transfer | channel-8 |
 | elys-1 | celestia | transfer | channel-4 |
