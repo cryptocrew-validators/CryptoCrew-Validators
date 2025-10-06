@@ -16,7 +16,6 @@ terra18hx3fcqrvynx9vvpvyv5qym82xz4suw5kzfjaq
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
-| phoenix-1 | osmosis-1 | transfer | channel-1 |
 | phoenix-1 | kava_2222-10 | transfer | channel-272 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | kava_2222-10 | phoenix-1 | transfer | channel-138 |
