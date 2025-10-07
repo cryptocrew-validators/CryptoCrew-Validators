@@ -13,4 +13,5 @@ stars1yvejj22t78s2vfk7slty2d7fs5lkc8rn8hx0wd
 ### Active IBC channels `stargaze`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| stargaze-1 | osmosis-1 | transfer | channel-0 |
+| juno-1 | stargaze-1 | transfer | channel-20 |
+| osmosis-1 | stargaze-1 | transfer | channel-75 |
