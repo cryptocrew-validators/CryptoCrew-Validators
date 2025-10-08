@@ -16,8 +16,12 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | phoenix-1 | transfer | channel-25 |
 | neutron-1 | noble-1 | transfer | channel-30 |
-| neutron-1 | archway-1 | wasm.neutron1vna9lw6emt35qmnvlmjqgx02nq69hm67jey55ffx56kv748k750qhq5zcn | channel-5044 |
+| neutron-1 | interwoven-1 | transfer | channel-6885 |
+| neutron-1 | interwoven-1 | icacontroller-neutron1ypfa88sj0n0cqzyv3mh32nqke38xul3cye68c9jyq0y73n4z67zslvr824.drop_PUMP | channel-7028 |
+| celestia | neutron-1 | transfer | channel-8 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
+| interwoven-1 | neutron-1 | transfer | channel-37 |
+| interwoven-1 | neutron-1 | icahost | channel-75 |
+| interwoven-1 | neutron-1 | icahost | channel-76 |
 | noble-1 | neutron-1 | transfer | channel-18 |
