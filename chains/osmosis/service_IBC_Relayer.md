@@ -29,7 +29,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
@@ -48,5 +47,4 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | sommelier-3 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
