@@ -1,11 +1,11 @@
 {
   "network": "akashnet-2",
-  "height": "23675785",
-  "type": "903dfc39588530feb3daa295966bf09360aab1656bca807237db60c49b6b3f72",
+  "height": "23704502",
+  "type": "6e1a9017afb74910c1994d361d4b771b5d2a4ec4c15b9503490938fda2969a67",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_23675785.tar.lz4",
-  "filename": "akashnet-2_23675785.tar.lz4",
-  "date": "2025-10-10 09:58",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/akash/akashnet-2_23704502.tar.lz4",
+  "filename": "akashnet-2_23704502.tar.lz4",
+  "date": "2025-10-12 09:59",
   "database": "goleveldb",
   "size": "11G",
   "provider": "CryptoCrew"
