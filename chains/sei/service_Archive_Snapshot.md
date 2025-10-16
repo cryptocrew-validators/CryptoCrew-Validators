@@ -3,16 +3,14 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 seid version: `latest`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_168215441.tar.lz4)** | Mon Sep 15 2025 16:45:59 UTC | `pacific-1` | 83G | 168215441 | `archive` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_166969218.tar.lz4)** | Tue Sep 09 2025 06:35:10 UTC | `pacific-1` | 5.3T | 166969218 | `archive` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_164540725.tar.lz4)** | Tue Aug 26 2025 06:06:11 UTC | `pacific-1` | 5.1T | 164540725 | `archive` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_173510895.tar.lz4)** | Thu Oct 16 2025 00:13:35 UTC | `pacific-1` | 6.0T | 173510895 | `archive` |
 ---
 
 ## Download instructions
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_168215441.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_173510895.tar.lz4"
 cd $HOME/.sei
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
