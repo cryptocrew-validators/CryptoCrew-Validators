@@ -24,6 +24,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | agoric-3 | transfer | channel-320 |
@@ -36,8 +37,8 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
-| osmosis-1 | neutron-1 | wasm.osmo1vw02frqejfw2v2w7dy6ws35jp9743dwkxy0laalwsuvzzvkszz7s8d93yw | channel-12058 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
@@ -57,5 +58,4 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | sommelier-3 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | wasm.neutron1767kfqeglqyctuqsmvyzgjecs60lpqju2f590smxevk9duq5fhaqgk5eca | channel-54 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
