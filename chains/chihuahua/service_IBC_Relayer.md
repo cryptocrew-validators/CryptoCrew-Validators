@@ -14,4 +14,3 @@ chihuahua1yvejj22t78s2vfk7slty2d7fs5lkc8rns7uuy7
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
-| osmosis-1 | chihuahua-1 | transfer | channel-113 |
