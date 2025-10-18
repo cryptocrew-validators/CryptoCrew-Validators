@@ -23,11 +23,9 @@ cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq
 | cosmoshub-4 | intento-1 | icahost | channel-1494 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | intento-1 | cosmoshub-4 | icacontroller-into154sh4gcax7eyu9pw389gy8pngx07ll30z44d84rh742xxlhv4f5sr68jlv | channel-6 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | phoenix-1 | cosmoshub-4 | transfer | channel-0 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
