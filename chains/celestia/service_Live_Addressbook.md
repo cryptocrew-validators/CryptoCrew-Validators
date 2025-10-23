@@ -6,10 +6,10 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu2.ccvalidators.com/SERVICE/celestia/addrbook.json)**
 ---
 
-- last updated: Wed Oct 22 2025 12:24:58
+- last updated: Thu Oct 23 2025 12:24:45
 - chain id: `celestia`
-
-- total peers (network scan): 1340
+- available peers: 1182
+- total peers (network scan): 1182
 
 ## Instructions
 ```sh
