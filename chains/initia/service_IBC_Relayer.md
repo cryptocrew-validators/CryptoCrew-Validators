@@ -15,4 +15,3 @@ init1yghndrffay859ma2ue4pa2cltw640vta20r75l
 | --------------- | --------------- | ------------ | ------------------- |
 | interwoven-1 | neutron-1 | transfer | channel-37 |
 | interwoven-1 | neutron-1 | icahost | channel-75 |
-| interwoven-1 | neutron-1 | icahost | channel-76 |
