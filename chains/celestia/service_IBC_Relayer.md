@@ -16,4 +16,4 @@ celestia18hx3fcqrvynx9vvpvyv5qym82xz4suw5pvzz9d
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | celestia | osmosis-1 | transfer | channel-2 |
-| osmosis-1 | celestia | transfer | channel-6994 |
+| celestia | injective-1 | transfer | channel-7 |
