@@ -14,4 +14,3 @@ somm15md2qvgma8lnvqv67w0umu2paqkqkheg4kkqe4
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | sommelier-3 | osmosis-1 | transfer | channel-0 |
-| osmosis-1 | sommelier-3 | transfer | channel-165 |
