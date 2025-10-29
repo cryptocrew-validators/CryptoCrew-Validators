@@ -34,6 +34,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
