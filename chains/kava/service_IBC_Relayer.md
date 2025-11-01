@@ -16,8 +16,5 @@ kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | phoenix-1 | transfer | channel-138 |
-| kava_2222-10 | akashnet-2 | transfer | channel-5 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
-| phoenix-1 | kava_2222-10 | transfer | channel-272 |
