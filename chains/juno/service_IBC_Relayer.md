@@ -17,3 +17,4 @@ juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 | juno-1 | cosmoshub-4 | transfer | channel-1 |
 | juno-1 | stargaze-1 | transfer | channel-20 |
 | juno-1 | osmosis-1 | wasm.juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn | channel-47 |
+| osmosis-1 | juno-1 | transfer | channel-42 |
