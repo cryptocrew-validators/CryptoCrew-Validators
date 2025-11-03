@@ -30,7 +30,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
