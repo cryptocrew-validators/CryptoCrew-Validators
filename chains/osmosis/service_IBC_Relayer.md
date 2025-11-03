@@ -31,11 +31,11 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | juno-1 | transfer | channel-42 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | dydx-mainnet-1 | osmosis-1 | transfer | channel-3 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -43,7 +43,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |
 | evmos_9001-2 | osmosis-1 | transfer | channel-0 |
