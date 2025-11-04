@@ -13,4 +13,4 @@ secret1yghndrffay859ma2ue4pa2cltw640vtaxuhyzp
 ### Active IBC channels `secretnetwork`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| secret-4 | neutron-1 | transfer | channel-144 |
+| neutron-1 | secret-4 | transfer | channel-1551 |
