@@ -14,4 +14,3 @@ secret1yghndrffay859ma2ue4pa2cltw640vtaxuhyzp
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | osmosis-1 | secret-4 | transfer | channel-88 |
-| neutron-1 | secret-4 | transfer | channel-1551 |
