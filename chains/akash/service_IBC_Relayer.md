@@ -13,4 +13,4 @@ akash1f269n4mrg0s8tqveny9huulyamvdv97nz7c23p
 ### Active IBC channels `akash`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| kava_2222-10 | akashnet-2 | transfer | channel-5 |
+| elys-1 | akashnet-2 | transfer | channel-5 |
