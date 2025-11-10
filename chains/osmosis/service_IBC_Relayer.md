@@ -30,7 +30,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | dydx-mainnet-1 | transfer | channel-6787 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | chihuahua-1 | transfer | channel-113 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
@@ -46,7 +45,6 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
 | interwoven-1 | osmosis-1 | transfer | channel-68 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | bitsong-2b | osmosis-1 | transfer | channel-0 |
 | chihuahua-1 | osmosis-1 | transfer | channel-7 |

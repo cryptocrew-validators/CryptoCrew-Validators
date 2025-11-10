@@ -23,7 +23,6 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | elys-1 | provider | channel-1265 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | intento-1 | provider | channel-1489 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | phoenix-1 | transfer | channel-339 |
 | cosmoshub-4 | kaiyo-1 | transfer | channel-343 |
