@@ -24,6 +24,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 ### Active IBC channels `osmosis`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | neutron-1 | transfer | channel-874 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | stride-1 | transfer | channel-326 |
@@ -36,6 +37,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | kaiyo-1 | transfer | channel-259 |
 | osmosis-1 | stargaze-1 | transfer | channel-75 |
 | osmosis-1 | secret-4 | transfer | channel-88 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
