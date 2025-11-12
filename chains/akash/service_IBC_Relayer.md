@@ -14,4 +14,3 @@ akash1f269n4mrg0s8tqveny9huulyamvdv97nz7c23p
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | akashnet-2 | elys-1 | transfer | channel-129 |
-| kava_2222-10 | akashnet-2 | transfer | channel-5 |
