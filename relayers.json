@@ -3,6 +3,32 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-44",
+      "software": "hermes",
+      "software_version": "hermes 1.13.1+5e403dd5c",
+      "chains": [
+        {
+          "chain_id": "kava_2222-10",
+          "wallets": [
+            "kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt",
+            "kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "cosmoshub-4"
+            },
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-4",
       "software": "hermes",
       "software_version": "hermes 1.13.1+5e403dd5c",
@@ -553,56 +579,6 @@
               "channel_id": "channel-5",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-44",
-      "software": "hermes",
-      "software_version": "hermes 1.13.1+5e403dd5c",
-      "chains": [
-        {
-          "chain_id": "kava_2222-10",
-          "wallets": [
-            "kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt",
-            "kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            },
-            {
-              "channel_id": "channel-138",
-              "port_id": "transfer",
-              "dst_chain_id": "phoenix-1"
-            },
-            {
-              "channel_id": "channel-144",
-              "port_id": "transfer",
-              "dst_chain_id": "dymension_1100-1"
-            },
-            {
-              "channel_id": "channel-5",
-              "port_id": "transfer",
-              "dst_chain_id": "akashnet-2"
-            }
-          ]
-        },
-        {
-          "chain_id": "phoenix-1",
-          "wallets": [
-            "terra12aeyaxq699k3f4d3733dl5pstw0ulplku3n45v",
-            "terra18hx3fcqrvynx9vvpvyv5qym82xz4suw5kzfjaq"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-272",
-              "port_id": "transfer",
-              "dst_chain_id": "kava_2222-10"
             }
           ]
         }
