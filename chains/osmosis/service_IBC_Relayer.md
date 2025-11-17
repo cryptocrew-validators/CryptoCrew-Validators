@@ -51,4 +51,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | kaiyo-1 | osmosis-1 | transfer | channel-3 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | sommelier-3 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
