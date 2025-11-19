@@ -7,6 +7,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 
 Active Relayer Accounts:
 ```
+secret1yghndrffay859ma2ue4pa2cltw640vtaxuhyzp
 secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r
 secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 ```
@@ -14,6 +15,7 @@ secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq
 ### Active IBC channels `secretnetwork`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| secret-4 | neutron-1 | transfer | channel-144 |
 | secret-4 | cosmoshub-4 | transfer | channel-0 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | cosmoshub-4 | secret-4 | transfer | channel-235 |
