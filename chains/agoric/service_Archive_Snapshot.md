@@ -1,10 +1,9 @@
 ## Full Archive Snapshot
 CryptoCrew provides full Archive Snapshots for selected chains. These snapshots include the full block history from the genesis block on, tx_data is included.  
-agd version: `v0.35.0-u20.0`
+agd version: `0.35.0-u22.1`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_20243007.tar.lz4)** | Tue Jun 24 2025 02:31:56 UTC | `agoric-3` | 2.0T | 20243007 | `archive` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_20136075_swingstore.tar.lz4)** | Mon Jun 16 2025 21:35:47 UTC | `agoric-3` | 139G | 20136075_swingstore | `archive` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_22637794.tar.lz4)** | Thu Nov 20 2025 03:08:31 UTC | `agoric-3` | 5.6T | 22637794 | `archive` |
 ---
 
 ## Download instructions
