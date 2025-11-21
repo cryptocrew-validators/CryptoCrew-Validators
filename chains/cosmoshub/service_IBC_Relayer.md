@@ -24,6 +24,7 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | stride-1 | icahost | channel-1561 |
 | cosmoshub-4 | kava_2222-10 | transfer | channel-277 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
+| neutron-1 | cosmoshub-4 | transfer | channel-1 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | kava_2222-10 | cosmoshub-4 | transfer | channel-0 |
