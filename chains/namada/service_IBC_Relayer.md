@@ -5,17 +5,7 @@ To facilitate interchain message transfers, CryptoCrew utilizes the following IB
 - <a href="https://github.com/informalsystems/hermes"><code>hermes (ibc-rust)</code></a> relayer by [Informal Systems](https://github.com/informalsystems)
 - <a href="https://github.com/cosmos/relayer"><code>rly (ibc-go)</code></a> relayer by [Strangelove Ventures](https://github.com/strangelove-ventures)
 
-Active Relayer Accounts:
-```
-terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u
-terra12aeyaxq699k3f4d3733dl5pstw0ulplku3n45v
-terra18hx3fcqrvynx9vvpvyv5qym82xz4suw5kzfjaq
-```
-
-### Active IBC channels `terra2`:
+### Active IBC channels `namada`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| phoenix-1 | cosmoshub-4 | transfer | channel-0 |
-| phoenix-1 | kava_2222-10 | transfer | channel-272 |
-| cosmoshub-4 | phoenix-1 | transfer | channel-339 |
-| kava_2222-10 | phoenix-1 | transfer | channel-138 |
+| osmosis-1 | namada.5f5de2dd1b88cba30586420 | transfer | channel-98451 |
