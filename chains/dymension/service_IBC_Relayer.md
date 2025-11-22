@@ -15,4 +15,3 @@ dym12aeyaxq699k3f4d3733dl5pstw0ulplkgg9nnz
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
-| neutron-1 | dymension_1100-1 | transfer | channel-675 |

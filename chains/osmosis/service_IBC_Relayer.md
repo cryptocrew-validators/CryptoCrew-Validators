@@ -32,7 +32,7 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
 | osmosis-1 | namada.5f5de2dd1b88cba30586420 | transfer | channel-98451 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
+| neutron-1 | osmosis-1 | transfer | channel-10 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | noble-1 | osmosis-1 | transfer | channel-1 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
@@ -46,4 +46,3 @@ osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | sommelier-3 | osmosis-1 | transfer | channel-0 |
 | stargaze-1 | osmosis-1 | transfer | channel-0 |
-| neutron-1 | osmosis-1 | transfer | channel-10 |
