@@ -1,12 +1,12 @@
 {
   "network": "Avail DA Mainnet",
-  "height": "2180772",
-  "checksum": "9fccff4708da31480922b534f5106c1cb1a2c2b905b82cc03b5b439be9ad70b9"
+  "height": "2185092",
+  "checksum": "a6e15b2ab5e6b6d280a9c0edc454a73d8e8e01bc4f164adb572fa97f651d3fdb"
   "type": "pruned 256",
   "mirror": "EU",
-  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2180772.tar.lz4",
-  "filename": "Avail_DA_Mainnet_2180772.tar.lz4",
-  "date": "2025-11-21 08:17",
+  "url": "https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2185092.tar.lz4",
+  "filename": "Avail_DA_Mainnet_2185092.tar.lz4",
+  "date": "2025-11-22 08:16",
   "database": "paritydb",
   "size": "5.4G",
   "provider": "CryptoCrew"
