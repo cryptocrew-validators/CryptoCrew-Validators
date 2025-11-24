@@ -1164,6 +1164,27 @@
       "coingecko_id": "namada",
       "chain_id": "namada.5f5de2dd1b88cba30586420",
       "trade_url": ""
+    },
+    {
+      "name": "monad",
+      "prettyName": "Monad",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/monad/logo_monad.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/monad/logo_monad.png",
+      "symbol": "MON",
+      "denom": "mon",
+      "decimals": "18",
+      "address": "0xd583CADC6b9d054cE9FF9Abfe2290dE4D5cdd9d3",
+      "operator_account": "0xB30d2E150a39b8195052337f558631B3884153d4",
+      "stake_link": "",
+      "rpc": [
+        "https://rpc.monad.xyz"
+      ],
+      "rest": [
+      ],
+      "apr": "",
+      "coingecko_id": "monad",
+      "chain_id": "143",
+      "trade_url": ""
     }
   ]
 }
