@@ -16,4 +16,3 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | injective-1 | osmosis-1 | transfer | channel-8 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| celestia | injective-1 | transfer | channel-7 |
