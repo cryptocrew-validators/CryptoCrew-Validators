@@ -27,7 +27,6 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | stride-1 | transfer | channel-326 |
 | osmosis-1 | celestia | transfer | channel-6994 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
-| osmosis-1 | kava_2222-10 | transfer | channel-143 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
 | osmosis-1 | neutron-1 | transfer | channel-874 |
@@ -39,7 +38,6 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | stride-1 | osmosis-1 | transfer | channel-5 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | atomone-1 | osmosis-1 | transfer | channel-2 |
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
