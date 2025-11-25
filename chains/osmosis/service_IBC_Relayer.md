@@ -31,7 +31,6 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | injective-1 | transfer | channel-122 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | elys-1 | osmosis-1 | transfer | channel-6 |
 | noble-1 | osmosis-1 | transfer | channel-1 |

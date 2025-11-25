@@ -16,8 +16,7 @@ neutron1rgzemrwz54artpjmh6aee95zww8glnkxejec9s
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | neutron-1 | cosmoshub-4 | transfer | channel-1 |
-| neutron-1 | secret-4 | transfer | channel-1551 |
-| neutron-1 | phoenix-1 | transfer | channel-5389 |
+| neutron-1 | noble-1 | transfer | channel-30 |
 | cosmoshub-4 | neutron-1 | transfer | channel-569 |
-| osmosis-1 | neutron-1 | transfer | channel-874 |
-| phoenix-1 | neutron-1 | wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au | channel-554 |
+| noble-1 | neutron-1 | transfer | channel-18 |
+| phoenix-1 | neutron-1 | transfer | channel-229 |
