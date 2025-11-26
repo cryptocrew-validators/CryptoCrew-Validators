@@ -85,14 +85,13 @@ https://ccvalidators.com
 | `Persistence` | `core-1` | `persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879` | [delegate XPRT](https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2) |
 | `Stargaze` | `stargaze-1` | `starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn` | [delegate STARS](https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2) |
 | `Passage` | `passage-1` | `pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6` | [delegate PSG](https://wallet.keplr.app/chains/passage?modal=staking&chain=passage-2&validator_address=pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6&step_id=2) |
-| `Chihuahua Chain` | `chihuahua-1` | `chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8` | [delegate HUAHUA](https://wallet.keplr.app/chains/chihuahua?modal=staking&chain=chihuahua-1&validator_address=chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8&step_id=2) |
-| `Omniflix Hub` | `omniflixhub-1` | `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme` | [delegate FLIX](https://wallet.keplr.app/chains/omniflix?modal=staking&chain=omniflixhub-1&validator_address=omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme&step_id=2) |
-| `Comdex` | `comdex-1` | `comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6` | [delegate CMDX](https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6) |
+| `Chihuahua` | `chihuahua-1` | `chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8` | [delegate HUAHUA](https://wallet.keplr.app/chains/chihuahua?modal=staking&chain=chihuahua-1&validator_address=chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8&step_id=2) |
+| `Omniflix` | `omniflixhub-1` | `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme` | [delegate FLIX](https://wallet.keplr.app/chains/omniflix?modal=staking&chain=omniflixhub-1&validator_address=omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme&step_id=2) |
 | `Nolus` | `pirin-1` | `nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3` | [delegate NLS](https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3) |
 | `Picasso` | `centauri-1` | `picavaloper1p86dkzgthapcqkgymq70qvjnt4exf09hveykjf` | [delegate PICA](https://ping.pub/picasso/staking/picavaloper1p86dkzgthapcqkgymq70qvjnt4exf09hveykjf) |
 | `Quicksilver` | `quicksilver-2` | `quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58` | [delegate QCK](https://wallet.keplr.app/chains/quicksilver?modal=staking&chain=quicksilver-2&validator_address=quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58&step_id=2) |
-| `Band Protocol` | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
-| `Nomic Stakenet` | `nomic-stakenet-3` | `nomicvaloper1j30mgmf5hggd8y0n8gccg7fmkrf0zv6q9chl2g` | [delegate NOM](https://app.nomic.io/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info) |
+| `Band` | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
+| `Nomic` | `nomic-stakenet-3` | `nomicvaloper1j30mgmf5hggd8y0n8gccg7fmkrf0zv6q9chl2g` | [delegate NOM](https://app.nomic.io/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info) |
 | `Akash` | `akashnet-2` | `akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g` | [delegate AKT](https://wallet.keplr.app/?tab=staking&modal=validator&chain=akashnet-2&validator_address=akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g&step_id=2) |
 | `Sommelier` | `sommelier-3` | `sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd` | [delegate SOMM](https://wallet.keplr.app/chains/sommelier?modal=staking&chain=sommelier-3&validator_address=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd&step_id=2) |
 | `Empowerchain` | `empowerchain-1` | `empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh` | [delegate MPWR](https://ping.pub/empower/staking/empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh) |
@@ -103,14 +102,15 @@ https://ccvalidators.com
 | `Nillion` | `nillion-1` | `nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708` | [delegate NIL](https://restake.app/nillion/nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708) |
 | `Babylon` | `bbn-1` | `bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63` | [delegate BABY](https://wallet.keplr.app/chains/babylon?modal=staking&chain=bbn-1&validator_address=bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63&step_id=2) |
 | `Neutron` | `neutron-1` | `neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k` | [delegate NTRN](https://wallet.keplr.app/chains/neutron?modal=staking&chain=neutron-1&validator_address=neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k&step_id=2) |
-| `Initia` | `interwoven-1` | `initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf` | [delegate INIT](https://wallet.keplr.app/chains/initia?modal=staking&chain=interwoven-1&validator_address=initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf&step_id=2) |
 | `Milkyway` | `milkyway-1` | `milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8` | [delegate MILK](https://restake.app/milkyway/milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8) |
 | `NEAR Protocol` | `mainnet` | `cryptocrew.poolv1.near` | [delegate NEAR](https://app.mynearwallet.com/staking/cryptocrew.poolv1.near/stake) |
 | `THORChain` | `thorchain-1` | `thor10ma7lf07ld98wcm3nvt7uptase4mhrt82rkvg4` | [delegate RUNE](https://ccvalidators.com/blog/cryptocrew-support-thorchain-ibc-infrastructure) |
-| `Ethereum (Lido)` | `lido` | `0x4420559d41b04cc68f91ef8b6cc7842a8384c203` | [delegate ETH](https://stake.lido.fi) |
+| `Ethereum` | `lido` | `0x4420559d41b04cc68f91ef8b6cc7842a8384c203` | [delegate ETH](https://stake.lido.fi) |
 | `Radix` | `olymipa` | `validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8` | [delegate XRD](https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8) |
 | `Avail` | `mainnet` | `5HB3SEzH6cP5BE4S6rwhXoji7wy1VQkDX7kb4yQ92TPGhgwF` | [delegate AVAIL](https://explorer.avail.so/#/staking) |
 | `Avalanche` | `P-Chain` | `NodeID-E8CBDCxz5E7T2yVUeKEzR3VuJytqobJa9` | [delegate AVAX]() |
 | `Namada` | `namada.5f5de2dd1b88cba30586420` | `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47` | [delegate NAM]() |
-| `Monad` | `143` | `0xd583CADC6b9d054cE9FF9Abfe2290dE4D5cdd9d3` | [delegate MON]() |
+| `Monad` | `143` | `0xd583CADC6b9d054cE9FF9Abfe2290dE4D5cdd9d3` | [delegate MON](https://www.gmonads.com/staking) |
+| `Union` | `union-1` | `unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds` | [delegate U](https://explorer.union.build/union/staking/unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds) |
+| `Seda` | `seda-1` | `sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv` | [delegate SEDA](https://ping.pub/seda/staking/sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
