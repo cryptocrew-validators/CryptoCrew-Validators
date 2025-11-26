@@ -518,7 +518,7 @@
     },
     {
       "name": "chihuahua",
-      "prettyName": "Chihuahua Chain",
+      "prettyName": "Chihuahua",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/chihuahua/logo_chihuahua.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/chihuahua/logo_chihuahua.png",
       "symbol": "HUAHUA",
@@ -539,7 +539,7 @@
     },
     {
       "name": "omniflixhub",
-      "prettyName": "Omniflix Hub",
+      "prettyName": "Omniflix",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflixhub/logo_omniflix.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/omniflixhub/logo_omniflix.png",
       "symbol": "FLIX",
@@ -557,34 +557,6 @@
       "coingecko_id": "omniflix-network",
       "chain_id": "omniflixhub-1",
       "trade_url": "https://app.osmosis.zone?to=FLIX"
-    },
-    {
-      "name": "comdex",
-      "prettyName": "Comdex",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/comdex/logo_comdex.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/comdex/logo_comdex.png",
-      "symbol": "CMDX",
-      "denom": "ucdmx",
-      "decimals": "6",
-      "address": "comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
-      "operator_account": "comdex10d87jx68zygmwagu9ggzxpept07zs7nmtk7qam",
-      "relayer_accounts": [
-        "comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2"
-      ],
-      "stake_link": "https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6",
-      "restake": {
-        "address": "comdex1305e92ng6a9pdh3ttc3ld459ckxupxt3srcprs",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/ZnbJ14Q2-2/CMDX.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "comdex",
-      "chain_id": "comdex-1",
-      "trade_url": "https://app.osmosis.zone/?to=CMDX"
     },
     {
       "name": "nolus",
@@ -675,7 +647,7 @@
     },
     {
       "name": "bandchain",
-      "prettyName": "Band Protocol",
+      "prettyName": "Band",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bandchain/logo_bandchain.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bandchain/logo_bandchain.png",
       "symbol": "BAND",
@@ -703,7 +675,7 @@
     },
     {
       "name": "nomic",
-      "prettyName": "Nomic Stakenet",
+      "prettyName": "Nomic",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nomic/logo_nomic.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nomic/logo_nomic.png",
       "symbol": "NOM",
@@ -975,31 +947,6 @@
       "trade_url": "https://www.binance.com/en/trade/NTRN_USDT"
     },
     {
-      "name": "initia",
-      "prettyName": "Initia",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/initia/logo_initia.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/initia/logo_initia.png",
-      "symbol": "INIT",
-      "denom": "uinit",
-      "decimals": "6",
-      "address": "initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf",
-      "operator_account": "init15a07mcvjzrgtlf8mpp05r3avy9jvvgu2ueplge",
-      "relayer_accounts": [
-        "init16m48j88mlw2smhc8nyurznt4jl9nqgyqx5njuj"
-      ],
-      "stake_link": "https://wallet.keplr.app/chains/initia?modal=staking&chain=interwoven-1&validator_address=initvaloper15a07mcvjzrgtlf8mpp05r3avy9jvvgu2gucxxf&step_id=2",
-      "rpc": [
-        "https://rpc.initia.xyz:443"
-      ],
-      "rest": [
-        "https://rest.initia.xyz:443"
-      ],
-      "apr": "",
-      "coingecko_id": "initia",
-      "chain_id": "interwoven-1",
-      "trade_url": "https://www.binance.com/en/trade/INIT_USDT"
-    },
-    {
       "name": "milkyway",
       "prettyName": "Milkyway",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/milkyway/logo_milkyway.svg",
@@ -1065,7 +1012,7 @@
     },
     {
       "name": "lido",
-      "prettyName": "Ethereum (Lido)",
+      "prettyName": "Ethereum",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/ethereum/logo_ethereum.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/ethereum/logo_ethereum.png",
       "symbol": "ETH",
@@ -1176,7 +1123,7 @@
       "decimals": "18",
       "address": "0xd583CADC6b9d054cE9FF9Abfe2290dE4D5cdd9d3",
       "operator_account": "0xB30d2E150a39b8195052337f558631B3884153d4",
-      "stake_link": "",
+      "stake_link": "https://www.gmonads.com/staking",
       "rpc": [
         "https://rpc.monad.xyz"
       ],
@@ -1184,7 +1131,51 @@
       "apr": "",
       "coingecko_id": "monad",
       "chain_id": "143",
-      "trade_url": ""
+      "trade_url": "https://www.coinbase.com/advanced-trade/spot/MON-USD"
+    },
+    {
+      "name": "union",
+      "prettyName": "Union",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/union/logo_union.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/union/logo_union.png",
+      "symbol": "U",
+      "denom": "au",
+      "decimals": "18",
+      "address": "unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds",
+      "operator_account": "union1maxq9hma5h89ham2uvtfmv9uqujfratjpwj4qe",
+      "stake_link": "https://explorer.union.build/union/staking/unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds",
+      "rpc": [
+        "https://rpc.rpc-node.union-1.union.build:443"
+      ],
+      "rest": [
+        "https://api.rpc-node.union-1.union.build:443"
+      ],
+      "apr": "",
+      "coingecko_id": "union",
+      "chain_id": "union-1",
+      "trade_url": "https://www.kucoin.com/trade/U-USDT"
+    },
+    {
+      "name": "seda",
+      "prettyName": "Seda",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/seda/logo_seda.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/seda/logo_seda.png",
+      "symbol": "SEDA",
+      "denom": "aseda",
+      "decimals": "18",
+      "address": "sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv",
+      "operator_account": "seda1fzajuz35a4h5sf88lkzefnryped5juzq57z2d4",
+      "stake_link": "https://ping.pub/seda/staking/sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv",
+      "rpc": [
+        "https://rpc.mainnet.seda.xyz:443"
+      ],
+      "rest": [
+        "https://lcd.mainnet.seda.xyz:443"
+      ],
+      "apr": "",
+      "coingecko_id": "seda",
+      "chain_id": "seda-1",
+      "trade_url": "https://app.osmosis.zone/?to=ibc/956AEF1DA92F70584266E87978C3F30A43B91EE6ABC62F03D097E79F6B99C4D8&sellOpen=false&buyOpen=false"
     }
   ]
 }
