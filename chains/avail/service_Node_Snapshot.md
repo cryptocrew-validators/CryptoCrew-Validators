@@ -6,8 +6,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
  
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2202370.tar.lz4)** | Wed Nov 26 2025 08:16:57 UTC | `Avail DA Mainnet` | 5.4G | 2202370 | `e4dc0809264abf40888b1c720388d37568351b76c6255759c3cc1ac1b4595da8` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2198050.tar.lz4)** | Tue Nov 25 2025 08:16:43 UTC | `Avail DA Mainnet` | 5.4G | 2198050 | `50375d9cfc2a7fea61cee4a7f013b37d7526ba0b9b8166a25da6b6592cdfe861` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2206690.tar.lz4)** | Thu Nov 27 2025 08:16:51 UTC | `Avail DA Mainnet` | 5.4G | 2206690 | `f02cf73b8f8e7ca380f81e463784113787fca799fd6541822bd43282d88a7adf` |
 ---
 
 ## Download instructions
@@ -20,7 +19,7 @@ sudo apt install wget lz4
 AVAIL_HOME=$HOME/avail/node-data/chains/avail_da_mainnet
 
 # Set snapshot url
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2202370.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2206690.tar.lz4"
 
 # Download snapshot
 wget -4 $URL
@@ -43,7 +42,7 @@ sudo apt install wget lz4
 AVAIL_HOME=$HOME/avail/node-data/chains/avail_da_mainnet
 
 # Set snapshot url
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2202370.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2206690.tar.lz4"
 
 # Download & extract snapshot
 wget -O - $URL | lz4 -d | tar -xvf - -C $AVAIL_HOME
