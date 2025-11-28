@@ -3,6 +3,55 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-55",
+      "software": "hermes",
+      "software_version": "hermes 1.13.2+65c4cf820",
+      "chains": [
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo1yghndrffay859ma2ue4pa2cltw640vtavzsaf0",
+            "osmo1f269n4mrg0s8tqveny9huulyamvdv97n87xa7f",
+            "osmo1vh9d09ez64kxg3c9cekqj9em946evtwjv0959f",
+            "osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-874",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "phoenix-1",
+          "wallets": [
+            "terra1yghndrffay859ma2ue4pa2cltw640vtazaedaa"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-229",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "pryzm-1",
+          "wallets": [
+            "pryzm1yghndrffay859ma2ue4pa2cltw640vtauf52pw"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-6",
+              "port_id": "transfer",
+              "dst_chain_id": "neutron-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-5",
       "software": "hermes",
       "software_version": "hermes 1.13.2+65c4cf820",
