@@ -13,6 +13,8 @@
       "address": "cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc",
       "operator_account": "cosmos14qazscc80zgzx3m0m0aa30ths0p9hg8vgut40t",
       "relayer_accounts": [
+        "cosmos12aeyaxq699k3f4d3733dl5pstw0ulplk64f4kv",
+        "cosmos18hx3fcqrvynx9vvpvyv5qym82xz4suw5sxnjlq",
         "cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u"
       ],
       "stake_link": "https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2",
@@ -255,6 +257,8 @@
       "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
       "operator_account": "terra13slfa8cc7zvmjt4wkap2lwmlkp4h3azwlyn02r",
       "relayer_accounts": [
+        "terra12aeyaxq699k3f4d3733dl5pstw0ulplku3n45v",
+        "terra18hx3fcqrvynx9vvpvyv5qym82xz4suw5kzfjaq",
         "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
       ],
       "stake_link": "https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
