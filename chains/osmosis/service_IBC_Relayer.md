@@ -27,12 +27,11 @@ osmo18hx3fcqrvynx9vvpvyv5qym82xz4suw5caqzfj
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | noble-1 | transfer | channel-750 |
 | osmosis-1 | kava_2222-10 | transfer | channel-143 |
-| osmosis-1 | stride-1 | transfer | channel-326 |
+| akashnet-2 | osmosis-1 | transfer | channel-9 |
+| celestia | osmosis-1 | transfer | channel-2 |
+| stride-1 | osmosis-1 | transfer | channel-5 |
 | juno-1 | osmosis-1 | transfer | channel-0 |
 | phoenix-1 | osmosis-1 | transfer | channel-1 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
-| akashnet-2 | osmosis-1 | transfer | channel-9 |
-| celestia | osmosis-1 | transfer | channel-2 |
-| stride-1 | osmosis-1 | transfer | channel-5 |
