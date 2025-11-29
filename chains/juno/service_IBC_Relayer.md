@@ -14,3 +14,4 @@ juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | juno-1 | osmosis-1 | transfer | channel-0 |
+| osmosis-1 | juno-1 | transfer | channel-42 |
