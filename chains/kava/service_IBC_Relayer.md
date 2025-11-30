@@ -16,3 +16,5 @@ kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8
 | --------------- | --------------- | ------------ | ------------------- |
 | kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | kava_2222-10 | phoenix-1 | transfer | channel-138 |
+| kava_2222-10 | dymension_1100-1 | transfer | channel-144 |
+| phoenix-1 | kava_2222-10 | transfer | channel-272 |
