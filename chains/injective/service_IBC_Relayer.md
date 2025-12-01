@@ -14,5 +14,4 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
 | injective-1 | osmosis-1 | transfer | channel-8 |
-| celestia | injective-1 | transfer | channel-7 |
 | osmosis-1 | injective-1 | transfer | channel-122 |
