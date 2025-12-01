@@ -3,6 +3,106 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-2",
+      "software": "hermes",
+      "software_version": "hermes 1.13.2+65c4cf820",
+      "chains": [
+        {
+          "chain_id": "evmos_9001-2",
+          "wallets": [
+            "evmos1je8d8g73zrmp79fugdm3gn0a326ar5php3ll8j"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "injective-1",
+          "wallets": [
+            "inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-8",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "juno-1",
+          "wallets": [
+            "juno1yvejj22t78s2vfk7slty2d7fs5lkc8rn9ejfzq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo1yvejj22t78s2vfk7slty2d7fs5lkc8rnmszznw",
+            "osmo15md2qvgma8lnvqv67w0umu2paqkqkheg332u7d"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-122",
+              "port_id": "transfer",
+              "dst_chain_id": "injective-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "phoenix-1",
+          "wallets": [
+            "terra1yvejj22t78s2vfk7slty2d7fs5lkc8rn40tj8u"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "secret-4",
+          "wallets": [
+            "secret15md2qvgma8lnvqv67w0umu2paqkqkhegm0d94r",
+            "secret1yvejj22t78s2vfk7slty2d7fs5lkc8rn3w9mcq"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "sommelier-3",
+          "wallets": [
+            "somm15md2qvgma8lnvqv67w0umu2paqkqkheg4kkqe4"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-0",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-55",
       "software": "hermes",
       "software_version": "hermes 1.13.2+65c4cf820",
