@@ -13,7 +13,4 @@ inj1nsd5f7vek8skzqhwxl6vfp07ee893aw3q50qrm
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
-| injective-1 | cosmoshub-4 | transfer | channel-1 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
-| osmosis-1 | injective-1 | transfer | channel-122 |
-| secret-4 | injective-1 | transfer | channel-23 |
