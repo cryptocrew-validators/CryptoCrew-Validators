@@ -22,9 +22,7 @@ cosmos1yvejj22t78s2vfk7slty2d7fs5lkc8rnnt3j9u
 | cosmoshub-4 | elys-1 | transfer | channel-1266 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
 | cosmoshub-4 | injective-1 | transfer | channel-220 |
-| cosmoshub-4 | neutron-1 | transfer | channel-569 |
 | comdex-1 | cosmoshub-4 | consumer | channel-97 |
 | elys-1 | cosmoshub-4 | consumer | channel-0 |
 | elys-1 | cosmoshub-4 | transfer | channel-1 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
-| neutron-1 | cosmoshub-4 | transfer | channel-1 |
