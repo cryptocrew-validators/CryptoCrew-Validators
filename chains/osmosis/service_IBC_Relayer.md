@@ -32,6 +32,7 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
 | osmosis-1 | axelar-dojo-1 | transfer | channel-208 |
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | quicksilver-2 | osmosis-1 | transfer | channel-2 |
@@ -44,4 +45,3 @@ osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv
 | axelar-dojo-1 | osmosis-1 | transfer | channel-3 |
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
 | interwoven-1 | osmosis-1 | transfer | channel-68 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
