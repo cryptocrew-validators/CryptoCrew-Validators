@@ -30,6 +30,7 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | osmosis-1 | atomone-1 | transfer | channel-94814 |
 | osmosis-1 | phoenix-1 | transfer | channel-251 |
 | osmosis-1 | cosmoshub-4 | transfer | channel-0 |
+| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | akashnet-2 | osmosis-1 | transfer | channel-9 |
 | celestia | osmosis-1 | transfer | channel-2 |
 | stride-1 | osmosis-1 | transfer | channel-5 |
@@ -38,5 +39,4 @@ osmo19c5dtp3kxl92wpeqpk8pf06rsqqggz93ugvnhk
 | empowerchain-1 | osmosis-1 | transfer | channel-1 |
 | interwoven-1 | osmosis-1 | transfer | channel-68 |
 | secret-4 | osmosis-1 | transfer | channel-1 |
-| kava_2222-10 | osmosis-1 | transfer | channel-1 |
 | cosmoshub-4 | osmosis-1 | transfer | channel-141 |
