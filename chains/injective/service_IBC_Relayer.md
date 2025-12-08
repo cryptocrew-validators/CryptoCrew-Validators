@@ -14,4 +14,5 @@ inj10hvldghaqvsedplt3utxffs34ylss5w8chwgfp
 ### Active IBC channels `injective`:
 | src_chain | dst_chain | IBC port | IBC channel |
 | --------------- | --------------- | ------------ | ------------------- |
+| osmosis-1 | injective-1 | transfer | channel-122 |
 | celestia | injective-1 | transfer | channel-7 |
