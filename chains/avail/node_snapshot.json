@@ -1,7 +1,7 @@
 {
   "network": "Avail DA Mainnet",
   "height": "2254828",
-  "checksum": "e0bf8372a18440c2ffc2e06d5e65591b3deadbbacb3a6368e6c992086ec2cab8"
+  "checksum": "e0bf8372a18440c2ffc2e06d5e65591b3deadbbacb3a6368e6c992086ec2cab8",
   "type": "pruned 256",
   "mirror": "EU",
   "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/avail/Avail_DA_Mainnet_2254828.tar.lz4",
