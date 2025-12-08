@@ -1,9 +1,10 @@
 name: Update service_ibc_relayer.md files
 
 on:
-  push:
-    paths:
-      - 'relayers.json'
+  # push:
+  #   paths:
+  #     - 'relayers.json'
+  workflow_dispatch:
 
 jobs:
   update_service_relayer:
