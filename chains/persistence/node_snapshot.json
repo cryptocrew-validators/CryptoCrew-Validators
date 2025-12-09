@@ -1,0 +1,12 @@
+{
+  "network": "core-1",
+  "height": "25062537",
+  "type": "413b98c07de386a815686a283bf4bd8d461b5aa8f783d386400d6da17272cff3",
+  "mirror": "EU",
+  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25062537.tar.lz4",
+  "filename": "core-1_25062537.tar.lz4",
+  "date": "2025-12-09 12:25",
+  "database": "goleveldb",
+  "size": "342M",
+  "provider": "CryptoCrew"
+}
