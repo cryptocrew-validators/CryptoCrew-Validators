@@ -3,6 +3,85 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-3",
+      "software": "hermes",
+      "software_version": "hermes 1.10.3+e26d356ab",
+      "chains": [
+        {
+          "chain_id": "atomone-1",
+          "wallets": [
+            "atone16m48j88mlw2smhc8nyurznt4jl9nqgyqxz0xpg"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-2",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "axelar-dojo-1",
+          "wallets": [
+            "axelar16m48j88mlw2smhc8nyurznt4jl9nqgyqvv9fu3"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-3",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "empowerchain-1",
+          "wallets": [
+            "empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "interwoven-1",
+          "wallets": [
+            "init16m48j88mlw2smhc8nyurznt4jl9nqgyqx5njuj"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-68",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        },
+        {
+          "chain_id": "osmosis-1",
+          "wallets": [
+            "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
+            "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
+            "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-208",
+              "port_id": "transfer",
+              "dst_chain_id": "axelar-dojo-1"
+            },
+            {
+              "channel_id": "channel-94814",
+              "port_id": "transfer",
+              "dst_chain_id": "atomone-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-2",
       "software": "hermes",
       "software_version": "hermes 1.13.2+65c4cf820",
@@ -451,85 +530,6 @@
               "channel_id": "channel-5",
               "port_id": "transfer",
               "dst_chain_id": "osmosis-1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "relayer_name": "relayer-zone-3",
-      "software": "hermes",
-      "software_version": "hermes 1.10.3+e26d356ab",
-      "chains": [
-        {
-          "chain_id": "atomone-1",
-          "wallets": [
-            "atone16m48j88mlw2smhc8nyurznt4jl9nqgyqxz0xpg"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-2",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "axelar-dojo-1",
-          "wallets": [
-            "axelar16m48j88mlw2smhc8nyurznt4jl9nqgyqvv9fu3"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-3",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "empowerchain-1",
-          "wallets": [
-            "empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-1",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "interwoven-1",
-          "wallets": [
-            "init16m48j88mlw2smhc8nyurznt4jl9nqgyqx5njuj"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-68",
-              "port_id": "transfer",
-              "dst_chain_id": "osmosis-1"
-            }
-          ]
-        },
-        {
-          "chain_id": "osmosis-1",
-          "wallets": [
-            "osmo16m48j88mlw2smhc8nyurznt4jl9nqgyqqeq3pz",
-            "osmo145u97e5uwuventlwesghqgvx39wx6q8es7m0gk",
-            "osmo1ld3met27u97dlu8mfs7xjnj35qjakd6zntyhhv"
-          ],
-          "channels": [
-            {
-              "channel_id": "channel-208",
-              "port_id": "transfer",
-              "dst_chain_id": "axelar-dojo-1"
-            },
-            {
-              "channel_id": "channel-94814",
-              "port_id": "transfer",
-              "dst_chain_id": "atomone-1"
             }
           ]
         }
