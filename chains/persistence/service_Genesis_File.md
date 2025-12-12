@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu1.ccvalidators.com/SERVICE/persistence/genesis.json)**
 ---
 
-- last updated: Thu Dec 11 2025 12:28:40
+- last updated: Fri Dec 12 2025 12:13:56
 - chain id: `core-1`
 
 ## Instructions
