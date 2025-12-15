@@ -3,6 +3,26 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-5",
+      "software": "hermes",
+      "software_version": "hermes 1.13.2+65c4cf820",
+      "chains": [
+        {
+          "chain_id": "comdex-1",
+          "wallets": [
+            "comdex1yghndrffay859ma2ue4pa2cltw640vtarkp0x2"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-97",
+              "port_id": "consumer",
+              "dst_chain_id": "cosmoshub-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-44",
       "software": "hermes",
       "software_version": "hermes 1.13.1+5e403dd5c",
