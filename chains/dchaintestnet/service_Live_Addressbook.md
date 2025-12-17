@@ -6,7 +6,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu1.ccvalidators.com/SERVICE/dchaintestnet/addrbook.json)**
 ---
 
-- last updated: Tue Dec 16 2025 14:48:34
+- last updated: Wed Dec 17 2025 14:48:02
 - chain id: `test-theodoric-2`
 
 - total peers (network scan): 2
