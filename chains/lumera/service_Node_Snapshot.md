@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 lumerad version: `v1.8.5`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2821378.tar.lz4)** | Thu Dec 18 2025 18:45:19 UTC | `lumera-mainnet-1` | 900M | 2821378 | `8ac372a47620a8f7d2c20d87a6c30122254a05749fd47a94a19abb382000fa44` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2790818.tar.lz4)** | Tue Dec 16 2025 18:45:20 UTC | `lumera-mainnet-1` | 833M | 2790818 | `ba63659d6cf2b3f1067ec49001aad08aff5f2257a5ba797e5db34a7a016fef96` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2760262.tar.lz4)** | Sun Dec 14 2025 18:45:17 UTC | `lumera-mainnet-1` | 749M | 2760262 | `ecab060132ce3a4426f7ab67e4486f06671197c3ecdbe4a988ba0b174c078036` |
 
@@ -12,7 +13,7 @@ lumerad version: `v1.8.5`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2790818.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2821378.tar.lz4"
 cd $HOME/.lumera
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +29,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2790818.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2821378.tar.lz4"
 cd $HOME/.lumera
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
