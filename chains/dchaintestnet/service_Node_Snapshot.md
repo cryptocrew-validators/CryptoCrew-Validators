@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dchain version: `v0.9.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1538525.tar.lz4)** | Fri Dec 19 2025 14:46:27 UTC | `test-theodoric-2` | 8.6M | 1538525 | `d61c2fedfe9ff930d81b877fb56d3f1aa5b18c8169cbe7ce4cd990d183304ef1` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1513063.tar.lz4)** | Thu Dec 18 2025 14:46:06 UTC | `test-theodoric-2` | 9.4M | 1513063 | `a31264133e5d8cad31c5b058303229b58b6fa8adba6287036c60dff13fee913b` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1487632.tar.lz4)** | Wed Dec 17 2025 14:46:26 UTC | `test-theodoric-2` | 9.9M | 1487632 | `5c4384b93a3ca12ccfb87e0aa562c39eb90f46388497901c9215a74477cc2e01` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1462225.tar.lz4)** | Tue Dec 16 2025 14:46:57 UTC | `test-theodoric-2` | 12M | 1462225 | `a0d6218feba8dde9c2d9ca8d6c0c09ee5a6d5674d045d0249819c07af1db19b1` |
@@ -14,7 +15,7 @@ dchain version: `v0.9.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1513063.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1538525.tar.lz4"
 cd $HOME/.dchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -30,7 +31,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1513063.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_1538525.tar.lz4"
 cd $HOME/.dchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
