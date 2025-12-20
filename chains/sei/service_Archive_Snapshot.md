@@ -3,14 +3,14 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 seid version: `latest`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_183599400.tar.lz4)** | Sat Dec 13 2025 18:39:02 UTC | `pacific-1` | 12T | 183599400 | `archive` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_184778490.tar.lz4)** | Sat Dec 20 2025 18:59:38 UTC | `pacific-1` | 12T | 184778490 | `archive` |
 ---
 
 ## Download instructions
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_183599400.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/sei/pacific-1_184778490.tar.lz4"
 cd $HOME/.sei
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
