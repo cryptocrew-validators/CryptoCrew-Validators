@@ -5,7 +5,7 @@ A Genesis File (`genesis.json`) defines the initial state of a chain. We provide
 **Download: [genesis.json](https://dl-eu1.ccvalidators.com/SERVICE/lumera/genesis.json)**
 ---
 
-- last updated: Sat Dec 20 2025 18:48:00
+- last updated: Mon Dec 22 2025 12:21:07
 - chain id: `lumera-mainnet-1`
 
 ## Instructions

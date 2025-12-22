@@ -6,7 +6,7 @@ CryptoCrew provides daily updated Addressbook Files (`addrbook.json`). We utiliz
 **Download: [addrbook.json](https://dl-eu1.ccvalidators.com/SERVICE/lumera/addrbook.json)**
 ---
 
-- last updated: Sat Dec 20 2025 18:48:00
+- last updated: Mon Dec 22 2025 12:21:07
 - chain id: `lumera-mainnet-1`
 - available peers: 593
 - total peers (network scan): 578
