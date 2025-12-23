@@ -1,11 +1,11 @@
 {
   "network": "stargaze-1",
-  "height": "27908741",
-  "type": "8fe79e224f282949a65675b16761eb4e9dc422e7f86ac9d816306f2e92e1dcbb",
+  "height": "27944440",
+  "type": "cc4f4e50b5fa0b92aa6675eaee11a0a7b4489878f17d3db921bd127548be8667",
   "mirror": "EU",
-  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_27908741.tar.lz4",
-  "filename": "stargaze-1_27908741.tar.lz4",
-  "date": "2025-12-22 05:09",
+  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_27944440.tar.lz4",
+  "filename": "stargaze-1_27944440.tar.lz4",
+  "date": "2025-12-23 05:06",
   "database": "goleveldb",
   "size": "2.7G",
   "provider": "CryptoCrew"
