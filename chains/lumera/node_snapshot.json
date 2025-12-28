@@ -1,12 +1,12 @@
 {
   "network": "lumera-mainnet-1",
-  "height": "2969573",
+  "height": "2969675",
   "type": "pruned",
   "mirror": "EU",
-  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2969573.tar.lz4",
-  "filename": "lumera-mainnet-1_2969573.tar.lz4",
-  "date": "2025-12-28 14:04",
+  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/lumera/lumera-mainnet-1_2969675.tar.lz4",
+  "filename": "lumera-mainnet-1_2969675.tar.lz4",
+  "date": "2025-12-28 14:14",
   "database": "goleveldb",
-  "size": "745M",
+  "size": "747M",
   "provider": "CryptoCrew"
 }
