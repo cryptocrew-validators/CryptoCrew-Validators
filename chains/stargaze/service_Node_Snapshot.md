@@ -4,6 +4,7 @@ starsd version: `v17.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4)** | Fri Jan 02 2026 06:55:49 UTC | `stargaze-1` | 3.1G |  | `3d5146ffec9238baad64bbc418b39c2236f387e8b2d60d909c5051359d983628` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28443828.tar.lz4)** | Tue Jan 06 2026 04:51:58 UTC | `stargaze-1` | 3.4G | 28443828 | `c01322e197a6788c2193a0f0a32cb521a30b24a476bfe9cca35949d2d84f4b2e` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28408688.tar.lz4)** | Mon Jan 05 2026 05:12:40 UTC | `stargaze-1` | 2.7G | 28408688 | `f116b5c39c3852769ccf029681335eb62b577a285912c6df30d4554c7214aa37` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28372903.tar.lz4)** | Sun Jan 04 2026 05:08:27 UTC | `stargaze-1` | 2.7G | 28372903 | `5120e5bd23b555b1fc90f40a789f9a5f7a1c9e8222b5ee4311d3e2bd78b0fa3f` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28337141.tar.lz4)** | Sat Jan 03 2026 05:06:47 UTC | `stargaze-1` | 2.7G | 28337141 | `bbbdcfe5c009362b1677cf5cb038288b65ee4ad0d24b5798cd5c8ff4e096e76e` |
@@ -29,7 +30,7 @@ starsd version: `v17.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28408688.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28443828.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -45,7 +46,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28408688.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28443828.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
