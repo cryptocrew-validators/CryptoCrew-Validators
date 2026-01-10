@@ -5,8 +5,8 @@
   "mirror": "EU",
   "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_.tar.lz4",
   "filename": "test-theodoric-2_.tar.lz4",
-  "date": "2026-01-09 14:38",
+  "date": "2026-01-10 14:38",
   "database": "goleveldb",
-  "size": "337M",
+  "size": "557M",
   "provider": "CryptoCrew"
 }

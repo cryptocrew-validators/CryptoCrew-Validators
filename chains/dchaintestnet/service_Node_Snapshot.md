@@ -3,8 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dchain version: `v0.9.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_.tar.lz4)** | Fri Jan 09 2026 14:38:52 UTC | `test-theodoric-2` | 337M |  | `8fc7e61385dbe393d92f7b091b25826983b109b19b1ef3c0ef10c90b1a05693a` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_2044132.tar.lz4)** | Thu Jan 08 2026 12:44:45 UTC | `test-theodoric-2` | 11M | 2044132 | `f9ed726c3eb4b7f11f7802e4fcdf9ec7f7386347bd5970e5138c59b020e122a9` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_.tar.lz4)** | Sat Jan 10 2026 14:38:54 UTC | `test-theodoric-2` | 557M |  | `8ad978a2e7f82c121b0268cb7d7905dcb3258eeb7fe92e94fda77e5cacc4024c` |
 
 ---
 
