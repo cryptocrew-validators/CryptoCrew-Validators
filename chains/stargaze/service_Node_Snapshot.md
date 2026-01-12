@@ -3,7 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 starsd version: `v17.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4)** | Sun Jan 11 2026 06:54:47 UTC | `stargaze-1` | 4.0G |  | `257f6d8b8f87bbf8c0a91693ad756d34d0cd86615efe28e9897069960703bb19` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4)** | Mon Jan 12 2026 04:52:33 UTC | `stargaze-1` | 4.0G |  | `5dc4edcae415288240fc0e1a8164c34a60e0cfea63eb9e186ac9845a3a5783b6` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28587612.tar.lz4)** | Sat Jan 10 2026 05:25:41 UTC | `stargaze-1` | 2.7G | 28587612 | `43666a13af72d0e14e59b5829d128f0eb49a6cf51526622f8c751d798766ead6` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28551505.tar.lz4)** | Fri Jan 09 2026 05:11:19 UTC | `stargaze-1` | 2.7G | 28551505 | `8b2708ed7e08f40bb72e58d03a5197990ded7e88bb6b2612a153ccde88a0af73` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_28515737.tar.lz4)** | Thu Jan 08 2026 05:08:34 UTC | `stargaze-1` | 2.7G | 28515737 | `29057a519fb4d982fe724c1a7393adda7ebab14a90326c4bbe2567e01b3bfc09` |
