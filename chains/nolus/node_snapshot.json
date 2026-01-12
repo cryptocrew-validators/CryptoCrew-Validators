@@ -1,12 +1,12 @@
 {
   "network": "pirin-1",
-  "height": "19431616",
-  "type": "855f4c7f8c1769fb48a89dc8f589ebae366f956bdae832b855ec6e86f3f617bc",
+  "height": "19460288",
+  "type": "8d2de0555ec4adcd44a2386954a16bfa524ad2e9aea478c5cc0e958da9e9d394",
   "mirror": "EU",
-  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_19431616.tar.lz4",
-  "filename": "pirin-1_19431616.tar.lz4",
-  "date": "2026-01-11 01:54",
+  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/nolus/pirin-1_19460288.tar.lz4",
+  "filename": "pirin-1_19460288.tar.lz4",
+  "date": "2026-01-12 01:54",
   "database": "goleveldb",
-  "size": "432M",
+  "size": "437M",
   "provider": "CryptoCrew"
 }
