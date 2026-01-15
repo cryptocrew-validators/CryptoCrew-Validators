@@ -3,15 +3,15 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 agd version: `v0.35.0-u22.1`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_23568064.tar.lz4)** | Thu Jan 15 2026 03:15:28 UTC | `agoric-3` | 5.7T | 23568064 | `archive` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_23451986.tar.lz4)** | Thu Jan 08 2026 03:14:34 UTC | `agoric-3` | 5.7T | 23451986 | `archive` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_23335284.tar.lz4)** | Thu Jan 01 2026 03:13:57 UTC | `agoric-3` | 5.7T | 23335284 | `archive` |
 ---
 
 ## Download instructions
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_23451986.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/agoric/agoric-3_23568064.tar.lz4"
 cd $HOME/.agoric
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
