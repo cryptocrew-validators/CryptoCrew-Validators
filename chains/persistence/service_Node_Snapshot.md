@@ -1,8 +1,9 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-persistenceCore version: `v16.0.0`
+persistenceCore version: `v16.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25631718.tar.lz4)** | Fri Jan 16 2026 12:12:04 UTC | `core-1` | 296M | 25631718 | `a00072eef99be71666f4fa2518f48769d4437b6e913ac404637697d30d26a993` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25616869.tar.lz4)** | Thu Jan 15 2026 12:25:48 UTC | `core-1` | 315M | 25616869 | `71d2a638ebf2f7c0dc963dfe1c65b5dd5c433ebb8f6e826b7e274949f86a57ff` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25601725.tar.lz4)** | Wed Jan 14 2026 12:12:20 UTC | `core-1` | 364M | 25601725 | `a4d6657fc8bf2be2db4f58c9eb28f3309683706a77abe3d34ed2aa6506a781e5` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25586878.tar.lz4)** | Tue Jan 13 2026 12:25:47 UTC | `core-1` | 321M | 25586878 | `a9f1ebe221ff8cf690114b8b89ea945bda774c3e7d7c939d59a3a9af9b1f10b9` |
@@ -42,7 +43,7 @@ persistenceCore version: `v16.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25616869.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25631718.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -58,7 +59,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25616869.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_25631718.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
