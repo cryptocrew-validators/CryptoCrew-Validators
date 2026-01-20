@@ -1,16 +1,16 @@
 ## Full Archive Snapshot
 CryptoCrew provides full Archive Snapshots for selected chains. These snapshots include the full block history from the genesis block on, tx_data is included.  
-persistenceCore version: `v16.0.0`
+persistenceCore version: `v16.0.1`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/persistence/core-1_25588850.tar.lz4)** | Tue Jan 13 2026 18:44:46 UTC | `core-1` | 1.3T | 25588850 | `archive` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/persistence/core-1_25693618.tar.lz4)** | Tue Jan 20 2026 18:49:03 UTC | `core-1` | 1.3T | 25693618 | `archive` |
 ---
 
 ## Download instructions
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/persistence/core-1_25588850.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/persistence/core-1_25693618.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
