@@ -3,6 +3,27 @@
   "$schema": "./relayers.schema.json",
   "relayers": [
     {
+      "relayer_name": "relayer-zone-44",
+      "software": "hermes",
+      "software_version": "hermes 1.13.1+5e403dd5c",
+      "chains": [
+        {
+          "chain_id": "kava_2222-10",
+          "wallets": [
+            "kava12aeyaxq699k3f4d3733dl5pstw0ulplkxqagqt",
+            "kava18hx3fcqrvynx9vvpvyv5qym82xz4suw5vn80f8"
+          ],
+          "channels": [
+            {
+              "channel_id": "channel-1",
+              "port_id": "transfer",
+              "dst_chain_id": "osmosis-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "relayer_name": "relayer-zone-4",
       "software": "hermes",
       "software_version": "hermes 1.13.1+5e403dd5c",
