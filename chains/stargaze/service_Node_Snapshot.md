@@ -3,7 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 starsd version: `v17.0.0-2-g089c00d8`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4)** | Sun Jan 25 2026 04:52:17 UTC | `stargaze-1` | 3.1G |  | `8330eade33123679c7d73dc46dcfb649862d9ece967f6fa3605880f20f291d17` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4)** | Fri Jan 30 2026 06:56:20 UTC | `stargaze-1` | 4.0G |  | `7de4e4f1f61b9800e6fc5f5f0398cae3027a0c8c8d4dd33491fb687a9572fa8c` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_29261356.tar.lz4)** | Thu Jan 29 2026 05:06:52 UTC | `stargaze-1` | 2.7G | 29261356 | `69d2abe5af3a22fe3cf9c6031b90c0559a1ec6ea89af0192ddd7f23ab4859ec6` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_29226120.tar.lz4)** | Wed Jan 28 2026 05:21:48 UTC | `stargaze-1` | 2.7G | 29226120 | `3d60c9005629d6bdf36b153db9efaa88771878517e71161c84817ca40ca36c16` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_29190178.tar.lz4)** | Tue Jan 27 2026 05:10:01 UTC | `stargaze-1` | 2.7G | 29190178 | `3f35ee9867c9058dbe1265db1ec6a19af91cfedb1b407829546b70d6489484a8` |
@@ -47,7 +47,7 @@ starsd version: `v17.0.0-2-g089c00d8`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_29261356.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -63,7 +63,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_29261356.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
