@@ -924,27 +924,6 @@
       "trade_url": "https://www.binance.com/en/trade/NTRN_USDT"
     },
     {
-      "name": "milkyway",
-      "prettyName": "Milkyway",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/milkyway/logo_milkyway.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/milkyway/logo_milkyway.png",
-      "symbol": "MILK",
-      "denom": "umilk",
-      "decimals": "6",
-      "address": "milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8",
-      "operator_account": "milk19mydqk0en6406lzntgv6nvp7jhl4juka79w0g3",
-      "relayer_accounts": [
-        "milk1umr5dxd3fesq32ktz3ust5q338jeje3vrpd2e9"
-      ],
-      "stake_link": "https://restake.app/milkyway/milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8",
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "milkyway-2",
-      "chain_id": "milkyway-1",
-      "trade_url": "https://www.bybit.com/trade/spot/MILK/USDT"
-    },
-    {
       "name": "near",
       "prettyName": "NEAR Protocol",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/near/logo_near.svg",
