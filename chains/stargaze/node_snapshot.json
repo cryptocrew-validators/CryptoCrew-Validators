@@ -1,12 +1,12 @@
 {
   "network": "stargaze-1",
   "height": "",
-  "type": "8330eade33123679c7d73dc46dcfb649862d9ece967f6fa3605880f20f291d17",
+  "type": "0022c7d16880060d373fe7732fb38dd51ba6bdcb83f811447b06b5544325af42",
   "mirror": "EU",
   "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4",
   "filename": "stargaze-1_.tar.lz4",
-  "date": "2026-01-25 04:52",
+  "date": "2026-02-09 06:54",
   "database": "goleveldb",
-  "size": "3.1G",
+  "size": "3.0G",
   "provider": "CryptoCrew"
 }
