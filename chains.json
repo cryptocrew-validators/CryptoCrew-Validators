@@ -848,29 +848,6 @@
       "trade_url": "https://app.osmosis.zone/?to=ORAI"
     },
     {
-      "name": "nillion",
-      "prettyName": "Nillion",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nillion/logo_nillion.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nillion/logo_nillion.png",
-      "symbol": "NIL",
-      "denom": "unil",
-      "decimals": "6",
-      "address": "nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708",
-      "operator_account": "nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708",
-      "relayer_accounts": [],
-      "stake_link": "https://restake.app/nillion/nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708",
-      "rpc": [
-        "https://nillion-rpc.lavenderfive.com:443"
-      ],
-      "rest": [
-        "https://nillion-api.lavenderfive.com:443"
-      ],
-      "apr": "",
-      "coingecko_id": "nillion",
-      "chain_id": "nillion-1",
-      "trade_url": "https://www.binance.com/en/trade/NIL_USDT"
-    },
-    {
       "name": "babylon",
       "prettyName": "Babylon",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/babylon/logo_babylon.svg",
