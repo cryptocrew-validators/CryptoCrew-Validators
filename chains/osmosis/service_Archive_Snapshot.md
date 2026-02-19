@@ -3,15 +3,15 @@ CryptoCrew provides full Archive Snapshots for selected chains. These snapshots 
 osmosisd version: `v31.0.0-rc1-3-gcc93ee58d`
 | DOWNLOAD | date | chain id | size | height | snapshot type |
 | -------- | ---- | -------- | ---- | ------ | ------------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_54279596.tar.lz4)** | Wed Feb 04 2026 20:45:53 UTC | `osmosis-1` | 23T | 54279596 | `archive` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_53769224.tar.lz4)** | Wed Jan 28 2026 20:40:05 UTC | `osmosis-1` | 23T | 53769224 | `archive` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_55268766.tar.lz4)** | Wed Feb 18 2026 20:58:02 UTC | `osmosis-1` | 23T | 55268766 | `archive` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_54774129.tar.lz4)** | Wed Feb 11 2026 20:52:55 UTC | `osmosis-1` | 23T | 54774129 | `archive` |
 ---
 
 ## Download instructions
 Download & extract snapshot:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_54279596.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/archive/osmosis/osmosis-1_55268766.tar.lz4"
 cd $HOME/.osmosisd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm

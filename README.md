@@ -101,7 +101,6 @@ https://ccvalidators.com
 | `Nillion` | `nillion-1` | `nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708` | [delegate NIL](https://restake.app/nillion/nillionvaloper1vvyz2njjkhqhapg343tlwg2euucu59ywz7v708) |
 | `Babylon` | `bbn-1` | `bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63` | [delegate BABY](https://wallet.keplr.app/chains/babylon?modal=staking&chain=bbn-1&validator_address=bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63&step_id=2) |
 | `Neutron` | `neutron-1` | `neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k` | [delegate NTRN](https://wallet.keplr.app/chains/neutron?modal=staking&chain=neutron-1&validator_address=neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k&step_id=2) |
-| `Milkyway` | `milkyway-1` | `milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8` | [delegate MILK](https://restake.app/milkyway/milkvaloper19mydqk0en6406lzntgv6nvp7jhl4juka0tygk8) |
 | `NEAR Protocol` | `mainnet` | `cryptocrew.poolv1.near` | [delegate NEAR](https://app.mynearwallet.com/staking/cryptocrew.poolv1.near/stake) |
 | `THORChain` | `thorchain-1` | `thor10ma7lf07ld98wcm3nvt7uptase4mhrt82rkvg4` | [delegate RUNE](https://ccvalidators.com/blog/cryptocrew-support-thorchain-ibc-infrastructure) |
 | `Ethereum` | `lido` | `0x4420559d41b04cc68f91ef8b6cc7842a8384c203` | [delegate ETH](https://stake.lido.fi) |
