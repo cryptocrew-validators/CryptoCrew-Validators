@@ -1,8 +1,9 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-gaiad version: `v25.3.1`
+gaiad version: `v26.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29853124.tar.lz4)** | Thu Feb 19 2026 14:36:35 UTC | `cosmoshub-4` | 12G | 29853124 | `e3828f33a3f99362468d35838e781a8c0662efd59a4474fc68680fb8ee268196` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29836005.tar.lz4)** | Wed Feb 18 2026 10:45:43 UTC | `cosmoshub-4` | 12G | 29836005 | `b503f073f4c63a556cf2e3cee4b49a3dc629e131933fcd8c39de0bb3b39bdd1e` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29823573.tar.lz4)** | Tue Feb 17 2026 14:37:41 UTC | `cosmoshub-4` | 12G | 29823573 | `67c1a52dc8af50920b8b43ba704a855d21f18bd71de9bfbf1e0733dfb278f9af` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29806411.tar.lz4)** | Mon Feb 16 2026 10:54:42 UTC | `cosmoshub-4` | 12G | 29806411 | `9c70b9379019ffcc2c74340a0dd6cec98fc1e0fb3d9a7b693404c1a42e2630c0` |
@@ -74,7 +75,7 @@ gaiad version: `v25.3.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29836005.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29853124.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -90,7 +91,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29836005.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/cosmoshub/cosmoshub-4_29853124.tar.lz4"
 cd $HOME/.gaia
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
