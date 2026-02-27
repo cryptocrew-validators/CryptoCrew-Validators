@@ -4,6 +4,7 @@ starsd version: `v17.0.0-2-g089c00d8`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4)** | Thu Feb 26 2026 07:01:26 UTC | `stargaze-1` | 3.6G |  | `41b9fa5d5ff09dc802253aa23581c6fba17ed8d46c506d9a0e8c1855b35854a4` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_30287420.tar.lz4)** | Fri Feb 27 2026 05:06:41 UTC | `stargaze-1` | 2.7G | 30287420 | `5e38d3288c2303c87f98f794e779f18219fdf5b0edcb65118e6fb3d2f03636e3` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_30183332.tar.lz4)** | Tue Feb 24 2026 06:32:33 UTC | `stargaze-1` | 2.7G | 30183332 | `23cd59e7587ae31aa8351711fc05f5fae44e6ecafc3cba2cb2d528f12bc56a33` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_30145982.tar.lz4)** | Mon Feb 23 2026 05:08:40 UTC | `stargaze-1` | 2.7G | 30145982 | `c2e095c66c5264b5ae65422fb6f284d4ef25d409fc36890384dbffcaad1c9713` |
 
@@ -13,7 +14,7 @@ starsd version: `v17.0.0-2-g089c00d8`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_30287420.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -29,7 +30,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/stargaze/stargaze-1_30287420.tar.lz4"
 cd $HOME/.starsd
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
