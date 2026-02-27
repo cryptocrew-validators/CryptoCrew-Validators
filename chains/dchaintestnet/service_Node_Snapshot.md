@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 dchain version: `v0.10.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3312334.tar.lz4)** | Fri Feb 27 2026 12:38:06 UTC | `test-theodoric-2` | 14M | 3312334 | `1dc0cdbe780b2ccdc52eec0bc354334176a3e6366dcf24aaedbbe44eb9e6ffd7` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3286868.tar.lz4)** | Thu Feb 26 2026 12:38:07 UTC | `test-theodoric-2` | 15M | 3286868 | `34802569aae76286b11507c4a3c0a49701ab27de0ff342e539b92deb2b286da0` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3261500.tar.lz4)** | Wed Feb 25 2026 12:38:06 UTC | `test-theodoric-2` | 16M | 3261500 | `7c1adf63d813895e1bb7ed2a082bf17b9ede7784f18d1803898fcec124d577f9` |
 
 ---
 
@@ -12,7 +12,7 @@ dchain version: `v0.10.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3286868.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3312334.tar.lz4"
 cd $HOME/.dchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3286868.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3312334.tar.lz4"
 cd $HOME/.dchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
