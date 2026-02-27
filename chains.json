@@ -250,7 +250,10 @@
         "minimum_reward": 100000,
         "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/Fuz-Xb1D-2/SCRT.svg"
       },
-      "rpc": [],
+      "rpc": [
+        "https://secretnetwork-raw.stakely.io",
+        "https://secret-4.api.trivium.network:26657"
+      ],
       "rest": [],
       "apr": "",
       "coingecko_id": "secret",
@@ -1036,10 +1039,10 @@
       "operator_account": "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47",
       "stake_link": "",
       "rpc": [
-        "https://namada-mainnet-rpc.mellifera.network"
+        "https://namada-rpc.emberstake.xyz"
       ],
       "rest": [
-        "https://indexer.namada.tududes.com"
+        "https://namada-idx.emberstake.xyz"
       ],
       "apr": "",
       "coingecko_id": "namada",
