@@ -434,34 +434,6 @@
       "trade_url": "https://www.kucoin.com/trade/XPRT-USDT"
     },
     {
-      "name": "stargaze",
-      "prettyName": "Stargaze",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/stargaze/logo_stargaze.png",
-      "symbol": "STARS",
-      "denom": "ustars",
-      "decimals": "6",
-      "address": "starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn",
-      "operator_account": "stars12v78y2lrpy2euhuzjtd6ssyzz3zllgs0h7z9gt",
-      "relayer_accounts": [
-        "stars1yghndrffay859ma2ue4pa2cltw640vtas95s5v"
-      ],
-      "stake_link": "https://wallet.keplr.app/chains/stargaze?modal=staking&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn&step_id=2",
-      "restake": {
-        "address": "stars1305e92ng6a9pdh3ttc3ld459ckxupxt3rsd73k",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/v0TCsRo4-2/STARS.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "stargaze",
-      "chain_id": "stargaze-1",
-      "trade_url": "https://app.osmosis.zone?to=STARS"
-    },
-    {
       "name": "nolus",
       "prettyName": "Nolus",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/nolus/logo_nolus.svg",
@@ -592,34 +564,6 @@
       "relayer_accounts": [
         "empower16m48j88mlw2smhc8nyurznt4jl9nqgyq5wh2dw"
       ]
-    },
-    {
-      "name": "bitsong",
-      "prettyName": "Bitsong",
-      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bitsong/logo_bitsong.svg",
-      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/bitsong/logo_bitsong.png",
-      "symbol": "BTSG",
-      "denom": "ubtsg",
-      "decimals": "6",
-      "address": "bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
-      "operator_account": "bitsong1wetqg989uyj3mpk07h8yt3qvu2cdlsv7g9dtaq",
-      "relayer_accounts": [
-        "bitsong1yvejj22t78s2vfk7slty2d7fs5lkc8rnlzr68n"
-      ],
-      "stake_link": "https://restake.app/bitsong/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda",
-      "restake": {
-        "address": "bitsong1305e92ng6a9pdh3ttc3ld459ckxupxt3m9gtcg",
-        "run_time": "every 6 hours",
-        "runs_daily": 4,
-        "minimum_reward": 100000,
-        "status_url_svg": "https://healthchecks.io/badge/feedcfef-8d8e-4a26-9689-e72c36/VR3lMAgs-2/BTSG.svg"
-      },
-      "rpc": [],
-      "rest": [],
-      "apr": "",
-      "coingecko_id": "bitsong",
-      "chain_id": "bitsong-2b",
-      "trade_url": "https://app.osmosis.zone?to=BTSG"
     },
     {
       "name": "oraichain",
