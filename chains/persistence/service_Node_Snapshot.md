@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 persistenceCore version: `v16.0.1`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26297499.tar.lz4)** | Mon Mar 02 2026 12:15:04 UTC | `core-1` | 325M | 26297499 | `c466ea6b8b9a83d9ab034da4bdd6275339b22608d8d948efe489d175bbc17890` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26282644.tar.lz4)** | Sun Mar 01 2026 12:25:52 UTC | `core-1` | 344M | 26282644 | `45f07c29aa68cfb4b2f72b8d88e0ebc5e76b56b96e313a59b739dec3467ea263` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26267749.tar.lz4)** | Sat Feb 28 2026 12:14:05 UTC | `core-1` | 295M | 26267749 | `577bc1a8a07ea543fe03b699f65aa103ab012d3aebf1a03b51691f7d280450a2` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26253001.tar.lz4)** | Fri Feb 27 2026 12:25:46 UTC | `core-1` | 273M | 26253001 | `a9a07af2c558555e1af84b23cc30ceb52cca15b910961a79feabd535650ce554` |
@@ -18,7 +19,7 @@ persistenceCore version: `v16.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26282644.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26297499.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -34,7 +35,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26282644.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26297499.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
