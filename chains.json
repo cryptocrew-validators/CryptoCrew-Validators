@@ -906,6 +906,24 @@
       "coingecko_id": "seda",
       "chain_id": "seda-1",
       "trade_url": "https://app.osmosis.zone/?to=ibc/956AEF1DA92F70584266E87978C3F30A43B91EE6ABC62F03D097E79F6B99C4D8&sellOpen=false&buyOpen=false"
+    },
+    {
+      "name": "saga",
+      "prettyName": "Saga",
+      "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/saga/logo_saga.svg",
+      "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/saga/logo_saga.png",
+      "symbol": "SAGA",
+      "denom": "usaga",
+      "decimals": "6",
+      "address": "sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y",
+      "operator_account": "saga13pcp0cstupahzz3n36x0dlhpa9fr8m9v3njad4",
+      "stake_link": "https://ping.pub/saga/staking/sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y",
+      "rpc": [],
+      "rest": [],
+      "apr": "",
+      "coingecko_id": "saga-2",
+      "chain_id": "ssc-1",
+      "trade_url": "https://wallet.keplr.app/chains/saga?modal=staking&chain=ssc-1&validator_address=sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y&step_id=2"
     }
   ]
 }
