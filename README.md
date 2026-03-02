@@ -102,4 +102,5 @@ https://ccvalidators.com
 | `Monad` | `143` | `0xd583CADC6b9d054cE9FF9Abfe2290dE4D5cdd9d3` | [delegate MON](https://www.gmonads.com/staking) |
 | `Union` | `union-1` | `unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds` | [delegate U](https://explorer.union.build/union/staking/unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds) |
 | `Seda` | `seda-1` | `sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv` | [delegate SEDA](https://ping.pub/seda/staking/sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv) |
+| `Saga` | `ssc-1` | `sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y` | [delegate SAGA](https://ping.pub/saga/staking/sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y) |
 | `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
