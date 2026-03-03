@@ -163,9 +163,9 @@
       "prettyName": "Mantrachain",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mantrachain/logo_mantrachain.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/mantrachain/logo_mantrachain.png",
-      "symbol": "OM",
-      "denom": "uom",
-      "decimals": "6",
+      "symbol": "MANTRA",
+      "denom": "amantra",
+      "decimals": "18",
       "address": "mantravaloper1maxq9hma5h89ham2uvtfmv9uqujfratjyfchph",
       "operator_account": "mantra1maxq9hma5h89ham2uvtfmv9uqujfratjqjeedj",
       "relayer_accounts": [
