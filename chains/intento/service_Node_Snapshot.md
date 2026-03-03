@@ -1,10 +1,9 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-dchain version: `v0.10.0`
+intentod version: `v1.1.0-hotfix.13`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3413959.tar.lz4)** | Tue Mar 03 2026 12:38:07 UTC | `test-theodoric-2` | 16M | 3413959 | `6eef071db6481751dc474775299e2e5777eef5ae1ba7c59b1b484519489557cd` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3388588.tar.lz4)** | Mon Mar 02 2026 12:39:57 UTC | `test-theodoric-2` | 9.4M | 3388588 | `3cd90299fb850b657aee37ac1d4859f9560b636c152242cbc058eed1bc91163a` |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/intento/intento-1_10632700.tar.lz4)** | Tue Mar 03 2026 14:17:18 UTC | `intento-1` | 4.9G | 10632700 | `1813b8b914c49ce3c91c9687c3db50f9a6d567f8e94e31994d3a82d687ddee19` |
 
 ---
 
@@ -12,8 +11,8 @@ dchain version: `v0.10.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3413959.tar.lz4"
-cd $HOME/.dchain
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/intento/intento-1_10632700.tar.lz4"
+cd $HOME/.intento
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget $URL
@@ -28,8 +27,8 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_3413959.tar.lz4"
-cd $HOME/.dchain
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/intento/intento-1_10632700.tar.lz4"
+cd $HOME/.intento
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
 wget -O - $URL | lz4 -d | tar -xvf -
@@ -40,8 +39,8 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
 ```sh
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/test-theodoric-2_wasm.tar.lz4"
-cd $HOME/.dchain
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/intento/intento-1_wasm.tar.lz4"
+cd $HOME/.intento
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
 ```
@@ -52,9 +51,9 @@ wget -O - $URL | lz4 -d | tar -xvf -
 
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://dl-eu1.ccvalidators.com/SNAPSHOTS/dchaintestnet/download_snapshot.sh | bash
+curl -sSL https://dl-eu1.ccvalidators.com/SNAPSHOTS/intento/download_snapshot.sh | bash
 ```
 ---
 
-After downloading and extracting the snapshot, start the daemon: `sudo systemctl start dchain`
+After downloading and extracting the snapshot, start the daemon: `sudo systemctl start intentod`
 
