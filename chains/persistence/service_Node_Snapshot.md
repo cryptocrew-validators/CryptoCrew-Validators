@@ -1,19 +1,10 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-persistenceCore version: `v16.0.1`
+persistenceCore version: `v17.0.0-2-g089c00d8`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_30509295.tar.lz4)** | Thu Mar 05 2026 12:25:52 UTC | `core-1` | 290M | 30509295 | `713a009c271732c7351e7b80679aea9515de3d107dd22b63f5ebd6c882d63813` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26327604.tar.lz4)** | Wed Mar 04 2026 12:15:10 UTC | `core-1` | 272M | 26327604 | `8f6dd940a98e982aa8b4b2b34f0e8ed3c0dfe528753e44ae7c051203ddbac57c` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26312670.tar.lz4)** | Tue Mar 03 2026 12:26:02 UTC | `core-1` | 345M | 26312670 | `04d95f9b81ea2486e3fb0d6a5ba54d5b15ceae3da40a33aa6229dc8dd0a57a94` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26297499.tar.lz4)** | Mon Mar 02 2026 12:15:04 UTC | `core-1` | 325M | 26297499 | `c466ea6b8b9a83d9ab034da4bdd6275339b22608d8d948efe489d175bbc17890` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26282644.tar.lz4)** | Sun Mar 01 2026 12:25:52 UTC | `core-1` | 344M | 26282644 | `45f07c29aa68cfb4b2f72b8d88e0ebc5e76b56b96e313a59b739dec3467ea263` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26267749.tar.lz4)** | Sat Feb 28 2026 12:14:05 UTC | `core-1` | 295M | 26267749 | `577bc1a8a07ea543fe03b699f65aa103ab012d3aebf1a03b51691f7d280450a2` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26253001.tar.lz4)** | Fri Feb 27 2026 12:25:46 UTC | `core-1` | 273M | 26253001 | `a9a07af2c558555e1af84b23cc30ceb52cca15b910961a79feabd535650ce554` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26237876.tar.lz4)** | Thu Feb 26 2026 12:13:40 UTC | `core-1` | 309M | 26237876 | `75a501d3bfbf310538adbebca782944c37dd6509f0504033b66c61027a8c1da9` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26222999.tar.lz4)** | Wed Feb 25 2026 12:25:46 UTC | `core-1` | 324M | 26222999 | `83eebe418feecd7097dd45a6ca954918aebe453bc272fa770affbfcfcd1e3984` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26207906.tar.lz4)** | Tue Feb 24 2026 12:16:48 UTC | `core-1` | 311M | 26207906 | `171a0b8f1b4663a43b74d26ac5254838a34db8ed06f6d552a264599dd85562f9` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26193015.tar.lz4)** | Mon Feb 23 2026 12:25:46 UTC | `core-1` | 273M | 26193015 | `80df8bad13a3747d87b60c010953fba920d78b2439ffd8623bc9e22aab5e850a` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26177971.tar.lz4)** | Sun Feb 22 2026 12:15:13 UTC | `core-1` | 323M | 26177971 | `514aa7a8b7698770480353803eea810a92870e1e9d2885ba6df059093e8ba299` |
 
 ---
 
@@ -21,7 +12,7 @@ persistenceCore version: `v16.0.1`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26327604.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_30509295.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -37,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_26327604.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_30509295.tar.lz4"
 cd $HOME/.persistenceCore
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
