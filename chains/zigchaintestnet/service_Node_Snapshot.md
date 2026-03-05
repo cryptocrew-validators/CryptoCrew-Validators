@@ -3,6 +3,7 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 zigchaind version: `v3.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchaintestnet/zig-test-2_4784336.tar.lz4)** | Thu Mar 05 2026 04:10:08 UTC | `zig-test-2` | 1.9G | 4784336 | `20008169b24a761d9bf0d1fe56c30225c1ab5a54a7d75109b577e15843585700` |
 | **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchaintestnet/zig-test-2_4779634.tar.lz4)** | Wed Mar 04 2026 20:50:51 UTC | `zig-test-2` | 2.0G | 4779634 | `c26738b769b37d945487e4cb5687211cceb633c06463a4e99699c96167fa1720` |
 
 ---
@@ -11,7 +12,7 @@ zigchaind version: `v3.0.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchaintestnet/zig-test-2_4779634.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchaintestnet/zig-test-2_4784336.tar.lz4"
 cd $HOME/.zigchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -27,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchaintestnet/zig-test-2_4779634.tar.lz4"
+URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchaintestnet/zig-test-2_4784336.tar.lz4"
 cd $HOME/.zigchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
