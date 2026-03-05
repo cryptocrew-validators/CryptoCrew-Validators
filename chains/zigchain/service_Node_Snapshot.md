@@ -1,10 +1,9 @@
 ## Node Snapshot
 CryptoCrew provides daily node-snapshots for the chains we validate. These snapshots are designed to be minimum-size and can be used to quickly sync your own node!  
-zigchaind version: `v10.1.0`
+zigchaind version: `v3.0.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_14397110.tar.lz4)** | Thu Mar 05 2026 09:02:26 UTC | `zigchain-1` | 244M | 14397110 | `0354bc36933a0b8eb07e8f817a937603d75f378e1c266872fa9b714801b4fd30` |
-| **[DOWNLOAD](https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_14389360.tar.lz4)** | Wed Mar 04 2026 20:32:26 UTC | `zigchain-1` | 247M | 14389360 | `e80dd53c94242b6ed107f919c11040da38ac431cc30543cde1fcd4c0390264d9` |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_6911540.tar.lz4)** | Thu Mar 05 2026 15:20:26 UTC | `zigchain-1` | 246M | 6911540 | `2cd3ba4fc7218cc80b5245a91bcb61bd714eb7b73f70f1aa832c9f3b1d2e6175` |
 
 ---
 
@@ -12,7 +11,7 @@ zigchaind version: `v10.1.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_14397110.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_6911540.tar.lz4"
 cd $HOME/.zigchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +27,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_14397110.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_6911540.tar.lz4"
 cd $HOME/.zigchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -40,7 +39,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 ### Optional: Download `wasm` folder only
 In some cases you can statesync a wasm chain, but the wasm-folder will not be included in the statesync snapshot. Use our wasm-only snapshot for these cases
 ```sh
-URL="https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_wasm.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_wasm.tar.lz4"
 cd $HOME/.zigchain
 rm -rf wasm
 wget -O - $URL | lz4 -d | tar -xvf -
@@ -52,7 +51,7 @@ wget -O - $URL | lz4 -d | tar -xvf -
 
 The download script fully automates the download and extraction process, while ensuring that your validator state is preserved. To use it, simply run the following command:
 ```sh
-curl -sSL https://dl-eu1.ccvalidators.com/SNAPSHOTS/zigchain/download_snapshot.sh | bash
+curl -sSL https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/download_snapshot.sh | bash
 ```
 ---
 
