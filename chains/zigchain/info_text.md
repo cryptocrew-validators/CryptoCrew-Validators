@@ -1,4 +1,4 @@
-## Zigchain
+## About Zigchain
 
 ZIGChain is a Layer 1 blockchain focused on decentralized wealth generation and real-world asset (RWA) tokenization. Originating from the Zignaly ecosystem, it enables developers to build investment and asset management protocols through a modular architecture powered by its “Wealth Management Engine.”
 
