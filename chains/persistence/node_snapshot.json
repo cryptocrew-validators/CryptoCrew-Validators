@@ -1,13 +1,13 @@
 {
   "network": "core-1",
-  "height": "31105934",
+  "height": "31141187",
   "type": "pruned",
   "mirror": "EU",
-  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_31105934.tar.lz4",
-  "filename": "core-1_31105934.tar.lz4",
-  "date": "2026-03-22 12:25",
+  "url": "https://dl-eu1.ccvalidators.com/SNAPSHOTS/persistence/core-1_31141187.tar.lz4",
+  "filename": "core-1_31141187.tar.lz4",
+  "date": "2026-03-23 12:25",
   "database": "goleveldb",
-  "size": "280M",
-  "checksum": "476b84f557272860409f52fef57a449b332086de4355cd43b109a07b48ecf9b4",
+  "size": "274M",
+  "checksum": "f1dad1852cd7200f6458f408bf1d9e5af77dd1bfa10e5ae7266f240921da4196",
   "provider": "CryptoCrew"
 }
