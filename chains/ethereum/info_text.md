@@ -1,3 +1,16 @@
-Ethereum
+## About Ethereum
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ethereum is the leading programmable blockchain platform, enabling developers to build and deploy smart contracts and decentralized applications on a global, permissionless network. Validators stake ETH as collateral to propose and attest blocks, earning rewards while facing slashing penalties for malicious behavior. ETH is the native token used for staking, paying gas fees, and as collateral across DeFi protocols.
+
+## How to earn rewards by staking ETH
+
+**For Institutions & Businesses:** Solva Solutions offers non-custodial, enterprise-grade ETH staking via custom SSV-based distributed validator pools or dedicated Lido v3 vaults, while supporting common custody solutions like Fireblocks. [Visit our Ethereum DVT Staking page](https://solva.solutions/staking/ethereum-dvt-staking) to set up a tailored staking solution.
+
+**For Retail Users:** The easiest way to stake ETH is through [Lido](https://lido.fi), the leading liquid staking protocol. Deposit any amount of ETH and receive stETH in return — a liquid token that accrues staking rewards daily and can be used freely across DeFi.
+
+## Supported Wallets
+
+- [MetaMask](https://metamask.io)
+- [Ledger](https://www.ledger.com)
+- [Rabby Wallet](https://rabby.io)
+- [WalletConnect](https://walletconnect.com)

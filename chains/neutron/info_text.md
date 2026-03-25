@@ -1,3 +1,13 @@
-Neutron
+## About Neutron
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Neutron is a Proof-of-Stake blockchain built on the Cosmos SDK that specializes in BTC yield infrastructure. It enables BTC holders to earn sustainable yield through a suite of built-in financial primitives including a high-frequency oracle, a hybrid order book DEX, and an on-chain cron module for automated strategies. As demand for BTC yield on Neutron grows, NTRN stakers capture network value through transaction fees and a deflationary token supply mechanism.
+
+## How to earn rewards by staking NTRN
+
+Stake NTRN tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards (transaction fees and block rewards) proportional to your stake. Rewards accrue continuously and can be claimed anytime, while unstaking is subject to a 21-day unbonding period.
+
+## Supported Wallets
+
+- [Keplr Wallet](https://www.keplr.app)
+- [Leap](https://www.leapwallet.io)
+- [Cosmostation](https://www.cosmostation.io)

@@ -1,3 +1,13 @@
-dYdX Chain
+## About dYdX
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+dYdX is a decentralized perpetuals trading platform built on a custom Layer-1 blockchain using the Cosmos SDK, offering professional-grade trading with high leverage, deep liquidity, and low fees. As a pioneer in decentralized finance, it was the first to offer decentralized margin trading and derivatives. The platform is fully governed by its community through the DYDX token, which is also used for staking and securing the network.
+
+## How to earn rewards by staking DYDX
+
+Stake DYDX tokens by delegating them to validators using a supported wallet. In return, you earn a share of trading fees and network rewards proportional to your stake. Rewards accrue continuously and can be claimed anytime, while unstaking is subject to a 30-day unbonding period.
+
+## Supported Wallets
+
+- [Keplr Wallet](https://www.keplr.app)
+- [Leap](https://www.leapwallet.io)
+- [Cosmostation](https://www.cosmostation.io)

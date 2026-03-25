@@ -1,3 +1,13 @@
-Empowerchain
+## About EmpowerChain
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+EmpowerChain is a Proof-of-Stake blockchain built on the Cosmos SDK, purpose-built to tackle plastic pollution and drive circular economy initiatives. It provides infrastructure for plastic credit markets, waste collection tracking, and sustainability incentives — connecting waste collectors, recyclers, and organizations through transparent, verifiable on-chain data. MPWR is the native token used for staking, governance, and network fees.
+
+## How to earn rewards by staking MPWR
+
+Stake MPWR tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards (block rewards and fees) proportional to your stake. Rewards accrue continuously and can be claimed anytime, while unstaking is subject to a 21-day unbonding period.
+
+## Supported Wallets
+
+- [Keplr Wallet](https://www.keplr.app)
+- [Leap](https://www.leapwallet.io)
+- [Cosmostation](https://www.cosmostation.io)

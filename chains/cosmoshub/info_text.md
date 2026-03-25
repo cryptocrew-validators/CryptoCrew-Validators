@@ -1,3 +1,13 @@
-Cosmos Hub
+## About Cosmos Hub
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Cosmos Hub is the first and central blockchain of the Cosmos ecosystem — a network of independent, interoperable blockchains connected via IBC (Inter-Blockchain Communication). It acts as a routing hub for token transfers and shared security across Cosmos chains, powered by CometBFT consensus. ATOM is the native token used for staking, governance, and paying transaction fees.
+
+## How to earn rewards by staking ATOM
+
+Stake ATOM tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards (block rewards and fees) proportional to your stake. Rewards accrue continuously and can be claimed anytime, while unstaking is subject to a 21-day unbonding period.
+
+## Supported Wallets
+
+- [Keplr Wallet](https://www.keplr.app)
+- [Leap](https://www.leapwallet.io)
+- [Cosmostation](https://www.cosmostation.io)

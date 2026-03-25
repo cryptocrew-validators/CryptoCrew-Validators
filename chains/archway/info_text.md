@@ -1,3 +1,13 @@
-Archway
+## About Archway
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Archway is an incentivized L1 blockchain that allows developers to capture the value their dapps create, enabling sustainable economic models. ARCH is the native staking and governance token used to secure the network.
+
+## How to earn rewards by staking ARCH
+
+Stake ARCH tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards (block rewards and fees) proportional to your stake. Rewards accrue continuously and can be claimed anytime, while unstaking is subject to a 21-day unbonding period.
+
+## Supported Wallets
+
+- [Keplr Wallet](https://www.keplr.app)
+- [Leap](https://www.leapwallet.io)
+- [Cosmostation](https://www.cosmostation.io)

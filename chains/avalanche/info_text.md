@@ -1,3 +1,13 @@
-Avalanche
+## About Avalanche
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Avalanche is a high-throughput, Proof-of-Stake smart contract platform known for its fast finality and low transaction costs. It features a multi-chain architecture with three built-in chains: the X-Chain for asset transfers, the C-Chain for EVM-compatible smart contracts, and the P-Chain for coordinating validators and subnets. AVAX is the native token used for staking, governance, and network fees.
+
+## How to earn rewards by staking AVAX
+
+Stake AVAX tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards proportional to your stake. Rewards accrue over the delegation period, while unstaking requires waiting for the delegation term to expire.
+
+## Supported Wallets
+
+- [Core Wallet](https://core.app)
+- [MetaMask](https://metamask.io)
+- [Ledger](https://www.ledger.com)

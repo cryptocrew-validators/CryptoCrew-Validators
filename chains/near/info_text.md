@@ -1,3 +1,14 @@
-NEAR Protocol
+## About NEAR Protocol
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+NEAR Protocol is a high-performance, sharded Proof-of-Stake blockchain designed for scalability and AI-native applications. Its Nightshade sharding architecture enables the network to process transactions in parallel across shards, delivering high throughput at low cost. NEAR's chain abstraction layer removes cross-chain complexity, allowing users and AI agents to interact across Web2 and Web3 seamlessly. NEAR is the native token used for staking, governance, storage fees, and powering on-chain AI agents.
+
+## How to earn rewards by staking NEAR
+
+Stake NEAR tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards proportional to your stake. Rewards are distributed each epoch (~12 hours) and can be compounded automatically. Unstaking is subject to a ~52-hour unbonding period (approximately 4 epochs).
+
+## Supported Wallets
+
+- [MyNearWallet](https://mynearwallet.com)
+- [Ledger](https://www.ledger.com)
+- [Meteor Wallet](https://meteorwallet.app)
+- [HERE Wallet](https://herewallet.app)

@@ -1,3 +1,13 @@
-Akash
+## About Akash Network
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Akash Network is an open-source, decentralized cloud computing marketplace built on the Cosmos SDK. It connects users who need computing resources with providers who have spare capacity, enabling permissionless deployment of applications at significantly lower cost than traditional cloud providers. Akash's GPU marketplace makes it a popular choice for AI and machine learning workloads. AKT is the native staking and governance token used to secure the network and incentivize participation.
+
+## How to earn rewards by staking AKT
+
+Stake AKT tokens by delegating them to validators using a supported wallet. In return, you earn a share of network rewards (block rewards and fees) proportional to your stake. Rewards accrue continuously and can be claimed anytime, while unstaking is subject to a 21-day unbonding period.
+
+## Supported Wallets
+
+- [Keplr Wallet](https://www.keplr.app)
+- [Leap](https://www.leapwallet.io)
+- [Cosmostation](https://www.cosmostation.io)
