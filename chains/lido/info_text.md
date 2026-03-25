@@ -10,6 +10,8 @@ Ethereum is the leading programmable blockchain platform, enabling developers to
 
 ## Supported Wallets
 
+&nbsp;
+
 - [MetaMask](https://metamask.io)
 - [Ledger](https://www.ledger.com)
 - [Rabby Wallet](https://rabby.io)
