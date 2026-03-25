@@ -396,7 +396,7 @@
       "address": "fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh",
       "operator_account": "fuelsequencer1tqvdcnuflw7w59vppp0ya2ue75xcrq6xtx2eul",
       "relayer_accounts": [],
-      "stake_link": "https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh",
+      "stake_link": "https://app.fuel.network/staking/on-fuel",
       "rpc": [
         "https://rpc-fuel-seq.simplystaking.xyz:443"
       ],
