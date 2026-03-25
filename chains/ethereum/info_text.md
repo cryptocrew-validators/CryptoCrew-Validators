@@ -9,7 +9,9 @@ Ethereum is the leading programmable blockchain platform, enabling developers to
 **For Retail Users:** The easiest way to stake ETH is through [Lido](https://lido.fi), the leading liquid staking protocol. Deposit any amount of ETH and receive stETH in return — a liquid token that accrues staking rewards daily and can be used freely across DeFi.
 
 ## Supported Wallets
-  
+
+&nbsp;
+
 - [MetaMask](https://metamask.io)
 - [Ledger](https://www.ledger.com)
 - [Rabby Wallet](https://rabby.io)
