@@ -80,7 +80,7 @@ https://ccvalidators.com
 | `Archway` | `archway-1` | `archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq` | [delegate ARCH](https://archway.disperze.network/validators/archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq) |
 | `Agoric` | `agoric-3` | `agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj` | [delegate BLD](https://wallet.keplr.app/chains/agoric?modal=staking&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj&step_id=2) |
 | `Penumbra` | `mainnet` | `penumbravalid1rp3ensht938kegyckygsnu7pjvzj3vvcxys842jywzct7t3nfupslhnpy4` | [delegate UM](https://eclipse.in.net/#/staking) |
-| `FUEL` | `seq-mainnet-1` | `fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh` | [delegate FUEL](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh) |
+| `FUEL` | `seq-mainnet-1` | `fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh` | [delegate FUEL](https://app.fuel.network/staking/on-fuel) |
 | `Persistence` | `core-1` | `persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879` | [delegate XPRT](https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2) |
 | `Nolus` | `pirin-1` | `nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3` | [delegate NLS](https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3) |
 | `Band` | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
