@@ -685,7 +685,7 @@
       "trade_url": "https://www.binance.com/en/trade/RUNE_USDT"
     },
     {
-      "name": "lido",
+      "name": "ethereum",
       "prettyName": "Ethereum",
       "logo_url_svg": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/ethereum/logo_ethereum.svg",
       "logo_url_png": "https://raw.githubusercontent.com/clemensgg/CryptoCrew-Validators/main/chains/ethereum/logo_ethereum.png",
