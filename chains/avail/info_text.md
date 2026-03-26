@@ -8,6 +8,8 @@ Stake AVAIL tokens by nominating validators through a supported wallet. In retur
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Talisman](https://talisman.xyz)
 - [SubWallet](https://subwallet.app)
 - [Nova Wallet](https://novawallet.io)

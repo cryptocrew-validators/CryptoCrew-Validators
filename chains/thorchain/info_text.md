@@ -8,6 +8,8 @@ THORChain uses a bonded node model rather than traditional delegation. Node oper
 
 ## Supported Wallets
 
+&nbsp;
+
 - [THORWallet](https://www.thorwallet.org)
 - [Asgardex](https://www.asgardex.com)
 - [Ledger](https://www.ledger.com)

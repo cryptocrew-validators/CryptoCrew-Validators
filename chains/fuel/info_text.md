@@ -8,6 +8,8 @@ Stake FUEL tokens via the [Fuel Ignition staking dashboard](https://app.fuel.net
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Fuel Wallet](https://wallet.fuel.network)
 - [Fuelet](https://fuelet.app)
 - [MetaMask](https://metamask.io) (via EVM connector)

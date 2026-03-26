@@ -8,4 +8,6 @@ Stake UM tokens by delegating them to validators using a supported wallet. In re
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Prax Wallet](https://praxwallet.com)

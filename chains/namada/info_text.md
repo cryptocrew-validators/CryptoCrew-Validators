@@ -8,4 +8,6 @@ Stake NAM tokens by delegating them to validators using a supported wallet. In r
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Namada Extension](https://namada.net/extension)

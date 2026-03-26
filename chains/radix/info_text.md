@@ -8,5 +8,7 @@ Stake XRD tokens by delegating them to validators using a supported wallet. In r
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Radix Wallet](https://wallet.radixdlt.com)
 - [Ledger](https://www.ledger.com)

@@ -8,6 +8,8 @@ Stake MON tokens by delegating them to validators using a supported wallet. In r
 
 ## Supported Wallets
 
+&nbsp;
+
 - [MetaMask](https://metamask.io)
 - [Phantom](https://phantom.app)
 - [Rabby Wallet](https://rabby.io)

@@ -8,6 +8,8 @@ Stake AVAX tokens by delegating them to validators using a supported wallet. In 
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Core Wallet](https://core.app)
 - [MetaMask](https://metamask.io)
 - [Ledger](https://www.ledger.com)

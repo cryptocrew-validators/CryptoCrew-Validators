@@ -8,6 +8,8 @@ Stake NEAR tokens by delegating them to validators using a supported wallet. In 
 
 ## Supported Wallets
 
+&nbsp;
+
 - [MyNearWallet](https://mynearwallet.com)
 - [Ledger](https://www.ledger.com)
 - [Meteor Wallet](https://meteorwallet.app)

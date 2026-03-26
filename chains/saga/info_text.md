@@ -8,6 +8,8 @@ Stake SAGA tokens by delegating them to validators using a supported wallet. In 
 
 ## Supported Wallets
 
+&nbsp;
+
 - [Keplr Wallet](https://www.keplr.app)
 - [Leap](https://www.leapwallet.io)
 - [Cosmostation](https://www.cosmostation.io)
