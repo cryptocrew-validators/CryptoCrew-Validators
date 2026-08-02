@@ -3,8 +3,8 @@ CryptoCrew provides daily node-snapshots for the chains we validate. These snaps
 zigchaind version: `v4.1.0`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
+| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10950212.tar.lz4)** | Sun Aug 02 2026 16:38:37 UTC | `zigchain-1` | 310M | 10950212 | `fbb5ea5378113974e7fe23aeddba7dd42f29187b22ab29735482b4bdbd0d145c` |
 | **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10922968.tar.lz4)** | Sat Aug 01 2026 16:38:37 UTC | `zigchain-1` | 327M | 10922968 | `32ad413a5132a81e31a1c27810e3618386ac540ca741c8df6c053848e38ddf4b` |
-| **[DOWNLOAD](https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10895704.tar.lz4)** | Fri Jul 31 2026 16:38:42 UTC | `zigchain-1` | 310M | 10895704 | `3af864eee40705a8078c732b3c8ccb23388ede87e60e3bf0dc8357664211992b` |
 
 ---
 
@@ -12,7 +12,7 @@ zigchaind version: `v4.1.0`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10922968.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10950212.tar.lz4"
 cd $HOME/.zigchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10922968.tar.lz4"
+URL="https://dl-eu2.ccvalidators.com/SNAPSHOTS/zigchain/zigchain-1_10950212.tar.lz4"
 cd $HOME/.zigchain
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data wasm
