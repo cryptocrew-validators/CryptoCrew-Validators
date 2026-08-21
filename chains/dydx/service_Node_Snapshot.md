@@ -3,8 +3,8 @@ Solva provides daily node-snapshots for the chains we validate. These snapshots 
 dydxprotocold version: `v9.6.4`
 | DOWNLOAD | date | chain id | size | height | checksum |
 | -------- | ---- | -------- | ---- | ------ | -------- |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102248730.tar.lz4)** | Thu Aug 20 2026 13:26:23 UTC | `dydx-mainnet-1` | 69G | 102248730 | `` |
-| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102119130.tar.lz4)** | Wed Aug 19 2026 13:22:01 UTC | `dydx-mainnet-1` |  | 102119130 | `5ce825cc9a751a508ac2598f2cbc160e99e8f0073f02185a534d6750baa3ba1d` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102372270.tar.lz4)** | Fri Aug 21 2026 13:29:49 UTC | `dydx-mainnet-1` | 68G | 102372270 | `65b9a661f0076c21fcd371115d4e8631c25dd5055b24112c16ffcc895fc795a1` |
+| **[DOWNLOAD](https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102248730.tar.lz4)** | Thu Aug 20 2026 13:26:23 UTC | `dydx-mainnet-1` | 69G | 102248730 | `253d963f199a7e25fb22aaf25bdbecd3f0636f76a67b34db093fb07b95006f0e` |
 
 ---
 
@@ -12,7 +12,7 @@ dydxprotocold version: `v9.6.4`
 Download snapshot manually:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102248730.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102372270.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
@@ -28,7 +28,7 @@ mv ./priv_validator_state.json.tmp data/priv_validator_state.json
 No double disk-space needed, but slower and not possible to check checksum:
 ```sh
 sudo apt install wget lz4
-URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102248730.tar.lz4"
+URL="https://dl-tyo.ccvalidators.com/SNAPSHOTS/dydx/dydx-mainnet-1_102372270.tar.lz4"
 cd $HOME/.dydxprotocol
 cp data/priv_validator_state.json ./priv_validator_state.json.tmp
 rm -rf data
